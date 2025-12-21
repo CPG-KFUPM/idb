@@ -4,398 +4,890 @@
     <title>Integrative Dashboard - Publications</title>
     <link>https://digitalgeosciences.github.io/dashboard3.2/</link>
     <description>Recent publications from the Integrative Geosciences dashboard.</description>
-    <lastBuildDate>Sat, 20 Dec 2025 21:11:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Dec 2025 20:24:54 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
-      <title>Contact morphology of sand particles in dunes</title>
-      <link>https://doi.org/10.1038/s41598-025-15888-8</link>
-      <pubDate>Tue, 19 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4413307018</guid>
-      <dc:creator>Fernando Alonso-Marroquin; Sarmad Zafar Khan; Abdullah Alqubalee; Péter Móra; Abdullatif Al‐Shuhail</dc:creator>
-      <dc:publisher>Scientific Reports</dc:publisher>
-      <description>Authors: Fernando Alonso-Marroquin; Sarmad Zafar Khan; Abdullah Alqubalee; Péter Móra; Abdullatif Al‐Shuhail | Venue: Scientific Reports | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1038/s41598-025-15888-8 | OpenAlex: https://openalex.org/W4413307018</description>
-    </item>
-    <item>
-      <title>Contact morphology of sand particles in dunes</title>
-      <link>https://doi.org/10.21203/rs.3.rs-6244542/v1</link>
-      <pubDate>Thu, 17 Apr 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4409556117</guid>
-      <dc:creator>Fernando Alonso Marroquin; Sarmad Zafar Khan; Abdullah Alqubalee; Péter Móra; Abdullatif Al‐Shuhail</dc:creator>
-      <description>Authors: Fernando Alonso Marroquin; Sarmad Zafar Khan; Abdullah Alqubalee; Péter Móra; Abdullatif Al‐Shuhail | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.21203/rs.3.rs-6244542/v1 | OpenAlex: https://openalex.org/W4409556117</description>
-    </item>
-    <item>
-      <title>513Chapter 19 Various elements of a potential hydrogen system in Saudi Arabia</title>
-      <link>https://doi.org/10.1515/9783111437040-019</link>
-      <pubDate>Sat, 29 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4412890921</guid>
-      <dc:creator>Manzar Fawad; Scott Whattam; Abdullah Alqubalee; Ahmed Al‐Yaseri</dc:creator>
-      <description>Authors: Manzar Fawad; Scott Whattam; Abdullah Alqubalee; Ahmed Al‐Yaseri | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1515/9783111437040-019 | OpenAlex: https://openalex.org/W4412890921</description>
-    </item>
-    <item>
-      <title>Diagenetic controls on the quality of shallow marine sandstones: An example from the Cambro-Ordovician Saq Formation, central Saudi Arabia</title>
-      <link>https://doi.org/10.1016/j.jafrearsci.2024.105295</link>
-      <pubDate>Tue, 28 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4399072009</guid>
-      <dc:creator>Abdulwahab Muhammad Bello; Anas Muhammad Salisu; Abdullah Alqubalee; Abduljamiu O. Amao; Murtada Al-Hashem; Abdulkarim Al-Hussaini; Khalid Al–Ramadan</dc:creator>
-      <dc:publisher>Journal of African Earth Sciences</dc:publisher>
-      <description>Authors: Abdulwahab Muhammad Bello; Anas Muhammad Salisu; Abdullah Alqubalee; Abduljamiu O. Amao; Murtada Al-Hashem; Abdulkarim Al-Hussaini; Khalid Al–Ramadan | Venue: Journal of African Earth Sciences | Year: 2024 | Citations: 9 | DOI: https://doi.org/10.1016/j.jafrearsci.2024.105295 | OpenAlex: https://openalex.org/W4399072009</description>
-    </item>
-    <item>
-      <title>Shift from arc to within-plate magmatism at 635 Ma as recorded by Neoproterozoic dikes, southern Midyan terrane, NW Arabian Shield</title>
-      <link>https://doi.org/10.1016/j.precamres.2024.107430</link>
-      <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4398159676</guid>
-      <dc:creator>Scott Whattam; Robert J. Stern; Hossein Azizi; Keewook Yi; Haitham M. Baggazi; Abdullah Alqubalee; Fatemeh Nouri; Brian R. Jicha; Yanick Brice Lemdjou; Abdelhamid El Fakharani</dc:creator>
-      <dc:publisher>Precambrian Research</dc:publisher>
-      <description>Authors: Scott Whattam; Robert J. Stern; Hossein Azizi; Keewook Yi; Haitham M. Baggazi; Abdullah Alqubalee; Fatemeh Nouri; Brian R. Jicha; Yanick Brice Lemdjou; Abdelhamid El Fakharani | Venue: Precambrian Research | Year: 2024 | Citations: 6 | DOI: https://doi.org/10.1016/j.precamres.2024.107430 | OpenAlex: https://openalex.org/W4398159676</description>
-    </item>
-    <item>
-      <title>Unlocking the H2 potential in Saudi Arabia: Exploring serpentinites as a source for H2 production</title>
-      <link>https://doi.org/10.5194/egusphere-egu24-5447</link>
-      <pubDate>Fri, 08 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4392600402</guid>
-      <dc:creator>Kebba Saidy; Manzar Fawad; Scott Whattam; Abdullatif Al‐Shuhail; Abdullah A. Alshuhail; Abdullah Alqubalee; Farooqui Mohammed; Faris Sulistyohariyanto; Sabyasachi Chattopadhyay</dc:creator>
-      <description>Authors: Kebba Saidy; Manzar Fawad; Scott Whattam; Abdullatif Al‐Shuhail; Abdullah A. Alshuhail; Abdullah Alqubalee; Farooqui Mohammed; Faris Sulistyohariyanto; Sabyasachi Chattopadhyay | Year: 2024 | Citations: 0 | DOI: https://doi.org/10.5194/egusphere-egu24-5447 | OpenAlex: https://openalex.org/W4392600402</description>
-    </item>
-    <item>
-      <title>Source rock potential, thermal maturity, and depositional environment of the Ordovician Ra’an Shale Member, central Saudi Arabia</title>
-      <link>https://doi.org/10.1016/j.jaesx.2024.100174</link>
-      <pubDate>Sun, 28 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4391286506</guid>
-      <dc:creator>Faisal AlGhamdi; Lamidi Babalola; Abdullah Alqubalee; Israa S. Abu‐Mahfouz; Bandar Alotaibi; Mohammed Abouelresh</dc:creator>
-      <dc:publisher>Journal of Asian Earth Sciences X</dc:publisher>
-      <description>Authors: Faisal AlGhamdi; Lamidi Babalola; Abdullah Alqubalee; Israa S. Abu‐Mahfouz; Bandar Alotaibi; Mohammed Abouelresh | Venue: Journal of Asian Earth Sciences X | Year: 2024 | Citations: 3 | DOI: https://doi.org/10.1016/j.jaesx.2024.100174 | OpenAlex: https://openalex.org/W4391286506</description>
-    </item>
-    <item>
-      <title>Mineralogy and Geochemistry of the Paleocene–Eocene Palana Formation in Western Rajasthan, India: Insights for Sedimentary Paleoenvironmental Conditions and Volcanic Activity</title>
-      <link>https://doi.org/10.3390/min14020126</link>
-      <pubDate>Wed, 24 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4391167607</guid>
-      <dc:creator>Mohammed Hail Hakimi; Alok Kumar; Abdullah Alqubalee; Alok K. Singh; Mohammed Almobarky; Afikah Rahim; Mohammad Alqudah; Aref Lashin; Khairul Azlan Mustapha; Waqas Naseem</dc:creator>
+      <title>Kaolinite Illitization Under Hydrothermal Conditions: Experimental Insight into Transformation Pathways</title>
+      <link>https://doi.org/10.3390/min16010004</link>
+      <pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4417503339</guid>
+      <dc:creator>Mashaer A. Alfaraj; Abdulwahab Muhammad Bello; Anas Muhammad Salisu; Khalid Al–Ramadan</dc:creator>
       <dc:publisher>Minerals</dc:publisher>
-      <description>Authors: Mohammed Hail Hakimi; Alok Kumar; Abdullah Alqubalee; Alok K. Singh; Mohammed Almobarky; Afikah Rahim; Mohammad Alqudah; Aref Lashin; Khairul Azlan Mustapha; Waqas Naseem | Venue: Minerals | Year: 2024 | Citations: 5 | DOI: https://doi.org/10.3390/min14020126 | OpenAlex: https://openalex.org/W4391167607</description>
+      <description>Authors: Mashaer A. Alfaraj; Abdulwahab Muhammad Bello; Anas Muhammad Salisu; Khalid Al–Ramadan | Venue: Minerals | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.3390/min16010004 | OpenAlex: https://openalex.org/W4417503339</description>
     </item>
     <item>
-      <title>Controls on mechanical properties of a carbonate mudstone: Insights from non-destructive techniques and geochemical data</title>
-      <link>https://doi.org/10.1016/j.marpetgeo.2024.106702</link>
-      <pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4390685983</guid>
-      <dc:creator>Baqer Albensaad; Septriandi A. Chan; John Humphrey; Abdullah Alqubalee; Ammar El‐Husseiny; Yaser Alzayer</dc:creator>
-      <dc:publisher>Marine and Petroleum Geology</dc:publisher>
-      <description>Authors: Baqer Albensaad; Septriandi A. Chan; John Humphrey; Abdullah Alqubalee; Ammar El‐Husseiny; Yaser Alzayer | Venue: Marine and Petroleum Geology | Year: 2024 | Citations: 4 | DOI: https://doi.org/10.1016/j.marpetgeo.2024.106702 | OpenAlex: https://openalex.org/W4390685983</description>
+      <title>Cobalt-Based Molecular Catalysts Designed for Significantly Enhanced Low-Bias Photoelectrochemical Water Oxidation over BiVO &lt;sub&gt;4&lt;/sub&gt;</title>
+      <link>https://doi.org/10.1021/acscatal.5c06139</link>
+      <pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4417503444</guid>
+      <dc:creator>Tahir Naveed Jahangir; Muhammad Ashraf; Safwat Abdel‐Azeim; Sardaraz Khan; Nisar Ullah; Tarek A. Kandiel</dc:creator>
+      <dc:publisher>ACS Catalysis</dc:publisher>
+      <description>Authors: Tahir Naveed Jahangir; Muhammad Ashraf; Safwat Abdel‐Azeim; Sardaraz Khan; Nisar Ullah; Tarek A. Kandiel | Venue: ACS Catalysis | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1021/acscatal.5c06139 | OpenAlex: https://openalex.org/W4417503444</description>
     </item>
     <item>
-      <title>Diagenetic Controls on Reservoir Porosity of Aeolian and Fluvial Deposits: A Case Study from Permo-Carboniferous Sandstones of Saudi Arabia</title>
-      <link>https://doi.org/10.1007/s13369-023-08590-2</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4390510283</guid>
-      <dc:creator>Abdulwahab Muhammad Bello; Abduljamiu O. Amao; Abdullah Alqubalee; Murtada Al-Hashem; Houssin Albarri; Mohammed Al‐Masrahy; Khalid Al‐Ramadan; Lamidi Babalola</dc:creator>
+      <title>Global trends and untapped potential of critical minerals for a sustainable future in the Arabian Peninsula</title>
+      <link>https://doi.org/10.1016/j.exis.2025.101840</link>
+      <pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4417506769</guid>
+      <dc:creator>Muhammad Zaka Emad; Arshad Raza; Mohamed Mahmoud; Muhammad Shahzad Kamal; Daniyal Abbasi</dc:creator>
+      <dc:publisher>The Extractive Industries and Society</dc:publisher>
+      <description>Authors: Muhammad Zaka Emad; Arshad Raza; Mohamed Mahmoud; Muhammad Shahzad Kamal; Daniyal Abbasi | Venue: The Extractive Industries and Society | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1016/j.exis.2025.101840 | OpenAlex: https://openalex.org/W4417506769</description>
+    </item>
+    <item>
+      <title>Methylene Blue and DTAB Synergy for Wettability Modification in Saline Media</title>
+      <link>https://doi.org/10.1007/s13369-025-10977-2</link>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4417467482</guid>
+      <dc:creator>Muhamad Raihan Al Fikri; Shams Kalam; Mobeen Murtaza; Novia Rita; Muslim Abdurrahman; Muhammad Shahzad Kamal; Arshad Raza</dc:creator>
       <dc:publisher>Arabian Journal for Science and Engineering</dc:publisher>
-      <description>Authors: Abdulwahab Muhammad Bello; Abduljamiu O. Amao; Abdullah Alqubalee; Murtada Al-Hashem; Houssin Albarri; Mohammed Al‐Masrahy; Khalid Al‐Ramadan; Lamidi Babalola | Venue: Arabian Journal for Science and Engineering | Year: 2024 | Citations: 6 | DOI: https://doi.org/10.1007/s13369-023-08590-2 | OpenAlex: https://openalex.org/W4390510283</description>
+      <description>Authors: Muhamad Raihan Al Fikri; Shams Kalam; Mobeen Murtaza; Novia Rita; Muslim Abdurrahman; Muhammad Shahzad Kamal; Arshad Raza | Venue: Arabian Journal for Science and Engineering | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1007/s13369-025-10977-2 | OpenAlex: https://openalex.org/W4417467482</description>
     </item>
     <item>
-      <title>Genesis of Grain-Coating Clays and Their Effect on the Development of Feldspar Overgrowths: A Case Study of the Late Cambrian to Early Ordovician Barik Formation Sandstone Reservoir, Haushi-Huqf Region, Central Oman</title>
-      <link>https://doi.org/10.1007/978-3-031-48758-3_8</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4392964788</guid>
-      <dc:creator>Mohamed A. K. El‐Ghali; İftikhar Ahmed Abbasi; Olga Shelukhina; Mohamed S. H. Moustafa; Arshad Ali; Osman Salad Hersi; Shahad Al Mahrooqi; Khalid Al–Ramadan; Abdulwahab Muhammad Bello; Hezam Al-Awah; Abdullah Alqubalee</dc:creator>
-      <dc:publisher>Advances in Science, Technology &amp; Innovation/Advances in science, technology &amp; innovation</dc:publisher>
-      <description>Authors: Mohamed A. K. El‐Ghali; İftikhar Ahmed Abbasi; Olga Shelukhina; Mohamed S. H. Moustafa; Arshad Ali; Osman Salad Hersi; Shahad Al Mahrooqi; Khalid Al–Ramadan; Abdulwahab Muhammad Bello; Hezam Al-Awah; Abdullah Alqubalee | Venue: Advances in Science, Technology &amp; Innovation/Advances in science, technology &amp; innovation | Year: 2024 | Citations: 3 | DOI: https://doi.org/10.1007/978-3-031-48758-3_8 | OpenAlex: https://openalex.org/W4392964788</description>
+      <title>Double-Functionalized Silica Nanomaterials for Effective CO &lt;sub&gt;2&lt;/sub&gt; Foam Stabilization in Harsh Carbonate Reservoirs</title>
+      <link>https://doi.org/10.1021/acs.energyfuels.5c04712</link>
+      <pubDate>Wed, 17 Dec 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4417430413</guid>
+      <dc:creator>Sivabalan Sakthivel</dc:creator>
+      <dc:publisher>Energy &amp; Fuels</dc:publisher>
+      <description>Authors: Sivabalan Sakthivel | Venue: Energy &amp; Fuels | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1021/acs.energyfuels.5c04712 | OpenAlex: https://openalex.org/W4417430413</description>
     </item>
     <item>
-      <title>Mineralogy and Geochemistry of the Paleocene-Eocene Palana Formation in Western Rajasthan, India: Insights for Sedimentary Paleoenvironmental Conations and Volcanic Activity</title>
-      <link>https://doi.org/10.20944/preprints202311.1550.v1</link>
-      <pubDate>Fri, 24 Nov 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4388960641</guid>
-      <dc:creator>Mohammed Hail Hakimi; Alok Kumar; Abdullah Alqubalee; Alok K. Singh; Mohammed Almobarky; Afikah Rahim; Mohammad Alqudah; Aref Lashin; Khairul Azlan Mustapha; Waqas Naseem</dc:creator>
-      <dc:publisher>Preprints.org</dc:publisher>
-      <description>Authors: Mohammed Hail Hakimi; Alok Kumar; Abdullah Alqubalee; Alok K. Singh; Mohammed Almobarky; Afikah Rahim; Mohammad Alqudah; Aref Lashin; Khairul Azlan Mustapha; Waqas Naseem | Venue: Preprints.org | Year: 2023 | Citations: 0 | DOI: https://doi.org/10.20944/preprints202311.1550.v1 | OpenAlex: https://openalex.org/W4388960641</description>
+      <title>Age Matters: A Systematic Review of Limb-Salvage Surgery Outcomes in Pediatric Versus Adult Osteosarcoma</title>
+      <link>https://doi.org/10.7759/cureus.99434</link>
+      <pubDate>Wed, 17 Dec 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4417422330</guid>
+      <dc:creator>Mohammed Alharbi; Raghad F Aljeaid; Fahad Althebaity; Hilal Al-Harthi; Loay Al-Ghamdi; Khalid W Idris; Alhassan Aledrissi; Omar Alharbi; Ahmed Bujbara; Raad Balobid; Dhafer Al Shehri; Abdulkreem Al-Juhani</dc:creator>
+      <dc:publisher>Cureus</dc:publisher>
+      <description>Authors: Mohammed Alharbi; Raghad F Aljeaid; Fahad Althebaity; Hilal Al-Harthi; Loay Al-Ghamdi; Khalid W Idris; Alhassan Aledrissi; Omar Alharbi; Ahmed Bujbara; Raad Balobid; Dhafer Al Shehri; Abdulkreem Al-Juhani | Venue: Cureus | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.7759/cureus.99434 | OpenAlex: https://openalex.org/W4417422330</description>
     </item>
     <item>
-      <title>Depositional and sequence stratigraphic controls on diagenesis in the Upper Cambrian-Lower Ordovician Barik Formation, central Oman: Implications for prediction of reservoir porosity in a hybrid-energy delta system</title>
-      <link>https://doi.org/10.1016/j.marpetgeo.2023.106611</link>
-      <pubDate>Wed, 22 Nov 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4388923668</guid>
-      <dc:creator>Mohamed A. K. El‐Ghali; Olga Shelukhina; İftikhar Ahmed Abbasi; Mohamed S. H. Moustafa; Osman Salad Hersi; Numair Ahmed Siddiqui; Khalid Al–Ramadan; Abdullah Alqubalee; Abdulwahab Muhammad Bello; Abduljamiu O. Amao</dc:creator>
-      <dc:publisher>Marine and Petroleum Geology</dc:publisher>
-      <description>Authors: Mohamed A. K. El‐Ghali; Olga Shelukhina; İftikhar Ahmed Abbasi; Mohamed S. H. Moustafa; Osman Salad Hersi; Numair Ahmed Siddiqui; Khalid Al–Ramadan; Abdullah Alqubalee; Abdulwahab Muhammad Bello; Abduljamiu O. Amao | Venue: Marine and Petroleum Geology | Year: 2023 | Citations: 27 | DOI: https://doi.org/10.1016/j.marpetgeo.2023.106611 | OpenAlex: https://openalex.org/W4388923668</description>
-    </item>
-    <item>
-      <title>Characteristics, distribution, and origin of ferruginous deposits within the Late Ordovician glaciogenic setting of Arabia</title>
-      <link>https://doi.org/10.1038/s41598-023-45563-9</link>
-      <pubDate>Fri, 27 Oct 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4387996609</guid>
-      <dc:creator>Abdullah Alqubalee; Anas Muhammad Salisu; Abdulwahab Muhammad Bello; Abdulkarim Al-Hussaini; Khalid Al–Ramadan</dc:creator>
+      <title>Experimental study of CO2 sequestration and H2 generation potential through mineral carbonation in Saudi red mud</title>
+      <link>https://doi.org/10.1038/s41598-025-32469-x</link>
+      <pubDate>Wed, 17 Dec 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4417497487</guid>
+      <dc:creator>Khaled Al-Azani; Mohamed Gamal Rezk; Ahmed Farid Ibrahim</dc:creator>
       <dc:publisher>Scientific Reports</dc:publisher>
-      <description>Authors: Abdullah Alqubalee; Anas Muhammad Salisu; Abdulwahab Muhammad Bello; Abdulkarim Al-Hussaini; Khalid Al–Ramadan | Venue: Scientific Reports | Year: 2023 | Citations: 6 | DOI: https://doi.org/10.1038/s41598-023-45563-9 | OpenAlex: https://openalex.org/W4387996609</description>
+      <description>Authors: Khaled Al-Azani; Mohamed Gamal Rezk; Ahmed Farid Ibrahim | Venue: Scientific Reports | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1038/s41598-025-32469-x | OpenAlex: https://openalex.org/W4417497487</description>
     </item>
     <item>
-      <title>Impact of kaolinite and iron oxide cements on resistivity and quality of low resistivity pay sandstones</title>
-      <link>https://doi.org/10.1016/j.marpetgeo.2023.106568</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4388205616</guid>
-      <dc:creator>Anas Muhammad Salisu; Abdullah Alqubalee; Abdulwahab Muhammad Bello; Abdulkarim Al-Hussaini; Abdulrauf R. Adebayo; Abduljamiu O. Amao; Khalid Al–Ramadan</dc:creator>
-      <dc:publisher>Marine and Petroleum Geology</dc:publisher>
-      <description>Authors: Anas Muhammad Salisu; Abdullah Alqubalee; Abdulwahab Muhammad Bello; Abdulkarim Al-Hussaini; Abdulrauf R. Adebayo; Abduljamiu O. Amao; Khalid Al–Ramadan | Venue: Marine and Petroleum Geology | Year: 2023 | Citations: 19 | DOI: https://doi.org/10.1016/j.marpetgeo.2023.106568 | OpenAlex: https://openalex.org/W4388205616</description>
+      <title>Comparison Between the Impact of Mineralogy and Pore Geometry on Acoustic Velocity in Carbonates: Insights from Global Dataset and Rock-Physics Modeling</title>
+      <link>https://doi.org/10.3390/resources14120189</link>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4417318070</guid>
+      <dc:creator>Ammar El‐Husseiny</dc:creator>
+      <dc:publisher>Resources</dc:publisher>
+      <description>Authors: Ammar El‐Husseiny | Venue: Resources | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.3390/resources14120189 | OpenAlex: https://openalex.org/W4417318070</description>
     </item>
     <item>
-      <title>Decision Tree Ensembles for Automatic Identification of Lithology</title>
-      <link>https://doi.org/10.2118/214460-ms</link>
-      <pubDate>Thu, 19 Jan 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4317376201</guid>
-      <dc:creator>Mahmoud Desouky; Abdullah Alqubalee; Ahmed Gowida</dc:creator>
-      <description>Authors: Mahmoud Desouky; Abdullah Alqubalee; Ahmed Gowida | Year: 2023 | Citations: 5 | DOI: https://doi.org/10.2118/214460-ms | OpenAlex: https://openalex.org/W4317376201</description>
+      <title>MicroPhaseNO: Adapting an Earthquake-Trained Phase Neural Operator for Microseismic Phase Picking</title>
+      <link>https://doi.org/10.48550/arxiv.2512.13197</link>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4417456639</guid>
+      <dc:creator>Ayrat Abdullin; Umair bin Waheed; Leo Eisner; Naveed Iqbal</dc:creator>
+      <dc:publisher>arXiv (Cornell University)</dc:publisher>
+      <description>Authors: Ayrat Abdullin; Umair bin Waheed; Leo Eisner; Naveed Iqbal | Venue: arXiv (Cornell University) | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.48550/arxiv.2512.13197 | OpenAlex: https://openalex.org/W4417456639</description>
     </item>
     <item>
-      <title>Controls on Mechanical Properties of Carbonate Mudstone: Insights from Non-Destructive Techniques and Geochemical Data</title>
-      <link>https://doi.org/10.2139/ssrn.4535426</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4385654401</guid>
-      <dc:creator>Baqer Albensaad; Septriandi A. Chan; John Humphrey; Abdullah Alqubalee; Ammar El‐Husseiny; Yaser Alzayer</dc:creator>
-      <dc:publisher>SSRN Electronic Journal</dc:publisher>
-      <description>Authors: Baqer Albensaad; Septriandi A. Chan; John Humphrey; Abdullah Alqubalee; Ammar El‐Husseiny; Yaser Alzayer | Venue: SSRN Electronic Journal | Year: 2023 | Citations: 0 | DOI: https://doi.org/10.2139/ssrn.4535426 | OpenAlex: https://openalex.org/W4385654401</description>
+      <title>Pix2Geomodel: A next-generation reservoir geomodeling with property-to-property translation</title>
+      <link>https://doi.org/10.1016/j.geoen.2025.214342</link>
+      <pubDate>Fri, 12 Dec 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4417279471</guid>
+      <dc:creator>Abdulrahman Al‐Fakih; Ardiansyah Koeshidayatullah; Nabil A. Saraih; Tapan Mukerji; Rayan Kanfar; Abdulmohsen Alali; SanLinn I. Kaka</dc:creator>
+      <dc:publisher>Geoenergy Science and Engineering</dc:publisher>
+      <description>Authors: Abdulrahman Al‐Fakih; Ardiansyah Koeshidayatullah; Nabil A. Saraih; Tapan Mukerji; Rayan Kanfar; Abdulmohsen Alali; SanLinn I. Kaka | Venue: Geoenergy Science and Engineering | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1016/j.geoen.2025.214342 | OpenAlex: https://openalex.org/W4417279471</description>
     </item>
     <item>
-      <title>Impact of grain-coating illite in preventing quartz cementation: Example from permo-carboniferous sandstone, Central Saudi Arabia</title>
-      <link>https://doi.org/10.1016/j.marpetgeo.2022.106073</link>
-      <pubDate>Fri, 23 Dec 2022 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4313367735</guid>
-      <dc:creator>Abdulwahab Muhammad Bello; Khalid Al–Ramadan; Lamidi Babalola; Abdullah Alqubalee; Abduljamiu O. Amao</dc:creator>
-      <dc:publisher>Marine and Petroleum Geology</dc:publisher>
-      <description>Authors: Abdulwahab Muhammad Bello; Khalid Al–Ramadan; Lamidi Babalola; Abdullah Alqubalee; Abduljamiu O. Amao | Venue: Marine and Petroleum Geology | Year: 2022 | Citations: 21 | DOI: https://doi.org/10.1016/j.marpetgeo.2022.106073 | OpenAlex: https://openalex.org/W4313367735</description>
+      <title>Innovative use of chitosan salt for enhanced CO2 capture and wellbore injectivity</title>
+      <link>https://doi.org/10.1016/j.geoen.2025.214335</link>
+      <pubDate>Tue, 09 Dec 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4417166612</guid>
+      <dc:creator>Ahmed K. Al-Yasiri; Usama Alameedy; Hani Al Mukainah; Mahmoud A. Abdulhamid; Ahmed Al‐Yaseri</dc:creator>
+      <dc:publisher>Geoenergy Science and Engineering</dc:publisher>
+      <description>Authors: Ahmed K. Al-Yasiri; Usama Alameedy; Hani Al Mukainah; Mahmoud A. Abdulhamid; Ahmed Al‐Yaseri | Venue: Geoenergy Science and Engineering | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1016/j.geoen.2025.214335 | OpenAlex: https://openalex.org/W4417166612</description>
     </item>
     <item>
-      <title>Stable carbon and oxygen isotope records in a Middle Jurassic carbonate sequence: implications for paleoenvironment, and sea-level fluctuation, central Saudi Arabia</title>
-      <link>https://doi.org/10.1007/s00531-022-02261-7</link>
-      <pubDate>Sun, 20 Nov 2022 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4309553920</guid>
-      <dc:creator>Lamidi Babalola; Abdullah Alqubalee; Michael A. Kaminski; Osman Abdullatif; Mohamed O. Abouelresh</dc:creator>
-      <dc:publisher>International Journal of Earth Sciences</dc:publisher>
-      <description>Authors: Lamidi Babalola; Abdullah Alqubalee; Michael A. Kaminski; Osman Abdullatif; Mohamed O. Abouelresh | Venue: International Journal of Earth Sciences | Year: 2022 | Citations: 5 | DOI: https://doi.org/10.1007/s00531-022-02261-7 | OpenAlex: https://openalex.org/W4309553920</description>
+      <title>Prospective routes for the synthesis of graphene-based hydrogels</title>
+      <link>https://doi.org/10.1016/b978-0-443-31448-3.00002-1</link>
+      <pubDate>Fri, 05 Dec 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4417062703</guid>
+      <dc:creator>Aqeel Ahmad; A. Vijaya Bhaskar Reddy; Syed Muhammad Shakil Hussain; Muhammad Moniruzzaman</dc:creator>
+      <dc:publisher>Elsevier eBooks</dc:publisher>
+      <description>Authors: Aqeel Ahmad; A. Vijaya Bhaskar Reddy; Syed Muhammad Shakil Hussain; Muhammad Moniruzzaman | Venue: Elsevier eBooks | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1016/b978-0-443-31448-3.00002-1 | OpenAlex: https://openalex.org/W4417062703</description>
     </item>
     <item>
-      <title>First record of shark microremains from the Lower Khartam Member, Khuff Formation: an Upper Permian origin of the genus Lissodus, or a new placement of the Permo/Triassic boundary in Saudi Arabia?</title>
-      <link>https://doi.org/10.29041/strat.19.3.02</link>
-      <pubDate>Thu, 01 Sep 2022 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4388593599</guid>
-      <dc:creator>Jarrah Babiker; Michael A. Kaminski; John Humphrey; Khalid Al–Ramadan; Jonathan L. Payne; Abdullah Alqubalee</dc:creator>
-      <dc:publisher>Stratigraphy</dc:publisher>
-      <description>Authors: Jarrah Babiker; Michael A. Kaminski; John Humphrey; Khalid Al–Ramadan; Jonathan L. Payne; Abdullah Alqubalee | Venue: Stratigraphy | Year: 2022 | Citations: 0 | DOI: https://doi.org/10.29041/strat.19.3.02 | OpenAlex: https://openalex.org/W4388593599</description>
+      <title>List of contributors</title>
+      <link>https://doi.org/10.1016/b978-0-443-31448-3.00031-8</link>
+      <pubDate>Fri, 05 Dec 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4417063028</guid>
+      <dc:creator>Abdelali Aboussabek; Hussaini Adam; Aqeel Ahmad; Adenike A. Akinsemolu; Dedy Anwar; Asma Ashraf; Farrukh Azeem; Rachid Aziam; Shahid Bashir; Fakhra Batool; Alakesh Bharali; Nikhil Biswas; C. Pavani; D. Venkatesh; Nirmala Devi; Rituraj Dubey; Farid Fadhillah; N.K. Farhana; G Divya Jyothi; Sumreen Hayat; Leena V. Hublikar; Abongile Jijana; Damiki Laloo; Kah Hoe Loh; Lerato Machogo-Phao; V. Madhavi; Narender Malothu; Melaku Dereje Mamo; L. Mampane; William Moloto; Muhammad Moniruzzaman; Mahesh P. More; Arunadevi Natarajan; Masooma Nazar; Sadhana Noothi; Bulelwa Ntsendwana; Balaji Padya; Myung‐Geol Pang; Kalpesh Ramlal Patil; Amol R. Pawar; Harshita Rai; Ijaz Rasul; Aneela Regala; Hana Safitri; Bhanu P. Sahu; Adi Setiawan; Muhammad Hussnain Siddique; Kshitij RB Singh; N. Sivakumar; Daniela Simina Ștefan; Hari Chandana T.; Ramesh Thotakura; V.L.N. Balaji Gupta Tiruveedhi; Asad Ullah; Venkatramana Losetty; Yudha Gusti Wibowo; Tehreem Zahra; Mohamed Zerbet; Muhammad Zulfajri</dc:creator>
+      <dc:publisher>Elsevier eBooks</dc:publisher>
+      <description>Authors: Abdelali Aboussabek; Hussaini Adam; Aqeel Ahmad; Adenike A. Akinsemolu; Dedy Anwar; Asma Ashraf; Farrukh Azeem; Rachid Aziam; Shahid Bashir; Fakhra Batool; Alakesh Bharali; Nikhil Biswas; C. Pavani; D. Venkatesh; Nirmala Devi; Rituraj Dubey; Farid Fadhillah; N.K. Farhana; G Divya Jyothi; Sumreen Hayat; Leena V. Hublikar; Abongile Jijana; Damiki Laloo; Kah Hoe Loh; Lerato Machogo-Phao; V. Madhavi; Narender Malothu; Melaku Dereje Mamo; L. Mampane; William Moloto; Muhammad Moniruzzaman; Mahesh P. More; Arunadevi Natarajan; Masooma Nazar; Sadhana Noothi; Bulelwa Ntsendwana; Balaji Padya; Myung‐Geol Pang; Kalpesh Ramlal Patil; Amol R. Pawar; Harshita Rai; Ijaz Rasul; Aneela Regala; Hana Safitri; Bhanu P. Sahu; Adi Setiawan; Muhammad Hussnain Siddique; Kshitij RB Singh; N. Sivakumar; Daniela Simina Ștefan; Hari Chandana T.; Ramesh Thotakura; V.L.N. Balaji Gupta Tiruveedhi; Asad Ullah; Venkatramana Losetty; Yudha Gusti Wibowo; Tehreem Zahra; Mohamed Zerbet; Muhammad Zulfajri | Venue: Elsevier eBooks | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1016/b978-0-443-31448-3.00031-8 | OpenAlex: https://openalex.org/W4417063028</description>
     </item>
     <item>
-      <title>Distinct Petroacoustic Signature of Burrow-Related Carbonate Reservoirs: Outcrop Analog Study, Hanifa Formation, Central Saudi Arabia</title>
-      <link>https://doi.org/10.1007/s11053-022-10097-w</link>
-      <pubDate>Fri, 01 Jul 2022 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4283757143</guid>
-      <dc:creator>Ammar El‐Husseiny; Hassan A. Eltom; Abdullah Alqubalee; Ammar Abdlmutalib; Hani Al-Mukainah; Rika N. Syahputra</dc:creator>
-      <dc:publisher>Natural Resources Research</dc:publisher>
-      <description>Authors: Ammar El‐Husseiny; Hassan A. Eltom; Abdullah Alqubalee; Ammar Abdlmutalib; Hani Al-Mukainah; Rika N. Syahputra | Venue: Natural Resources Research | Year: 2022 | Citations: 10 | DOI: https://doi.org/10.1007/s11053-022-10097-w | OpenAlex: https://openalex.org/W4283757143</description>
+      <title>Review on Applications of Chelating Agents in Enhanced Oil Recovery: Advances and Outlook</title>
+      <link>https://doi.org/10.1021/acs.energyfuels.5c04766</link>
+      <pubDate>Wed, 03 Dec 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4416952831</guid>
+      <dc:creator>Abdul Ahad Manzoor; Xiao Deng; Mohammed Alotaibi; Mohanad Fahmi; Syed Muhammad Shakil Hussain; Mohamed Mahmoud; Muhammad Shahzad Kamal; Shirish Patil</dc:creator>
+      <dc:publisher>Energy &amp; Fuels</dc:publisher>
+      <description>Authors: Abdul Ahad Manzoor; Xiao Deng; Mohammed Alotaibi; Mohanad Fahmi; Syed Muhammad Shakil Hussain; Mohamed Mahmoud; Muhammad Shahzad Kamal; Shirish Patil | Venue: Energy &amp; Fuels | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1021/acs.energyfuels.5c04766 | OpenAlex: https://openalex.org/W4416952831</description>
     </item>
     <item>
-      <title>Pore Volume Characteristics of Clay-Rich Shale: Critical Insight into the Role of Clay Types, Aluminum and Silicon Concentration</title>
-      <link>https://doi.org/10.1007/s13369-022-06720-w</link>
-      <pubDate>Fri, 15 Apr 2022 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4223892951</guid>
-      <dc:creator>Clement Afagwu; Mohamed Mahmoud; Saad Alafnan; Abdullah Alqubalee; Ammar El‐Husseiny; Shirish Patil</dc:creator>
+      <title>Process optimization and reaction kinetics of heterogeneous nitration of naphthalene in microreactors</title>
+      <link>https://doi.org/10.1016/j.cej.2025.171616</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4417123806</guid>
+      <dc:creator>Syed Muhammad Shakil Hussain; Kenechukwu George UGWU; Chunying Zhu; Youguang Ma; Taotao Fu</dc:creator>
+      <dc:publisher>Chemical Engineering Journal</dc:publisher>
+      <description>Authors: Syed Muhammad Shakil Hussain; Kenechukwu George UGWU; Chunying Zhu; Youguang Ma; Taotao Fu | Venue: Chemical Engineering Journal | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1016/j.cej.2025.171616 | OpenAlex: https://openalex.org/W4417123806</description>
+    </item>
+    <item>
+      <title>A similarity model for subgrade compaction from collaborative laboratory-field tests</title>
+      <link>https://doi.org/10.1016/j.trgeo.2025.101858</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4417411019</guid>
+      <dc:creator>Xuefei Wang; Xu Liu; Jiale Li; Jianmin Zhang; Guowei Ma</dc:creator>
+      <dc:publisher>Transportation Geotechnics</dc:publisher>
+      <description>Authors: Xuefei Wang; Xu Liu; Jiale Li; Jianmin Zhang; Guowei Ma | Venue: Transportation Geotechnics | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1016/j.trgeo.2025.101858 | OpenAlex: https://openalex.org/W4417411019</description>
+    </item>
+    <item>
+      <title>Sedimentological and diagenetic controls on burrow fillings in the upper Jurassic Hanifa formation, central Saudi Arabia: Implications for porosity and pore system variations in bioturbated reservoirs</title>
+      <link>https://doi.org/10.1016/j.ijsrc.2025.11.007</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4416957423</guid>
+      <dc:creator>Ahmed Refaat; Hassan A. Eltom; Ammar El‐Husseiny; John Humphrey; Moaz Salih</dc:creator>
+      <dc:publisher>International Journal of Sediment Research</dc:publisher>
+      <description>Authors: Ahmed Refaat; Hassan A. Eltom; Ammar El‐Husseiny; John Humphrey; Moaz Salih | Venue: International Journal of Sediment Research | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1016/j.ijsrc.2025.11.007 | OpenAlex: https://openalex.org/W4416957423</description>
+    </item>
+    <item>
+      <title>Influence of salinity on gas-water capillary pressure behavior in carbonate reservoirs: Implications of underground gas storage</title>
+      <link>https://doi.org/10.1016/j.ees.2025.11.005</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4417193707</guid>
+      <dc:creator>R. B. Fahim; Shabeeb Alajmei; Ahmed Al‐Yaseri</dc:creator>
+      <dc:publisher>Earth energy science.</dc:publisher>
+      <description>Authors: R. B. Fahim; Shabeeb Alajmei; Ahmed Al‐Yaseri | Venue: Earth energy science. | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1016/j.ees.2025.11.005 | OpenAlex: https://openalex.org/W4417193707</description>
+    </item>
+    <item>
+      <title>Integrating Conventional and Machine Learning approaches with Seismic Inversion for optimized Porosity Estimation in Heterogeneous Siliciclastic Rocks</title>
+      <link>https://doi.org/10.1016/j.pce.2025.104248</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4417443748</guid>
+      <dc:creator>Muyyassar Hussain; Urooj Shakir; Zohaib Naseer; Muhammad Raiees Amjad; Farooq Arshad; Muhammad Shahzad Kamal; Ahmed E. Radwan</dc:creator>
+      <dc:publisher>Physics and Chemistry of the Earth Parts A/B/C</dc:publisher>
+      <description>Authors: Muyyassar Hussain; Urooj Shakir; Zohaib Naseer; Muhammad Raiees Amjad; Farooq Arshad; Muhammad Shahzad Kamal; Ahmed E. Radwan | Venue: Physics and Chemistry of the Earth Parts A/B/C | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1016/j.pce.2025.104248 | OpenAlex: https://openalex.org/W4417443748</description>
+    </item>
+    <item>
+      <title>Gradual deletion of diacritics from reading text for learners of Arabic for non-native speakers at the advanced level: &quot; experimental study &quot;</title>
+      <link>https://doi.org/10.65073/1658-9343.1084</link>
+      <pubDate>Sun, 30 Nov 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4416939443</guid>
+      <dc:creator>Dhafer Al Shehri</dc:creator>
+      <dc:publisher>UB Journal for Humanities</dc:publisher>
+      <description>Authors: Dhafer Al Shehri | Venue: UB Journal for Humanities | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.65073/1658-9343.1084 | OpenAlex: https://openalex.org/W4416939443</description>
+    </item>
+    <item>
+      <title>Effective Limb Salvage Using a Distally Based Peroneus Brevis Flap for Distal Tibial Osteomyelitis</title>
+      <link>https://doi.org/10.7759/cureus.98065</link>
+      <pubDate>Sat, 29 Nov 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4416814672</guid>
+      <dc:creator>Qasim Alnahawi; Mohamed Mahmoud</dc:creator>
+      <dc:publisher>Cureus</dc:publisher>
+      <description>Authors: Qasim Alnahawi; Mohamed Mahmoud | Venue: Cureus | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.7759/cureus.98065 | OpenAlex: https://openalex.org/W4416814672</description>
+    </item>
+    <item>
+      <title>Seismic characterization of inland and coastal sabkhas using VP, VS, seismic anisotropy, and attenuation</title>
+      <link>https://doi.org/10.1038/s41598-025-29863-w</link>
+      <pubDate>Thu, 27 Nov 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4416764301</guid>
+      <dc:creator>Mohammed Y. Ali; Fateh Bouchaala; Ammar El‐Husseiny; Abdullatif Al‐Shuhail; Sherif M. Hanafy; Jun Matsushima</dc:creator>
+      <dc:publisher>Scientific Reports</dc:publisher>
+      <description>Authors: Mohammed Y. Ali; Fateh Bouchaala; Ammar El‐Husseiny; Abdullatif Al‐Shuhail; Sherif M. Hanafy; Jun Matsushima | Venue: Scientific Reports | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1038/s41598-025-29863-w | OpenAlex: https://openalex.org/W4416764301</description>
+    </item>
+    <item>
+      <title>Advanced soil carbonation strategies: insights into quantification, performance, and scalable carbon capture</title>
+      <link>https://doi.org/10.1016/j.ccst.2025.100551</link>
+      <pubDate>Thu, 27 Nov 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4416713239</guid>
+      <dc:creator>Aaqib Ali; Arshad Raza; Ammar Mohammed Alshammari</dc:creator>
+      <dc:publisher>Carbon Capture Science &amp; Technology</dc:publisher>
+      <description>Authors: Aaqib Ali; Arshad Raza; Ammar Mohammed Alshammari | Venue: Carbon Capture Science &amp; Technology | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1016/j.ccst.2025.100551 | OpenAlex: https://openalex.org/W4416713239</description>
+    </item>
+    <item>
+      <title>Artificial neural network (ANN) based prediction of proppant settling in horizontal wellbores during hydraulic fracturing</title>
+      <link>https://doi.org/10.1038/s41598-025-26458-3</link>
+      <pubDate>Thu, 27 Nov 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4416764361</guid>
+      <dc:creator>Mahmoud Jumaa; Amjed Hassan; Ashtiwi Bahri</dc:creator>
+      <dc:publisher>Scientific Reports</dc:publisher>
+      <description>Authors: Mahmoud Jumaa; Amjed Hassan; Ashtiwi Bahri | Venue: Scientific Reports | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1038/s41598-025-26458-3 | OpenAlex: https://openalex.org/W4416764361</description>
+    </item>
+    <item>
+      <title>Paper spray analysis of crude oil samples: comparing traditional characterization schemes with mass spectrometric outcomes</title>
+      <link>https://doi.org/10.1016/j.ijms.2025.117554</link>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4416640793</guid>
+      <dc:creator>Theis I. Sølling; Nathan F. Dalleska; J. L. Beauchamp</dc:creator>
+      <dc:publisher>International Journal of Mass Spectrometry</dc:publisher>
+      <description>Authors: Theis I. Sølling; Nathan F. Dalleska; J. L. Beauchamp | Venue: International Journal of Mass Spectrometry | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1016/j.ijms.2025.117554 | OpenAlex: https://openalex.org/W4416640793</description>
+    </item>
+    <item>
+      <title>Predicting Photoelectric Logs in Challenging Conditions Using Machine Learning and Statistical Analysis</title>
+      <link>https://doi.org/10.2118/230435-ms</link>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4416589455</guid>
+      <dc:creator>Eassa Abdullah; Subhan Aliyev; Salaheldin Elkatatny</dc:creator>
+      <dc:publisher>SPE Annual Caspian Technical Conference and Exhibition</dc:publisher>
+      <description>Authors: Eassa Abdullah; Subhan Aliyev; Salaheldin Elkatatny | Venue: SPE Annual Caspian Technical Conference and Exhibition | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.2118/230435-ms | OpenAlex: https://openalex.org/W4416589455</description>
+    </item>
+    <item>
+      <title>Improving Stability and Rheology of Oil-Based Drilling Fluids with a Novel Organoclay Additive for HPHT Applications</title>
+      <link>https://doi.org/10.2118/230351-ms</link>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4416591109</guid>
+      <dc:creator>Rahul Gajbhiye; Salaheldin Elkatatny</dc:creator>
+      <dc:publisher>SPE Annual Caspian Technical Conference and Exhibition</dc:publisher>
+      <description>Authors: Rahul Gajbhiye; Salaheldin Elkatatny | Venue: SPE Annual Caspian Technical Conference and Exhibition | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.2118/230351-ms | OpenAlex: https://openalex.org/W4416591109</description>
+    </item>
+    <item>
+      <title>Impact of Bioturbation on Sandstone Brittleness: Insights from the Qassim Formation, Northwestern Saudi Arabia</title>
+      <link>https://doi.org/10.1007/s13369-025-10871-x</link>
+      <pubDate>Mon, 24 Nov 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4416608146</guid>
+      <dc:creator>Moaz Salih; Hassan A. Eltom; Korhan Ayrancı</dc:creator>
       <dc:publisher>Arabian Journal for Science and Engineering</dc:publisher>
-      <description>Authors: Clement Afagwu; Mohamed Mahmoud; Saad Alafnan; Abdullah Alqubalee; Ammar El‐Husseiny; Shirish Patil | Venue: Arabian Journal for Science and Engineering | Year: 2022 | Citations: 9 | DOI: https://doi.org/10.1007/s13369-022-06720-w | OpenAlex: https://openalex.org/W4223892951</description>
+      <description>Authors: Moaz Salih; Hassan A. Eltom; Korhan Ayrancı | Venue: Arabian Journal for Science and Engineering | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1007/s13369-025-10871-x | OpenAlex: https://openalex.org/W4416608146</description>
     </item>
     <item>
-      <title>Spatial patterns variations of a burrowed carbonate stratum (ramp carbonates), Upper Jurassic Hanifa Formation, central Saudi Arabia</title>
-      <link>https://doi.org/10.1016/j.sedgeo.2022.106146</link>
-      <pubDate>Tue, 12 Apr 2022 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4223471131</guid>
-      <dc:creator>M. Rika Nanda Syahputra; Hassan A. Eltom; Ammar El‐Husseiny; Michael A. Kaminski; Abdullah Alqubalee</dc:creator>
-      <dc:publisher>Sedimentary Geology</dc:publisher>
-      <description>Authors: M. Rika Nanda Syahputra; Hassan A. Eltom; Ammar El‐Husseiny; Michael A. Kaminski; Abdullah Alqubalee | Venue: Sedimentary Geology | Year: 2022 | Citations: 6 | DOI: https://doi.org/10.1016/j.sedgeo.2022.106146 | OpenAlex: https://openalex.org/W4223471131</description>
+      <title>Efficient Charge Dynamics in Carbon Nanodot-Methyl Viologen Systems: Ultrafast Electron Transfer and Suppressed Recombination</title>
+      <link>https://doi.org/10.1021/acs.jpcc.5c04871</link>
+      <pubDate>Fri, 21 Nov 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4416506251</guid>
+      <dc:creator>Sivabalan Sakthivel; Amal Hassan Tolba; Ahmed M. El‐Zohry</dc:creator>
+      <dc:publisher>The Journal of Physical Chemistry C</dc:publisher>
+      <description>Authors: Sivabalan Sakthivel; Amal Hassan Tolba; Ahmed M. El‐Zohry | Venue: The Journal of Physical Chemistry C | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1021/acs.jpcc.5c04871 | OpenAlex: https://openalex.org/W4416506251</description>
     </item>
     <item>
-      <title>The negative impact of Ophiomorpha on reservoir quality of channelized deposits in mixed carbonate siliciclastic setting: The case study of the Dam Formation, Saudi Arabia</title>
-      <link>https://doi.org/10.1016/j.marpetgeo.2022.105666</link>
-      <pubDate>Wed, 30 Mar 2022 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4220873824</guid>
-      <dc:creator>Abdullah Alqubalee; Jaber Muharrag; Anas Muhammad Salisu; Hassan A. Eltom</dc:creator>
-      <dc:publisher>Marine and Petroleum Geology</dc:publisher>
-      <description>Authors: Abdullah Alqubalee; Jaber Muharrag; Anas Muhammad Salisu; Hassan A. Eltom | Venue: Marine and Petroleum Geology | Year: 2022 | Citations: 13 | DOI: https://doi.org/10.1016/j.marpetgeo.2022.105666 | OpenAlex: https://openalex.org/W4220873824</description>
+      <title>A combined experimental and first-principles study of tungsten ditelluride (WTe2) Weyl semimetal structure and optical characteristics</title>
+      <link>https://doi.org/10.1140/epjp/s13360-025-07071-9</link>
+      <pubDate>Fri, 21 Nov 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4416528720</guid>
+      <dc:creator>Sheena Shah; Ahmed M. El‐Zohry; Anas Y. Al‐Reyahi</dc:creator>
+      <dc:publisher>The European Physical Journal Plus</dc:publisher>
+      <description>Authors: Sheena Shah; Ahmed M. El‐Zohry; Anas Y. Al‐Reyahi | Venue: The European Physical Journal Plus | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1140/epjp/s13360-025-07071-9 | OpenAlex: https://openalex.org/W4416528720</description>
     </item>
     <item>
-      <title>Fish fossil remains from the Khartam Member, Khuff Formation in Central Saudi Arabia: Implications for placement of the Permo/Triassic Boundary</title>
-      <link>https://doi.org/10.5194/egusphere-egu22-9154</link>
-      <pubDate>Mon, 28 Mar 2022 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4221087233</guid>
-      <dc:creator>Jarrah Babiker; John Humphrey; Khalid Al–Ramadan; Jonathan L. Payne; Michael A. Kaminski; Abdullah Alqubalee</dc:creator>
-      <description>Authors: Jarrah Babiker; John Humphrey; Khalid Al–Ramadan; Jonathan L. Payne; Michael A. Kaminski; Abdullah Alqubalee | Year: 2022 | Citations: 0 | DOI: https://doi.org/10.5194/egusphere-egu22-9154 | OpenAlex: https://openalex.org/W4221087233</description>
+      <title>Ursolic acid enhances social behavior and modulates Th1, Th17, and T regulatory cell-related transcription factor signaling in the BTBR T+ Itpr3tf/J mouse model of autism</title>
+      <link>https://doi.org/10.1016/j.jneuroim.2025.578810</link>
+      <pubDate>Thu, 20 Nov 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4416423729</guid>
+      <dc:creator>Thamer H. Albekairi; Ahmed Nadeem; Marwa H. Hussein; Mohamed Mahmoud</dc:creator>
+      <dc:publisher>Journal of Neuroimmunology</dc:publisher>
+      <description>Authors: Thamer H. Albekairi; Ahmed Nadeem; Marwa H. Hussein; Mohamed Mahmoud | Venue: Journal of Neuroimmunology | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1016/j.jneuroim.2025.578810 | OpenAlex: https://openalex.org/W4416423729</description>
     </item>
     <item>
-      <title>QUANTITATIVE VARIABILITY OF BURROW PERCENTAGE ESTIMATED FROM 2D VIEWS: EXAMPLE FROM &lt;i&gt;THALASSINOIDES&lt;/i&gt;-BEARING STRATA, CENTRAL SAUDI ARABIA</title>
-      <link>https://doi.org/10.2110/palo.2021.012</link>
-      <pubDate>Tue, 22 Feb 2022 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4213326878</guid>
-      <dc:creator>Hassan A. Eltom; Abdullah Alqubalee</dc:creator>
-      <dc:publisher>Palaios</dc:publisher>
-      <description>Authors: Hassan A. Eltom; Abdullah Alqubalee | Venue: Palaios | Year: 2022 | Citations: 9 | DOI: https://doi.org/10.2110/palo.2021.012 | OpenAlex: https://openalex.org/W4213326878</description>
+      <title>Not much to show for it: Late Pleistocene dynamics of migrating megadunes in the Rub’ al-Khali, Saudi Arabia, indicate minimal preservation of their deposits</title>
+      <link>https://doi.org/10.1130/g53651.1</link>
+      <pubDate>Thu, 20 Nov 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4416432155</guid>
+      <dc:creator>Charlie S. Bristow; Nicholas Lancaster; Khalid Al–Ramadan</dc:creator>
+      <dc:publisher>Geology</dc:publisher>
+      <description>Authors: Charlie S. Bristow; Nicholas Lancaster; Khalid Al–Ramadan | Venue: Geology | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1130/g53651.1 | OpenAlex: https://openalex.org/W4416432155</description>
     </item>
     <item>
-      <title>The Negative Impact of Ophiomorpha on Reservoir Quality of Tidal Channel Deposits: The Case Study of the Dam Formation, Saudi Arabia</title>
-      <link>https://doi.org/10.2139/ssrn.4002127</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4205343768</guid>
-      <dc:creator>Abdullah Alqubalee; JABER MUHARRAG; ANAS MUHAMMAD SALISU; Hassan A. Eltom</dc:creator>
-      <dc:publisher>SSRN Electronic Journal</dc:publisher>
-      <description>Authors: Abdullah Alqubalee; JABER MUHARRAG; ANAS MUHAMMAD SALISU; Hassan A. Eltom | Venue: SSRN Electronic Journal | Year: 2022 | Citations: 0 | DOI: https://doi.org/10.2139/ssrn.4002127 | OpenAlex: https://openalex.org/W4205343768</description>
+      <title>AI-Assisted Decision-Making Models for Disaster Forecasting, Risk Mitigation, and Emergency Response Coordination</title>
+      <link>https://doi.org/10.71443/9789349552081-10</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4416459051</guid>
+      <dc:creator>Shirish Patil; Gajendra Singh</dc:creator>
+      <description>Authors: Shirish Patil; Gajendra Singh | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.71443/9789349552081-10 | OpenAlex: https://openalex.org/W4416459051</description>
     </item>
     <item>
-      <title>Geochemistry and organofacies characteristics of organic-rich chalky marl deposits, northern Jordan: Insights into Type II-S source rock</title>
-      <link>https://doi.org/10.1016/j.jseaes.2021.105040</link>
-      <pubDate>Thu, 16 Dec 2021 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4200149467</guid>
-      <dc:creator>Mohammed Hail Hakimi; Abbas F. Gharib; Mohammad Alqudah; Adeeb Ahmed; Baleid Ali Hatem; Khairul Azlan Mustapha; Nor Syazwani Zainal Abidin; Aref Lashin; Nura Abdulmumini Yelwa; Abdullah Alqubalee</dc:creator>
-      <dc:publisher>Journal of Asian Earth Sciences</dc:publisher>
-      <description>Authors: Mohammed Hail Hakimi; Abbas F. Gharib; Mohammad Alqudah; Adeeb Ahmed; Baleid Ali Hatem; Khairul Azlan Mustapha; Nor Syazwani Zainal Abidin; Aref Lashin; Nura Abdulmumini Yelwa; Abdullah Alqubalee | Venue: Journal of Asian Earth Sciences | Year: 2021 | Citations: 5 | DOI: https://doi.org/10.1016/j.jseaes.2021.105040 | OpenAlex: https://openalex.org/W4200149467</description>
+      <title>Cenozoic Subduction Polarity Reversal Within the Celebes Sea Inferred from Teleseismic Tomography</title>
+      <link>https://doi.org/10.22541/essoar.176296592.24127327/v1</link>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4416147219</guid>
+      <dc:creator>Yingbo Li; Simone Pilia; Lintang Kesumastuti; ChuanChuan Lü; Sri Widiyantoro; Tianyao Hao</dc:creator>
+      <description>Authors: Yingbo Li; Simone Pilia; Lintang Kesumastuti; ChuanChuan Lü; Sri Widiyantoro; Tianyao Hao | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.22541/essoar.176296592.24127327/v1 | OpenAlex: https://openalex.org/W4416147219</description>
     </item>
     <item>
-      <title>Understanding the two-dimensional quantification of bioturbation intensity through computer modeling and statistical analysis</title>
-      <link>https://doi.org/10.1007/s00531-021-02102-z</link>
-      <pubDate>Mon, 23 Aug 2021 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W3195908734</guid>
-      <dc:creator>Hassan A. Eltom; Abdullah Alqubalee; Lamidi Babalola</dc:creator>
-      <dc:publisher>International Journal of Earth Sciences</dc:publisher>
-      <description>Authors: Hassan A. Eltom; Abdullah Alqubalee; Lamidi Babalola | Venue: International Journal of Earth Sciences | Year: 2021 | Citations: 12 | DOI: https://doi.org/10.1007/s00531-021-02102-z | OpenAlex: https://openalex.org/W3195908734</description>
+      <title>Foraminiferal Paleoecology and Sequence Stratigraphy of the upper Dhruma Formation, Saudi Arabia</title>
+      <link>https://doi.org/10.1127/nos/2025/0877</link>
+      <pubDate>Mon, 10 Nov 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4416072661</guid>
+      <dc:creator>Chernoh Mohamed Jalloh; Adam Fheed; Frans van Buchem; Michael A. Kaminski</dc:creator>
+      <dc:publisher>Newsletters on Stratigraphy</dc:publisher>
+      <description>Authors: Chernoh Mohamed Jalloh; Adam Fheed; Frans van Buchem; Michael A. Kaminski | Venue: Newsletters on Stratigraphy | Year: 2025 | Citations: 1 | DOI: https://doi.org/10.1127/nos/2025/0877 | OpenAlex: https://openalex.org/W4416072661</description>
     </item>
     <item>
-      <title>Geochemical Characterization of Subsurface Upper Ordovician Glaciogenic Deposits: Implications for Provenance, Tectonic Setting, and Depositional Environments</title>
-      <link>https://doi.org/10.1007/s13369-021-06066-9</link>
-      <pubDate>Fri, 20 Aug 2021 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W3195332584</guid>
-      <dc:creator>Abdullah Alqubalee; Lamidi Babalola; Osman Abdullatif; Hassan A. Eltom</dc:creator>
-      <dc:publisher>Arabian Journal for Science and Engineering</dc:publisher>
-      <description>Authors: Abdullah Alqubalee; Lamidi Babalola; Osman Abdullatif; Hassan A. Eltom | Venue: Arabian Journal for Science and Engineering | Year: 2021 | Citations: 4 | DOI: https://doi.org/10.1007/s13369-021-06066-9 | OpenAlex: https://openalex.org/W3195332584</description>
+      <title>Insights into the Active Sites for Catalytic Steam Reforming of Methane from Oscillations in the Reaction</title>
+      <link>https://doi.org/10.1021/jacs.5c11696</link>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4416004029</guid>
+      <dc:creator>Yu Zhang; Qian Wang; Peter Glarborg; Martin Andersson; Jakob Birkedal Wagner; Keld Johansen; Thomas Klint Torp; J.‐C. Grivel; Anker Degn Jensen; Chaofeng Hou; Wei Ge; Jakob Munkholt Christensen</dc:creator>
+      <dc:publisher>Journal of the American Chemical Society</dc:publisher>
+      <description>Authors: Yu Zhang; Qian Wang; Peter Glarborg; Martin Andersson; Jakob Birkedal Wagner; Keld Johansen; Thomas Klint Torp; J.‐C. Grivel; Anker Degn Jensen; Chaofeng Hou; Wei Ge; Jakob Munkholt Christensen | Venue: Journal of the American Chemical Society | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1021/jacs.5c11696 | OpenAlex: https://openalex.org/W4416004029</description>
     </item>
     <item>
-      <title>An experimental study on the effect of magnetic field strength and internal gradient on NMR-Derived petrophysical properties of sandstones</title>
-      <link>https://doi.org/10.1016/j.petrol.2021.108811</link>
-      <pubDate>Tue, 20 Apr 2021 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W3152701421</guid>
-      <dc:creator>Mahmoud Elsayed; Ammar El‐Husseiny; Ibrahim Kadafur; Mohamed Mahmoud; Murtada Saleh Aljawad; Abdullah Alqubalee</dc:creator>
-      <dc:publisher>Journal of Petroleum Science and Engineering</dc:publisher>
-      <description>Authors: Mahmoud Elsayed; Ammar El‐Husseiny; Ibrahim Kadafur; Mohamed Mahmoud; Murtada Saleh Aljawad; Abdullah Alqubalee | Venue: Journal of Petroleum Science and Engineering | Year: 2021 | Citations: 25 | DOI: https://doi.org/10.1016/j.petrol.2021.108811 | OpenAlex: https://openalex.org/W3152701421</description>
+      <title>Provenance, diagenesis and reservoir quality of the Aptian-Albian Bima sandstone, Upper Benue Trough, NE Nigeria</title>
+      <link>https://doi.org/10.1016/j.jafrearsci.2025.105925</link>
+      <pubDate>Thu, 06 Nov 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4415950638</guid>
+      <dc:creator>Yusuf Abdullahi Abdulkarim; Abdulwahab Muhammad Bello; Khalid Al–Ramadan</dc:creator>
+      <dc:publisher>Journal of African Earth Sciences</dc:publisher>
+      <description>Authors: Yusuf Abdullahi Abdulkarim; Abdulwahab Muhammad Bello; Khalid Al–Ramadan | Venue: Journal of African Earth Sciences | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1016/j.jafrearsci.2025.105925 | OpenAlex: https://openalex.org/W4415950638</description>
     </item>
     <item>
-      <title>Effects of lithofacies on pore system evolution of storm-wave silt-rich fine-grained sediments. Early Silurian Qusaiba Member (Qaliba Formation), NW Saudi Arabia</title>
-      <link>https://doi.org/10.1016/j.marpetgeo.2021.105048</link>
-      <pubDate>Sat, 27 Mar 2021 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W3141818123</guid>
-      <dc:creator>Ammar Abdlmutalib; Osman Abdullatif; Abdullah Alqubalee; Luis A. González; John Humphrey</dc:creator>
-      <dc:publisher>Marine and Petroleum Geology</dc:publisher>
-      <description>Authors: Ammar Abdlmutalib; Osman Abdullatif; Abdullah Alqubalee; Luis A. González; John Humphrey | Venue: Marine and Petroleum Geology | Year: 2021 | Citations: 9 | DOI: https://doi.org/10.1016/j.marpetgeo.2021.105048 | OpenAlex: https://openalex.org/W3141818123</description>
+      <title>Efficient and formation-friendly removal of hematite filter cake using DTPA-based chelating solution</title>
+      <link>https://doi.org/10.1016/j.molliq.2025.128849</link>
+      <pubDate>Wed, 05 Nov 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4415930283</guid>
+      <dc:creator>Amir Shokry; Salaheldin Elkatatny; Badr Bageri</dc:creator>
+      <dc:publisher>Journal of Molecular Liquids</dc:publisher>
+      <description>Authors: Amir Shokry; Salaheldin Elkatatny; Badr Bageri | Venue: Journal of Molecular Liquids | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1016/j.molliq.2025.128849 | OpenAlex: https://openalex.org/W4415930283</description>
     </item>
     <item>
-      <title>Understanding the permeability of burrow-related gas reservoirs through integrated laboratory techniques</title>
-      <link>https://doi.org/10.1016/j.jngse.2021.103917</link>
-      <pubDate>Thu, 18 Mar 2021 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W3139415666</guid>
-      <dc:creator>Hassan A. Eltom; Abdullah Alqubalee; Abdullah S. Sultan; Assad Barri; Khalid Abdelbasit</dc:creator>
-      <dc:publisher>Journal of Natural Gas Science and Engineering</dc:publisher>
-      <description>Authors: Hassan A. Eltom; Abdullah Alqubalee; Abdullah S. Sultan; Assad Barri; Khalid Abdelbasit | Venue: Journal of Natural Gas Science and Engineering | Year: 2021 | Citations: 19 | DOI: https://doi.org/10.1016/j.jngse.2021.103917 | OpenAlex: https://openalex.org/W3139415666</description>
-    </item>
-    <item>
-      <title>Potential overlooked bioturbated reservoir zones in the shallow marine strata of the Hanifa Formation in central Saudi Arabia</title>
-      <link>https://doi.org/10.1016/j.marpetgeo.2020.104798</link>
-      <pubDate>Wed, 11 Nov 2020 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W3102597749</guid>
-      <dc:creator>Hassan A. Eltom; Abdullah Alqubalee; Mohamed A. Yassin</dc:creator>
-      <dc:publisher>Marine and Petroleum Geology</dc:publisher>
-      <description>Authors: Hassan A. Eltom; Abdullah Alqubalee; Mohamed A. Yassin | Venue: Marine and Petroleum Geology | Year: 2020 | Citations: 30 | DOI: https://doi.org/10.1016/j.marpetgeo.2020.104798 | OpenAlex: https://openalex.org/W3102597749</description>
-    </item>
-    <item>
-      <title>Evidence for the development of a superpermeability flow zone by bioturbation in shallow marine strata, upper Jubaila Formation, central Saudi Arabia</title>
-      <link>https://doi.org/10.1016/j.marpetgeo.2020.104512</link>
-      <pubDate>Tue, 16 Jun 2020 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W3035028305</guid>
-      <dc:creator>Hassan A. Eltom; Luis A. González; Abdullah Alqubalee; Abduljamiu O. Amao; Moaz Salih</dc:creator>
-      <dc:publisher>Marine and Petroleum Geology</dc:publisher>
-      <description>Authors: Hassan A. Eltom; Luis A. González; Abdullah Alqubalee; Abduljamiu O. Amao; Moaz Salih | Venue: Marine and Petroleum Geology | Year: 2020 | Citations: 30 | DOI: https://doi.org/10.1016/j.marpetgeo.2020.104512 | OpenAlex: https://openalex.org/W3035028305</description>
-    </item>
-    <item>
-      <title>The Effect of Clay Content on the Spin–Spin NMR Relaxation Time Measured in Porous Media</title>
-      <link>https://doi.org/10.1021/acsomega.9b04228</link>
-      <pubDate>Tue, 17 Mar 2020 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W3012467253</guid>
-      <dc:creator>Mahmoud Elsayed; Guenther Glatz; Ammar El‐Husseiny; Abdullah Alqubalee; Abdulrauf R. Adebayo; Karem Al-Garadi; Mohamed Mahmoud</dc:creator>
+      <title>Compatibility of Diammonium Phosphate (DAP) with Fracturing Fluid Systems for Deep Consolidation of Carbonate Rocks</title>
+      <link>https://doi.org/10.1021/acsomega.5c08399</link>
+      <pubDate>Tue, 04 Nov 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4415900797</guid>
+      <dc:creator>Abdullah Al Adi; Murtadha J. AlTammar; Ali A. Al-Taq; Sulaiman A. Alarifi; Murtada Saleh Aljawad</dc:creator>
       <dc:publisher>ACS Omega</dc:publisher>
-      <description>Authors: Mahmoud Elsayed; Guenther Glatz; Ammar El‐Husseiny; Abdullah Alqubalee; Abdulrauf R. Adebayo; Karem Al-Garadi; Mohamed Mahmoud | Venue: ACS Omega | Year: 2020 | Citations: 33 | DOI: https://doi.org/10.1021/acsomega.9b04228 | OpenAlex: https://openalex.org/W3012467253</description>
+      <description>Authors: Abdullah Al Adi; Murtadha J. AlTammar; Ali A. Al-Taq; Sulaiman A. Alarifi; Murtada Saleh Aljawad | Venue: ACS Omega | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1021/acsomega.5c08399 | OpenAlex: https://openalex.org/W4415900797</description>
     </item>
     <item>
-      <title>Insight into the Pore Characteristics of a Saudi Arabian Tight Gas Sand Reservoir</title>
-      <link>https://doi.org/10.3390/en12224302</link>
-      <pubDate>Tue, 12 Nov 2019 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W2988910414</guid>
-      <dc:creator>Abdulrauf R. Adebayo; Lamidi Babalola; Syed Rizwanullah Hussaini; Abdullah Alqubalee; Rahul S. Babu</dc:creator>
-      <dc:publisher>Energies</dc:publisher>
-      <description>Authors: Abdulrauf R. Adebayo; Lamidi Babalola; Syed Rizwanullah Hussaini; Abdullah Alqubalee; Rahul S. Babu | Venue: Energies | Year: 2019 | Citations: 23 | DOI: https://doi.org/10.3390/en12224302 | OpenAlex: https://openalex.org/W2988910414</description>
+      <title>Retraction Note: Saudi calcium bentonite: a novel modifier for enhanced foamed underbalanced drilling performance</title>
+      <link>https://doi.org/10.1038/s41598-025-26634-5</link>
+      <pubDate>Tue, 04 Nov 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4415854487</guid>
+      <dc:creator>Ahmed Gowida; Salaheldin Elkatatny</dc:creator>
+      <dc:publisher>Scientific Reports</dc:publisher>
+      <description>Authors: Ahmed Gowida; Salaheldin Elkatatny | Venue: Scientific Reports | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1038/s41598-025-26634-5 | OpenAlex: https://openalex.org/W4415854487</description>
     </item>
     <item>
-      <title>Characteristics of Paleozoic tight gas sandstone reservoir: integration of lithofacies, paleoenvironments, and spectral gamma-ray analyses, Rub’ al Khali Basin, Saudi Arabia</title>
-      <link>https://doi.org/10.1007/s12517-019-4467-0</link>
-      <pubDate>Thu, 23 May 2019 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W2945148837</guid>
-      <dc:creator>Abdullah Alqubalee; Osman Abdullatif; Lamidi Babalola; Mohammad Makkawi</dc:creator>
-      <dc:publisher>Arabian Journal of Geosciences</dc:publisher>
-      <description>Authors: Abdullah Alqubalee; Osman Abdullatif; Lamidi Babalola; Mohammad Makkawi | Venue: Arabian Journal of Geosciences | Year: 2019 | Citations: 17 | DOI: https://doi.org/10.1007/s12517-019-4467-0 | OpenAlex: https://openalex.org/W2945148837</description>
+      <title>CO2-Based Fracturing Fluid: Evaluation of a Novel Foaming Agent Under High Temperature and Salinity Conditions</title>
+      <link>https://doi.org/10.2118/229431-ms</link>
+      <pubDate>Mon, 03 Nov 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4415777974</guid>
+      <dc:creator>Mahmoud Jumaa; Jawad Al Drwish; Shabeeb Alajmei; Murtada Saleh Aljawad</dc:creator>
+      <description>Authors: Mahmoud Jumaa; Jawad Al Drwish; Shabeeb Alajmei; Murtada Saleh Aljawad | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.2118/229431-ms | OpenAlex: https://openalex.org/W4415777974</description>
     </item>
     <item>
-      <title>Factors Controlling Reservoir Quality of a Paleozoic Tight Sandstone, Rub’ al Khali Basin, Saudi Arabia</title>
-      <link>https://doi.org/10.1007/s13369-019-03885-9</link>
-      <pubDate>Wed, 08 May 2019 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W2944809997</guid>
-      <dc:creator>Abdullah Alqubalee; Lamidi Babalola; Osman Abdullatif; Mohammad Makkawi</dc:creator>
+      <title>Hematite Filter Cake Removal Using Oxalic Acid: Experimental Investigation</title>
+      <link>https://doi.org/10.1007/s13369-025-10788-5</link>
+      <pubDate>Mon, 03 Nov 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4415785277</guid>
+      <dc:creator>Osama Siddig; Salaheldin Elkatatny</dc:creator>
       <dc:publisher>Arabian Journal for Science and Engineering</dc:publisher>
-      <description>Authors: Abdullah Alqubalee; Lamidi Babalola; Osman Abdullatif; Mohammad Makkawi | Venue: Arabian Journal for Science and Engineering | Year: 2019 | Citations: 17 | DOI: https://doi.org/10.1007/s13369-019-03885-9 | OpenAlex: https://openalex.org/W2944809997</description>
+      <description>Authors: Osama Siddig; Salaheldin Elkatatny | Venue: Arabian Journal for Science and Engineering | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1007/s13369-025-10788-5 | OpenAlex: https://openalex.org/W4415785277</description>
     </item>
     <item>
-      <title>STABLE ISOTOPE CHEMOSTRATIGRAPHY OF A BIOTURBATED MIDDLE JURASSIC CARBONATE SEQUENCE, CENTRAL SAUDI ARABIA: PALEOTEMPERATURE RECONSTRUCTION, DEPOSITION ENVIRONMENT AND DIAGENETIC INTERPRETATIONS</title>
-      <link>https://doi.org/10.1130/abs/2019am-341003</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W2965273680</guid>
-      <dc:creator>Lamidi Babalola; Aviandy W. Ismanto; Aviandy W. Ismanto; Abdullah Alqubalee; Abdullah Alqubalee; Mohamed O. Abouelresh; Mohamed O. Abouelresh; Michael A. Kaminski; Michael A. Kaminski; Osman Abdullatif; Osman Abdullatif</dc:creator>
-      <dc:publisher>Abstracts with programs - Geological Society of America</dc:publisher>
-      <description>Authors: Lamidi Babalola; Aviandy W. Ismanto; Aviandy W. Ismanto; Abdullah Alqubalee; Abdullah Alqubalee; Mohamed O. Abouelresh; Mohamed O. Abouelresh; Michael A. Kaminski; Michael A. Kaminski; Osman Abdullatif; Osman Abdullatif | Venue: Abstracts with programs - Geological Society of America | Year: 2019 | Citations: 0 | DOI: https://doi.org/10.1130/abs/2019am-341003 | OpenAlex: https://openalex.org/W2965273680</description>
+      <title>From Data to Decision: The Role of 4.IR in Shaping the Future of Well Control and Integrity</title>
+      <link>https://doi.org/10.2118/228951-ms</link>
+      <pubDate>Mon, 03 Nov 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4415938892</guid>
+      <dc:creator>Hany Gamal; S. S. Emam; Suha Saif; Ahmed Alsabaa; Salaheldin Elkatatny</dc:creator>
+      <description>Authors: Hany Gamal; S. S. Emam; Suha Saif; Ahmed Alsabaa; Salaheldin Elkatatny | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.2118/228951-ms | OpenAlex: https://openalex.org/W4415938892</description>
     </item>
     <item>
-      <title>Sedimentological Controls on Reservoir Properties of a Paleozoic Tight Sandstone Reservoir, Saudi Arabia</title>
-      <link>https://doi.org/10.3997/2214-4609.201900217</link>
-      <pubDate>Sun, 09 Dec 2018 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W2928602162</guid>
-      <dc:creator>Osman Abdullatif; Abdullah Alqubalee; Lamidi Babalola; Mohammad Makkawi</dc:creator>
-      <dc:publisher>Proceedings</dc:publisher>
-      <description>Authors: Osman Abdullatif; Abdullah Alqubalee; Lamidi Babalola; Mohammad Makkawi | Venue: Proceedings | Year: 2018 | Citations: 0 | DOI: https://doi.org/10.3997/2214-4609.201900217 | OpenAlex: https://openalex.org/W2928602162</description>
+      <title>Comparing Public Acceptance of Dedicated CO2 Storage and CO2-EOR: Regional Trends and Their Impact on CCS Deployment</title>
+      <link>https://doi.org/10.2118/229174-ms</link>
+      <pubDate>Mon, 03 Nov 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4415938764</guid>
+      <dc:creator>Nihal Darraj; Mahmoud S. El-Yamani; Mohamed Mahmoud; Niall MacDowell</dc:creator>
+      <description>Authors: Nihal Darraj; Mahmoud S. El-Yamani; Mohamed Mahmoud; Niall MacDowell | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.2118/229174-ms | OpenAlex: https://openalex.org/W4415938764</description>
     </item>
     <item>
-      <title>Multi-Scale Reservoir Characterization of Tight Gas Sand: A Case Study from the Paleozoic Glaciogenic Sarah Formation, Rub’ Al-Khali Basin, Saudi Arabia</title>
-      <link>https://doi.org/10.3997/2214-4609.201702466</link>
-      <pubDate>Wed, 25 Oct 2017 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W2766468506</guid>
-      <dc:creator>Abdullah Alqubalee</dc:creator>
-      <dc:publisher>Proceedings</dc:publisher>
-      <description>Authors: Abdullah Alqubalee | Venue: Proceedings | Year: 2017 | Citations: 0 | DOI: https://doi.org/10.3997/2214-4609.201702466 | OpenAlex: https://openalex.org/W2766468506</description>
+      <title>A New Approach for Evaluating Capillary Pressures Using Multifrequency Dielectric Technique</title>
+      <link>https://doi.org/10.2118/229541-ms</link>
+      <pubDate>Mon, 03 Nov 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4416182976</guid>
+      <dc:creator>Amjed Hassan; N. A. Albenayyan; Mohamed Mahmoud</dc:creator>
+      <description>Authors: Amjed Hassan; N. A. Albenayyan; Mohamed Mahmoud | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.2118/229541-ms | OpenAlex: https://openalex.org/W4416182976</description>
     </item>
     <item>
-      <title>Reservoir Characterization of Tight Gas Sand - Integration of lithofacies and Petrophysical properties, Subsurface, Saudi Arabia</title>
-      <link>https://doi.org/10.3997/2214-4609.201701379</link>
-      <pubDate>Fri, 26 May 2017 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W2618368271</guid>
-      <dc:creator>Abdullah Alqubalee; Osman Abdullatif; Lamidi Babalola; Mohammad Makkawi</dc:creator>
-      <dc:publisher>Proceedings</dc:publisher>
-      <description>Authors: Abdullah Alqubalee; Osman Abdullatif; Lamidi Babalola; Mohammad Makkawi | Venue: Proceedings | Year: 2017 | Citations: 0 | DOI: https://doi.org/10.3997/2214-4609.201701379 | OpenAlex: https://openalex.org/W2618368271</description>
+      <title>An Interactive Python Based Tool for Flow Rate Prediction and Express Well Completion Design</title>
+      <link>https://doi.org/10.2118/229036-ms</link>
+      <pubDate>Mon, 03 Nov 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4415938966</guid>
+      <dc:creator>Abdukodir Khakimov; T Hasna; Mouhammad Jumaa; Shabeeb Alajmei</dc:creator>
+      <description>Authors: Abdukodir Khakimov; T Hasna; Mouhammad Jumaa; Shabeeb Alajmei | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.2118/229036-ms | OpenAlex: https://openalex.org/W4415938966</description>
     </item>
     <item>
-      <title>Application of Spectral Gamma Ray for Lithofacies and Paleo-environmental Interpretation: A Case Study from the Late Ordovician Glaciogenic Deposits, Saudi Arabia</title>
-      <link>https://openalex.org/W3128658973</link>
-      <pubDate>Sat, 01 Apr 2017 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W3128658973</guid>
-      <dc:creator>Abdullah Alqubalee; Osman Abdullatif; Lamidi Babalola</dc:creator>
-      <dc:publisher>EGU General Assembly Conference Abstracts</dc:publisher>
-      <description>Authors: Abdullah Alqubalee; Osman Abdullatif; Lamidi Babalola | Venue: EGU General Assembly Conference Abstracts | Year: 2017 | Citations: 1 | OpenAlex: https://openalex.org/W3128658973</description>
+      <title>Temporal dynamics of crystallization initiated by single laser pulse irradiation</title>
+      <link>https://doi.org/10.1140/epjp/s13360-025-06987-6</link>
+      <pubDate>Mon, 03 Nov 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4415786032</guid>
+      <dc:creator>Musab Hashim; Watheq Al‐Basheer; Ahmed M. El‐Zohry; Abdulaziz Aljalal; Khaled Gasmi</dc:creator>
+      <dc:publisher>The European Physical Journal Plus</dc:publisher>
+      <description>Authors: Musab Hashim; Watheq Al‐Basheer; Ahmed M. El‐Zohry; Abdulaziz Aljalal; Khaled Gasmi | Venue: The European Physical Journal Plus | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1140/epjp/s13360-025-06987-6 | OpenAlex: https://openalex.org/W4415786032</description>
+    </item>
+    <item>
+      <title>Impact of Low Concentration Ferric Chloride on Physical and Electrical Parameters in Low Permeable Limestone Formation</title>
+      <link>https://doi.org/10.2118/229891-ms</link>
+      <pubDate>Mon, 03 Nov 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4415930831</guid>
+      <dc:creator>Arshad Khan; Mohamed E. Mahmoud; Mohammed Hasnain Saiyed; Saad Alafnan; Arshad Raza; Ahmad Mahboob</dc:creator>
+      <description>Authors: Arshad Khan; Mohamed E. Mahmoud; Mohammed Hasnain Saiyed; Saad Alafnan; Arshad Raza; Ahmad Mahboob | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.2118/229891-ms | OpenAlex: https://openalex.org/W4415930831</description>
+    </item>
+    <item>
+      <title>Babaeng Frontliner at COVID-19 sa Pilipinas: Batayan para sa Isang Epektibong Tugon sa Pandemya na Nakatuon sa Gender</title>
+      <link>https://doi.org/10.70922/9wjjeq74</link>
+      <pubDate>Mon, 03 Nov 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4415957094</guid>
+      <dc:creator>Fernando Alonso-Marroquín</dc:creator>
+      <dc:publisher>Social Sciences Development Review</dc:publisher>
+      <description>Authors: Fernando Alonso-Marroquín | Venue: Social Sciences Development Review | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.70922/9wjjeq74 | OpenAlex: https://openalex.org/W4415957094</description>
+    </item>
+    <item>
+      <title>Determination of Porosity and Hydrocarbon Saturation for Heavy Oil Reservoirs Using Dielectric and NMR Techniques</title>
+      <link>https://doi.org/10.2118/229543-ms</link>
+      <pubDate>Mon, 03 Nov 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4415777334</guid>
+      <dc:creator>Mohammed Hasnain Saiyed; Hiral Jain; Amjed Hassan; Mohamed E. Mahmoud</dc:creator>
+      <description>Authors: Mohammed Hasnain Saiyed; Hiral Jain; Amjed Hassan; Mohamed E. Mahmoud | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.2118/229543-ms | OpenAlex: https://openalex.org/W4415777334</description>
+    </item>
+    <item>
+      <title>Ion-selective membranes: Highly efficient, robust, and superiorly selective</title>
+      <link>https://doi.org/10.1016/j.memsci.2025.124890</link>
+      <pubDate>Sun, 02 Nov 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4415772095</guid>
+      <dc:creator>Randa I. Gaber; Seung‐Hyun Hong; Mahmoud A. Abdulhamid; Daniel Bahamón; Lourdes F. Vega; Emad Alhseinat</dc:creator>
+      <dc:publisher>Journal of Membrane Science</dc:publisher>
+      <description>Authors: Randa I. Gaber; Seung‐Hyun Hong; Mahmoud A. Abdulhamid; Daniel Bahamón; Lourdes F. Vega; Emad Alhseinat | Venue: Journal of Membrane Science | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1016/j.memsci.2025.124890 | OpenAlex: https://openalex.org/W4415772095</description>
+    </item>
+    <item>
+      <title>Transformer-Based Generative Model for Automated Field Development Planning and Optimization in Hydrocarbon Reservoirs</title>
+      <link>https://doi.org/10.2118/231418-pa</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4416703739</guid>
+      <dc:creator>Abeeb A. Awotunde</dc:creator>
+      <dc:publisher>SPE Journal</dc:publisher>
+      <description>Authors: Abeeb A. Awotunde | Venue: SPE Journal | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.2118/231418-pa | OpenAlex: https://openalex.org/W4416703739</description>
+    </item>
+    <item>
+      <title>Migrated Teleseismic P Wave Receiver Functions Reveal Intricate Post‐Subduction Crust and Upper Mantle Structure of Northern Borneo (Sabah), Malaysia</title>
+      <link>https://doi.org/10.1029/2025jb031466</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4416008906</guid>
+      <dc:creator>David G. Cornwell; Amy Gilligan; Nicholas Rawlinson; Felix Tongkul; Simone Pilia; Conor Bacon; Tim Greenfield; Sophia Baker; Deborah Wehner; Harry Telajan Linang; Joseph Fone</dc:creator>
+      <dc:publisher>Journal of Geophysical Research Solid Earth</dc:publisher>
+      <description>Authors: David G. Cornwell; Amy Gilligan; Nicholas Rawlinson; Felix Tongkul; Simone Pilia; Conor Bacon; Tim Greenfield; Sophia Baker; Deborah Wehner; Harry Telajan Linang; Joseph Fone | Venue: Journal of Geophysical Research Solid Earth | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1029/2025jb031466 | OpenAlex: https://openalex.org/W4416008906</description>
+    </item>
+    <item>
+      <title>How Trump’s 2025 Tariffs Affect Different Stakeholders of Both Economies of the U.S. and China to See if They Had a Positive or Negative Effect on a Broad Scale</title>
+      <link>https://doi.org/10.36948/ijfmr.2025.v07i05.59394</link>
+      <pubDate>Fri, 31 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4416023200</guid>
+      <dc:creator>Hasan Javed Khan</dc:creator>
+      <dc:publisher>International Journal For Multidisciplinary Research</dc:publisher>
+      <description>Authors: Hasan Javed Khan | Venue: International Journal For Multidisciplinary Research | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.36948/ijfmr.2025.v07i05.59394 | OpenAlex: https://openalex.org/W4416023200</description>
+    </item>
+    <item>
+      <title>Post Cretaceous/Paleogene boundary recovery of the deep marine ecosystem recorded by benthic foraminiferal morphogroups</title>
+      <link>https://doi.org/10.4202/app.01227.2024</link>
+      <pubDate>Thu, 30 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4415697757</guid>
+      <dc:creator>Michael A. Kaminski; Syouma Hikmahtiar; Claudia G. Cetean</dc:creator>
+      <dc:publisher>Acta Palaeontologica Polonica</dc:publisher>
+      <description>Authors: Michael A. Kaminski; Syouma Hikmahtiar; Claudia G. Cetean | Venue: Acta Palaeontologica Polonica | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.4202/app.01227.2024 | OpenAlex: https://openalex.org/W4415697757</description>
+    </item>
+    <item>
+      <title>Residual-Enhanced YOLO with Motion-Blur Augmentation for UAV-Based Weed Detection</title>
+      <link>https://doi.org/10.1109/aict67988.2025.11268618</link>
+      <pubDate>Wed, 29 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4417131419</guid>
+      <dc:creator>Jamil Ahmad; Sara Mahmoud; Mohamed Mahmoud</dc:creator>
+      <description>Authors: Jamil Ahmad; Sara Mahmoud; Mohamed Mahmoud | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1109/aict67988.2025.11268618 | OpenAlex: https://openalex.org/W4417131419</description>
+    </item>
+    <item>
+      <title>Estimation of storage capacity coefficients: Porthos GCS project case study</title>
+      <link>https://doi.org/10.1016/j.uncres.2025.100268</link>
+      <pubDate>Tue, 28 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4415614362</guid>
+      <dc:creator>Ruud Weijermars; Clement Afagwu; Yakai Tian; Iberê Alves</dc:creator>
+      <dc:publisher>Unconventional Resources</dc:publisher>
+      <description>Authors: Ruud Weijermars; Clement Afagwu; Yakai Tian; Iberê Alves | Venue: Unconventional Resources | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1016/j.uncres.2025.100268 | OpenAlex: https://openalex.org/W4415614362</description>
+    </item>
+    <item>
+      <title>A comprehensive review of influence of critical parameters on wettability of rock-hydrogen-brine systems: Implications for underground hydrogen storage</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2025.152020</link>
+      <pubDate>Mon, 27 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4415573209</guid>
+      <dc:creator>Nurudeen Yekeen; Berihun Mamo Negash; Muhammad Ali; Ahmed Al‐Yaseri; Surajudeen Sikiru</dc:creator>
+      <dc:publisher>International Journal of Hydrogen Energy</dc:publisher>
+      <description>Authors: Nurudeen Yekeen; Berihun Mamo Negash; Muhammad Ali; Ahmed Al‐Yaseri; Surajudeen Sikiru | Venue: International Journal of Hydrogen Energy | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1016/j.ijhydene.2025.152020 | OpenAlex: https://openalex.org/W4415573209</description>
+    </item>
+    <item>
+      <title>Comparative analysis of unsteady magneto flow of tetra-hybrid nanofluid across stretchable cylinders under the impact of different nanoparticles shape</title>
+      <link>https://doi.org/10.1016/j.rineng.2025.107923</link>
+      <pubDate>Sun, 26 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4415552441</guid>
+      <dc:creator>Kamel Guedri; Fatima Ramzan Ali; Muhammad Ramzan Abdul Karim; Siti Suzilliana Putri Mohamed Isa; Syed Muhammad Shakil Hussain; Abbas Khan; Muhammad Amer Qureshi</dc:creator>
+      <dc:publisher>Results in Engineering</dc:publisher>
+      <description>Authors: Kamel Guedri; Fatima Ramzan Ali; Muhammad Ramzan Abdul Karim; Siti Suzilliana Putri Mohamed Isa; Syed Muhammad Shakil Hussain; Abbas Khan; Muhammad Amer Qureshi | Venue: Results in Engineering | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1016/j.rineng.2025.107923 | OpenAlex: https://openalex.org/W4415552441</description>
+    </item>
+    <item>
+      <title>Rational prediction of the performance of pH-responsive functionalized iron oxide grafted on graphene oxide for magnetic hyperthermia cancer therapy using machine learning</title>
+      <link>https://doi.org/10.1016/j.bioadv.2025.214573</link>
+      <pubDate>Sat, 25 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4415538259</guid>
+      <dc:creator>Ahmad Abulfathi Umar; Abdulazeez Abdulraheem</dc:creator>
+      <dc:publisher>Biomaterials Advances</dc:publisher>
+      <description>Authors: Ahmad Abulfathi Umar; Abdulazeez Abdulraheem | Venue: Biomaterials Advances | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1016/j.bioadv.2025.214573 | OpenAlex: https://openalex.org/W4415538259</description>
+    </item>
+    <item>
+      <title>Carbonated Alkaline Fluid (CAF): A CO &lt;sub&gt;2&lt;/sub&gt; Mineralization Approach for Sustainable Produced-Water Reinjection</title>
+      <link>https://doi.org/10.1021/acs.energyfuels.5c02483</link>
+      <pubDate>Sat, 25 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4415549008</guid>
+      <dc:creator>Mohammed H. Alyousef; Salem Alshammari; Kion Norrman; Ahmed Al‐Yaseri</dc:creator>
+      <dc:publisher>Energy &amp; Fuels</dc:publisher>
+      <description>Authors: Mohammed H. Alyousef; Salem Alshammari; Kion Norrman; Ahmed Al‐Yaseri | Venue: Energy &amp; Fuels | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1021/acs.energyfuels.5c02483 | OpenAlex: https://openalex.org/W4415549008</description>
+    </item>
+    <item>
+      <title>Entropy value regulation of lanthanide perovskite catalysts: Unlocking the performance code of methanol reforming for hydrogen production</title>
+      <link>https://doi.org/10.1016/j.cej.2025.169888</link>
+      <pubDate>Sat, 25 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4415532193</guid>
+      <dc:creator>Tianyun Zhao; Qiuwan Shen; Martin Andersson; Jinliang Yuan; Shian Li</dc:creator>
+      <dc:publisher>Chemical Engineering Journal</dc:publisher>
+      <description>Authors: Tianyun Zhao; Qiuwan Shen; Martin Andersson; Jinliang Yuan; Shian Li | Venue: Chemical Engineering Journal | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1016/j.cej.2025.169888 | OpenAlex: https://openalex.org/W4415532193</description>
+    </item>
+    <item>
+      <title>Leveraging stable diffusion to reconstruct missing core intervals</title>
+      <link>https://doi.org/10.1038/s41598-025-20817-w</link>
+      <pubDate>Wed, 22 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4415407716</guid>
+      <dc:creator>Xin Liu; Umair bin Waheed; Korhan Ayrancı; Ammar Abdlmutalib</dc:creator>
+      <dc:publisher>Scientific Reports</dc:publisher>
+      <description>Authors: Xin Liu; Umair bin Waheed; Korhan Ayrancı; Ammar Abdlmutalib | Venue: Scientific Reports | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1038/s41598-025-20817-w | OpenAlex: https://openalex.org/W4415407716</description>
+    </item>
+    <item>
+      <title>A Comprehensive Review of Flow Assurance in the Energy Transition: Flow Loop Platforms and AI-Driven Solutions for Hydrogen, CO2, and Ammonia Transport</title>
+      <link>https://doi.org/10.1007/s13369-025-10758-x</link>
+      <pubDate>Wed, 22 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4415436463</guid>
+      <dc:creator>Ali Mahmoud; Ala AL-Dogail; Rahul Gajbhiye</dc:creator>
+      <dc:publisher>Arabian Journal for Science and Engineering</dc:publisher>
+      <description>Authors: Ali Mahmoud; Ala AL-Dogail; Rahul Gajbhiye | Venue: Arabian Journal for Science and Engineering | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1007/s13369-025-10758-x | OpenAlex: https://openalex.org/W4415436463</description>
+    </item>
+    <item>
+      <title>Altering carbonate wettability for hydrogen storage: The role of surfactant and CO2 floods</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2025.152019</link>
+      <pubDate>Wed, 22 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4415397850</guid>
+      <dc:creator>Hamed Aghaei; Ali Toorajipour; Behnam Shahsavani; Ahmed Al‐Yaseri</dc:creator>
+      <dc:publisher>International Journal of Hydrogen Energy</dc:publisher>
+      <description>Authors: Hamed Aghaei; Ali Toorajipour; Behnam Shahsavani; Ahmed Al‐Yaseri | Venue: International Journal of Hydrogen Energy | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1016/j.ijhydene.2025.152019 | OpenAlex: https://openalex.org/W4415397850</description>
+    </item>
+    <item>
+      <title>Constraints on stress tensor from microseismicity at Decatur</title>
+      <link>https://doi.org/10.5194/se-16-1121-2025</link>
+      <pubDate>Wed, 22 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4415422260</guid>
+      <dc:creator>Tian Guo; Dmitry Alexandrov; Leo Eisner; Zuzana Jechumtálová; Sherilyn Williams‐Stroud; Umair bin Waheed; Víctor Vilarrasa</dc:creator>
+      <dc:publisher>Solid Earth</dc:publisher>
+      <description>Authors: Tian Guo; Dmitry Alexandrov; Leo Eisner; Zuzana Jechumtálová; Sherilyn Williams‐Stroud; Umair bin Waheed; Víctor Vilarrasa | Venue: Solid Earth | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.5194/se-16-1121-2025 | OpenAlex: https://openalex.org/W4415422260</description>
+    </item>
+    <item>
+      <title>Explainable AI for microseismic event detection</title>
+      <link>https://doi.org/10.48550/arxiv.2510.17458</link>
+      <pubDate>Mon, 20 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4415964563</guid>
+      <dc:creator>Ayrat Abdullin; Denis Anikiev; Umair bin Waheed</dc:creator>
+      <dc:publisher>arXiv (Cornell University)</dc:publisher>
+      <description>Authors: Ayrat Abdullin; Denis Anikiev; Umair bin Waheed | Venue: arXiv (Cornell University) | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.48550/arxiv.2510.17458 | OpenAlex: https://openalex.org/W4415964563</description>
+    </item>
+    <item>
+      <title>Identifying The Best Systems for Managing Saline Water in Arid Regions to Improve Productivity, Water Productivity, and Citrus Quality</title>
+      <link>https://doi.org/10.21608/agro.2025.418289.1829</link>
+      <pubDate>Mon, 20 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4415347310</guid>
+      <dc:creator>Mohamed Mahmoud; Mohamed E. Abuarab; A. E. A. Shaban; E. Y. Ghoniem</dc:creator>
+      <dc:publisher>Egyptian Journal of Agronomy</dc:publisher>
+      <description>Authors: Mohamed Mahmoud; Mohamed E. Abuarab; A. E. A. Shaban; E. Y. Ghoniem | Venue: Egyptian Journal of Agronomy | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.21608/agro.2025.418289.1829 | OpenAlex: https://openalex.org/W4415347310</description>
+    </item>
+    <item>
+      <title>Geochemical Indicators of Organic Matter Combustion Governed by Pyrometamorphism in Columnar-Jointed Carbonate Source Rocks</title>
+      <link>https://doi.org/10.1021/acsomega.5c01727</link>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4415216698</guid>
+      <dc:creator>Issa M. Makhlouf; Khalil Ibrahim; Samer Aljurf; Israa S. Abu‐Mahfouz</dc:creator>
+      <dc:publisher>ACS Omega</dc:publisher>
+      <description>Authors: Issa M. Makhlouf; Khalil Ibrahim; Samer Aljurf; Israa S. Abu‐Mahfouz | Venue: ACS Omega | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1021/acsomega.5c01727 | OpenAlex: https://openalex.org/W4415216698</description>
+    </item>
+    <item>
+      <title>Time-Dependent Effects of Fracturing Fluid Retention on the Geomechanical and Petrophysical Properties of Tight Sandstone</title>
+      <link>https://doi.org/10.2118/228839-stu</link>
+      <pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4415139024</guid>
+      <dc:creator>S. A. Al-Rasheed; Mobeen Murtaza; Shabeeb Alajmei; Muhammed Shahzad Kamal; Murtada Saleh Aljawad</dc:creator>
+      <dc:publisher>SPE Annual Technical Conference and Exhibition</dc:publisher>
+      <description>Authors: S. A. Al-Rasheed; Mobeen Murtaza; Shabeeb Alajmei; Muhammed Shahzad Kamal; Murtada Saleh Aljawad | Venue: SPE Annual Technical Conference and Exhibition | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.2118/228839-stu | OpenAlex: https://openalex.org/W4415139024</description>
+    </item>
+    <item>
+      <title>Time Lapse Electrical Resistance During CO2 Storage in a Closed Ended Rock Sample – Dissolution and Mineralization</title>
+      <link>https://doi.org/10.2118/227889-ms</link>
+      <pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4415136263</guid>
+      <dc:creator>Abdulrauf R. Adebayo; Dhafer Badhafere; Maryana Emad Helmi; Rahul S. Babu</dc:creator>
+      <dc:publisher>SPE Annual Technical Conference and Exhibition</dc:publisher>
+      <description>Authors: Abdulrauf R. Adebayo; Dhafer Badhafere; Maryana Emad Helmi; Rahul S. Babu | Venue: SPE Annual Technical Conference and Exhibition | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.2118/227889-ms | OpenAlex: https://openalex.org/W4415136263</description>
+    </item>
+    <item>
+      <title>Tetrafluoroborate Versus Chloride Methylimidazolium-Based Ionic Liquids as Advanced Flowback Additives for Hydraulic Fracturing in Unconventional Reservoirs</title>
+      <link>https://doi.org/10.2118/228227-ms</link>
+      <pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4415138982</guid>
+      <dc:creator>Badr A. Mohamed; Ahmed Farid Ibrahim; Khaled Abdelgawad</dc:creator>
+      <dc:publisher>SPE Annual Technical Conference and Exhibition</dc:publisher>
+      <description>Authors: Badr A. Mohamed; Ahmed Farid Ibrahim; Khaled Abdelgawad | Venue: SPE Annual Technical Conference and Exhibition | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.2118/228227-ms | OpenAlex: https://openalex.org/W4415138982</description>
+    </item>
+    <item>
+      <title>A Novel and Economical Combination of (Micromax /Ilmenite) for High Pressure and High Temperature Oil-Well Cement Applications</title>
+      <link>https://doi.org/10.2118/226525-ms</link>
+      <pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4415092991</guid>
+      <dc:creator>Abdulmalek Ahmed; Jadie Alsabr; Salaheldin Elkatatny</dc:creator>
+      <description>Authors: Abdulmalek Ahmed; Jadie Alsabr; Salaheldin Elkatatny | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.2118/226525-ms | OpenAlex: https://openalex.org/W4415092991</description>
+    </item>
+    <item>
+      <title>Investigating the Impact of Saudi Kaolinite Particles on Ilmenite-Based Cement</title>
+      <link>https://doi.org/10.2118/226433-ms</link>
+      <pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4415092997</guid>
+      <dc:creator>Abdulmalek Ahmed; Mohammed Ibrahim Saeed; Salaheldin Elkatatny</dc:creator>
+      <description>Authors: Abdulmalek Ahmed; Mohammed Ibrahim Saeed; Salaheldin Elkatatny | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.2118/226433-ms | OpenAlex: https://openalex.org/W4415092997</description>
+    </item>
+    <item>
+      <title>Suitability of Tire Waste for High Density Well Cementing</title>
+      <link>https://doi.org/10.2118/226434-ms</link>
+      <pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4415093017</guid>
+      <dc:creator>Abdulmalek Ahmed; Stewart Matovu; Salaheldin Elkatatny</dc:creator>
+      <description>Authors: Abdulmalek Ahmed; Stewart Matovu; Salaheldin Elkatatny | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.2118/226434-ms | OpenAlex: https://openalex.org/W4415093017</description>
+    </item>
+    <item>
+      <title>Advancing Invert Emulsion Drilling Fluid Performance in High-Pressure and High-Temperature Conditions with a Novel Organoclay Additive</title>
+      <link>https://doi.org/10.2118/226297-ms</link>
+      <pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4415093113</guid>
+      <dc:creator>Ahmed Abdulhamid Mahmoud; Rahul Gajbhiye; Salaheldin Elkatatny</dc:creator>
+      <description>Authors: Ahmed Abdulhamid Mahmoud; Rahul Gajbhiye; Salaheldin Elkatatny | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.2118/226297-ms | OpenAlex: https://openalex.org/W4415093113</description>
+    </item>
+    <item>
+      <title>Brine Composition as a Key Factor in Limestone-CO2 Reaction Dynamics</title>
+      <link>https://doi.org/10.2118/226556-ms</link>
+      <pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4415095595</guid>
+      <dc:creator>Ahmed Al‐Yaseri; Shanker Krishna</dc:creator>
+      <description>Authors: Ahmed Al‐Yaseri; Shanker Krishna | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.2118/226556-ms | OpenAlex: https://openalex.org/W4415095595</description>
+    </item>
+    <item>
+      <title>Skeletonized wave-equation dispersion spectrum inversion</title>
+      <link>https://doi.org/10.1190/geo-2024-0762</link>
+      <pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4415109069</guid>
+      <dc:creator>Chang Zhang; Jing Li; Sherif M. Hanafy; Hui Liu; Lige Bai; Huaqing Cao; Yibo Wang</dc:creator>
+      <dc:publisher>Geophysics</dc:publisher>
+      <description>Authors: Chang Zhang; Jing Li; Sherif M. Hanafy; Hui Liu; Lige Bai; Huaqing Cao; Yibo Wang | Venue: Geophysics | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1190/geo-2024-0762 | OpenAlex: https://openalex.org/W4415109069</description>
+    </item>
+    <item>
+      <title>Experimental insights into surface wettability alterations and solvent adsorption effects on porous sandstone and carbonate rocks in H₂-brine systems: Implications for underground hydrogen storage</title>
+      <link>https://doi.org/10.1016/j.est.2025.118808</link>
+      <pubDate>Fri, 10 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4415023307</guid>
+      <dc:creator>Aneeq Nasir Janjua; Muhammad Ali; Muhammad Shahzad Kamal; Shirish Patil; Hussein Hoteit; Arshad Raza; Mohamed Mahmoud</dc:creator>
+      <dc:publisher>Journal of Energy Storage</dc:publisher>
+      <description>Authors: Aneeq Nasir Janjua; Muhammad Ali; Muhammad Shahzad Kamal; Shirish Patil; Hussein Hoteit; Arshad Raza; Mohamed Mahmoud | Venue: Journal of Energy Storage | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1016/j.est.2025.118808 | OpenAlex: https://openalex.org/W4415023307</description>
+    </item>
+    <item>
+      <title>Sustainable hierarchical porous carbon from sugarcane bagasse for high-performance zinc-ion hybrid supercapacitors</title>
+      <link>https://doi.org/10.1016/j.biombioe.2025.108450</link>
+      <pubDate>Thu, 09 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4415000454</guid>
+      <dc:creator>Nabila Dewi Saidhah; Yuda Prima Hardianto; Abdulmajid A. Mirghni; Ananda Sholeh Rifky Hakim; Syed Shaheen Shah; Ade Siyanti Nurul Hidayah; Abduljamiu O. Amao; Markus Diantoro; Md. Abdul Aziz</dc:creator>
+      <dc:publisher>Biomass and Bioenergy</dc:publisher>
+      <description>Authors: Nabila Dewi Saidhah; Yuda Prima Hardianto; Abdulmajid A. Mirghni; Ananda Sholeh Rifky Hakim; Syed Shaheen Shah; Ade Siyanti Nurul Hidayah; Abduljamiu O. Amao; Markus Diantoro; Md. Abdul Aziz | Venue: Biomass and Bioenergy | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1016/j.biombioe.2025.108450 | OpenAlex: https://openalex.org/W4415000454</description>
+    </item>
+    <item>
+      <title>Optimizing drilling fluid rheology: The role of particle size distribution and advanced rheological modelling</title>
+      <link>https://doi.org/10.1002/cjce.70107</link>
+      <pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4414920070</guid>
+      <dc:creator>Jaber Al Jaberi; Badr Bageri</dc:creator>
+      <dc:publisher>The Canadian Journal of Chemical Engineering</dc:publisher>
+      <description>Authors: Jaber Al Jaberi; Badr Bageri | Venue: The Canadian Journal of Chemical Engineering | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1002/cjce.70107 | OpenAlex: https://openalex.org/W4414920070</description>
+    </item>
+    <item>
+      <title>Accurate velocity estimation from surface-consistent residual statics</title>
+      <link>https://doi.org/10.1038/s41598-025-18730-3</link>
+      <pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4414913886</guid>
+      <dc:creator>Ahmad Mazli Muhammad; Paul Edigbue; Sherif M. Hanafy; Umair bin Waheed; Abdullatif Al‐Shuhail</dc:creator>
+      <dc:publisher>Scientific Reports</dc:publisher>
+      <description>Authors: Ahmad Mazli Muhammad; Paul Edigbue; Sherif M. Hanafy; Umair bin Waheed; Abdullatif Al‐Shuhail | Venue: Scientific Reports | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1038/s41598-025-18730-3 | OpenAlex: https://openalex.org/W4414913886</description>
+    </item>
+    <item>
+      <title>Carbon Capture Mechanisms for Industries</title>
+      <link>https://doi.org/10.1201/9781003492733-10</link>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4414863866</guid>
+      <dc:creator>Amanullah Adeel; Mohammad Chasrun Hasani; Shirish Patil; Pawar Pratiksha Shivaji; Abdulahad Ahadi</dc:creator>
+      <dc:publisher>Climate Change and Sustainable Development</dc:publisher>
+      <description>Authors: Amanullah Adeel; Mohammad Chasrun Hasani; Shirish Patil; Pawar Pratiksha Shivaji; Abdulahad Ahadi | Venue: Climate Change and Sustainable Development | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1201/9781003492733-10 | OpenAlex: https://openalex.org/W4414863866</description>
+    </item>
+    <item>
+      <title>In-situ hydrogen production from natural gas reservoirs and gas separation by graphite packing: Process simulation and experimental study</title>
+      <link>https://doi.org/10.46690/ager.2025.11.06</link>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4416555930</guid>
+      <dc:creator>Bennet Nii Tackie-Otoo; Mohamed Mahmoud; Shirish Patil; Muhammad Shahzad Kamal</dc:creator>
+      <dc:publisher>ADVANCES IN GEO-ENERGY RESEARCH</dc:publisher>
+      <description>Authors: Bennet Nii Tackie-Otoo; Mohamed Mahmoud; Shirish Patil; Muhammad Shahzad Kamal | Venue: ADVANCES IN GEO-ENERGY RESEARCH | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.46690/ager.2025.11.06 | OpenAlex: https://openalex.org/W4416555930</description>
+    </item>
+    <item>
+      <title>Predictive value of CA-125 in the outcome of cases of threatened abortion</title>
+      <link>https://doi.org/10.21608/ijma.2025.404836.2217</link>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4414885733</guid>
+      <dc:creator>Mohamed Mahmoud; Rashed Mohamed Rashed; Alaa El Arshal</dc:creator>
+      <dc:publisher>International Journal of Medical Arts</dc:publisher>
+      <description>Authors: Mohamed Mahmoud; Rashed Mohamed Rashed; Alaa El Arshal | Venue: International Journal of Medical Arts | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.21608/ijma.2025.404836.2217 | OpenAlex: https://openalex.org/W4414885733</description>
+    </item>
+    <item>
+      <title>Explainable NLP Approach for Detection of Comorbidities in Chronic Kidney Disease Patients</title>
+      <link>https://doi.org/10.1109/icidca66325.2025.11280449</link>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4417404451</guid>
+      <dc:creator>Haroon Arif; Arshad Raza; Aashesh Kumar; Ahmed S. Ali; Bickey Kumar Shah</dc:creator>
+      <description>Authors: Haroon Arif; Arshad Raza; Aashesh Kumar; Ahmed S. Ali; Bickey Kumar Shah | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1109/icidca66325.2025.11280449 | OpenAlex: https://openalex.org/W4417404451</description>
+    </item>
+    <item>
+      <title>Seismic first-arrival traveltime simulation based on reciprocity-constrained PINN</title>
+      <link>https://doi.org/10.1016/j.jappgeo.2025.105967</link>
+      <pubDate>Sat, 04 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4414807955</guid>
+      <dc:creator>Hang Geng; Chao Song; Umair bin Waheed; Cai Liu</dc:creator>
+      <dc:publisher>Journal of Applied Geophysics</dc:publisher>
+      <description>Authors: Hang Geng; Chao Song; Umair bin Waheed; Cai Liu | Venue: Journal of Applied Geophysics | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1016/j.jappgeo.2025.105967 | OpenAlex: https://openalex.org/W4414807955</description>
+    </item>
+    <item>
+      <title>Scale Inhibition Efficiency of Chelating Agents Under High Temperature and Salinity</title>
+      <link>https://doi.org/10.1007/s13369-025-10640-w</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4414713796</guid>
+      <dc:creator>Ose Budiman; Shabeeb Alajmei; Murtada Saleh Aljawad; Mohamed Mahmoud; Muhammad Shahzad Kamal; Mobeen Murtaza; Prasad Karadkar; Fahd Alghunaimi</dc:creator>
+      <dc:publisher>Arabian Journal for Science and Engineering</dc:publisher>
+      <description>Authors: Ose Budiman; Shabeeb Alajmei; Murtada Saleh Aljawad; Mohamed Mahmoud; Muhammad Shahzad Kamal; Mobeen Murtaza; Prasad Karadkar; Fahd Alghunaimi | Venue: Arabian Journal for Science and Engineering | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1007/s13369-025-10640-w | OpenAlex: https://openalex.org/W4414713796</description>
+    </item>
+    <item>
+      <title>Consistency Between the Slip History Implied by in Situ &lt;sup&gt;36&lt;/sup&gt; Cl Exposure Dating on an Active Normal Fault and the Timing of Holocene Coastal Notch Formation, Central Greece</title>
+      <link>https://doi.org/10.1029/2024jb030293</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4414736258</guid>
+      <dc:creator>Jennifer Robertson; Claudia Sgambato; Gerald Roberts; Zoë Mildon; Joanna Faure Walker; Francesco Iezzi; Sam Mitchell; Athanassios Ganas; Ioannis Papanikolaou; Elias J. Rugen; Varvara Tsironi; Joakim Beck; Silke Mechernich; Georgios Deligiannakis; Steve Binnie; Tibor J. Dunai; Klaus Reicherter</dc:creator>
+      <dc:publisher>Journal of Geophysical Research Solid Earth</dc:publisher>
+      <description>Authors: Jennifer Robertson; Claudia Sgambato; Gerald Roberts; Zoë Mildon; Joanna Faure Walker; Francesco Iezzi; Sam Mitchell; Athanassios Ganas; Ioannis Papanikolaou; Elias J. Rugen; Varvara Tsironi; Joakim Beck; Silke Mechernich; Georgios Deligiannakis; Steve Binnie; Tibor J. Dunai; Klaus Reicherter | Venue: Journal of Geophysical Research Solid Earth | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1029/2024jb030293 | OpenAlex: https://openalex.org/W4414736258</description>
+    </item>
+    <item>
+      <title>Stable carbon and oxygen isotopes of benthic and planktonic foraminifera as palaeoenvironmental and palaeoclimatic proxies for the Bartonian–Priabonian in northwestern Saudi Arabia</title>
+      <link>https://doi.org/10.7306/gq.1799</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4415698517</guid>
+      <dc:creator>S. Allam; Asmaa Korin; Adhipa Herlambang; John Humphrey; Mohammed I. Alnajjar; Ahmed A. Bahameem; Abdullah Memesh; Iyad S. Zalmout; Michael A. Kaminski</dc:creator>
+      <dc:publisher>Geological Quarterly</dc:publisher>
+      <description>Authors: S. Allam; Asmaa Korin; Adhipa Herlambang; John Humphrey; Mohammed I. Alnajjar; Ahmed A. Bahameem; Abdullah Memesh; Iyad S. Zalmout; Michael A. Kaminski | Venue: Geological Quarterly | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.7306/gq.1799 | OpenAlex: https://openalex.org/W4415698517</description>
+    </item>
+    <item>
+      <title>Generation and Evaluation of Synthetic Low‐Magnitude Earthquake Data Using Auxiliary Classifier GAN</title>
+      <link>https://doi.org/10.1029/2024ea004064</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4414847594</guid>
+      <dc:creator>Amjad Alsulami; Basem Al‐Qadasi; Muhammad Usman; Umair bin Waheed</dc:creator>
+      <dc:publisher>Earth and Space Science</dc:publisher>
+      <description>Authors: Amjad Alsulami; Basem Al‐Qadasi; Muhammad Usman; Umair bin Waheed | Venue: Earth and Space Science | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1029/2024ea004064 | OpenAlex: https://openalex.org/W4414847594</description>
+    </item>
+    <item>
+      <title>Comprehensive permeability-transform solutions for shale and sandstones using data sets from around the globe</title>
+      <link>https://doi.org/10.1016/j.ptlrs.2025.08.006</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4414804359</guid>
+      <dc:creator>Ruud Weijermars</dc:creator>
+      <dc:publisher>Petroleum Research</dc:publisher>
+      <description>Authors: Ruud Weijermars | Venue: Petroleum Research | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1016/j.ptlrs.2025.08.006 | OpenAlex: https://openalex.org/W4414804359</description>
+    </item>
+    <item>
+      <title>Chitosan-Based Flocculant Heavy Metal Removal Prediction Using Machine Learning Models</title>
+      <link>https://doi.org/10.1021/acsomega.5c04000</link>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4414602501</guid>
+      <dc:creator>Zaher Mundher Yaseen‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬; Ziaul Haq Doost; Rauf Khan; Abdulazeez Abdulraheem; Sajjad Firas Abdulameer; Mayadah W. Falah; Aitazaz A. Farooque</dc:creator>
+      <dc:publisher>ACS Omega</dc:publisher>
+      <description>Authors: Zaher Mundher Yaseen‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬; Ziaul Haq Doost; Rauf Khan; Abdulazeez Abdulraheem; Sajjad Firas Abdulameer; Mayadah W. Falah; Aitazaz A. Farooque | Venue: ACS Omega | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1021/acsomega.5c04000 | OpenAlex: https://openalex.org/W4414602501</description>
+    </item>
+    <item>
+      <title>Multivariate and Correlation Analysis of Soil Quality Parameters in Traffic-Impacted and Control Sites in Ilorin Metropolis</title>
+      <link>https://doi.org/10.64290/bima.v9i3a.1340</link>
+      <pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4415060409</guid>
+      <dc:creator>Mariam Abiola Akanbi-Gada; Haroon Olamilekan Abdullahi; Abdulazeez Abdulraheem; Ridwan Onituwo Abdulganiyu; Abdulrasheed Adio; Najeemdeen Bolaji Abiodun; Omolara Faith Amubieya; A.T. Agboola</dc:creator>
+      <dc:publisher>BIMA JOURNAL OF SCIENCE AND TECHNOLOGY GOMBE</dc:publisher>
+      <description>Authors: Mariam Abiola Akanbi-Gada; Haroon Olamilekan Abdullahi; Abdulazeez Abdulraheem; Ridwan Onituwo Abdulganiyu; Abdulrasheed Adio; Najeemdeen Bolaji Abiodun; Omolara Faith Amubieya; A.T. Agboola | Venue: BIMA JOURNAL OF SCIENCE AND TECHNOLOGY GOMBE | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.64290/bima.v9i3a.1340 | OpenAlex: https://openalex.org/W4415060409</description>
+    </item>
+    <item>
+      <title>Clay-driven dolomitization at moderate to high temperatures: Evidence from hydrothermal experiments</title>
+      <link>https://doi.org/10.1130/g53737.1</link>
+      <pubDate>Wed, 24 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4414459744</guid>
+      <dc:creator>Abdulwahab Muhammad Bello; Abduljamiu O. Amao; Anas Muhammad Salisu; Khalid Al‐Ramadan</dc:creator>
+      <dc:publisher>Geology</dc:publisher>
+      <description>Authors: Abdulwahab Muhammad Bello; Abduljamiu O. Amao; Anas Muhammad Salisu; Khalid Al‐Ramadan | Venue: Geology | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1130/g53737.1 | OpenAlex: https://openalex.org/W4414459744</description>
+    </item>
+    <item>
+      <title>From Hematite to Magnetite: A Comparative Study on Weighting Materials in Well Cementing</title>
+      <link>https://doi.org/10.2118/230303-pa</link>
+      <pubDate>Wed, 24 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4414470930</guid>
+      <dc:creator>Dandi Alvayed; Ahmed Abdulhamid Mahmoud; Salaheldin Elkatatny; Saad Alafnan</dc:creator>
+      <dc:publisher>SPE Journal</dc:publisher>
+      <description>Authors: Dandi Alvayed; Ahmed Abdulhamid Mahmoud; Salaheldin Elkatatny; Saad Alafnan | Venue: SPE Journal | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.2118/230303-pa | OpenAlex: https://openalex.org/W4414470930</description>
+    </item>
+    <item>
+      <title>Geoelectrical Evaluation of CO&lt;sub&gt;2&lt;/sub&gt; Storage in Carbonate Aquifers Using Carbonated Water Injection</title>
+      <link>https://doi.org/10.1021/acs.energyfuels.5c03952</link>
+      <pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4414435188</guid>
+      <dc:creator>Maryana Emad Helmi; Isah Mohammed; Abdulrauf R. Adebayo; Khaled Abdelgawad; Mohamed Mahmoud</dc:creator>
+      <dc:publisher>Energy &amp; Fuels</dc:publisher>
+      <description>Authors: Maryana Emad Helmi; Isah Mohammed; Abdulrauf R. Adebayo; Khaled Abdelgawad; Mohamed Mahmoud | Venue: Energy &amp; Fuels | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1021/acs.energyfuels.5c03952 | OpenAlex: https://openalex.org/W4414435188</description>
+    </item>
+    <item>
+      <title>Fast Analysis Method of Diagnostic Fracture Injection Test Data: Examples from Four Different Shale Formations (Bakken, Three Forks, Wolfcamp, and Eagle Ford)</title>
+      <link>https://doi.org/10.2118/226622-ms</link>
+      <pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4414447089</guid>
+      <dc:creator>Ahmed Al-Shaikh; Ruud Weijermars</dc:creator>
+      <description>Authors: Ahmed Al-Shaikh; Ruud Weijermars | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.2118/226622-ms | OpenAlex: https://openalex.org/W4414447089</description>
+    </item>
+    <item>
+      <title>Application of Polymers in Hydraulic Fracturing Fluids: A Review</title>
+      <link>https://doi.org/10.3390/polym17182562</link>
+      <pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4414578816</guid>
+      <dc:creator>Amro Othman; Murtada Saleh Aljawad; Rajendra Kalgaonkar; Muhammad Shahzad Kamal</dc:creator>
+      <dc:publisher>Polymers</dc:publisher>
+      <description>Authors: Amro Othman; Murtada Saleh Aljawad; Rajendra Kalgaonkar; Muhammad Shahzad Kamal | Venue: Polymers | Year: 2025 | Citations: 1 | DOI: https://doi.org/10.3390/polym17182562 | OpenAlex: https://openalex.org/W4414578816</description>
+    </item>
+    <item>
+      <title>Mechanisms of near‐normal sea water dolomitisation: Mesohaline‐reflux or syn‐depositional?</title>
+      <link>https://doi.org/10.1002/dep2.70039</link>
+      <pubDate>Sat, 20 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4414373385</guid>
+      <dc:creator>Misbahu Abdullahi; Adhipa Herlambang; Khalid Al‐Ramadan; Ardiansyah Koeshidayatullah</dc:creator>
+      <dc:publisher>The Depositional Record</dc:publisher>
+      <description>Authors: Misbahu Abdullahi; Adhipa Herlambang; Khalid Al‐Ramadan; Ardiansyah Koeshidayatullah | Venue: The Depositional Record | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1002/dep2.70039 | OpenAlex: https://openalex.org/W4414373385</description>
     </item>
   </channel>
 </rss>
