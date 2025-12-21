@@ -4,6 +4,6 @@
   "message": "Experimental data: counts and classifications may contain errors. Use for exploration only, not for formal evaluation.",
   "bgClass": "bg-transparent",
   "textClass": "text-red-600 font-semibold",
-  "linkText": "Learn about the dashboard",
-  "linkHref": "/#/about"
+  "linkText": "Submit Feedback",
+  "linkHref": "https://forms.gle/gpC4uRSq9a25WtPr6"
 }
