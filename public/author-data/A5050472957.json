@@ -995,9 +995,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Responsible consumption and production",
+          "score": 0.49000000953674316,
           "id": "https://metadata.un.org/sdg/12",
-          "score": 0.49000000953674316
+          "display_name": "Responsible consumption and production"
         }
       ],
       "awards": [],
@@ -6631,9 +6631,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "score": 0.5299999713897705,
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5299999713897705
+          "display_name": "Climate action"
         }
       ],
       "awards": [],

@@ -1764,5 +1764,59 @@ export const authors: AuthorRecord[] = [
     "totalPublications": 9,
     "totalCitations": 80,
     "hIndex": 3
+  },
+  {
+    "authorId": "idb0097-abdullah-eassa",
+    "openAlexId": "A5016178719",
+    "openAlexIds": [
+      "A5016178719"
+    ],
+    "name": "Eassa Abdullah",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "aeassa@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 10,
+    "totalCitations": 20,
+    "hIndex": 3
+  },
+  {
+    "authorId": "idb0098-cline-jarvis",
+    "openAlexId": "A5006019310",
+    "openAlexIds": [
+      "A5006019310"
+    ],
+    "name": "Jarvis Cline",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "jarvis.cline@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 8,
+    "totalCitations": 11,
+    "hIndex": 3
+  },
+  {
+    "authorId": "idb0099-emad-muhammad",
+    "openAlexId": "A5051772086",
+    "openAlexIds": [
+      "A5051772086"
+    ],
+    "name": "Muhammad Emad",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "muhammadzaka.emad@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 65,
+    "totalCitations": 717,
+    "hIndex": 14
   }
 ];

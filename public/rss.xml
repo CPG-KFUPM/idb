@@ -4,7 +4,7 @@
     <title>Integrative Dashboard - Publications</title>
     <link>https://digitalgeosciences.github.io/dashboard3.2/</link>
     <description>Recent publications from the Integrative Geosciences dashboard.</description>
-    <lastBuildDate>Sun, 21 Dec 2025 20:24:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Dec 2025 03:14:45 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>Kaolinite Illitization Under Hydrothermal Conditions: Experimental Insight into Transformation Pathways</title>
@@ -16,15 +16,6 @@
       <description>Authors: Mashaer A. Alfaraj; Abdulwahab Muhammad Bello; Anas Muhammad Salisu; Khalid Al–Ramadan | Venue: Minerals | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.3390/min16010004 | OpenAlex: https://openalex.org/W4417503339</description>
     </item>
     <item>
-      <title>Cobalt-Based Molecular Catalysts Designed for Significantly Enhanced Low-Bias Photoelectrochemical Water Oxidation over BiVO &lt;sub&gt;4&lt;/sub&gt;</title>
-      <link>https://doi.org/10.1021/acscatal.5c06139</link>
-      <pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4417503444</guid>
-      <dc:creator>Tahir Naveed Jahangir; Muhammad Ashraf; Safwat Abdel‐Azeim; Sardaraz Khan; Nisar Ullah; Tarek A. Kandiel</dc:creator>
-      <dc:publisher>ACS Catalysis</dc:publisher>
-      <description>Authors: Tahir Naveed Jahangir; Muhammad Ashraf; Safwat Abdel‐Azeim; Sardaraz Khan; Nisar Ullah; Tarek A. Kandiel | Venue: ACS Catalysis | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1021/acscatal.5c06139 | OpenAlex: https://openalex.org/W4417503444</description>
-    </item>
-    <item>
       <title>Global trends and untapped potential of critical minerals for a sustainable future in the Arabian Peninsula</title>
       <link>https://doi.org/10.1016/j.exis.2025.101840</link>
       <pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
@@ -32,6 +23,15 @@
       <dc:creator>Muhammad Zaka Emad; Arshad Raza; Mohamed Mahmoud; Muhammad Shahzad Kamal; Daniyal Abbasi</dc:creator>
       <dc:publisher>The Extractive Industries and Society</dc:publisher>
       <description>Authors: Muhammad Zaka Emad; Arshad Raza; Mohamed Mahmoud; Muhammad Shahzad Kamal; Daniyal Abbasi | Venue: The Extractive Industries and Society | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1016/j.exis.2025.101840 | OpenAlex: https://openalex.org/W4417506769</description>
+    </item>
+    <item>
+      <title>Cobalt-Based Molecular Catalysts Designed for Significantly Enhanced Low-Bias Photoelectrochemical Water Oxidation over BiVO &lt;sub&gt;4&lt;/sub&gt;</title>
+      <link>https://doi.org/10.1021/acscatal.5c06139</link>
+      <pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4417503444</guid>
+      <dc:creator>Tahir Naveed Jahangir; Muhammad Ashraf; Safwat Abdel‐Azeim; Sardaraz Khan; Nisar Ullah; Tarek A. Kandiel</dc:creator>
+      <dc:publisher>ACS Catalysis</dc:publisher>
+      <description>Authors: Tahir Naveed Jahangir; Muhammad Ashraf; Safwat Abdel‐Azeim; Sardaraz Khan; Nisar Ullah; Tarek A. Kandiel | Venue: ACS Catalysis | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1021/acscatal.5c06139 | OpenAlex: https://openalex.org/W4417503444</description>
     </item>
     <item>
       <title>Methylene Blue and DTAB Synergy for Wettability Modification in Saline Media</title>
@@ -223,15 +223,6 @@
       <description>Authors: Mahmoud Jumaa; Amjed Hassan; Ashtiwi Bahri | Venue: Scientific Reports | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1038/s41598-025-26458-3 | OpenAlex: https://openalex.org/W4416764361</description>
     </item>
     <item>
-      <title>Paper spray analysis of crude oil samples: comparing traditional characterization schemes with mass spectrometric outcomes</title>
-      <link>https://doi.org/10.1016/j.ijms.2025.117554</link>
-      <pubDate>Tue, 25 Nov 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4416640793</guid>
-      <dc:creator>Theis I. Sølling; Nathan F. Dalleska; J. L. Beauchamp</dc:creator>
-      <dc:publisher>International Journal of Mass Spectrometry</dc:publisher>
-      <description>Authors: Theis I. Sølling; Nathan F. Dalleska; J. L. Beauchamp | Venue: International Journal of Mass Spectrometry | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1016/j.ijms.2025.117554 | OpenAlex: https://openalex.org/W4416640793</description>
-    </item>
-    <item>
       <title>Predicting Photoelectric Logs in Challenging Conditions Using Machine Learning and Statistical Analysis</title>
       <link>https://doi.org/10.2118/230435-ms</link>
       <pubDate>Tue, 25 Nov 2025 00:00:00 GMT</pubDate>
@@ -239,6 +230,15 @@
       <dc:creator>Eassa Abdullah; Subhan Aliyev; Salaheldin Elkatatny</dc:creator>
       <dc:publisher>SPE Annual Caspian Technical Conference and Exhibition</dc:publisher>
       <description>Authors: Eassa Abdullah; Subhan Aliyev; Salaheldin Elkatatny | Venue: SPE Annual Caspian Technical Conference and Exhibition | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.2118/230435-ms | OpenAlex: https://openalex.org/W4416589455</description>
+    </item>
+    <item>
+      <title>Paper spray analysis of crude oil samples: comparing traditional characterization schemes with mass spectrometric outcomes</title>
+      <link>https://doi.org/10.1016/j.ijms.2025.117554</link>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4416640793</guid>
+      <dc:creator>Theis I. Sølling; Nathan F. Dalleska; J. L. Beauchamp</dc:creator>
+      <dc:publisher>International Journal of Mass Spectrometry</dc:publisher>
+      <description>Authors: Theis I. Sølling; Nathan F. Dalleska; J. L. Beauchamp | Venue: International Journal of Mass Spectrometry | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1016/j.ijms.2025.117554 | OpenAlex: https://openalex.org/W4416640793</description>
     </item>
     <item>
       <title>Improving Stability and Rheology of Oil-Based Drilling Fluids with a Novel Organoclay Additive for HPHT Applications</title>
