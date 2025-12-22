@@ -20,31 +20,31 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10635",
     "name": "Hydraulic Fracturing and Reservoir Analysis",
     "publications": 1674,
-    "citations": 31560
+    "citations": 31563
   },
   {
     "id": "https://openalex.org/T10892",
     "name": "Drilling and Well Engineering",
     "publications": 1150,
-    "citations": 17066
+    "citations": 17067
   },
   {
     "id": "https://openalex.org/T10399",
     "name": "Hydrocarbon exploration and reservoir analysis",
     "publications": 1134,
-    "citations": 21294
+    "citations": 21296
   },
   {
     "id": "https://openalex.org/T10491",
     "name": "Enhanced Oil Recovery Techniques",
     "publications": 933,
-    "citations": 20937
+    "citations": 20941
   },
   {
     "id": "https://openalex.org/T10271",
     "name": "Seismic Imaging and Inversion Techniques",
     "publications": 691,
-    "citations": 6956
+    "citations": 6957
   },
   {
     "id": "https://openalex.org/T11801",
@@ -62,7 +62,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10995",
     "name": "Methane Hydrates and Related Phenomena",
     "publications": 390,
-    "citations": 10266
+    "citations": 10267
   },
   {
     "id": "https://openalex.org/T11302",
@@ -80,7 +80,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T11630",
     "name": "Petroleum Processing and Analysis",
     "publications": 368,
-    "citations": 8059
+    "citations": 8061
   },
   {
     "id": "https://openalex.org/T10001",
@@ -122,7 +122,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T13177",
     "name": "Geological and Geophysical Studies",
     "publications": 216,
-    "citations": 1374
+    "citations": 1375
   },
   {
     "id": "https://openalex.org/T10965",
@@ -152,7 +152,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10572",
     "name": "Geophysical and Geoelectrical Methods",
     "publications": 143,
-    "citations": 1041
+    "citations": 1042
   },
   {
     "id": "https://openalex.org/T10413",
@@ -308,7 +308,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10192",
     "name": "Catalytic Processes in Materials Science",
     "publications": 47,
-    "citations": 4545
+    "citations": 4546
   },
   {
     "id": "https://openalex.org/T11915",
@@ -434,7 +434,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T11405",
     "name": "Geophysics and Gravity Measurements",
     "publications": 33,
-    "citations": 27
+    "citations": 28
   },
   {
     "id": "https://openalex.org/T12613",
@@ -638,7 +638,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T12424",
     "name": "Earthquake Detection and Analysis",
     "publications": 23,
-    "citations": 75
+    "citations": 76
   },
   {
     "id": "https://openalex.org/T10913",
@@ -818,7 +818,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T12316",
     "name": "Oil Spill Detection and Mitigation",
     "publications": 17,
-    "citations": 619
+    "citations": 620
   },
   {
     "id": "https://openalex.org/T11850",
@@ -950,7 +950,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10096",
     "name": "Metal-Organic Frameworks: Synthesis and Applications",
     "publications": 14,
-    "citations": 807
+    "citations": 808
   },
   {
     "id": "https://openalex.org/T10536",
@@ -1292,7 +1292,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T12425",
     "name": "Industrial Gas Emission Control",
     "publications": 9,
-    "citations": 323
+    "citations": 324
   },
   {
     "id": "https://openalex.org/T10534",
@@ -1496,13 +1496,13 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T11948",
     "name": "Machine Learning in Materials Science",
     "publications": 8,
-    "citations": 97
+    "citations": 98
   },
   {
     "id": "https://openalex.org/T10798",
     "name": "Crystallography and molecular interactions",
     "publications": 8,
-    "citations": 95
+    "citations": 96
   },
   {
     "id": "https://openalex.org/T12190",
@@ -8429,7 +8429,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I134085113",
     "name": "King Fahd University of Petroleum and Minerals",
     "publications": 3201,
-    "citations": 55474
+    "citations": 55480
   },
   {
     "id": "https://openalex.org/I71920554",
@@ -8441,7 +8441,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I4210143841",
     "name": "Saudi Aramco (Saudi Arabia)",
     "publications": 228,
-    "citations": 3094
+    "citations": 3096
   },
   {
     "id": "https://openalex.org/I96673099",
@@ -8483,7 +8483,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I205640436",
     "name": "Curtin University",
     "publications": 102,
-    "citations": 6157
+    "citations": 6158
   },
   {
     "id": "https://openalex.org/I142732210",
@@ -8495,7 +8495,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I12079687",
     "name": "Edith Cowan University",
     "publications": 91,
-    "citations": 4702
+    "citations": 4703
   },
   {
     "id": "https://openalex.org/I98358874",
@@ -8561,7 +8561,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I203899302",
     "name": "Universiti Teknologi Petronas",
     "publications": 54,
-    "citations": 2003
+    "citations": 2004
   },
   {
     "id": "https://openalex.org/I154425047",
@@ -9701,7 +9701,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I4210142005",
     "name": "University of Kerbala",
     "publications": 7,
-    "citations": 215
+    "citations": 216
   },
   {
     "id": "https://openalex.org/I36243813",

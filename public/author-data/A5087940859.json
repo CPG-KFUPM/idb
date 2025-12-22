@@ -1180,8 +1180,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/7",
           "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7",
           "score": 0.8600000143051147
         }
       ],
@@ -2023,8 +2023,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.4399999976158142
         }
       ],
@@ -3840,8 +3840,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6",
           "score": 0.7300000190734863
         }
       ],
@@ -4558,13 +4558,13 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6",
           "score": 0.44999998807907104
         },
         {
-          "id": "https://metadata.un.org/sdg/7",
           "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7",
           "score": 0.4399999976158142
         }
       ],
@@ -5324,8 +5324,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/9",
           "display_name": "Industry, innovation and infrastructure",
+          "id": "https://metadata.un.org/sdg/9",
           "score": 0.4699999988079071
         }
       ],
@@ -6672,8 +6672,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6",
           "score": 0.46000000834465027
         }
       ],
@@ -8016,8 +8016,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/9",
           "display_name": "Industry, innovation and infrastructure",
+          "id": "https://metadata.un.org/sdg/9",
           "score": 0.47999998927116394
         }
       ],
@@ -9815,8 +9815,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6",
           "score": 0.46000000834465027
         }
       ],
@@ -11057,8 +11057,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/9",
           "display_name": "Industry, innovation and infrastructure",
+          "id": "https://metadata.un.org/sdg/9",
           "score": 0.5
         }
       ],
@@ -14854,8 +14854,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.4300000071525574
         }
       ],
@@ -14996,6 +14996,661 @@
         }
       ],
       "updated_date": "2025-11-06T03:46:38.306776",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4403485983",
+      "doi": "https://doi.org/10.1021/acs.energyfuels.4c03699",
+      "title": "Gas Injection Dynamics and Hydrogen Storage in Carbonate Reservoirs: Core-Flooding and Molecular Simulation Study",
+      "display_name": "Gas Injection Dynamics and Hydrogen Storage in Carbonate Reservoirs: Core-Flooding and Molecular Simulation Study",
+      "publication_year": 2024,
+      "publication_date": "2024-10-17",
+      "ids": {
+        "openalex": "https://openalex.org/W4403485983",
+        "doi": "https://doi.org/10.1021/acs.energyfuels.4c03699"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1021/acs.energyfuels.4c03699",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1021/acs.energyfuels.4c03699",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S186935893",
+          "display_name": "Energy & Fuels",
+          "issn_l": "0887-0624",
+          "issn": [
+            "0887-0624",
+            "1520-5029"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320006",
+          "host_organization_name": "American Chemical Society",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320006"
+          ],
+          "host_organization_lineage_names": [
+            "American Chemical Society"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Energy &amp; Fuels",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5087940859",
+            "display_name": "Ahmed Fatah",
+            "orcid": "https://orcid.org/0000-0003-4152-6060"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ahmed Fatah",
+          "raw_affiliation_strings": [
+            "Center of Integrative Petroleum Research (CIPR), College of Petroleum Engineering and Geoscience, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center of Integrative Petroleum Research (CIPR), College of Petroleum Engineering and Geoscience, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5059738250",
+            "display_name": "Ahmed Al‐Yaseri",
+            "orcid": "https://orcid.org/0000-0001-9094-1258"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ahmed Al-Yaseri",
+          "raw_affiliation_strings": [
+            "Center of Integrative Petroleum Research (CIPR), College of Petroleum Engineering and Geoscience, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center of Integrative Petroleum Research (CIPR), College of Petroleum Engineering and Geoscience, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5111278657",
+            "display_name": "Salem Alshammari",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Salem Alshammari",
+          "raw_affiliation_strings": [
+            "Reservoir Engineering Technology Division, Saudi Aramco, Dhahran 31261, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Reservoir Engineering Technology Division, Saudi Aramco, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5026699389",
+            "display_name": "Abdulaziz Al-Qasim",
+            "orcid": "https://orcid.org/0000-0001-8467-2071"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Abdulaziz S. Al-Qasim",
+          "raw_affiliation_strings": [
+            "Reservoir Engineering Technology Division, Saudi Aramco, Dhahran 31261, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Reservoir Engineering Technology Division, Saudi Aramco, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 4,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 6.49779328,
+      "has_fulltext": false,
+      "cited_by_count": 13,
+      "citation_normalized_percentile": {
+        "value": 0.95816918,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 99,
+        "max": 100
+      },
+      "biblio": {
+        "volume": "38",
+        "issue": "21",
+        "first_page": "20951",
+        "last_page": "20966"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10399",
+        "display_name": "Hydrocarbon exploration and reservoir analysis",
+        "score": 0.9997000098228455,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2211",
+          "display_name": "Mechanics of Materials"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.9997000098228455,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10491",
+          "display_name": "Enhanced Oil Recovery Techniques",
+          "score": 0.9994999766349792,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2212",
+            "display_name": "Ocean Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10635",
+          "display_name": "Hydraulic Fracturing and Reservoir Analysis",
+          "score": 0.9991999864578247,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2210",
+            "display_name": "Mechanical Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/carbonate",
+          "display_name": "Carbonate",
+          "score": 0.7303531169891357
+        },
+        {
+          "id": "https://openalex.org/keywords/petroleum-engineering",
+          "display_name": "Petroleum engineering",
+          "score": 0.6090712547302246
+        },
+        {
+          "id": "https://openalex.org/keywords/flooding",
+          "display_name": "Flooding (psychology)",
+          "score": 0.5113479495048523
+        },
+        {
+          "id": "https://openalex.org/keywords/molecular-dynamics",
+          "display_name": "Molecular dynamics",
+          "score": 0.4893049895763397
+        },
+        {
+          "id": "https://openalex.org/keywords/environmental-science",
+          "display_name": "Environmental science",
+          "score": 0.4808148145675659
+        },
+        {
+          "id": "https://openalex.org/keywords/core",
+          "display_name": "Core (optical fiber)",
+          "score": 0.45226091146469116
+        },
+        {
+          "id": "https://openalex.org/keywords/water-flooding",
+          "display_name": "Water flooding",
+          "score": 0.4453323483467102
+        },
+        {
+          "id": "https://openalex.org/keywords/reservoir-simulation",
+          "display_name": "Reservoir simulation",
+          "score": 0.435214102268219
+        },
+        {
+          "id": "https://openalex.org/keywords/chemistry",
+          "display_name": "Chemistry",
+          "score": 0.3975141942501068
+        },
+        {
+          "id": "https://openalex.org/keywords/materials-science",
+          "display_name": "Materials science",
+          "score": 0.29582715034484863
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.2840980291366577
+        },
+        {
+          "id": "https://openalex.org/keywords/organic-chemistry",
+          "display_name": "Organic chemistry",
+          "score": 0.08895179629325867
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2780659211",
+          "wikidata": "https://www.wikidata.org/wiki/Q181699",
+          "display_name": "Carbonate",
+          "level": 2,
+          "score": 0.7303531169891357
+        },
+        {
+          "id": "https://openalex.org/C78762247",
+          "wikidata": "https://www.wikidata.org/wiki/Q1273174",
+          "display_name": "Petroleum engineering",
+          "level": 1,
+          "score": 0.6090712547302246
+        },
+        {
+          "id": "https://openalex.org/C186594467",
+          "wikidata": "https://www.wikidata.org/wiki/Q1429176",
+          "display_name": "Flooding (psychology)",
+          "level": 2,
+          "score": 0.5113479495048523
+        },
+        {
+          "id": "https://openalex.org/C59593255",
+          "wikidata": "https://www.wikidata.org/wiki/Q901663",
+          "display_name": "Molecular dynamics",
+          "level": 2,
+          "score": 0.4893049895763397
+        },
+        {
+          "id": "https://openalex.org/C39432304",
+          "wikidata": "https://www.wikidata.org/wiki/Q188847",
+          "display_name": "Environmental science",
+          "level": 0,
+          "score": 0.4808148145675659
+        },
+        {
+          "id": "https://openalex.org/C2164484",
+          "wikidata": "https://www.wikidata.org/wiki/Q5170150",
+          "display_name": "Core (optical fiber)",
+          "level": 2,
+          "score": 0.45226091146469116
+        },
+        {
+          "id": "https://openalex.org/C3019147571",
+          "wikidata": "https://www.wikidata.org/wiki/Q7973522",
+          "display_name": "Water flooding",
+          "level": 2,
+          "score": 0.4453323483467102
+        },
+        {
+          "id": "https://openalex.org/C2778668878",
+          "wikidata": "https://www.wikidata.org/wiki/Q6380338",
+          "display_name": "Reservoir simulation",
+          "level": 2,
+          "score": 0.435214102268219
+        },
+        {
+          "id": "https://openalex.org/C185592680",
+          "wikidata": "https://www.wikidata.org/wiki/Q2329",
+          "display_name": "Chemistry",
+          "level": 0,
+          "score": 0.3975141942501068
+        },
+        {
+          "id": "https://openalex.org/C192562407",
+          "wikidata": "https://www.wikidata.org/wiki/Q228736",
+          "display_name": "Materials science",
+          "level": 0,
+          "score": 0.29582715034484863
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.2840980291366577
+        },
+        {
+          "id": "https://openalex.org/C178790620",
+          "wikidata": "https://www.wikidata.org/wiki/Q11351",
+          "display_name": "Organic chemistry",
+          "level": 1,
+          "score": 0.08895179629325867
+        },
+        {
+          "id": "https://openalex.org/C159985019",
+          "wikidata": "https://www.wikidata.org/wiki/Q181790",
+          "display_name": "Composite material",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C542102704",
+          "wikidata": "https://www.wikidata.org/wiki/Q183257",
+          "display_name": "Psychotherapist",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C147597530",
+          "wikidata": "https://www.wikidata.org/wiki/Q369472",
+          "display_name": "Computational chemistry",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1021/acs.energyfuels.4c03699",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1021/acs.energyfuels.4c03699",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S186935893",
+            "display_name": "Energy & Fuels",
+            "issn_l": "0887-0624",
+            "issn": [
+              "0887-0624",
+              "1520-5029"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320006",
+            "host_organization_name": "American Chemical Society",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320006"
+            ],
+            "host_organization_lineage_names": [
+              "American Chemical Society"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Energy &amp; Fuels",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.5299999713897705
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "referenced_works_count": 102,
+      "referenced_works": [
+        "https://openalex.org/W3020849199",
+        "https://openalex.org/W3176616284",
+        "https://openalex.org/W2604613422",
+        "https://openalex.org/W4200559907",
+        "https://openalex.org/W3033254345",
+        "https://openalex.org/W4398161917",
+        "https://openalex.org/W4386959758",
+        "https://openalex.org/W4321767624",
+        "https://openalex.org/W2991904870",
+        "https://openalex.org/W4309114627",
+        "https://openalex.org/W4384636672",
+        "https://openalex.org/W4366494153",
+        "https://openalex.org/W2042739916",
+        "https://openalex.org/W2551507401",
+        "https://openalex.org/W4401257009",
+        "https://openalex.org/W4392799599",
+        "https://openalex.org/W2904648254",
+        "https://openalex.org/W2903093558",
+        "https://openalex.org/W1973429802",
+        "https://openalex.org/W2125055417",
+        "https://openalex.org/W2788521973",
+        "https://openalex.org/W4313854301",
+        "https://openalex.org/W4283121464",
+        "https://openalex.org/W4294715493",
+        "https://openalex.org/W3005604900",
+        "https://openalex.org/W3216018398",
+        "https://openalex.org/W4385382885",
+        "https://openalex.org/W2167997404",
+        "https://openalex.org/W4293125288",
+        "https://openalex.org/W3196546975",
+        "https://openalex.org/W2610269235",
+        "https://openalex.org/W4361284035",
+        "https://openalex.org/W2074575662",
+        "https://openalex.org/W4293211292",
+        "https://openalex.org/W2055863538",
+        "https://openalex.org/W4207041759",
+        "https://openalex.org/W2991047371",
+        "https://openalex.org/W1965425993",
+        "https://openalex.org/W4311255578",
+        "https://openalex.org/W4389263457",
+        "https://openalex.org/W4390086859",
+        "https://openalex.org/W4386798154",
+        "https://openalex.org/W4280633468",
+        "https://openalex.org/W4281938260",
+        "https://openalex.org/W3164382478",
+        "https://openalex.org/W4390242419",
+        "https://openalex.org/W4281646739",
+        "https://openalex.org/W3160605717",
+        "https://openalex.org/W4323637217",
+        "https://openalex.org/W4284967692",
+        "https://openalex.org/W4283019841",
+        "https://openalex.org/W4388907215",
+        "https://openalex.org/W2314899542",
+        "https://openalex.org/W2004936374",
+        "https://openalex.org/W2008062583",
+        "https://openalex.org/W1976387459",
+        "https://openalex.org/W2152977647",
+        "https://openalex.org/W1992581616",
+        "https://openalex.org/W2603776636",
+        "https://openalex.org/W1986714070",
+        "https://openalex.org/W2052355863",
+        "https://openalex.org/W1031578623",
+        "https://openalex.org/W2067174909",
+        "https://openalex.org/W2042430712",
+        "https://openalex.org/W2051381895",
+        "https://openalex.org/W2041388413",
+        "https://openalex.org/W2337120805",
+        "https://openalex.org/W2056227679",
+        "https://openalex.org/W3182984964",
+        "https://openalex.org/W2319780844",
+        "https://openalex.org/W2003949305",
+        "https://openalex.org/W2129288307",
+        "https://openalex.org/W2057477511",
+        "https://openalex.org/W2029667189",
+        "https://openalex.org/W4281685280",
+        "https://openalex.org/W2934056797",
+        "https://openalex.org/W2925690970",
+        "https://openalex.org/W3153798866",
+        "https://openalex.org/W2261455217",
+        "https://openalex.org/W2256339549",
+        "https://openalex.org/W3132940088",
+        "https://openalex.org/W6912834301",
+        "https://openalex.org/W2883284252",
+        "https://openalex.org/W4294741325",
+        "https://openalex.org/W2038553900",
+        "https://openalex.org/W4367293432",
+        "https://openalex.org/W2095310133",
+        "https://openalex.org/W2008919700",
+        "https://openalex.org/W2761929022",
+        "https://openalex.org/W4380267095",
+        "https://openalex.org/W2611470961",
+        "https://openalex.org/W2944363567",
+        "https://openalex.org/W2313427354",
+        "https://openalex.org/W3033425575",
+        "https://openalex.org/W4386913250",
+        "https://openalex.org/W4391070279",
+        "https://openalex.org/W4300981107",
+        "https://openalex.org/W3040758490",
+        "https://openalex.org/W2159352443",
+        "https://openalex.org/W4392439517",
+        "https://openalex.org/W638108327",
+        "https://openalex.org/W4299940692"
+      ],
+      "related_works": [
+        "https://openalex.org/W2039543756",
+        "https://openalex.org/W2386325437",
+        "https://openalex.org/W2353043494",
+        "https://openalex.org/W2389069740",
+        "https://openalex.org/W4251600633",
+        "https://openalex.org/W4312518443",
+        "https://openalex.org/W2363593556",
+        "https://openalex.org/W2364697465",
+        "https://openalex.org/W2362718873",
+        "https://openalex.org/W2390295735"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 13
+        }
+      ],
+      "updated_date": "2025-12-21T23:12:01.093139",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -20744,661 +21399,6 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W4403485983",
-      "doi": "https://doi.org/10.1021/acs.energyfuels.4c03699",
-      "title": "Gas Injection Dynamics and Hydrogen Storage in Carbonate Reservoirs: Core-Flooding and Molecular Simulation Study",
-      "display_name": "Gas Injection Dynamics and Hydrogen Storage in Carbonate Reservoirs: Core-Flooding and Molecular Simulation Study",
-      "publication_year": 2024,
-      "publication_date": "2024-10-17",
-      "ids": {
-        "openalex": "https://openalex.org/W4403485983",
-        "doi": "https://doi.org/10.1021/acs.energyfuels.4c03699"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1021/acs.energyfuels.4c03699",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1021/acs.energyfuels.4c03699",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S186935893",
-          "display_name": "Energy & Fuels",
-          "issn_l": "0887-0624",
-          "issn": [
-            "0887-0624",
-            "1520-5029"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320006",
-          "host_organization_name": "American Chemical Society",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320006"
-          ],
-          "host_organization_lineage_names": [
-            "American Chemical Society"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Energy &amp; Fuels",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5087940859",
-            "display_name": "Ahmed Fatah",
-            "orcid": "https://orcid.org/0000-0003-4152-6060"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Ahmed Fatah",
-          "raw_affiliation_strings": [
-            "Center of Integrative Petroleum Research (CIPR), College of Petroleum Engineering and Geoscience, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Center of Integrative Petroleum Research (CIPR), College of Petroleum Engineering and Geoscience, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5059738250",
-            "display_name": "Ahmed Al‐Yaseri",
-            "orcid": "https://orcid.org/0000-0001-9094-1258"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Ahmed Al-Yaseri",
-          "raw_affiliation_strings": [
-            "Center of Integrative Petroleum Research (CIPR), College of Petroleum Engineering and Geoscience, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Center of Integrative Petroleum Research (CIPR), College of Petroleum Engineering and Geoscience, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5111278657",
-            "display_name": "Salem Alshammari",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Salem Alshammari",
-          "raw_affiliation_strings": [
-            "Reservoir Engineering Technology Division, Saudi Aramco, Dhahran 31261, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Reservoir Engineering Technology Division, Saudi Aramco, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5026699389",
-            "display_name": "Abdulaziz Al-Qasim",
-            "orcid": "https://orcid.org/0000-0001-8467-2071"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Abdulaziz S. Al-Qasim",
-          "raw_affiliation_strings": [
-            "Reservoir Engineering Technology Division, Saudi Aramco, Dhahran 31261, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Reservoir Engineering Technology Division, Saudi Aramco, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 4,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 5.49813278,
-      "has_fulltext": false,
-      "cited_by_count": 11,
-      "citation_normalized_percentile": {
-        "value": 0.94768691,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 98,
-        "max": 99
-      },
-      "biblio": {
-        "volume": "38",
-        "issue": "21",
-        "first_page": "20951",
-        "last_page": "20966"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10399",
-        "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "score": 0.9997000098228455,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2211",
-          "display_name": "Mechanics of Materials"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9997000098228455,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10491",
-          "display_name": "Enhanced Oil Recovery Techniques",
-          "score": 0.9994999766349792,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2212",
-            "display_name": "Ocean Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10635",
-          "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-          "score": 0.9991999864578247,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2210",
-            "display_name": "Mechanical Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/carbonate",
-          "display_name": "Carbonate",
-          "score": 0.7303531169891357
-        },
-        {
-          "id": "https://openalex.org/keywords/petroleum-engineering",
-          "display_name": "Petroleum engineering",
-          "score": 0.6090712547302246
-        },
-        {
-          "id": "https://openalex.org/keywords/flooding",
-          "display_name": "Flooding (psychology)",
-          "score": 0.5113479495048523
-        },
-        {
-          "id": "https://openalex.org/keywords/molecular-dynamics",
-          "display_name": "Molecular dynamics",
-          "score": 0.4893049895763397
-        },
-        {
-          "id": "https://openalex.org/keywords/environmental-science",
-          "display_name": "Environmental science",
-          "score": 0.4808148145675659
-        },
-        {
-          "id": "https://openalex.org/keywords/core",
-          "display_name": "Core (optical fiber)",
-          "score": 0.45226091146469116
-        },
-        {
-          "id": "https://openalex.org/keywords/water-flooding",
-          "display_name": "Water flooding",
-          "score": 0.4453323483467102
-        },
-        {
-          "id": "https://openalex.org/keywords/reservoir-simulation",
-          "display_name": "Reservoir simulation",
-          "score": 0.435214102268219
-        },
-        {
-          "id": "https://openalex.org/keywords/chemistry",
-          "display_name": "Chemistry",
-          "score": 0.3975141942501068
-        },
-        {
-          "id": "https://openalex.org/keywords/materials-science",
-          "display_name": "Materials science",
-          "score": 0.29582715034484863
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.2840980291366577
-        },
-        {
-          "id": "https://openalex.org/keywords/organic-chemistry",
-          "display_name": "Organic chemistry",
-          "score": 0.08895179629325867
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C2780659211",
-          "wikidata": "https://www.wikidata.org/wiki/Q181699",
-          "display_name": "Carbonate",
-          "level": 2,
-          "score": 0.7303531169891357
-        },
-        {
-          "id": "https://openalex.org/C78762247",
-          "wikidata": "https://www.wikidata.org/wiki/Q1273174",
-          "display_name": "Petroleum engineering",
-          "level": 1,
-          "score": 0.6090712547302246
-        },
-        {
-          "id": "https://openalex.org/C186594467",
-          "wikidata": "https://www.wikidata.org/wiki/Q1429176",
-          "display_name": "Flooding (psychology)",
-          "level": 2,
-          "score": 0.5113479495048523
-        },
-        {
-          "id": "https://openalex.org/C59593255",
-          "wikidata": "https://www.wikidata.org/wiki/Q901663",
-          "display_name": "Molecular dynamics",
-          "level": 2,
-          "score": 0.4893049895763397
-        },
-        {
-          "id": "https://openalex.org/C39432304",
-          "wikidata": "https://www.wikidata.org/wiki/Q188847",
-          "display_name": "Environmental science",
-          "level": 0,
-          "score": 0.4808148145675659
-        },
-        {
-          "id": "https://openalex.org/C2164484",
-          "wikidata": "https://www.wikidata.org/wiki/Q5170150",
-          "display_name": "Core (optical fiber)",
-          "level": 2,
-          "score": 0.45226091146469116
-        },
-        {
-          "id": "https://openalex.org/C3019147571",
-          "wikidata": "https://www.wikidata.org/wiki/Q7973522",
-          "display_name": "Water flooding",
-          "level": 2,
-          "score": 0.4453323483467102
-        },
-        {
-          "id": "https://openalex.org/C2778668878",
-          "wikidata": "https://www.wikidata.org/wiki/Q6380338",
-          "display_name": "Reservoir simulation",
-          "level": 2,
-          "score": 0.435214102268219
-        },
-        {
-          "id": "https://openalex.org/C185592680",
-          "wikidata": "https://www.wikidata.org/wiki/Q2329",
-          "display_name": "Chemistry",
-          "level": 0,
-          "score": 0.3975141942501068
-        },
-        {
-          "id": "https://openalex.org/C192562407",
-          "wikidata": "https://www.wikidata.org/wiki/Q228736",
-          "display_name": "Materials science",
-          "level": 0,
-          "score": 0.29582715034484863
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.2840980291366577
-        },
-        {
-          "id": "https://openalex.org/C178790620",
-          "wikidata": "https://www.wikidata.org/wiki/Q11351",
-          "display_name": "Organic chemistry",
-          "level": 1,
-          "score": 0.08895179629325867
-        },
-        {
-          "id": "https://openalex.org/C159985019",
-          "wikidata": "https://www.wikidata.org/wiki/Q181790",
-          "display_name": "Composite material",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C542102704",
-          "wikidata": "https://www.wikidata.org/wiki/Q183257",
-          "display_name": "Psychotherapist",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C147597530",
-          "wikidata": "https://www.wikidata.org/wiki/Q369472",
-          "display_name": "Computational chemistry",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C15744967",
-          "wikidata": "https://www.wikidata.org/wiki/Q9418",
-          "display_name": "Psychology",
-          "level": 0,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1021/acs.energyfuels.4c03699",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1021/acs.energyfuels.4c03699",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S186935893",
-            "display_name": "Energy & Fuels",
-            "issn_l": "0887-0624",
-            "issn": [
-              "0887-0624",
-              "1520-5029"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310320006",
-            "host_organization_name": "American Chemical Society",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320006"
-            ],
-            "host_organization_lineage_names": [
-              "American Chemical Society"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Energy &amp; Fuels",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation",
-          "score": 0.5299999713897705
-        }
-      ],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "referenced_works_count": 102,
-      "referenced_works": [
-        "https://openalex.org/W3020849199",
-        "https://openalex.org/W3176616284",
-        "https://openalex.org/W2604613422",
-        "https://openalex.org/W4200559907",
-        "https://openalex.org/W3033254345",
-        "https://openalex.org/W4398161917",
-        "https://openalex.org/W4386959758",
-        "https://openalex.org/W4321767624",
-        "https://openalex.org/W2991904870",
-        "https://openalex.org/W4309114627",
-        "https://openalex.org/W4384636672",
-        "https://openalex.org/W4366494153",
-        "https://openalex.org/W2042739916",
-        "https://openalex.org/W2551507401",
-        "https://openalex.org/W4401257009",
-        "https://openalex.org/W4392799599",
-        "https://openalex.org/W2904648254",
-        "https://openalex.org/W2903093558",
-        "https://openalex.org/W1973429802",
-        "https://openalex.org/W2125055417",
-        "https://openalex.org/W2788521973",
-        "https://openalex.org/W4313854301",
-        "https://openalex.org/W4283121464",
-        "https://openalex.org/W4294715493",
-        "https://openalex.org/W3005604900",
-        "https://openalex.org/W3216018398",
-        "https://openalex.org/W4385382885",
-        "https://openalex.org/W2167997404",
-        "https://openalex.org/W4293125288",
-        "https://openalex.org/W3196546975",
-        "https://openalex.org/W2610269235",
-        "https://openalex.org/W4361284035",
-        "https://openalex.org/W2074575662",
-        "https://openalex.org/W4293211292",
-        "https://openalex.org/W2055863538",
-        "https://openalex.org/W4207041759",
-        "https://openalex.org/W2991047371",
-        "https://openalex.org/W1965425993",
-        "https://openalex.org/W4311255578",
-        "https://openalex.org/W4389263457",
-        "https://openalex.org/W4390086859",
-        "https://openalex.org/W4386798154",
-        "https://openalex.org/W4280633468",
-        "https://openalex.org/W4281938260",
-        "https://openalex.org/W3164382478",
-        "https://openalex.org/W4390242419",
-        "https://openalex.org/W4281646739",
-        "https://openalex.org/W3160605717",
-        "https://openalex.org/W4323637217",
-        "https://openalex.org/W4284967692",
-        "https://openalex.org/W4283019841",
-        "https://openalex.org/W4388907215",
-        "https://openalex.org/W2314899542",
-        "https://openalex.org/W2004936374",
-        "https://openalex.org/W2008062583",
-        "https://openalex.org/W1976387459",
-        "https://openalex.org/W2152977647",
-        "https://openalex.org/W1992581616",
-        "https://openalex.org/W2603776636",
-        "https://openalex.org/W1986714070",
-        "https://openalex.org/W2052355863",
-        "https://openalex.org/W1031578623",
-        "https://openalex.org/W2067174909",
-        "https://openalex.org/W2042430712",
-        "https://openalex.org/W2051381895",
-        "https://openalex.org/W2041388413",
-        "https://openalex.org/W2337120805",
-        "https://openalex.org/W2056227679",
-        "https://openalex.org/W3182984964",
-        "https://openalex.org/W2319780844",
-        "https://openalex.org/W2003949305",
-        "https://openalex.org/W2129288307",
-        "https://openalex.org/W2057477511",
-        "https://openalex.org/W2029667189",
-        "https://openalex.org/W4281685280",
-        "https://openalex.org/W2934056797",
-        "https://openalex.org/W2925690970",
-        "https://openalex.org/W3153798866",
-        "https://openalex.org/W2261455217",
-        "https://openalex.org/W2256339549",
-        "https://openalex.org/W3132940088",
-        "https://openalex.org/W6912834301",
-        "https://openalex.org/W2883284252",
-        "https://openalex.org/W4294741325",
-        "https://openalex.org/W2038553900",
-        "https://openalex.org/W4367293432",
-        "https://openalex.org/W2095310133",
-        "https://openalex.org/W2008919700",
-        "https://openalex.org/W2761929022",
-        "https://openalex.org/W4380267095",
-        "https://openalex.org/W2611470961",
-        "https://openalex.org/W2944363567",
-        "https://openalex.org/W2313427354",
-        "https://openalex.org/W3033425575",
-        "https://openalex.org/W4386913250",
-        "https://openalex.org/W4391070279",
-        "https://openalex.org/W4300981107",
-        "https://openalex.org/W3040758490",
-        "https://openalex.org/W638108327",
-        "https://openalex.org/W4299940692",
-        "https://openalex.org/W2159352443",
-        "https://openalex.org/W4392439517"
-      ],
-      "related_works": [
-        "https://openalex.org/W2039543756",
-        "https://openalex.org/W2386325437",
-        "https://openalex.org/W2353043494",
-        "https://openalex.org/W2389069740",
-        "https://openalex.org/W4251600633",
-        "https://openalex.org/W4312518443",
-        "https://openalex.org/W2363593556",
-        "https://openalex.org/W2364697465",
-        "https://openalex.org/W2362718873",
-        "https://openalex.org/W2390295735"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2025,
-          "cited_by_count": 11
-        }
-      ],
-      "updated_date": "2025-11-06T03:46:38.306776",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W4406817887",
       "doi": "https://doi.org/10.1016/j.geoen.2025.213688",
       "title": "Subsurface CO2 storage in unconventional reservoirs: Insights into pore-scale characterization of geochemical interactions and particle migration",
@@ -21791,8 +21791,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.5299999713897705
         }
       ],
@@ -22467,8 +22467,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/7",
           "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7",
           "score": 0.7699999809265137
         }
       ],
@@ -23249,8 +23249,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/7",
           "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7",
           "score": 0.5299999713897705
         }
       ],
@@ -23441,15 +23441,15 @@
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
               "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering & Geosciences",
               "institution_ids": [
                 "https://openalex.org/I4210118538"
+              ]
+            },
+            {
+              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
               ]
             }
           ]
@@ -23527,7 +23527,7 @@
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.94234868,
+        "value": 0.94233433,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -24477,8 +24477,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/3",
           "display_name": "Good health and well-being",
+          "id": "https://metadata.un.org/sdg/3",
           "score": 0.44999998807907104
         }
       ],
@@ -26707,8 +26707,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/3",
           "display_name": "Good health and well-being",
+          "id": "https://metadata.un.org/sdg/3",
           "score": 0.5699999928474426
         }
       ],
@@ -28389,8 +28389,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6",
           "score": 0.6000000238418579
         }
       ],
@@ -29603,8 +29603,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/3",
           "display_name": "Good health and well-being",
+          "id": "https://metadata.un.org/sdg/3",
           "score": 0.6000000238418579
         }
       ],
@@ -31055,8 +31055,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6",
           "score": 0.75
         }
       ],

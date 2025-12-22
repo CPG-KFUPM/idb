@@ -3348,8 +3348,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8700000047683716,
           "display_name": "Clean water and sanitation",
+          "score": 0.8700000047683716,
           "id": "https://metadata.un.org/sdg/6"
         }
       ],
@@ -4413,8 +4413,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4699999988079071,
           "display_name": "Clean water and sanitation",
+          "score": 0.4699999988079071,
           "id": "https://metadata.un.org/sdg/6"
         }
       ],
@@ -7192,8 +7192,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.6299999952316284,
           "display_name": "Life in Land",
+          "score": 0.6299999952316284,
           "id": "https://metadata.un.org/sdg/15"
         }
       ],
@@ -8328,8 +8328,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8299999833106995,
           "display_name": "Clean water and sanitation",
+          "score": 0.8299999833106995,
           "id": "https://metadata.un.org/sdg/6"
         }
       ],
@@ -10284,8 +10284,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5600000023841858,
           "display_name": "Clean water and sanitation",
+          "score": 0.5600000023841858,
           "id": "https://metadata.un.org/sdg/6"
         }
       ],
@@ -11829,8 +11829,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5199999809265137,
           "display_name": "Clean water and sanitation",
+          "score": 0.5199999809265137,
           "id": "https://metadata.un.org/sdg/6"
         }
       ],
@@ -16242,8 +16242,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7099999785423279,
           "display_name": "Clean water and sanitation",
+          "score": 0.7099999785423279,
           "id": "https://metadata.un.org/sdg/6"
         }
       ],
@@ -17527,8 +17527,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.550000011920929,
           "display_name": "Life below water",
+          "score": 0.550000011920929,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -18317,12 +18317,6 @@
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Center for Integrative Petroleum Research, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
               "raw_affiliation_string": "Center for Integrative Petroleum Research",
               "institution_ids": []
             },
@@ -18334,6 +18328,12 @@
             },
             {
               "raw_affiliation_string": "King Fahd University of Petroleum & Minerals",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Center for Integrative Petroleum Research, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
@@ -18376,13 +18376,13 @@
               "institution_ids": []
             },
             {
-              "raw_affiliation_string": "Center for Integrative Petroleum Research, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia",
+              "raw_affiliation_string": "Department of Petroleum Engineering, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
             },
             {
-              "raw_affiliation_string": "Department of Petroleum Engineering, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia",
+              "raw_affiliation_string": "Center for Integrative Petroleum Research, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
@@ -18509,7 +18509,7 @@
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.85415891,
+        "value": 0.85396195,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -18877,8 +18877,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.44999998807907104,
           "display_name": "Zero hunger",
+          "score": 0.44999998807907104,
           "id": "https://metadata.un.org/sdg/2"
         }
       ],
@@ -18924,8 +18924,8 @@
         "https://openalex.org/W4226325429",
         "https://openalex.org/W3106912495",
         "https://openalex.org/W3181392680",
-        "https://openalex.org/W106150921",
         "https://openalex.org/W2386614738",
+        "https://openalex.org/W106150921",
         "https://openalex.org/W2188969389"
       ],
       "related_works": [
@@ -21407,8 +21407,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5099999904632568,
           "display_name": "Climate action",
+          "score": 0.5099999904632568,
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -24357,8 +24357,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8399999737739563,
           "display_name": "Clean water and sanitation",
+          "score": 0.8399999737739563,
           "id": "https://metadata.un.org/sdg/6"
         }
       ],

@@ -1713,8 +1713,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -2429,8 +2429,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Industry, innovation and infrastructure",
-          "id": "https://metadata.un.org/sdg/9",
-          "score": 0.4399999976158142
+          "score": 0.4399999976158142,
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "awards": [],
@@ -3189,8 +3189,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8399999737739563
+          "score": 0.8399999737739563,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -4584,8 +4584,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716
+          "score": 0.8700000047683716,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -5570,8 +5570,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12",
-          "score": 0.49000000953674316
+          "score": 0.49000000953674316,
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "awards": [],
@@ -7093,6 +7093,1245 @@
         }
       ],
       "updated_date": "2025-11-06T03:46:38.306776",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4400380613",
+      "doi": "https://doi.org/10.1021/acsomega.4c02742",
+      "title": "Formulation and Optimization of Effective Oil Spill Dispersants Composed of Surface-Active Ionic Liquids and Nonionic Surfactants",
+      "display_name": "Formulation and Optimization of Effective Oil Spill Dispersants Composed of Surface-Active Ionic Liquids and Nonionic Surfactants",
+      "publication_year": 2024,
+      "publication_date": "2024-07-06",
+      "ids": {
+        "openalex": "https://openalex.org/W4400380613",
+        "doi": "https://doi.org/10.1021/acsomega.4c02742",
+        "pmid": "https://pubmed.ncbi.nlm.nih.gov/39035979"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1021/acsomega.4c02742",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1021/acsomega.4c02742",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210239500",
+          "display_name": "ACS Omega",
+          "issn_l": "2470-1343",
+          "issn": [
+            "2470-1343"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320006",
+          "host_organization_name": "American Chemical Society",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320006"
+          ],
+          "host_organization_lineage_names": [
+            "American Chemical Society"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "ACS Omega",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref",
+        "doaj",
+        "pubmed"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://doi.org/10.1021/acsomega.4c02742",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5102396283",
+            "display_name": "Masooma Nazar",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Masooma Nazar",
+          "raw_affiliation_strings": [
+            "Center for Integrative Petroleum Research (CIPR), College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center for Integrative Petroleum Research (CIPR), College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5101189126",
+            "display_name": "Aqeel Ahmad",
+            "orcid": "https://orcid.org/0000-0001-5389-6734"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Aqeel Ahmad",
+          "raw_affiliation_strings": [
+            "Interdisciplinary Research Center for Refining and Advanced Chemicals, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Interdisciplinary Research Center for Refining and Advanced Chemicals, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5022552999",
+            "display_name": "Syed Muhammad Shakil Hussain",
+            "orcid": "https://orcid.org/0000-0002-6806-2326"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Syed Muhammad Shakil Hussain",
+          "raw_affiliation_strings": [
+            "Center for Integrative Petroleum Research (CIPR), College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center for Integrative Petroleum Research (CIPR), College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5014271929",
+            "display_name": "Muhammad Moniruzzaman",
+            "orcid": "https://orcid.org/0000-0002-2523-4159"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I203899302",
+              "display_name": "Universiti Teknologi Petronas",
+              "ror": "https://ror.org/048g2sh07",
+              "country_code": "MY",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I203899302"
+              ]
+            }
+          ],
+          "countries": [
+            "MY"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Muhammad Moniruzzaman",
+          "raw_affiliation_strings": [
+            "Department of Chemical Engineering, Universiti Teknologi PETRONAS, Bandar Seri Iskandar, Perak 32610, Malaysia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Chemical Engineering, Universiti Teknologi PETRONAS, Bandar Seri Iskandar, Perak 32610, Malaysia",
+              "institution_ids": [
+                "https://openalex.org/I203899302"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 4,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5014271929",
+        "https://openalex.org/A5022552999"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I134085113",
+        "https://openalex.org/I203899302"
+      ],
+      "apc_list": {
+        "value": 1685,
+        "currency": "USD",
+        "value_usd": 1685
+      },
+      "apc_paid": {
+        "value": 1685,
+        "currency": "USD",
+        "value_usd": 1685
+      },
+      "fwci": 2.52924666,
+      "has_fulltext": false,
+      "cited_by_count": 9,
+      "citation_normalized_percentile": {
+        "value": 0.81077577,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 96,
+        "max": 99
+      },
+      "biblio": {
+        "volume": "9",
+        "issue": "28",
+        "first_page": "30636",
+        "last_page": "30644"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T12316",
+        "display_name": "Oil Spill Detection and Mitigation",
+        "score": 0.9994999766349792,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2310",
+          "display_name": "Pollution"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/23",
+          "display_name": "Environmental Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T12316",
+          "display_name": "Oil Spill Detection and Mitigation",
+          "score": 0.9994999766349792,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2310",
+            "display_name": "Pollution"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11630",
+          "display_name": "Petroleum Processing and Analysis",
+          "score": 0.9980999827384949,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1602",
+            "display_name": "Analytical Chemistry"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/16",
+            "display_name": "Chemistry"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10491",
+          "display_name": "Enhanced Oil Recovery Techniques",
+          "score": 0.9894999861717224,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2212",
+            "display_name": "Ocean Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/dispersant",
+          "display_name": "Dispersant",
+          "score": 0.9120825529098511
+        },
+        {
+          "id": "https://openalex.org/keywords/ionic-liquid",
+          "display_name": "Ionic liquid",
+          "score": 0.6052424907684326
+        },
+        {
+          "id": "https://openalex.org/keywords/oil-spill",
+          "display_name": "Oil spill",
+          "score": 0.5816052556037903
+        },
+        {
+          "id": "https://openalex.org/keywords/materials-science",
+          "display_name": "Materials science",
+          "score": 0.4679713845252991
+        },
+        {
+          "id": "https://openalex.org/keywords/ionic-bonding",
+          "display_name": "Ionic bonding",
+          "score": 0.4458308815956116
+        },
+        {
+          "id": "https://openalex.org/keywords/chemical-engineering",
+          "display_name": "Chemical engineering",
+          "score": 0.4394698739051819
+        },
+        {
+          "id": "https://openalex.org/keywords/organic-chemistry",
+          "display_name": "Organic chemistry",
+          "score": 0.3419605493545532
+        },
+        {
+          "id": "https://openalex.org/keywords/petroleum-engineering",
+          "display_name": "Petroleum engineering",
+          "score": 0.3391377925872803
+        },
+        {
+          "id": "https://openalex.org/keywords/chemistry",
+          "display_name": "Chemistry",
+          "score": 0.3217536211013794
+        },
+        {
+          "id": "https://openalex.org/keywords/dispersion",
+          "display_name": "Dispersion (optics)",
+          "score": 0.15650230646133423
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.10248300433158875
+        },
+        {
+          "id": "https://openalex.org/keywords/engineering",
+          "display_name": "Engineering",
+          "score": 0.09466832876205444
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C145889102",
+          "wikidata": "https://www.wikidata.org/wiki/Q902420",
+          "display_name": "Dispersant",
+          "level": 3,
+          "score": 0.9120825529098511
+        },
+        {
+          "id": "https://openalex.org/C154881586",
+          "wikidata": "https://www.wikidata.org/wiki/Q898579",
+          "display_name": "Ionic liquid",
+          "level": 3,
+          "score": 0.6052424907684326
+        },
+        {
+          "id": "https://openalex.org/C2985668151",
+          "wikidata": "https://www.wikidata.org/wiki/Q220187",
+          "display_name": "Oil spill",
+          "level": 2,
+          "score": 0.5816052556037903
+        },
+        {
+          "id": "https://openalex.org/C192562407",
+          "wikidata": "https://www.wikidata.org/wiki/Q228736",
+          "display_name": "Materials science",
+          "level": 0,
+          "score": 0.4679713845252991
+        },
+        {
+          "id": "https://openalex.org/C2182769",
+          "wikidata": "https://www.wikidata.org/wiki/Q62500",
+          "display_name": "Ionic bonding",
+          "level": 3,
+          "score": 0.4458308815956116
+        },
+        {
+          "id": "https://openalex.org/C42360764",
+          "wikidata": "https://www.wikidata.org/wiki/Q83588",
+          "display_name": "Chemical engineering",
+          "level": 1,
+          "score": 0.4394698739051819
+        },
+        {
+          "id": "https://openalex.org/C178790620",
+          "wikidata": "https://www.wikidata.org/wiki/Q11351",
+          "display_name": "Organic chemistry",
+          "level": 1,
+          "score": 0.3419605493545532
+        },
+        {
+          "id": "https://openalex.org/C78762247",
+          "wikidata": "https://www.wikidata.org/wiki/Q1273174",
+          "display_name": "Petroleum engineering",
+          "level": 1,
+          "score": 0.3391377925872803
+        },
+        {
+          "id": "https://openalex.org/C185592680",
+          "wikidata": "https://www.wikidata.org/wiki/Q2329",
+          "display_name": "Chemistry",
+          "level": 0,
+          "score": 0.3217536211013794
+        },
+        {
+          "id": "https://openalex.org/C177562468",
+          "wikidata": "https://www.wikidata.org/wiki/Q182893",
+          "display_name": "Dispersion (optics)",
+          "level": 2,
+          "score": 0.15650230646133423
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.10248300433158875
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0.09466832876205444
+        },
+        {
+          "id": "https://openalex.org/C161790260",
+          "wikidata": "https://www.wikidata.org/wiki/Q82264",
+          "display_name": "Catalysis",
+          "level": 2,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C121332964",
+          "wikidata": "https://www.wikidata.org/wiki/Q413",
+          "display_name": "Physics",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C120665830",
+          "wikidata": "https://www.wikidata.org/wiki/Q14620",
+          "display_name": "Optics",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C145148216",
+          "wikidata": "https://www.wikidata.org/wiki/Q36496",
+          "display_name": "Ion",
+          "level": 2,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 4,
+      "locations": [
+        {
+          "id": "doi:10.1021/acsomega.4c02742",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1021/acsomega.4c02742",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4210239500",
+            "display_name": "ACS Omega",
+            "issn_l": "2470-1343",
+            "issn": [
+              "2470-1343"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320006",
+            "host_organization_name": "American Chemical Society",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320006"
+            ],
+            "host_organization_lineage_names": [
+              "American Chemical Society"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by-nc-nd",
+          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "ACS Omega",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmid:39035979",
+          "is_oa": false,
+          "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/39035979",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306525036",
+            "display_name": "PubMed",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "ACS omega",
+          "raw_type": null
+        },
+        {
+          "id": "pmh:oai:doaj.org/article:ad66bb86630e47868c656a5dc069c1fb",
+          "is_oa": false,
+          "landing_page_url": "https://doaj.org/article/ad66bb86630e47868c656a5dc069c1fb",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "ACS Omega, Vol 9, Iss 28, Pp 30636-30644 (2024)",
+          "raw_type": "article"
+        },
+        {
+          "id": "pmh:oai:pubmedcentral.nih.gov:11256331",
+          "is_oa": true,
+          "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/11256331",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S2764455111",
+            "display_name": "PubMed Central",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "ACS Omega",
+          "raw_type": "Text"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1021/acsomega.4c02742",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1021/acsomega.4c02742",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210239500",
+          "display_name": "ACS Omega",
+          "issn_l": "2470-1343",
+          "issn": [
+            "2470-1343"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320006",
+          "host_organization_name": "American Chemical Society",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320006"
+          ],
+          "host_organization_lineage_names": [
+            "American Chemical Society"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "ACS Omega",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "display_name": "Clean water and sanitation",
+          "score": 0.46000000834465027,
+          "id": "https://metadata.un.org/sdg/6"
+        }
+      ],
+      "awards": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320323380",
+          "display_name": "Universiti Teknologi Petronas",
+          "ror": "https://ror.org/048g2sh07"
+        },
+        {
+          "id": "https://openalex.org/F4320336956",
+          "display_name": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals",
+          "ror": null
+        }
+      ],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "referenced_works_count": 41,
+      "referenced_works": [
+        "https://openalex.org/W3138139926",
+        "https://openalex.org/W2802283038",
+        "https://openalex.org/W4385461435",
+        "https://openalex.org/W3201690982",
+        "https://openalex.org/W2884700451",
+        "https://openalex.org/W2894068072",
+        "https://openalex.org/W4285600377",
+        "https://openalex.org/W3174650327",
+        "https://openalex.org/W2751824563",
+        "https://openalex.org/W2528625270",
+        "https://openalex.org/W3005147528",
+        "https://openalex.org/W2051647778",
+        "https://openalex.org/W2972719734",
+        "https://openalex.org/W1994296018",
+        "https://openalex.org/W4387490985",
+        "https://openalex.org/W4284959260",
+        "https://openalex.org/W3194992274",
+        "https://openalex.org/W3134856963",
+        "https://openalex.org/W3005405369",
+        "https://openalex.org/W2944286073",
+        "https://openalex.org/W4225276295",
+        "https://openalex.org/W2205540358",
+        "https://openalex.org/W2036573647",
+        "https://openalex.org/W3132683468",
+        "https://openalex.org/W3157952615",
+        "https://openalex.org/W2900197975",
+        "https://openalex.org/W3161885122",
+        "https://openalex.org/W2767644859",
+        "https://openalex.org/W4318763137",
+        "https://openalex.org/W2916346419",
+        "https://openalex.org/W2606394470",
+        "https://openalex.org/W2891743686",
+        "https://openalex.org/W2796206301",
+        "https://openalex.org/W2892231224",
+        "https://openalex.org/W3002529388",
+        "https://openalex.org/W2007928196",
+        "https://openalex.org/W2733846756",
+        "https://openalex.org/W1970516013",
+        "https://openalex.org/W1805953322",
+        "https://openalex.org/W2796820669",
+        "https://openalex.org/W3164386292"
+      ],
+      "related_works": [
+        "https://openalex.org/W1515728651",
+        "https://openalex.org/W1963608337",
+        "https://openalex.org/W2131226871",
+        "https://openalex.org/W2354812732",
+        "https://openalex.org/W2002226878",
+        "https://openalex.org/W1977687306",
+        "https://openalex.org/W2057339868",
+        "https://openalex.org/W2038837602",
+        "https://openalex.org/W2052287270",
+        "https://openalex.org/W2675716859"
+      ],
+      "abstract_inverted_index": {
+        "5": [
+          110
+        ],
+        "96": [
+          162
+        ],
+        "450": [
+          155
+        ],
+        "The": [
+          0,
+          62,
+          80,
+          98,
+          121,
+          164
+        ],
+        "use": [
+          1
+        ],
+        "of": [
+          2,
+          64,
+          84,
+          118,
+          123,
+          154,
+          195,
+          202
+        ],
+        "chemical": [
+          3
+        ],
+        "dispersants": [
+          4
+        ],
+        "to": [
+          5,
+          28,
+          57,
+          90,
+          138,
+          190
+        ],
+        "remove": [
+          6
+        ],
+        "oil": [
+          7,
+          60,
+          196
+        ],
+        "spills": [
+          8,
+          197
+        ],
+        "in": [
+          9,
+          95,
+          126
+        ],
+        "aquatic": [
+          10,
+          96
+        ],
+        "environments": [
+          11
+        ],
+        "raises": [
+          12
+        ],
+        "serious": [
+          13
+        ],
+        "concerns,": [
+          14
+        ],
+        "including": [
+          15
+        ],
+        "heightened": [
+          16
+        ],
+        "toxicity": [
+          17,
+          81,
+          141
+        ],
+        "and": [
+          18,
+          53,
+          78,
+          82,
+          133,
+          198
+        ],
+        "limited": [
+          19
+        ],
+        "biodegradability,": [
+          20,
+          168
+        ],
+        "which": [
+          21,
+          187
+        ],
+        "diminish": [
+          22
+        ],
+        "their": [
+          23,
+          92
+        ],
+        "effectiveness.": [
+          24,
+          79
+        ],
+        "This": [
+          25,
+          176
+        ],
+        "study": [
+          26
+        ],
+        "aimed": [
+          27
+        ],
+        "develop": [
+          29
+        ],
+        "an": [
+          30,
+          151
+        ],
+        "environmentally": [
+          31
+        ],
+        "friendly": [
+          32
+        ],
+        "formulation": [
+          33,
+          66,
+          86,
+          99,
+          125,
+          165,
+          186
+        ],
+        "by": [
+          34,
+          69
+        ],
+        "combining": [
+          35
+        ],
+        "two": [
+          36,
+          44
+        ],
+        "nonionic": [
+          37
+        ],
+        "surfactants": [
+          38
+        ],
+        "(Tween": [
+          39
+        ],
+        "80,": [
+          40
+        ],
+        "Span": [
+          41
+        ],
+        "80)": [
+          42
+        ],
+        "with": [
+          43,
+          112,
+          150
+        ],
+        "surface-active": [
+          45
+        ],
+        "ionic": [
+          46
+        ],
+        "liquids": [
+          47
+        ],
+        "(SAILs):": [
+          48
+        ],
+        "1-butyl-3-methylimidazolium": [
+          49
+        ],
+        "lauroyl": [
+          50
+        ],
+        "sarcosinate": [
+          51
+        ],
+        "[Bmim][Lausar]": [
+          52
+        ],
+        "choline": [
+          54
+        ],
+        "myristate": [
+          55
+        ],
+        "[Cho][Mys],": [
+          56
+        ],
+        "remediate": [
+          58
+        ],
+        "crude": [
+          59,
+          129
+        ],
+        "spill.": [
+          61
+        ],
+        "performance": [
+          63
+        ],
+        "the": [
+          65,
+          85,
+          102,
+          124,
+          148,
+          184,
+          192,
+          200
+        ],
+        "was": [
+          67
+        ],
+        "evaluated": [
+          68
+        ],
+        "its": [
+          70
+        ],
+        "emulsion": [
+          71
+        ],
+        "stability,": [
+          72
+        ],
+        "surface": [
+          73
+        ],
+        "tension,": [
+          74
+        ],
+        "interfacial": [
+          75
+        ],
+        "tension": [
+          76
+        ],
+        "(IFT),": [
+          77
+        ],
+        "biodegradability": [
+          83
+        ],
+        "were": [
+          87
+        ],
+        "also": [
+          88
+        ],
+        "assessed": [
+          89
+        ],
+        "ensure": [
+          91
+        ],
+        "safe": [
+          93
+        ],
+        "application": [
+          94
+        ],
+        "environments.": [
+          97
+        ],
+        "(F9)": [
+          100
+        ],
+        "exhibited": [
+          101,
+          158
+        ],
+        "most": [
+          103
+        ],
+        "stable": [
+          104
+        ],
+        "emulsion,": [
+          105
+        ],
+        "maintaining": [
+          106
+        ],
+        "stability": [
+          107
+        ],
+        "even": [
+          108
+        ],
+        "after": [
+          109,
+          161
+        ],
+        "h": [
+          111
+        ],
+        "a": [
+          113,
+          172,
+          179
+        ],
+        "critical": [
+          114
+        ],
+        "micelle": [
+          115
+        ],
+        "concentration": [
+          116
+        ],
+        "(CMC)": [
+          117
+        ],
+        "3.52": [
+          119
+        ],
+        "mM.": [
+          120
+        ],
+        "efficiency": [
+          122,
+          201
+        ],
+        "dispersing": [
+          127
+        ],
+        "various": [
+          128
+        ],
+        "oils": [
+          130
+        ],
+        "(Arab,": [
+          131
+        ],
+        "Ratawi,": [
+          132
+        ],
+        "Doba)": [
+          134
+        ],
+        "ranged": [
+          135
+        ],
+        "from": [
+          136
+        ],
+        "70.12": [
+          137
+        ],
+        "93.72%.": [
+          139
+        ],
+        "Acute": [
+          140
+        ],
+        "tests": [
+          142
+        ],
+        "conducted": [
+          143
+        ],
+        "on": [
+          144
+        ],
+        "zebrafish": [
+          145
+        ],
+        "demonstrated": [
+          146
+        ],
+        "that": [
+          147
+        ],
+        "formulation,": [
+          149
+        ],
+        "LC<sub>50</sub>": [
+          152
+        ],
+        "value": [
+          153
+        ],
+        "mg": [
+          156
+        ],
+        "L<sup>-1</sup>,": [
+          157
+        ],
+        "practically": [
+          159
+        ],
+        "nontoxicity": [
+          160
+        ],
+        "h.": [
+          163
+        ],
+        "showed": [
+          166
+        ],
+        "rapid": [
+          167
+        ],
+        "exceeding": [
+          169
+        ],
+        "60%": [
+          170
+        ],
+        "within": [
+          171
+        ],
+        "28-day": [
+          173
+        ],
+        "testing": [
+          174
+        ],
+        "period.": [
+          175
+        ],
+        "research": [
+          177
+        ],
+        "presents": [
+          178
+        ],
+        "promising": [
+          180
+        ],
+        "approach": [
+          181
+        ],
+        "for": [
+          182
+        ],
+        "synthesizing": [
+          183
+        ],
+        "green": [
+          185
+        ],
+        "can": [
+          188
+        ],
+        "contribute": [
+          189
+        ],
+        "mitigating": [
+          191
+        ],
+        "environmental": [
+          193
+        ],
+        "impacts": [
+          194
+        ],
+        "enhancing": [
+          199
+        ],
+        "cleanup": [
+          203
+        ],
+        "operations.": [
+          204
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 3
+        }
+      ],
+      "updated_date": "2025-12-21T23:12:01.093139",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9556,8 +10795,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12",
-          "score": 0.4099999964237213
+          "score": 0.4099999964237213,
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "awards": [],
@@ -10502,1245 +11741,6 @@
         {
           "year": 2022,
           "cited_by_count": 2
-        }
-      ],
-      "updated_date": "2025-11-06T03:46:38.306776",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W4400380613",
-      "doi": "https://doi.org/10.1021/acsomega.4c02742",
-      "title": "Formulation and Optimization of Effective Oil Spill Dispersants Composed of Surface-Active Ionic Liquids and Nonionic Surfactants",
-      "display_name": "Formulation and Optimization of Effective Oil Spill Dispersants Composed of Surface-Active Ionic Liquids and Nonionic Surfactants",
-      "publication_year": 2024,
-      "publication_date": "2024-07-06",
-      "ids": {
-        "openalex": "https://openalex.org/W4400380613",
-        "doi": "https://doi.org/10.1021/acsomega.4c02742",
-        "pmid": "https://pubmed.ncbi.nlm.nih.gov/39035979"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1021/acsomega.4c02742",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1021/acsomega.4c02742",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4210239500",
-          "display_name": "ACS Omega",
-          "issn_l": "2470-1343",
-          "issn": [
-            "2470-1343"
-          ],
-          "is_oa": true,
-          "is_in_doaj": true,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320006",
-          "host_organization_name": "American Chemical Society",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320006"
-          ],
-          "host_organization_lineage_names": [
-            "American Chemical Society"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "ACS Omega",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref",
-        "doaj",
-        "pubmed"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "gold",
-        "oa_url": "https://doi.org/10.1021/acsomega.4c02742",
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5102396283",
-            "display_name": "Masooma Nazar",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Masooma Nazar",
-          "raw_affiliation_strings": [
-            "Center for Integrative Petroleum Research (CIPR), College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Center for Integrative Petroleum Research (CIPR), College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5101189126",
-            "display_name": "Aqeel Ahmad",
-            "orcid": "https://orcid.org/0000-0001-5389-6734"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Aqeel Ahmad",
-          "raw_affiliation_strings": [
-            "Interdisciplinary Research Center for Refining and Advanced Chemicals, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Interdisciplinary Research Center for Refining and Advanced Chemicals, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5022552999",
-            "display_name": "Syed Muhammad Shakil Hussain",
-            "orcid": "https://orcid.org/0000-0002-6806-2326"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Syed Muhammad Shakil Hussain",
-          "raw_affiliation_strings": [
-            "Center for Integrative Petroleum Research (CIPR), College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Center for Integrative Petroleum Research (CIPR), College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5014271929",
-            "display_name": "Muhammad Moniruzzaman",
-            "orcid": "https://orcid.org/0000-0002-2523-4159"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I203899302",
-              "display_name": "Universiti Teknologi Petronas",
-              "ror": "https://ror.org/048g2sh07",
-              "country_code": "MY",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I203899302"
-              ]
-            }
-          ],
-          "countries": [
-            "MY"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Muhammad Moniruzzaman",
-          "raw_affiliation_strings": [
-            "Department of Chemical Engineering, Universiti Teknologi PETRONAS, Bandar Seri Iskandar, Perak 32610, Malaysia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Chemical Engineering, Universiti Teknologi PETRONAS, Bandar Seri Iskandar, Perak 32610, Malaysia",
-              "institution_ids": [
-                "https://openalex.org/I203899302"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 4,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5014271929",
-        "https://openalex.org/A5022552999"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I134085113",
-        "https://openalex.org/I203899302"
-      ],
-      "apc_list": {
-        "value": 1685,
-        "currency": "USD",
-        "value_usd": 1685
-      },
-      "apc_paid": {
-        "value": 1685,
-        "currency": "USD",
-        "value_usd": 1685
-      },
-      "fwci": 2.24821926,
-      "has_fulltext": false,
-      "cited_by_count": 8,
-      "citation_normalized_percentile": {
-        "value": 0.79294052,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 96,
-        "max": 98
-      },
-      "biblio": {
-        "volume": "9",
-        "issue": "28",
-        "first_page": "30636",
-        "last_page": "30644"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T12316",
-        "display_name": "Oil Spill Detection and Mitigation",
-        "score": 0.9994999766349792,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2310",
-          "display_name": "Pollution"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/23",
-          "display_name": "Environmental Science"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T12316",
-          "display_name": "Oil Spill Detection and Mitigation",
-          "score": 0.9994999766349792,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2310",
-            "display_name": "Pollution"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11630",
-          "display_name": "Petroleum Processing and Analysis",
-          "score": 0.9980999827384949,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1602",
-            "display_name": "Analytical Chemistry"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/16",
-            "display_name": "Chemistry"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10491",
-          "display_name": "Enhanced Oil Recovery Techniques",
-          "score": 0.9894999861717224,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2212",
-            "display_name": "Ocean Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/dispersant",
-          "display_name": "Dispersant",
-          "score": 0.9120825529098511
-        },
-        {
-          "id": "https://openalex.org/keywords/ionic-liquid",
-          "display_name": "Ionic liquid",
-          "score": 0.6052424907684326
-        },
-        {
-          "id": "https://openalex.org/keywords/oil-spill",
-          "display_name": "Oil spill",
-          "score": 0.5816052556037903
-        },
-        {
-          "id": "https://openalex.org/keywords/materials-science",
-          "display_name": "Materials science",
-          "score": 0.4679713845252991
-        },
-        {
-          "id": "https://openalex.org/keywords/ionic-bonding",
-          "display_name": "Ionic bonding",
-          "score": 0.4458308815956116
-        },
-        {
-          "id": "https://openalex.org/keywords/chemical-engineering",
-          "display_name": "Chemical engineering",
-          "score": 0.4394698739051819
-        },
-        {
-          "id": "https://openalex.org/keywords/organic-chemistry",
-          "display_name": "Organic chemistry",
-          "score": 0.3419605493545532
-        },
-        {
-          "id": "https://openalex.org/keywords/petroleum-engineering",
-          "display_name": "Petroleum engineering",
-          "score": 0.3391377925872803
-        },
-        {
-          "id": "https://openalex.org/keywords/chemistry",
-          "display_name": "Chemistry",
-          "score": 0.3217536211013794
-        },
-        {
-          "id": "https://openalex.org/keywords/dispersion",
-          "display_name": "Dispersion (optics)",
-          "score": 0.15650230646133423
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.10248300433158875
-        },
-        {
-          "id": "https://openalex.org/keywords/engineering",
-          "display_name": "Engineering",
-          "score": 0.09466832876205444
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C145889102",
-          "wikidata": "https://www.wikidata.org/wiki/Q902420",
-          "display_name": "Dispersant",
-          "level": 3,
-          "score": 0.9120825529098511
-        },
-        {
-          "id": "https://openalex.org/C154881586",
-          "wikidata": "https://www.wikidata.org/wiki/Q898579",
-          "display_name": "Ionic liquid",
-          "level": 3,
-          "score": 0.6052424907684326
-        },
-        {
-          "id": "https://openalex.org/C2985668151",
-          "wikidata": "https://www.wikidata.org/wiki/Q220187",
-          "display_name": "Oil spill",
-          "level": 2,
-          "score": 0.5816052556037903
-        },
-        {
-          "id": "https://openalex.org/C192562407",
-          "wikidata": "https://www.wikidata.org/wiki/Q228736",
-          "display_name": "Materials science",
-          "level": 0,
-          "score": 0.4679713845252991
-        },
-        {
-          "id": "https://openalex.org/C2182769",
-          "wikidata": "https://www.wikidata.org/wiki/Q62500",
-          "display_name": "Ionic bonding",
-          "level": 3,
-          "score": 0.4458308815956116
-        },
-        {
-          "id": "https://openalex.org/C42360764",
-          "wikidata": "https://www.wikidata.org/wiki/Q83588",
-          "display_name": "Chemical engineering",
-          "level": 1,
-          "score": 0.4394698739051819
-        },
-        {
-          "id": "https://openalex.org/C178790620",
-          "wikidata": "https://www.wikidata.org/wiki/Q11351",
-          "display_name": "Organic chemistry",
-          "level": 1,
-          "score": 0.3419605493545532
-        },
-        {
-          "id": "https://openalex.org/C78762247",
-          "wikidata": "https://www.wikidata.org/wiki/Q1273174",
-          "display_name": "Petroleum engineering",
-          "level": 1,
-          "score": 0.3391377925872803
-        },
-        {
-          "id": "https://openalex.org/C185592680",
-          "wikidata": "https://www.wikidata.org/wiki/Q2329",
-          "display_name": "Chemistry",
-          "level": 0,
-          "score": 0.3217536211013794
-        },
-        {
-          "id": "https://openalex.org/C177562468",
-          "wikidata": "https://www.wikidata.org/wiki/Q182893",
-          "display_name": "Dispersion (optics)",
-          "level": 2,
-          "score": 0.15650230646133423
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.10248300433158875
-        },
-        {
-          "id": "https://openalex.org/C127413603",
-          "wikidata": "https://www.wikidata.org/wiki/Q11023",
-          "display_name": "Engineering",
-          "level": 0,
-          "score": 0.09466832876205444
-        },
-        {
-          "id": "https://openalex.org/C161790260",
-          "wikidata": "https://www.wikidata.org/wiki/Q82264",
-          "display_name": "Catalysis",
-          "level": 2,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C121332964",
-          "wikidata": "https://www.wikidata.org/wiki/Q413",
-          "display_name": "Physics",
-          "level": 0,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C120665830",
-          "wikidata": "https://www.wikidata.org/wiki/Q14620",
-          "display_name": "Optics",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C145148216",
-          "wikidata": "https://www.wikidata.org/wiki/Q36496",
-          "display_name": "Ion",
-          "level": 2,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 4,
-      "locations": [
-        {
-          "id": "doi:10.1021/acsomega.4c02742",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.1021/acsomega.4c02742",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4210239500",
-            "display_name": "ACS Omega",
-            "issn_l": "2470-1343",
-            "issn": [
-              "2470-1343"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310320006",
-            "host_organization_name": "American Chemical Society",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320006"
-            ],
-            "host_organization_lineage_names": [
-              "American Chemical Society"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "ACS Omega",
-          "raw_type": "journal-article"
-        },
-        {
-          "id": "pmid:39035979",
-          "is_oa": false,
-          "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/39035979",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306525036",
-            "display_name": "PubMed",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I1299303238",
-            "host_organization_name": "National Institutes of Health",
-            "host_organization_lineage": [
-              "https://openalex.org/I1299303238"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "ACS omega",
-          "raw_type": null
-        },
-        {
-          "id": "pmh:oai:doaj.org/article:ad66bb86630e47868c656a5dc069c1fb",
-          "is_oa": false,
-          "landing_page_url": "https://doaj.org/article/ad66bb86630e47868c656a5dc069c1fb",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306401280",
-            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "ACS Omega, Vol 9, Iss 28, Pp 30636-30644 (2024)",
-          "raw_type": "article"
-        },
-        {
-          "id": "pmh:oai:pubmedcentral.nih.gov:11256331",
-          "is_oa": true,
-          "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/11256331",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S2764455111",
-            "display_name": "PubMed Central",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I1299303238",
-            "host_organization_name": "National Institutes of Health",
-            "host_organization_lineage": [
-              "https://openalex.org/I1299303238"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "ACS Omega",
-          "raw_type": "Text"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.1021/acsomega.4c02742",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1021/acsomega.4c02742",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4210239500",
-          "display_name": "ACS Omega",
-          "issn_l": "2470-1343",
-          "issn": [
-            "2470-1343"
-          ],
-          "is_oa": true,
-          "is_in_doaj": true,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320006",
-          "host_organization_name": "American Chemical Society",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320006"
-          ],
-          "host_organization_lineage_names": [
-            "American Chemical Society"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "ACS Omega",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [
-        {
-          "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.46000000834465027
-        }
-      ],
-      "awards": [],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320323380",
-          "display_name": "Universiti Teknologi Petronas",
-          "ror": "https://ror.org/048g2sh07"
-        },
-        {
-          "id": "https://openalex.org/F4320336956",
-          "display_name": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals",
-          "ror": null
-        }
-      ],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "referenced_works_count": 41,
-      "referenced_works": [
-        "https://openalex.org/W3138139926",
-        "https://openalex.org/W2802283038",
-        "https://openalex.org/W4385461435",
-        "https://openalex.org/W3201690982",
-        "https://openalex.org/W2884700451",
-        "https://openalex.org/W2894068072",
-        "https://openalex.org/W4285600377",
-        "https://openalex.org/W3174650327",
-        "https://openalex.org/W2751824563",
-        "https://openalex.org/W2528625270",
-        "https://openalex.org/W3005147528",
-        "https://openalex.org/W2051647778",
-        "https://openalex.org/W2972719734",
-        "https://openalex.org/W1994296018",
-        "https://openalex.org/W4387490985",
-        "https://openalex.org/W4284959260",
-        "https://openalex.org/W3194992274",
-        "https://openalex.org/W3134856963",
-        "https://openalex.org/W3005405369",
-        "https://openalex.org/W2944286073",
-        "https://openalex.org/W4225276295",
-        "https://openalex.org/W2205540358",
-        "https://openalex.org/W2036573647",
-        "https://openalex.org/W3132683468",
-        "https://openalex.org/W3157952615",
-        "https://openalex.org/W2900197975",
-        "https://openalex.org/W3161885122",
-        "https://openalex.org/W2767644859",
-        "https://openalex.org/W4318763137",
-        "https://openalex.org/W2916346419",
-        "https://openalex.org/W2606394470",
-        "https://openalex.org/W2891743686",
-        "https://openalex.org/W2796206301",
-        "https://openalex.org/W2892231224",
-        "https://openalex.org/W3002529388",
-        "https://openalex.org/W2007928196",
-        "https://openalex.org/W2733846756",
-        "https://openalex.org/W1970516013",
-        "https://openalex.org/W1805953322",
-        "https://openalex.org/W2796820669",
-        "https://openalex.org/W3164386292"
-      ],
-      "related_works": [
-        "https://openalex.org/W1515728651",
-        "https://openalex.org/W1963608337",
-        "https://openalex.org/W2131226871",
-        "https://openalex.org/W2354812732",
-        "https://openalex.org/W2002226878",
-        "https://openalex.org/W1977687306",
-        "https://openalex.org/W2057339868",
-        "https://openalex.org/W2038837602",
-        "https://openalex.org/W2052287270",
-        "https://openalex.org/W2675716859"
-      ],
-      "abstract_inverted_index": {
-        "5": [
-          110
-        ],
-        "96": [
-          162
-        ],
-        "450": [
-          155
-        ],
-        "The": [
-          0,
-          62,
-          80,
-          98,
-          121,
-          164
-        ],
-        "use": [
-          1
-        ],
-        "of": [
-          2,
-          64,
-          84,
-          118,
-          123,
-          154,
-          195,
-          202
-        ],
-        "chemical": [
-          3
-        ],
-        "dispersants": [
-          4
-        ],
-        "to": [
-          5,
-          28,
-          57,
-          90,
-          138,
-          190
-        ],
-        "remove": [
-          6
-        ],
-        "oil": [
-          7,
-          60,
-          196
-        ],
-        "spills": [
-          8,
-          197
-        ],
-        "in": [
-          9,
-          95,
-          126
-        ],
-        "aquatic": [
-          10,
-          96
-        ],
-        "environments": [
-          11
-        ],
-        "raises": [
-          12
-        ],
-        "serious": [
-          13
-        ],
-        "concerns,": [
-          14
-        ],
-        "including": [
-          15
-        ],
-        "heightened": [
-          16
-        ],
-        "toxicity": [
-          17,
-          81,
-          141
-        ],
-        "and": [
-          18,
-          53,
-          78,
-          82,
-          133,
-          198
-        ],
-        "limited": [
-          19
-        ],
-        "biodegradability,": [
-          20,
-          168
-        ],
-        "which": [
-          21,
-          187
-        ],
-        "diminish": [
-          22
-        ],
-        "their": [
-          23,
-          92
-        ],
-        "effectiveness.": [
-          24,
-          79
-        ],
-        "This": [
-          25,
-          176
-        ],
-        "study": [
-          26
-        ],
-        "aimed": [
-          27
-        ],
-        "develop": [
-          29
-        ],
-        "an": [
-          30,
-          151
-        ],
-        "environmentally": [
-          31
-        ],
-        "friendly": [
-          32
-        ],
-        "formulation": [
-          33,
-          66,
-          86,
-          99,
-          125,
-          165,
-          186
-        ],
-        "by": [
-          34,
-          69
-        ],
-        "combining": [
-          35
-        ],
-        "two": [
-          36,
-          44
-        ],
-        "nonionic": [
-          37
-        ],
-        "surfactants": [
-          38
-        ],
-        "(Tween": [
-          39
-        ],
-        "80,": [
-          40
-        ],
-        "Span": [
-          41
-        ],
-        "80)": [
-          42
-        ],
-        "with": [
-          43,
-          112,
-          150
-        ],
-        "surface-active": [
-          45
-        ],
-        "ionic": [
-          46
-        ],
-        "liquids": [
-          47
-        ],
-        "(SAILs):": [
-          48
-        ],
-        "1-butyl-3-methylimidazolium": [
-          49
-        ],
-        "lauroyl": [
-          50
-        ],
-        "sarcosinate": [
-          51
-        ],
-        "[Bmim][Lausar]": [
-          52
-        ],
-        "choline": [
-          54
-        ],
-        "myristate": [
-          55
-        ],
-        "[Cho][Mys],": [
-          56
-        ],
-        "remediate": [
-          58
-        ],
-        "crude": [
-          59,
-          129
-        ],
-        "spill.": [
-          61
-        ],
-        "performance": [
-          63
-        ],
-        "the": [
-          65,
-          85,
-          102,
-          124,
-          148,
-          184,
-          192,
-          200
-        ],
-        "was": [
-          67
-        ],
-        "evaluated": [
-          68
-        ],
-        "its": [
-          70
-        ],
-        "emulsion": [
-          71
-        ],
-        "stability,": [
-          72
-        ],
-        "surface": [
-          73
-        ],
-        "tension,": [
-          74
-        ],
-        "interfacial": [
-          75
-        ],
-        "tension": [
-          76
-        ],
-        "(IFT),": [
-          77
-        ],
-        "biodegradability": [
-          83
-        ],
-        "were": [
-          87
-        ],
-        "also": [
-          88
-        ],
-        "assessed": [
-          89
-        ],
-        "ensure": [
-          91
-        ],
-        "safe": [
-          93
-        ],
-        "application": [
-          94
-        ],
-        "environments.": [
-          97
-        ],
-        "(F9)": [
-          100
-        ],
-        "exhibited": [
-          101,
-          158
-        ],
-        "most": [
-          103
-        ],
-        "stable": [
-          104
-        ],
-        "emulsion,": [
-          105
-        ],
-        "maintaining": [
-          106
-        ],
-        "stability": [
-          107
-        ],
-        "even": [
-          108
-        ],
-        "after": [
-          109,
-          161
-        ],
-        "h": [
-          111
-        ],
-        "a": [
-          113,
-          172,
-          179
-        ],
-        "critical": [
-          114
-        ],
-        "micelle": [
-          115
-        ],
-        "concentration": [
-          116
-        ],
-        "(CMC)": [
-          117
-        ],
-        "3.52": [
-          119
-        ],
-        "mM.": [
-          120
-        ],
-        "efficiency": [
-          122,
-          201
-        ],
-        "dispersing": [
-          127
-        ],
-        "various": [
-          128
-        ],
-        "oils": [
-          130
-        ],
-        "(Arab,": [
-          131
-        ],
-        "Ratawi,": [
-          132
-        ],
-        "Doba)": [
-          134
-        ],
-        "ranged": [
-          135
-        ],
-        "from": [
-          136
-        ],
-        "70.12": [
-          137
-        ],
-        "93.72%.": [
-          139
-        ],
-        "Acute": [
-          140
-        ],
-        "tests": [
-          142
-        ],
-        "conducted": [
-          143
-        ],
-        "on": [
-          144
-        ],
-        "zebrafish": [
-          145
-        ],
-        "demonstrated": [
-          146
-        ],
-        "that": [
-          147
-        ],
-        "formulation,": [
-          149
-        ],
-        "LC<sub>50</sub>": [
-          152
-        ],
-        "value": [
-          153
-        ],
-        "mg": [
-          156
-        ],
-        "L<sup>-1</sup>,": [
-          157
-        ],
-        "practically": [
-          159
-        ],
-        "nontoxicity": [
-          160
-        ],
-        "h.": [
-          163
-        ],
-        "showed": [
-          166
-        ],
-        "rapid": [
-          167
-        ],
-        "exceeding": [
-          169
-        ],
-        "60%": [
-          170
-        ],
-        "within": [
-          171
-        ],
-        "28-day": [
-          173
-        ],
-        "testing": [
-          174
-        ],
-        "period.": [
-          175
-        ],
-        "research": [
-          177
-        ],
-        "presents": [
-          178
-        ],
-        "promising": [
-          180
-        ],
-        "approach": [
-          181
-        ],
-        "for": [
-          182
-        ],
-        "synthesizing": [
-          183
-        ],
-        "green": [
-          185
-        ],
-        "can": [
-          188
-        ],
-        "contribute": [
-          189
-        ],
-        "mitigating": [
-          191
-        ],
-        "environmental": [
-          193
-        ],
-        "impacts": [
-          194
-        ],
-        "enhancing": [
-          199
-        ],
-        "cleanup": [
-          203
-        ],
-        "operations.": [
-          204
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2025,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 3
         }
       ],
       "updated_date": "2025-11-06T03:46:38.306776",
@@ -14130,8 +14130,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12",
-          "score": 0.5299999713897705
+          "score": 0.5299999713897705,
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "awards": [],
@@ -15971,8 +15971,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.550000011920929
+          "score": 0.550000011920929,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -18064,8 +18064,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.47999998927116394
+          "score": 0.47999998927116394,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -18751,8 +18751,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15",
-          "score": 0.699999988079071
+          "score": 0.699999988079071,
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
@@ -19423,8 +19423,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.699999988079071
+          "score": 0.699999988079071,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -20201,8 +20201,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15",
-          "score": 0.6000000238418579
+          "score": 0.6000000238418579,
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
@@ -23224,8 +23224,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.44999998807907104
+          "score": 0.44999998807907104,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -24525,7 +24525,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.13272301,
+        "value": 0.13265398,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -24881,8 +24881,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12",
-          "score": 0.4399999976158142
+          "score": 0.4399999976158142,
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "awards": [],

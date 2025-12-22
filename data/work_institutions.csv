@@ -2136,6 +2136,8 @@ https://openalex.org/W4385407785,https://openalex.org/I134085113,King Fahd Unive
 https://openalex.org/W3193523201,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W4393853969,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W4393853969,https://openalex.org/I203899302,Universiti Teknologi Petronas
+https://openalex.org/W4400380613,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
+https://openalex.org/W4400380613,https://openalex.org/I203899302,Universiti Teknologi Petronas
 https://openalex.org/W4399173329,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W4404844299,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W4404844299,https://openalex.org/I203899302,Universiti Teknologi Petronas
@@ -2146,8 +2148,6 @@ https://openalex.org/W3027131100,https://openalex.org/I134085113,King Fahd Unive
 https://openalex.org/W3027131100,https://openalex.org/I4210108110,Mohamed I University
 https://openalex.org/W3000421861,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W3008854749,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
-https://openalex.org/W4400380613,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
-https://openalex.org/W4400380613,https://openalex.org/I203899302,Universiti Teknologi Petronas
 https://openalex.org/W4404702579,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W4407406312,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W2000420040,https://openalex.org/I204722609,Queen's University
@@ -4508,8 +4508,8 @@ https://openalex.org/W4392507159,https://openalex.org/I134085113,King Fahd Unive
 https://openalex.org/W4395690419,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W4321596465,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W4383874154,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
-https://openalex.org/W4281636542,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W4391338548,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
+https://openalex.org/W4281636542,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W4391845855,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W4392105851,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W4392105851,https://openalex.org/I28046988,Kwame Nkrumah University of Science and Technology
@@ -6545,6 +6545,7 @@ https://openalex.org/W4324056902,https://openalex.org/I134085113,King Fahd Unive
 https://openalex.org/W4411866663,https://openalex.org/I194343955,Pertamina (Indonesia)
 https://openalex.org/W4411866663,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W4411866663,https://openalex.org/I4210143841,Saudi Aramco (Saudi Arabia)
+https://openalex.org/W4412707715,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W4414021823,https://openalex.org/I176601375,Khalifa University of Science and Technology
 https://openalex.org/W4414021823,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W4414021823,https://openalex.org/I74801974,The University of Tokyo
@@ -6637,7 +6638,6 @@ https://openalex.org/W4406188914,https://openalex.org/I176601375,Khalifa Univers
 https://openalex.org/W4406188914,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W4406188914,https://openalex.org/I74801974,The University of Tokyo
 https://openalex.org/W4410049630,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
-https://openalex.org/W4412707715,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W4414226638,https://openalex.org/I4210143841,Saudi Aramco (Saudi Arabia)
 https://openalex.org/W4414226638,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W4414264349,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
@@ -7195,11 +7195,6 @@ https://openalex.org/W2971672840,https://openalex.org/I83816512,University of Ge
 https://openalex.org/W2971672840,https://openalex.org/I4210093716,Korea Polar Research Institute
 https://openalex.org/W2971672840,https://openalex.org/I207547235,Benha University
 https://openalex.org/W2971672840,https://openalex.org/I114017466,University of Technology Sydney
-https://openalex.org/W4362465905,https://openalex.org/I25355098,Chang'an University
-https://openalex.org/W4362465905,https://openalex.org/I184834183,Al-Azhar University
-https://openalex.org/W4362465905,https://openalex.org/I32021983,Christian-Albrechts-Universität zu Kiel
-https://openalex.org/W4362465905,https://openalex.org/I207547235,Benha University
-https://openalex.org/W4362465905,https://openalex.org/I48912391,Istanbul Technical University
 https://openalex.org/W4389463450,https://openalex.org/I211433327,Ministry of Natural Resources
 https://openalex.org/W4389463450,https://openalex.org/I4210109544,Second Institute of Oceanography
 https://openalex.org/W4389463450,https://openalex.org/I183067930,Shanghai Jiao Tong University
@@ -7240,6 +7235,11 @@ https://openalex.org/W4281789964,https://openalex.org/I88017793,Port Said Univer
 https://openalex.org/W4281789964,https://openalex.org/I207547235,Benha University
 https://openalex.org/W4281789964,https://openalex.org/I174878644,University of Patras
 https://openalex.org/W4281789964,https://openalex.org/I102322142,"Rutgers, The State University of New Jersey"
+https://openalex.org/W4362465905,https://openalex.org/I25355098,Chang'an University
+https://openalex.org/W4362465905,https://openalex.org/I184834183,Al-Azhar University
+https://openalex.org/W4362465905,https://openalex.org/I32021983,Christian-Albrechts-Universität zu Kiel
+https://openalex.org/W4362465905,https://openalex.org/I207547235,Benha University
+https://openalex.org/W4362465905,https://openalex.org/I48912391,Istanbul Technical University
 https://openalex.org/W4321373673,https://openalex.org/I86310350,Aswan University
 https://openalex.org/W4321373673,https://openalex.org/I86519309,The University of Texas at Austin
 https://openalex.org/W4321373673,https://openalex.org/I32021983,Christian-Albrechts-Universität zu Kiel
@@ -7551,6 +7551,8 @@ https://openalex.org/W4388033045,https://openalex.org/I134085113,King Fahd Unive
 https://openalex.org/W4390086859,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W4390086859,https://openalex.org/I4210143841,Saudi Aramco (Saudi Arabia)
 https://openalex.org/W4391140252,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
+https://openalex.org/W4403485983,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
+https://openalex.org/W4403485983,https://openalex.org/I4210143841,Saudi Aramco (Saudi Arabia)
 https://openalex.org/W1987348461,https://openalex.org/I205640436,Curtin University
 https://openalex.org/W2761463071,https://openalex.org/I31746571,UNSW Sydney
 https://openalex.org/W2610335401,https://openalex.org/I31746571,UNSW Sydney
@@ -7643,8 +7645,6 @@ https://openalex.org/W4318476424,https://openalex.org/I24676775,Indian Institute
 https://openalex.org/W4318476424,https://openalex.org/I1292875679,Commonwealth Scientific and Industrial Research Organisation
 https://openalex.org/W4318476424,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W4391785355,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
-https://openalex.org/W4403485983,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
-https://openalex.org/W4403485983,https://openalex.org/I4210143841,Saudi Aramco (Saudi Arabia)
 https://openalex.org/W4402100667,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W4392799599,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W4394014026,https://openalex.org/I82724352,Universiti Teknologi MARA

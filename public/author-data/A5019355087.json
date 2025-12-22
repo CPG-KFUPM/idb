@@ -1558,8 +1558,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8600000143051147,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8600000143051147,
           "display_name": "Life below water"
         }
       ],
@@ -4685,8 +4685,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.6100000143051147,
           "id": "https://metadata.un.org/sdg/2",
+          "score": 0.6100000143051147,
           "display_name": "Zero hunger"
         }
       ],
@@ -5239,8 +5239,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6700000166893005,
           "id": "https://metadata.un.org/sdg/6",
+          "score": 0.6700000166893005,
           "display_name": "Clean water and sanitation"
         }
       ],

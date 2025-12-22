@@ -4,7 +4,7 @@
     <title>Integrative Dashboard - Publications</title>
     <link>https://digitalgeosciences.github.io/dashboard3.2/</link>
     <description>Recent publications from the Integrative Geosciences dashboard.</description>
-    <lastBuildDate>Mon, 22 Dec 2025 03:14:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Dec 2025 20:25:59 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>Kaolinite Illitization Under Hydrothermal Conditions: Experimental Insight into Transformation Pathways</title>
@@ -50,6 +50,15 @@
       <dc:creator>Sivabalan Sakthivel</dc:creator>
       <dc:publisher>Energy &amp; Fuels</dc:publisher>
       <description>Authors: Sivabalan Sakthivel | Venue: Energy &amp; Fuels | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1021/acs.energyfuels.5c04712 | OpenAlex: https://openalex.org/W4417430413</description>
+    </item>
+    <item>
+      <title>A similarity model for subgrade compaction from collaborative laboratory-field tests</title>
+      <link>https://doi.org/10.1016/j.trgeo.2025.101858</link>
+      <pubDate>Wed, 17 Dec 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4417411019</guid>
+      <dc:creator>Xuefei Wang; Xu Liu; Jiale Li; Jianmin Zhang; Guowei Ma</dc:creator>
+      <dc:publisher>Transportation Geotechnics</dc:publisher>
+      <description>Authors: Xuefei Wang; Xu Liu; Jiale Li; Jianmin Zhang; Guowei Ma | Venue: Transportation Geotechnics | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1016/j.trgeo.2025.101858 | OpenAlex: https://openalex.org/W4417411019</description>
     </item>
     <item>
       <title>Age Matters: A Systematic Review of Limb-Salvage Surgery Outcomes in Pediatric Versus Adult Osteosarcoma</title>
@@ -106,6 +115,15 @@
       <description>Authors: Ahmed K. Al-Yasiri; Usama Alameedy; Hani Al Mukainah; Mahmoud A. Abdulhamid; Ahmed Al‐Yaseri | Venue: Geoenergy Science and Engineering | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1016/j.geoen.2025.214335 | OpenAlex: https://openalex.org/W4417166612</description>
     </item>
     <item>
+      <title>Process optimization and reaction kinetics of heterogeneous nitration of naphthalene in microreactors</title>
+      <link>https://doi.org/10.1016/j.cej.2025.171616</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4417123806</guid>
+      <dc:creator>Chengxiang He; Congying Zhang; Syed Muhammad Shakil Hussain; Kenechukwu George UGWU; Chunying Zhu; Youguang Ma; Taotao Fu</dc:creator>
+      <dc:publisher>Chemical Engineering Journal</dc:publisher>
+      <description>Authors: Chengxiang He; Congying Zhang; Syed Muhammad Shakil Hussain; Kenechukwu George UGWU; Chunying Zhu; Youguang Ma; Taotao Fu | Venue: Chemical Engineering Journal | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1016/j.cej.2025.171616 | OpenAlex: https://openalex.org/W4417123806</description>
+    </item>
+    <item>
       <title>Prospective routes for the synthesis of graphene-based hydrogels</title>
       <link>https://doi.org/10.1016/b978-0-443-31448-3.00002-1</link>
       <pubDate>Fri, 05 Dec 2025 00:00:00 GMT</pubDate>
@@ -131,24 +149,6 @@
       <dc:creator>Abdul Ahad Manzoor; Xiao Deng; Mohammed Alotaibi; Mohanad Fahmi; Syed Muhammad Shakil Hussain; Mohamed Mahmoud; Muhammad Shahzad Kamal; Shirish Patil</dc:creator>
       <dc:publisher>Energy &amp; Fuels</dc:publisher>
       <description>Authors: Abdul Ahad Manzoor; Xiao Deng; Mohammed Alotaibi; Mohanad Fahmi; Syed Muhammad Shakil Hussain; Mohamed Mahmoud; Muhammad Shahzad Kamal; Shirish Patil | Venue: Energy &amp; Fuels | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1021/acs.energyfuels.5c04766 | OpenAlex: https://openalex.org/W4416952831</description>
-    </item>
-    <item>
-      <title>Process optimization and reaction kinetics of heterogeneous nitration of naphthalene in microreactors</title>
-      <link>https://doi.org/10.1016/j.cej.2025.171616</link>
-      <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4417123806</guid>
-      <dc:creator>Syed Muhammad Shakil Hussain; Kenechukwu George UGWU; Chunying Zhu; Youguang Ma; Taotao Fu</dc:creator>
-      <dc:publisher>Chemical Engineering Journal</dc:publisher>
-      <description>Authors: Syed Muhammad Shakil Hussain; Kenechukwu George UGWU; Chunying Zhu; Youguang Ma; Taotao Fu | Venue: Chemical Engineering Journal | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1016/j.cej.2025.171616 | OpenAlex: https://openalex.org/W4417123806</description>
-    </item>
-    <item>
-      <title>A similarity model for subgrade compaction from collaborative laboratory-field tests</title>
-      <link>https://doi.org/10.1016/j.trgeo.2025.101858</link>
-      <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4417411019</guid>
-      <dc:creator>Xuefei Wang; Xu Liu; Jiale Li; Jianmin Zhang; Guowei Ma</dc:creator>
-      <dc:publisher>Transportation Geotechnics</dc:publisher>
-      <description>Authors: Xuefei Wang; Xu Liu; Jiale Li; Jianmin Zhang; Guowei Ma | Venue: Transportation Geotechnics | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1016/j.trgeo.2025.101858 | OpenAlex: https://openalex.org/W4417411019</description>
     </item>
     <item>
       <title>Sedimentological and diagenetic controls on burrow fillings in the upper Jurassic Hanifa formation, central Saudi Arabia: Implications for porosity and pore system variations in bioturbated reservoirs</title>
