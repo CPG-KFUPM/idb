@@ -20,25 +20,25 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10635",
     "name": "Hydraulic Fracturing and Reservoir Analysis",
     "publications": 1674,
-    "citations": 31563
+    "citations": 31566
   },
   {
     "id": "https://openalex.org/T10892",
     "name": "Drilling and Well Engineering",
     "publications": 1150,
-    "citations": 17067
+    "citations": 17068
   },
   {
     "id": "https://openalex.org/T10399",
     "name": "Hydrocarbon exploration and reservoir analysis",
     "publications": 1134,
-    "citations": 21296
+    "citations": 21298
   },
   {
     "id": "https://openalex.org/T10491",
     "name": "Enhanced Oil Recovery Techniques",
     "publications": 933,
-    "citations": 20941
+    "citations": 20942
   },
   {
     "id": "https://openalex.org/T10271",
@@ -62,25 +62,25 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10995",
     "name": "Methane Hydrates and Related Phenomena",
     "publications": 390,
-    "citations": 10267
+    "citations": 10268
   },
   {
     "id": "https://openalex.org/T11302",
     "name": "CO2 Sequestration and Geologic Interactions",
     "publications": 384,
-    "citations": 12557
+    "citations": 12559
   },
   {
     "id": "https://openalex.org/T10017",
     "name": "Geology and Paleoclimatology Research",
     "publications": 377,
-    "citations": 8479
+    "citations": 8480
   },
   {
     "id": "https://openalex.org/T11630",
     "name": "Petroleum Processing and Analysis",
     "publications": 368,
-    "citations": 8061
+    "citations": 8063
   },
   {
     "id": "https://openalex.org/T10001",
@@ -200,7 +200,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10765",
     "name": "Marine Biology and Ecology Research",
     "publications": 92,
-    "citations": 1361
+    "citations": 1362
   },
   {
     "id": "https://openalex.org/T10002",
@@ -218,13 +218,13 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T11278",
     "name": "Calcium Carbonate Crystallization and Inhibition",
     "publications": 83,
-    "citations": 1999
+    "citations": 2000
   },
   {
     "id": "https://openalex.org/T12073",
     "name": "Isotope Analysis in Ecology",
     "publications": 81,
-    "citations": 1672
+    "citations": 1673
   },
   {
     "id": "https://openalex.org/T10721",
@@ -275,16 +275,16 @@ export const topicStats: TopicStats[] = [
     "citations": 1882
   },
   {
+    "id": "https://openalex.org/T13067",
+    "name": "Geological Modeling and Analysis",
+    "publications": 55,
+    "citations": 110
+  },
+  {
     "id": "https://openalex.org/T10967",
     "name": "Carbon Dioxide Capture Technologies",
     "publications": 54,
     "citations": 1936
-  },
-  {
-    "id": "https://openalex.org/T13067",
-    "name": "Geological Modeling and Analysis",
-    "publications": 54,
-    "citations": 110
   },
   {
     "id": "https://openalex.org/T13596",
@@ -944,13 +944,13 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T12247",
     "name": "Microbial Applications in Construction Materials",
     "publications": 15,
-    "citations": 181
+    "citations": 182
   },
   {
     "id": "https://openalex.org/T10096",
     "name": "Metal-Organic Frameworks: Synthesis and Applications",
     "publications": 14,
-    "citations": 808
+    "citations": 809
   },
   {
     "id": "https://openalex.org/T10536",
@@ -1496,13 +1496,13 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T11948",
     "name": "Machine Learning in Materials Science",
     "publications": 8,
-    "citations": 98
+    "citations": 99
   },
   {
     "id": "https://openalex.org/T10798",
     "name": "Crystallography and molecular interactions",
     "publications": 8,
-    "citations": 96
+    "citations": 97
   },
   {
     "id": "https://openalex.org/T12190",
@@ -1587,6 +1587,12 @@ export const topicStats: TopicStats[] = [
     "name": "Scheduling and Optimization Algorithms",
     "publications": 8,
     "citations": 6
+  },
+  {
+    "id": "https://openalex.org/T11986",
+    "name": "Scientific Computing and Data Management",
+    "publications": 8,
+    "citations": 4
   },
   {
     "id": "https://openalex.org/T11690",
@@ -1845,12 +1851,6 @@ export const topicStats: TopicStats[] = [
     "name": "Advanced Data Processing Techniques",
     "publications": 7,
     "citations": 8
-  },
-  {
-    "id": "https://openalex.org/T11986",
-    "name": "Scientific Computing and Data Management",
-    "publications": 7,
-    "citations": 4
   },
   {
     "id": "https://openalex.org/T10251",
@@ -2732,7 +2732,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T11617",
     "name": "Enzyme Production and Characterization",
     "publications": 4,
-    "citations": 30
+    "citations": 31
   },
   {
     "id": "https://openalex.org/T12251",
@@ -3625,6 +3625,12 @@ export const topicStats: TopicStats[] = [
   {
     "id": "https://openalex.org/T11241",
     "name": "Advanced Malware Detection Techniques",
+    "publications": 3,
+    "citations": 0
+  },
+  {
+    "id": "https://openalex.org/T14427",
+    "name": "Environmental Monitoring and Data Management",
     "publications": 3,
     "citations": 0
   },
@@ -4753,12 +4759,6 @@ export const topicStats: TopicStats[] = [
   {
     "id": "https://openalex.org/T13854",
     "name": "Historical Geography and Cartography",
-    "publications": 2,
-    "citations": 0
-  },
-  {
-    "id": "https://openalex.org/T14427",
-    "name": "Environmental Monitoring and Data Management",
     "publications": 2,
     "citations": 0
   },
@@ -8429,7 +8429,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I134085113",
     "name": "King Fahd University of Petroleum and Minerals",
     "publications": 3201,
-    "citations": 55480
+    "citations": 55484
   },
   {
     "id": "https://openalex.org/I71920554",
@@ -8441,7 +8441,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I4210143841",
     "name": "Saudi Aramco (Saudi Arabia)",
     "publications": 228,
-    "citations": 3096
+    "citations": 3097
   },
   {
     "id": "https://openalex.org/I96673099",
@@ -8483,7 +8483,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I205640436",
     "name": "Curtin University",
     "publications": 102,
-    "citations": 6158
+    "citations": 6159
   },
   {
     "id": "https://openalex.org/I142732210",
@@ -8495,7 +8495,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I12079687",
     "name": "Edith Cowan University",
     "publications": 91,
-    "citations": 4703
+    "citations": 4704
   },
   {
     "id": "https://openalex.org/I98358874",
@@ -9701,7 +9701,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I4210142005",
     "name": "University of Kerbala",
     "publications": 7,
-    "citations": 216
+    "citations": 217
   },
   {
     "id": "https://openalex.org/I36243813",
@@ -10037,7 +10037,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I189462010",
     "name": "Universiti Brunei Darussalam",
     "publications": 6,
-    "citations": 114
+    "citations": 115
   },
   {
     "id": "https://openalex.org/I99043593",
@@ -11012,14 +11012,14 @@ export const institutionStats: InstitutionStats[] = [
     "citations": 29
   },
   {
-    "id": "https://openalex.org/I4210095435",
-    "name": "King Abdullah Petroleum Studies and Research Center",
-    "publications": 4,
-    "citations": 27
-  },
-  {
     "id": "https://openalex.org/I97565354",
     "name": "University of Lausanne",
+    "publications": 4,
+    "citations": 28
+  },
+  {
+    "id": "https://openalex.org/I4210095435",
+    "name": "King Abdullah Petroleum Studies and Research Center",
     "publications": 4,
     "citations": 27
   },
@@ -11906,16 +11906,16 @@ export const institutionStats: InstitutionStats[] = [
     "citations": 9
   },
   {
-    "id": "https://openalex.org/I4210165985",
-    "name": "Harbor–UCLA Medical Center",
+    "id": "https://openalex.org/I20230540",
+    "name": "University of Miskolc",
     "publications": 3,
     "citations": 8
   },
   {
-    "id": "https://openalex.org/I20230540",
-    "name": "University of Miskolc",
+    "id": "https://openalex.org/I4210165985",
+    "name": "Harbor–UCLA Medical Center",
     "publications": 3,
-    "citations": 7
+    "citations": 8
   },
   {
     "id": "https://openalex.org/I8901234",

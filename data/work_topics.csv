@@ -185,6 +185,9 @@ https://openalex.org/W4401443161,https://openalex.org/T10033,Concrete and Cement
 https://openalex.org/W4401480176,https://openalex.org/T11302,CO2 Sequestration and Geologic Interactions
 https://openalex.org/W4401480176,https://openalex.org/T10635,Hydraulic Fracturing and Reservoir Analysis
 https://openalex.org/W4401480176,https://openalex.org/T10491,Enhanced Oil Recovery Techniques
+https://openalex.org/W4403931113,https://openalex.org/T10399,Hydrocarbon exploration and reservoir analysis
+https://openalex.org/W4403931113,https://openalex.org/T10635,Hydraulic Fracturing and Reservoir Analysis
+https://openalex.org/W4403931113,https://openalex.org/T11302,CO2 Sequestration and Geologic Interactions
 https://openalex.org/W2983606640,https://openalex.org/T10635,Hydraulic Fracturing and Reservoir Analysis
 https://openalex.org/W2983606640,https://openalex.org/T10892,Drilling and Well Engineering
 https://openalex.org/W2983606640,https://openalex.org/T11801,Reservoir Engineering and Simulation Methods
@@ -257,9 +260,6 @@ https://openalex.org/W4384207547,https://openalex.org/T10635,Hydraulic Fracturin
 https://openalex.org/W4387470844,https://openalex.org/T10892,Drilling and Well Engineering
 https://openalex.org/W4387470844,https://openalex.org/T10161,Rock Mechanics and Modeling
 https://openalex.org/W4387470844,https://openalex.org/T10635,Hydraulic Fracturing and Reservoir Analysis
-https://openalex.org/W4403931113,https://openalex.org/T10399,Hydrocarbon exploration and reservoir analysis
-https://openalex.org/W4403931113,https://openalex.org/T10635,Hydraulic Fracturing and Reservoir Analysis
-https://openalex.org/W4403931113,https://openalex.org/T11302,CO2 Sequestration and Geologic Interactions
 https://openalex.org/W4387363867,https://openalex.org/T10892,Drilling and Well Engineering
 https://openalex.org/W4387363867,https://openalex.org/T10161,Rock Mechanics and Modeling
 https://openalex.org/W4387363867,https://openalex.org/T10536,Endodontics and Root Canal Treatments
@@ -642,9 +642,6 @@ https://openalex.org/W2902136917,https://openalex.org/T11798,Optimal Experimenta
 https://openalex.org/W3149875909,https://openalex.org/T10110,earthquake and tectonic studies
 https://openalex.org/W3149875909,https://openalex.org/T11801,Reservoir Engineering and Simulation Methods
 https://openalex.org/W3149875909,https://openalex.org/T11483,Tropical and Extratropical Cyclones Research
-https://openalex.org/W4408082959,https://openalex.org/T10110,earthquake and tectonic studies
-https://openalex.org/W4408082959,https://openalex.org/T10001,Geological and Geochemical Analysis
-https://openalex.org/W4408082959,https://openalex.org/T10413,High-pressure geophysics and materials
 https://openalex.org/W2758417045,https://openalex.org/T11245,Advanced Numerical Analysis Techniques
 https://openalex.org/W2758417045,https://openalex.org/T11435,Polynomial and algebraic computation
 https://openalex.org/W2758417045,https://openalex.org/T10996,Computational Geometry and Mesh Generation
@@ -660,6 +657,9 @@ https://openalex.org/W2895022508,https://openalex.org/T10928,Probabilistic and R
 https://openalex.org/W4300189252,https://openalex.org/T11195,Simulation Techniques and Applications
 https://openalex.org/W4300189252,https://openalex.org/T12814,Gaussian Processes and Bayesian Inference
 https://openalex.org/W4300189252,https://openalex.org/T11986,Scientific Computing and Data Management
+https://openalex.org/W4408082959,https://openalex.org/T10110,earthquake and tectonic studies
+https://openalex.org/W4408082959,https://openalex.org/T10001,Geological and Geochemical Analysis
+https://openalex.org/W4408082959,https://openalex.org/T10413,High-pressure geophysics and materials
 https://openalex.org/W4408310342,https://openalex.org/T10110,earthquake and tectonic studies
 https://openalex.org/W4408310342,https://openalex.org/T10017,Geology and Paleoclimatology Research
 https://openalex.org/W4408310342,https://openalex.org/T13205,Geological and Geophysical Studies Worldwide
@@ -5582,9 +5582,6 @@ https://openalex.org/W4224234457,https://openalex.org/T12482,Tunneling and Rock 
 https://openalex.org/W4383961961,https://openalex.org/T10139,Heavy metals in environment
 https://openalex.org/W4383961961,https://openalex.org/T10643,Marine and coastal plant biology
 https://openalex.org/W4383961961,https://openalex.org/T11969,Fluoride Effects and Removal
-https://openalex.org/W4400420434,https://openalex.org/T10965,Geological formations and processes
-https://openalex.org/W4400420434,https://openalex.org/T10779,Coastal wetland ecosystem dynamics
-https://openalex.org/W4400420434,https://openalex.org/T10017,Geology and Paleoclimatology Research
 https://openalex.org/W4404906904,https://openalex.org/T10399,Hydrocarbon exploration and reservoir analysis
 https://openalex.org/W4404906904,https://openalex.org/T12157,Geochemistry and Geologic Mapping
 https://openalex.org/W4404906904,https://openalex.org/T11801,Reservoir Engineering and Simulation Methods
@@ -5597,6 +5594,9 @@ https://openalex.org/W2996917135,https://openalex.org/T10892,Drilling and Well E
 https://openalex.org/W1985820896,https://openalex.org/T10109,Paleontology and Stratigraphy of Fossils
 https://openalex.org/W1985820896,https://openalex.org/T11852,Clay minerals and soil interactions
 https://openalex.org/W1985820896,https://openalex.org/T11740,Geochemistry and Elemental Analysis
+https://openalex.org/W4400420434,https://openalex.org/T10965,Geological formations and processes
+https://openalex.org/W4400420434,https://openalex.org/T10779,Coastal wetland ecosystem dynamics
+https://openalex.org/W4400420434,https://openalex.org/T10017,Geology and Paleoclimatology Research
 https://openalex.org/W4392185394,https://openalex.org/T10399,Hydrocarbon exploration and reservoir analysis
 https://openalex.org/W4392185394,https://openalex.org/T12157,Geochemistry and Geologic Mapping
 https://openalex.org/W4392185394,https://openalex.org/T10110,earthquake and tectonic studies
@@ -5876,6 +5876,9 @@ https://openalex.org/W4388593599,https://openalex.org/T12319,Fish Biology and Ec
 https://openalex.org/W4388960641,https://openalex.org/T10017,Geology and Paleoclimatology Research
 https://openalex.org/W4388960641,https://openalex.org/T11740,Geochemistry and Elemental Analysis
 https://openalex.org/W4388960641,https://openalex.org/T10109,Paleontology and Stratigraphy of Fossils
+https://openalex.org/W7116794122,https://openalex.org/T13067,Geological Modeling and Analysis
+https://openalex.org/W7116794122,https://openalex.org/T11986,Scientific Computing and Data Management
+https://openalex.org/W7116794122,https://openalex.org/T14427,Environmental Monitoring and Data Management
 https://openalex.org/W1983794578,https://openalex.org/T10017,Geology and Paleoclimatology Research
 https://openalex.org/W1983794578,https://openalex.org/T13193,Geological Studies and Exploration
 https://openalex.org/W1983794578,https://openalex.org/T14047,Marine and environmental studies
@@ -16759,9 +16762,6 @@ https://openalex.org/W3184140825,https://openalex.org/T12157,Geochemistry and Ge
 https://openalex.org/W4399189172,https://openalex.org/T10399,Hydrocarbon exploration and reservoir analysis
 https://openalex.org/W4399189172,https://openalex.org/T10965,Geological formations and processes
 https://openalex.org/W4399189172,https://openalex.org/T10001,Geological and Geochemical Analysis
-https://openalex.org/W4388467924,https://openalex.org/T12157,Geochemistry and Geologic Mapping
-https://openalex.org/W4388467924,https://openalex.org/T10399,Hydrocarbon exploration and reservoir analysis
-https://openalex.org/W4388467924,https://openalex.org/T10001,Geological and Geochemical Analysis
 https://openalex.org/W4400874350,https://openalex.org/T10399,Hydrocarbon exploration and reservoir analysis
 https://openalex.org/W4400874350,https://openalex.org/T11630,Petroleum Processing and Analysis
 https://openalex.org/W4400874350,https://openalex.org/T12157,Geochemistry and Geologic Mapping
@@ -16774,6 +16774,9 @@ https://openalex.org/W4408252131,https://openalex.org/T13177,Geological and Geop
 https://openalex.org/W4414027663,https://openalex.org/T10399,Hydrocarbon exploration and reservoir analysis
 https://openalex.org/W4414027663,https://openalex.org/T10995,Methane Hydrates and Related Phenomena
 https://openalex.org/W4414027663,https://openalex.org/T10109,Paleontology and Stratigraphy of Fossils
+https://openalex.org/W4388467924,https://openalex.org/T12157,Geochemistry and Geologic Mapping
+https://openalex.org/W4388467924,https://openalex.org/T10399,Hydrocarbon exploration and reservoir analysis
+https://openalex.org/W4388467924,https://openalex.org/T10001,Geological and Geochemical Analysis
 https://openalex.org/W4396960537,https://openalex.org/T10399,Hydrocarbon exploration and reservoir analysis
 https://openalex.org/W4396960537,https://openalex.org/T12157,Geochemistry and Geologic Mapping
 https://openalex.org/W4396960537,https://openalex.org/T11588,Atmospheric and Environmental Gas Dynamics

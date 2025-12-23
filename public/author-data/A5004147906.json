@@ -3220,9 +3220,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Reduced inequalities",
+          "id": "https://metadata.un.org/sdg/10",
           "score": 0.4000000059604645,
-          "id": "https://metadata.un.org/sdg/10"
+          "display_name": "Reduced inequalities"
         }
       ],
       "awards": [],
@@ -4826,9 +4826,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11",
           "score": 0.4099999964237213,
-          "id": "https://metadata.un.org/sdg/11"
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [
@@ -5552,9 +5552,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7",
           "score": 0.8999999761581421,
-          "id": "https://metadata.un.org/sdg/7"
+          "display_name": "Affordable and clean energy"
         }
       ],
       "awards": [
@@ -8533,9 +8533,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11",
           "score": 0.5199999809265137,
-          "id": "https://metadata.un.org/sdg/11"
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [
@@ -11315,9 +11315,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5099999904632568,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -12673,9 +12673,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6",
           "score": 0.8299999833106995,
-          "id": "https://metadata.un.org/sdg/6"
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -17380,9 +17380,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Decent work and economic growth",
+          "id": "https://metadata.un.org/sdg/8",
           "score": 0.4300000071525574,
-          "id": "https://metadata.un.org/sdg/8"
+          "display_name": "Decent work and economic growth"
         }
       ],
       "awards": [],
@@ -18839,9 +18839,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11",
           "score": 0.5099999904632568,
-          "id": "https://metadata.un.org/sdg/11"
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [
@@ -21900,9 +21900,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -22450,790 +22450,6 @@
         }
       ],
       "updated_date": "2025-11-25T14:43:58.451035",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W4408082959",
-      "doi": "https://doi.org/10.1016/j.jsg.2025.105391",
-      "title": "Characteristics and modelling of slip-rate variability and temporal earthquake clustering across a distributed network of active normal faults constrained by in situ 36Cl cosmogenic dating of fault scarp exhumation, central Italy",
-      "display_name": "Characteristics and modelling of slip-rate variability and temporal earthquake clustering across a distributed network of active normal faults constrained by in situ 36Cl cosmogenic dating of fault scarp exhumation, central Italy",
-      "publication_year": 2025,
-      "publication_date": "2025-03-02",
-      "ids": {
-        "openalex": "https://openalex.org/W4408082959",
-        "doi": "https://doi.org/10.1016/j.jsg.2025.105391"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/j.jsg.2025.105391",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/j.jsg.2025.105391",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S13481170",
-          "display_name": "Journal of Structural Geology",
-          "issn_l": "0191-8141",
-          "issn": [
-            "0191-8141",
-            "1873-1201"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Journal of Structural Geology",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5112378788",
-            "display_name": "R. P.",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Roberts G.P.",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5083953259",
-            "display_name": "Francesco Iezzi",
-            "orcid": "https://orcid.org/0000-0001-5628-3335"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Iezzi F.",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5078651367",
-            "display_name": "Claudia Sgambato",
-            "orcid": "https://orcid.org/0000-0002-1990-2501"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Sgambato C.",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5055560803",
-            "display_name": "Jennifer Robertson",
-            "orcid": "https://orcid.org/0000-0002-0849-6050"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Robertson J.",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5004147906",
-            "display_name": "Joakim Beck",
-            "orcid": "https://orcid.org/0000-0001-8042-998X"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Beck J.",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5106916234",
-            "display_name": "Mildon Z.K.",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Mildon Z.K.",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5086524768",
-            "display_name": "Ioannis Papanikolaou",
-            "orcid": "https://orcid.org/0000-0002-3576-3636"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Papanikolaou I.",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5116474782",
-            "display_name": "Michetti A.M.",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Michetti A.M.",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5019070294",
-            "display_name": "Faure Walker",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Faure Walker J.P.",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5102989739",
-            "display_name": "Stephen Α. Mitchell",
-            "orcid": "https://orcid.org/0000-0002-1530-2998"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Mitchell S",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5003909615",
-            "display_name": "Marco Meschis",
-            "orcid": "https://orcid.org/0000-0001-9144-3031"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Meschis M.",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5024944353",
-            "display_name": "Richard Shanks",
-            "orcid": "https://orcid.org/0000-0002-9677-8655"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Shanks R.",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5047910185",
-            "display_name": "R. J. Phillips",
-            "orcid": "https://orcid.org/0000-0002-1779-4295"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Phillips R.",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5116474781",
-            "display_name": "McCaffrey K.J.W.",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "McCaffrey K.J.W.",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5085591089",
-            "display_name": "E. Vittori",
-            "orcid": "https://orcid.org/0000-0003-0653-8437"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Vittori E.",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5046217767",
-            "display_name": "Francesco Visini",
-            "orcid": "https://orcid.org/0000-0001-9582-6443"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Visini F.",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5036272897",
-            "display_name": "Muhammad Farooq Iqbal",
-            "orcid": "https://orcid.org/0000-0002-5535-0839"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Iqbal M.",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 17,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
-      "apc_list": {
-        "value": 2870,
-        "currency": "USD",
-        "value_usd": 2870
-      },
-      "apc_paid": null,
-      "fwci": 9.84113795,
-      "has_fulltext": false,
-      "cited_by_count": 2,
-      "citation_normalized_percentile": {
-        "value": 0.94185758,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 95,
-        "max": 97
-      },
-      "biblio": {
-        "volume": "195",
-        "issue": null,
-        "first_page": "105391",
-        "last_page": "105391"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10110",
-        "display_name": "earthquake and tectonic studies",
-        "score": 1,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10110",
-          "display_name": "earthquake and tectonic studies",
-          "score": 1,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10001",
-          "display_name": "Geological and Geochemical Analysis",
-          "score": 0.9991000294685364,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10413",
-          "display_name": "High-pressure geophysics and materials",
-          "score": 0.9979000091552734,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.8715909719467163
-        },
-        {
-          "id": "https://openalex.org/keywords/fault-scarp",
-          "display_name": "Fault scarp",
-          "score": 0.8257718682289124
-        },
-        {
-          "id": "https://openalex.org/keywords/seismology",
-          "display_name": "Seismology",
-          "score": 0.7243012189865112
-        },
-        {
-          "id": "https://openalex.org/keywords/fault",
-          "display_name": "Fault (geology)",
-          "score": 0.5639976263046265
-        },
-        {
-          "id": "https://openalex.org/keywords/slip",
-          "display_name": "Slip (aerodynamics)",
-          "score": 0.47758224606513977
-        },
-        {
-          "id": "https://openalex.org/keywords/paleoseismology",
-          "display_name": "Paleoseismology",
-          "score": 0.46899938583374023
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.8715909719467163
-        },
-        {
-          "id": "https://openalex.org/C114679195",
-          "wikidata": "https://www.wikidata.org/wiki/Q475080",
-          "display_name": "Fault scarp",
-          "level": 3,
-          "score": 0.8257718682289124
-        },
-        {
-          "id": "https://openalex.org/C165205528",
-          "wikidata": "https://www.wikidata.org/wiki/Q83371",
-          "display_name": "Seismology",
-          "level": 1,
-          "score": 0.7243012189865112
-        },
-        {
-          "id": "https://openalex.org/C175551986",
-          "wikidata": "https://www.wikidata.org/wiki/Q47089",
-          "display_name": "Fault (geology)",
-          "level": 2,
-          "score": 0.5639976263046265
-        },
-        {
-          "id": "https://openalex.org/C195268267",
-          "wikidata": "https://www.wikidata.org/wiki/Q1928883",
-          "display_name": "Slip (aerodynamics)",
-          "level": 2,
-          "score": 0.47758224606513977
-        },
-        {
-          "id": "https://openalex.org/C2777322221",
-          "wikidata": "https://www.wikidata.org/wiki/Q1501881",
-          "display_name": "Paleoseismology",
-          "level": 3,
-          "score": 0.46899938583374023
-        },
-        {
-          "id": "https://openalex.org/C121332964",
-          "wikidata": "https://www.wikidata.org/wiki/Q413",
-          "display_name": "Physics",
-          "level": 0,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C97355855",
-          "wikidata": "https://www.wikidata.org/wiki/Q11473",
-          "display_name": "Thermodynamics",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 2,
-      "locations": [
-        {
-          "id": "doi:10.1016/j.jsg.2025.105391",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/j.jsg.2025.105391",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S13481170",
-            "display_name": "Journal of Structural Geology",
-            "issn_l": "0191-8141",
-            "issn": [
-              "0191-8141",
-              "1873-1201"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Journal of Structural Geology",
-          "raw_type": "journal-article"
-        },
-        {
-          "id": "pmh:oai:irinsubria.uninsubria.it:11383/2190373",
-          "is_oa": false,
-          "landing_page_url": "https://hdl.handle.net/11383/2190373",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4377196351",
-            "display_name": "IrInSubria (University of Insubria)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I115752224",
-            "host_organization_name": "University of Insubria",
-            "host_organization_lineage": [
-              "https://openalex.org/I115752224"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": null,
-          "raw_type": "info:eu-repo/semantics/article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "display_name": "Climate action",
-          "score": 0.6499999761581421,
-          "id": "https://metadata.un.org/sdg/13"
-        }
-      ],
-      "awards": [
-        {
-          "id": "https://openalex.org/G2373661189",
-          "display_name": null,
-          "funder_award_id": "NE/V012894/1",
-          "funder_id": "https://openalex.org/F4320334631",
-          "funder_display_name": "Natural Environment Research Council"
-        },
-        {
-          "id": "https://openalex.org/G5841812356",
-          "display_name": null,
-          "funder_award_id": "NE/J016497/1",
-          "funder_id": "https://openalex.org/F4320320022",
-          "funder_display_name": "Sight Research UK"
-        },
-        {
-          "id": "https://openalex.org/G7217247008",
-          "display_name": null,
-          "funder_award_id": "NE/I024127/1",
-          "funder_id": "https://openalex.org/F4320334631",
-          "funder_display_name": "Natural Environment Research Council"
-        },
-        {
-          "id": "https://openalex.org/G211387556",
-          "display_name": null,
-          "funder_award_id": "NE/V012894/1",
-          "funder_id": "https://openalex.org/F4320320022",
-          "funder_display_name": "Sight Research UK"
-        },
-        {
-          "id": "https://openalex.org/G6258777657",
-          "display_name": null,
-          "funder_award_id": "NE/I024127/1",
-          "funder_id": "https://openalex.org/F4320320022",
-          "funder_display_name": "Sight Research UK"
-        },
-        {
-          "id": "https://openalex.org/G2572951765",
-          "display_name": null,
-          "funder_award_id": "NE/E01545X/1",
-          "funder_id": "https://openalex.org/F4320334631",
-          "funder_display_name": "Natural Environment Research Council"
-        },
-        {
-          "id": "https://openalex.org/G7384046864",
-          "display_name": null,
-          "funder_award_id": "NE/J016497/1",
-          "funder_id": "https://openalex.org/F4320334631",
-          "funder_display_name": "Natural Environment Research Council"
-        },
-        {
-          "id": "https://openalex.org/G2987411901",
-          "display_name": null,
-          "funder_award_id": "NE/E01545X/1",
-          "funder_id": "https://openalex.org/F4320320022",
-          "funder_display_name": "Sight Research UK"
-        }
-      ],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320320022",
-          "display_name": "Sight Research UK",
-          "ror": "https://ror.org/03z2py885"
-        },
-        {
-          "id": "https://openalex.org/F4320334631",
-          "display_name": "Natural Environment Research Council",
-          "ror": "https://ror.org/02b5d8509"
-        }
-      ],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "referenced_works_count": 122,
-      "referenced_works": [
-        "https://openalex.org/W2766186185",
-        "https://openalex.org/W2966498636",
-        "https://openalex.org/W2803326567",
-        "https://openalex.org/W2130349805",
-        "https://openalex.org/W2095254973",
-        "https://openalex.org/W2103423476",
-        "https://openalex.org/W2603326533",
-        "https://openalex.org/W6736902709",
-        "https://openalex.org/W1972085540",
-        "https://openalex.org/W2047141390",
-        "https://openalex.org/W2110527274",
-        "https://openalex.org/W2040697366",
-        "https://openalex.org/W2002350562",
-        "https://openalex.org/W3191051333",
-        "https://openalex.org/W2290467574",
-        "https://openalex.org/W2092086965",
-        "https://openalex.org/W3011609747",
-        "https://openalex.org/W2308527565",
-        "https://openalex.org/W2041659463",
-        "https://openalex.org/W1804188941",
-        "https://openalex.org/W2603442705",
-        "https://openalex.org/W2015288730",
-        "https://openalex.org/W2057805069",
-        "https://openalex.org/W2314294150",
-        "https://openalex.org/W4387910172",
-        "https://openalex.org/W1677874448",
-        "https://openalex.org/W2089110295",
-        "https://openalex.org/W2149318755",
-        "https://openalex.org/W2347160697",
-        "https://openalex.org/W4388749853",
-        "https://openalex.org/W2286743874",
-        "https://openalex.org/W1972433207",
-        "https://openalex.org/W4210352596",
-        "https://openalex.org/W2607016606",
-        "https://openalex.org/W2110491183",
-        "https://openalex.org/W2067135199",
-        "https://openalex.org/W2056464157",
-        "https://openalex.org/W3137337304",
-        "https://openalex.org/W2043949557",
-        "https://openalex.org/W1571687464",
-        "https://openalex.org/W2091751858",
-        "https://openalex.org/W2809545353",
-        "https://openalex.org/W2031327502",
-        "https://openalex.org/W2159360390",
-        "https://openalex.org/W2015287431",
-        "https://openalex.org/W3123612164",
-        "https://openalex.org/W2603656601",
-        "https://openalex.org/W1975350041",
-        "https://openalex.org/W2070639710",
-        "https://openalex.org/W6802096976",
-        "https://openalex.org/W1977715511",
-        "https://openalex.org/W3217409573",
-        "https://openalex.org/W2742052982",
-        "https://openalex.org/W6638321005",
-        "https://openalex.org/W2129909375",
-        "https://openalex.org/W1971201400",
-        "https://openalex.org/W6731621708",
-        "https://openalex.org/W2559459525",
-        "https://openalex.org/W4280505187",
-        "https://openalex.org/W2791450434",
-        "https://openalex.org/W1982773695",
-        "https://openalex.org/W2020847161",
-        "https://openalex.org/W4293108048",
-        "https://openalex.org/W2802017015",
-        "https://openalex.org/W3012627717",
-        "https://openalex.org/W4309680563",
-        "https://openalex.org/W1520355367",
-        "https://openalex.org/W1992882250",
-        "https://openalex.org/W2333080226",
-        "https://openalex.org/W3209305926",
-        "https://openalex.org/W2966204840",
-        "https://openalex.org/W2111046179",
-        "https://openalex.org/W2139777922",
-        "https://openalex.org/W2276397346",
-        "https://openalex.org/W2155744993",
-        "https://openalex.org/W1993249250",
-        "https://openalex.org/W2518194661",
-        "https://openalex.org/W6611899892",
-        "https://openalex.org/W2167208776",
-        "https://openalex.org/W2018411847",
-        "https://openalex.org/W1967107641",
-        "https://openalex.org/W4392767881",
-        "https://openalex.org/W2163911882",
-        "https://openalex.org/W1735621831",
-        "https://openalex.org/W2991045609",
-        "https://openalex.org/W2111061528",
-        "https://openalex.org/W6684696640",
-        "https://openalex.org/W2098854240",
-        "https://openalex.org/W2029506146",
-        "https://openalex.org/W6602470476",
-        "https://openalex.org/W2112617137",
-        "https://openalex.org/W2155128667",
-        "https://openalex.org/W2127158804",
-        "https://openalex.org/W2129378919",
-        "https://openalex.org/W4246124473",
-        "https://openalex.org/W2920053351",
-        "https://openalex.org/W2973860274",
-        "https://openalex.org/W2094603996",
-        "https://openalex.org/W1983584243",
-        "https://openalex.org/W6636726868",
-        "https://openalex.org/W2586927742",
-        "https://openalex.org/W2890127545",
-        "https://openalex.org/W2795153239",
-        "https://openalex.org/W2072671455",
-        "https://openalex.org/W2766192788",
-        "https://openalex.org/W2127888210",
-        "https://openalex.org/W1960471763",
-        "https://openalex.org/W2167327624",
-        "https://openalex.org/W2730746958",
-        "https://openalex.org/W2059380579",
-        "https://openalex.org/W2089955915",
-        "https://openalex.org/W4387643076",
-        "https://openalex.org/W4243437659",
-        "https://openalex.org/W1978055661",
-        "https://openalex.org/W3204292175",
-        "https://openalex.org/W2168687360",
-        "https://openalex.org/W2106087220",
-        "https://openalex.org/W349656357",
-        "https://openalex.org/W2607592869",
-        "https://openalex.org/W60014203",
-        "https://openalex.org/W1640367110",
-        "https://openalex.org/W4298223504"
-      ],
-      "related_works": [
-        "https://openalex.org/W1525869816",
-        "https://openalex.org/W2315212829",
-        "https://openalex.org/W2318820254",
-        "https://openalex.org/W4387721547",
-        "https://openalex.org/W2325842488",
-        "https://openalex.org/W4377944190",
-        "https://openalex.org/W4328031365",
-        "https://openalex.org/W2019623411",
-        "https://openalex.org/W1501315245",
-        "https://openalex.org/W2372288407"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2025,
-          "cited_by_count": 2
-        }
-      ],
-      "updated_date": "2025-11-06T03:46:38.306776",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -27905,6 +27121,790 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
+      "id": "https://openalex.org/W4408082959",
+      "doi": "https://doi.org/10.1016/j.jsg.2025.105391",
+      "title": "Characteristics and modelling of slip-rate variability and temporal earthquake clustering across a distributed network of active normal faults constrained by in situ 36Cl cosmogenic dating of fault scarp exhumation, central Italy",
+      "display_name": "Characteristics and modelling of slip-rate variability and temporal earthquake clustering across a distributed network of active normal faults constrained by in situ 36Cl cosmogenic dating of fault scarp exhumation, central Italy",
+      "publication_year": 2025,
+      "publication_date": "2025-03-02",
+      "ids": {
+        "openalex": "https://openalex.org/W4408082959",
+        "doi": "https://doi.org/10.1016/j.jsg.2025.105391"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/j.jsg.2025.105391",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/j.jsg.2025.105391",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S13481170",
+          "display_name": "Journal of Structural Geology",
+          "issn_l": "0191-8141",
+          "issn": [
+            "0191-8141",
+            "1873-1201"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Structural Geology",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5112378788",
+            "display_name": "R. P.",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Roberts G.P.",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5083953259",
+            "display_name": "Francesco Iezzi",
+            "orcid": "https://orcid.org/0000-0001-5628-3335"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Iezzi F.",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5078651367",
+            "display_name": "Claudia Sgambato",
+            "orcid": "https://orcid.org/0000-0002-1990-2501"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Sgambato C.",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5055560803",
+            "display_name": "Jennifer Robertson",
+            "orcid": "https://orcid.org/0000-0002-0849-6050"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Robertson J.",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5004147906",
+            "display_name": "Joakim Beck",
+            "orcid": "https://orcid.org/0000-0001-8042-998X"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Beck J.",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5106916234",
+            "display_name": "Mildon Z.K.",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Mildon Z.K.",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5086524768",
+            "display_name": "Ioannis Papanikolaou",
+            "orcid": "https://orcid.org/0000-0002-3576-3636"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Papanikolaou I.",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5116474782",
+            "display_name": "Michetti A.M.",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Michetti A.M.",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5019070294",
+            "display_name": "Faure Walker",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Faure Walker J.P.",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5102989739",
+            "display_name": "Stephen Α. Mitchell",
+            "orcid": "https://orcid.org/0000-0002-1530-2998"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Mitchell S",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5003909615",
+            "display_name": "Marco Meschis",
+            "orcid": "https://orcid.org/0000-0001-9144-3031"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Meschis M.",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5024944353",
+            "display_name": "Richard Shanks",
+            "orcid": "https://orcid.org/0000-0002-9677-8655"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Shanks R.",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5047910185",
+            "display_name": "R. J. Phillips",
+            "orcid": "https://orcid.org/0000-0002-1779-4295"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Phillips R.",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5116474781",
+            "display_name": "McCaffrey K.J.W.",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "McCaffrey K.J.W.",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5085591089",
+            "display_name": "E. Vittori",
+            "orcid": "https://orcid.org/0000-0003-0653-8437"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Vittori E.",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5046217767",
+            "display_name": "Francesco Visini",
+            "orcid": "https://orcid.org/0000-0001-9582-6443"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Visini F.",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5036272897",
+            "display_name": "Muhammad Farooq Iqbal",
+            "orcid": "https://orcid.org/0000-0002-5535-0839"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Iqbal M.",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 17,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": {
+        "value": 2870,
+        "currency": "USD",
+        "value_usd": 2870
+      },
+      "apc_paid": null,
+      "fwci": 9.84113795,
+      "has_fulltext": false,
+      "cited_by_count": 2,
+      "citation_normalized_percentile": {
+        "value": 0.93862659,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 95,
+        "max": 96
+      },
+      "biblio": {
+        "volume": "195",
+        "issue": null,
+        "first_page": "105391",
+        "last_page": "105391"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10110",
+        "display_name": "earthquake and tectonic studies",
+        "score": 1,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1908",
+          "display_name": "Geophysics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10110",
+          "display_name": "earthquake and tectonic studies",
+          "score": 1,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10001",
+          "display_name": "Geological and Geochemical Analysis",
+          "score": 0.9991000294685364,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10413",
+          "display_name": "High-pressure geophysics and materials",
+          "score": 0.9979000091552734,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.8715909719467163
+        },
+        {
+          "id": "https://openalex.org/keywords/fault-scarp",
+          "display_name": "Fault scarp",
+          "score": 0.8257718682289124
+        },
+        {
+          "id": "https://openalex.org/keywords/seismology",
+          "display_name": "Seismology",
+          "score": 0.7243012189865112
+        },
+        {
+          "id": "https://openalex.org/keywords/fault",
+          "display_name": "Fault (geology)",
+          "score": 0.5639976263046265
+        },
+        {
+          "id": "https://openalex.org/keywords/slip",
+          "display_name": "Slip (aerodynamics)",
+          "score": 0.47758224606513977
+        },
+        {
+          "id": "https://openalex.org/keywords/paleoseismology",
+          "display_name": "Paleoseismology",
+          "score": 0.46899938583374023
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.8715909719467163
+        },
+        {
+          "id": "https://openalex.org/C114679195",
+          "wikidata": "https://www.wikidata.org/wiki/Q475080",
+          "display_name": "Fault scarp",
+          "level": 3,
+          "score": 0.8257718682289124
+        },
+        {
+          "id": "https://openalex.org/C165205528",
+          "wikidata": "https://www.wikidata.org/wiki/Q83371",
+          "display_name": "Seismology",
+          "level": 1,
+          "score": 0.7243012189865112
+        },
+        {
+          "id": "https://openalex.org/C175551986",
+          "wikidata": "https://www.wikidata.org/wiki/Q47089",
+          "display_name": "Fault (geology)",
+          "level": 2,
+          "score": 0.5639976263046265
+        },
+        {
+          "id": "https://openalex.org/C195268267",
+          "wikidata": "https://www.wikidata.org/wiki/Q1928883",
+          "display_name": "Slip (aerodynamics)",
+          "level": 2,
+          "score": 0.47758224606513977
+        },
+        {
+          "id": "https://openalex.org/C2777322221",
+          "wikidata": "https://www.wikidata.org/wiki/Q1501881",
+          "display_name": "Paleoseismology",
+          "level": 3,
+          "score": 0.46899938583374023
+        },
+        {
+          "id": "https://openalex.org/C121332964",
+          "wikidata": "https://www.wikidata.org/wiki/Q413",
+          "display_name": "Physics",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C97355855",
+          "wikidata": "https://www.wikidata.org/wiki/Q11473",
+          "display_name": "Thermodynamics",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.jsg.2025.105391",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/j.jsg.2025.105391",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S13481170",
+            "display_name": "Journal of Structural Geology",
+            "issn_l": "0191-8141",
+            "issn": [
+              "0191-8141",
+              "1873-1201"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Journal of Structural Geology",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:irinsubria.uninsubria.it:11383/2190373",
+          "is_oa": false,
+          "landing_page_url": "https://hdl.handle.net/11383/2190373",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4377196351",
+            "display_name": "IrInSubria (University of Insubria)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I115752224",
+            "host_organization_name": "University of Insubria",
+            "host_organization_lineage": [
+              "https://openalex.org/I115752224"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "info:eu-repo/semantics/article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.6499999761581421,
+          "display_name": "Climate action"
+        }
+      ],
+      "awards": [
+        {
+          "id": "https://openalex.org/G5841812356",
+          "display_name": null,
+          "funder_award_id": "NE/J016497/1",
+          "funder_id": "https://openalex.org/F4320320022",
+          "funder_display_name": "Sight Research UK"
+        },
+        {
+          "id": "https://openalex.org/G2373661189",
+          "display_name": null,
+          "funder_award_id": "NE/V012894/1",
+          "funder_id": "https://openalex.org/F4320334631",
+          "funder_display_name": "Natural Environment Research Council"
+        },
+        {
+          "id": "https://openalex.org/G211387556",
+          "display_name": null,
+          "funder_award_id": "NE/V012894/1",
+          "funder_id": "https://openalex.org/F4320320022",
+          "funder_display_name": "Sight Research UK"
+        },
+        {
+          "id": "https://openalex.org/G2987411901",
+          "display_name": null,
+          "funder_award_id": "NE/E01545X/1",
+          "funder_id": "https://openalex.org/F4320320022",
+          "funder_display_name": "Sight Research UK"
+        },
+        {
+          "id": "https://openalex.org/G2572951765",
+          "display_name": null,
+          "funder_award_id": "NE/E01545X/1",
+          "funder_id": "https://openalex.org/F4320334631",
+          "funder_display_name": "Natural Environment Research Council"
+        },
+        {
+          "id": "https://openalex.org/G6258777657",
+          "display_name": null,
+          "funder_award_id": "NE/I024127/1",
+          "funder_id": "https://openalex.org/F4320320022",
+          "funder_display_name": "Sight Research UK"
+        },
+        {
+          "id": "https://openalex.org/G7384046864",
+          "display_name": null,
+          "funder_award_id": "NE/J016497/1",
+          "funder_id": "https://openalex.org/F4320334631",
+          "funder_display_name": "Natural Environment Research Council"
+        },
+        {
+          "id": "https://openalex.org/G7217247008",
+          "display_name": null,
+          "funder_award_id": "NE/I024127/1",
+          "funder_id": "https://openalex.org/F4320334631",
+          "funder_display_name": "Natural Environment Research Council"
+        }
+      ],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320320022",
+          "display_name": "Sight Research UK",
+          "ror": "https://ror.org/03z2py885"
+        },
+        {
+          "id": "https://openalex.org/F4320334631",
+          "display_name": "Natural Environment Research Council",
+          "ror": "https://ror.org/02b5d8509"
+        }
+      ],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "referenced_works_count": 122,
+      "referenced_works": [
+        "https://openalex.org/W2766186185",
+        "https://openalex.org/W2966498636",
+        "https://openalex.org/W2803326567",
+        "https://openalex.org/W2130349805",
+        "https://openalex.org/W2095254973",
+        "https://openalex.org/W2103423476",
+        "https://openalex.org/W2603326533",
+        "https://openalex.org/W6736902709",
+        "https://openalex.org/W1972085540",
+        "https://openalex.org/W2047141390",
+        "https://openalex.org/W2110527274",
+        "https://openalex.org/W2040697366",
+        "https://openalex.org/W2002350562",
+        "https://openalex.org/W3191051333",
+        "https://openalex.org/W2290467574",
+        "https://openalex.org/W2092086965",
+        "https://openalex.org/W3011609747",
+        "https://openalex.org/W2308527565",
+        "https://openalex.org/W2041659463",
+        "https://openalex.org/W1804188941",
+        "https://openalex.org/W2603442705",
+        "https://openalex.org/W2015288730",
+        "https://openalex.org/W2057805069",
+        "https://openalex.org/W2314294150",
+        "https://openalex.org/W4387910172",
+        "https://openalex.org/W1677874448",
+        "https://openalex.org/W2089110295",
+        "https://openalex.org/W2149318755",
+        "https://openalex.org/W2347160697",
+        "https://openalex.org/W4388749853",
+        "https://openalex.org/W2286743874",
+        "https://openalex.org/W1972433207",
+        "https://openalex.org/W4210352596",
+        "https://openalex.org/W2607016606",
+        "https://openalex.org/W2110491183",
+        "https://openalex.org/W2067135199",
+        "https://openalex.org/W2056464157",
+        "https://openalex.org/W3137337304",
+        "https://openalex.org/W2043949557",
+        "https://openalex.org/W1571687464",
+        "https://openalex.org/W2091751858",
+        "https://openalex.org/W2809545353",
+        "https://openalex.org/W2031327502",
+        "https://openalex.org/W2159360390",
+        "https://openalex.org/W2015287431",
+        "https://openalex.org/W3123612164",
+        "https://openalex.org/W2603656601",
+        "https://openalex.org/W1975350041",
+        "https://openalex.org/W2070639710",
+        "https://openalex.org/W6802096976",
+        "https://openalex.org/W1977715511",
+        "https://openalex.org/W3217409573",
+        "https://openalex.org/W2742052982",
+        "https://openalex.org/W6638321005",
+        "https://openalex.org/W2129909375",
+        "https://openalex.org/W1971201400",
+        "https://openalex.org/W6731621708",
+        "https://openalex.org/W2559459525",
+        "https://openalex.org/W4280505187",
+        "https://openalex.org/W2791450434",
+        "https://openalex.org/W1982773695",
+        "https://openalex.org/W2020847161",
+        "https://openalex.org/W4293108048",
+        "https://openalex.org/W2802017015",
+        "https://openalex.org/W3012627717",
+        "https://openalex.org/W4309680563",
+        "https://openalex.org/W1520355367",
+        "https://openalex.org/W1992882250",
+        "https://openalex.org/W2333080226",
+        "https://openalex.org/W3209305926",
+        "https://openalex.org/W2966204840",
+        "https://openalex.org/W2111046179",
+        "https://openalex.org/W2139777922",
+        "https://openalex.org/W2276397346",
+        "https://openalex.org/W2155744993",
+        "https://openalex.org/W1993249250",
+        "https://openalex.org/W2518194661",
+        "https://openalex.org/W6611899892",
+        "https://openalex.org/W2167208776",
+        "https://openalex.org/W2018411847",
+        "https://openalex.org/W1967107641",
+        "https://openalex.org/W4392767881",
+        "https://openalex.org/W2163911882",
+        "https://openalex.org/W1735621831",
+        "https://openalex.org/W2991045609",
+        "https://openalex.org/W2111061528",
+        "https://openalex.org/W6684696640",
+        "https://openalex.org/W2098854240",
+        "https://openalex.org/W2029506146",
+        "https://openalex.org/W6602470476",
+        "https://openalex.org/W2112617137",
+        "https://openalex.org/W2155128667",
+        "https://openalex.org/W2127158804",
+        "https://openalex.org/W2129378919",
+        "https://openalex.org/W4246124473",
+        "https://openalex.org/W2920053351",
+        "https://openalex.org/W2973860274",
+        "https://openalex.org/W2094603996",
+        "https://openalex.org/W1983584243",
+        "https://openalex.org/W6636726868",
+        "https://openalex.org/W2586927742",
+        "https://openalex.org/W2890127545",
+        "https://openalex.org/W2795153239",
+        "https://openalex.org/W2072671455",
+        "https://openalex.org/W2766192788",
+        "https://openalex.org/W2127888210",
+        "https://openalex.org/W1960471763",
+        "https://openalex.org/W2167327624",
+        "https://openalex.org/W2730746958",
+        "https://openalex.org/W2059380579",
+        "https://openalex.org/W2089955915",
+        "https://openalex.org/W4387643076",
+        "https://openalex.org/W2106087220",
+        "https://openalex.org/W1640367110",
+        "https://openalex.org/W349656357",
+        "https://openalex.org/W4243437659",
+        "https://openalex.org/W60014203",
+        "https://openalex.org/W2168687360",
+        "https://openalex.org/W1978055661",
+        "https://openalex.org/W2607592869",
+        "https://openalex.org/W3204292175",
+        "https://openalex.org/W4298223504"
+      ],
+      "related_works": [
+        "https://openalex.org/W1525869816",
+        "https://openalex.org/W2315212829",
+        "https://openalex.org/W2318820254",
+        "https://openalex.org/W4387721547",
+        "https://openalex.org/W2325842488",
+        "https://openalex.org/W4377944190",
+        "https://openalex.org/W4328031365",
+        "https://openalex.org/W2019623411",
+        "https://openalex.org/W1501315245",
+        "https://openalex.org/W2372288407"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2025-12-22T23:10:17.713674",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W4408310342",
       "doi": "https://doi.org/10.1029/2024tc008529",
       "title": "Millennial Slip‐Rates Variability of Along‐Strike Active Faults in the Italian Southern Apennines Revealed by Cosmogenic <sup>36</sup>Cl Dating of Fault Scarps",
@@ -28437,7 +28437,7 @@
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.9404875,
+        "value": 0.9400071,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -28747,16 +28747,16 @@
       "sustainable_development_goals": [],
       "awards": [
         {
-          "id": "https://openalex.org/G672277758",
+          "id": "https://openalex.org/G5874849613",
           "display_name": null,
-          "funder_award_id": "NE/L002485/1",
+          "funder_award_id": "9198/1019",
           "funder_id": "https://openalex.org/F4320334631",
           "funder_display_name": "Natural Environment Research Council"
         },
         {
-          "id": "https://openalex.org/G5874849613",
+          "id": "https://openalex.org/G672277758",
           "display_name": null,
-          "funder_award_id": "9198/1019",
+          "funder_award_id": "NE/L002485/1",
           "funder_id": "https://openalex.org/F4320334631",
           "funder_display_name": "Natural Environment Research Council"
         }
@@ -28826,33 +28826,33 @@
         "https://openalex.org/W1971975948",
         "https://openalex.org/W1960471763",
         "https://openalex.org/W2089955915",
-        "https://openalex.org/W2110527274",
-        "https://openalex.org/W4283329677",
-        "https://openalex.org/W2127800616",
-        "https://openalex.org/W1967107641",
-        "https://openalex.org/W1987773098",
-        "https://openalex.org/W3217409573",
-        "https://openalex.org/W1997857752",
-        "https://openalex.org/W4309680563",
-        "https://openalex.org/W2086069100",
-        "https://openalex.org/W2018093152",
-        "https://openalex.org/W2092383915",
         "https://openalex.org/W2803326567",
-        "https://openalex.org/W2119117154",
-        "https://openalex.org/W3011908531",
         "https://openalex.org/W2167208776",
-        "https://openalex.org/W81404313",
-        "https://openalex.org/W2947781823",
-        "https://openalex.org/W2033867961",
-        "https://openalex.org/W2071566949",
-        "https://openalex.org/W2064706084",
-        "https://openalex.org/W2039914459",
-        "https://openalex.org/W2130349805",
-        "https://openalex.org/W3045780744",
-        "https://openalex.org/W2799277018",
-        "https://openalex.org/W2006381416",
         "https://openalex.org/W2168687360",
-        "https://openalex.org/W2069921444"
+        "https://openalex.org/W2119117154",
+        "https://openalex.org/W2071566949",
+        "https://openalex.org/W2799277018",
+        "https://openalex.org/W2018093152",
+        "https://openalex.org/W2064706084",
+        "https://openalex.org/W2069921444",
+        "https://openalex.org/W2110527274",
+        "https://openalex.org/W3011908531",
+        "https://openalex.org/W1967107641",
+        "https://openalex.org/W2127800616",
+        "https://openalex.org/W2947781823",
+        "https://openalex.org/W3045780744",
+        "https://openalex.org/W2092383915",
+        "https://openalex.org/W1987773098",
+        "https://openalex.org/W4283329677",
+        "https://openalex.org/W4309680563",
+        "https://openalex.org/W2130349805",
+        "https://openalex.org/W3217409573",
+        "https://openalex.org/W81404313",
+        "https://openalex.org/W1997857752",
+        "https://openalex.org/W2033867961",
+        "https://openalex.org/W2006381416",
+        "https://openalex.org/W2086069100",
+        "https://openalex.org/W2039914459"
       ],
       "related_works": [
         "https://openalex.org/W2372756463",
@@ -31162,9 +31162,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.6299999952316284,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "awards": [
@@ -31777,9 +31777,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7",
           "score": 0.4000000059604645,
-          "id": "https://metadata.un.org/sdg/7"
+          "display_name": "Affordable and clean energy"
         }
       ],
       "awards": [],
@@ -33044,9 +33044,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7",
           "score": 0.7300000190734863,
-          "id": "https://metadata.un.org/sdg/7"
+          "display_name": "Affordable and clean energy"
         }
       ],
       "awards": [],
@@ -35574,9 +35574,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Industry, innovation and infrastructure",
+          "id": "https://metadata.un.org/sdg/9",
           "score": 0.6700000166893005,
-          "id": "https://metadata.un.org/sdg/9"
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [],
@@ -36251,9 +36251,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.7200000286102295,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -37028,9 +37028,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.75,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -37446,9 +37446,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.8299999833106995,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -40211,9 +40211,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.47999998927116394,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -41118,9 +41118,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.8100000023841858,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -44928,7 +44928,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.09858663,
+        "value": 0.09855104,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -46591,9 +46591,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6100000143051147,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
