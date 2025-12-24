@@ -20,37 +20,37 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10635",
     "name": "Hydraulic Fracturing and Reservoir Analysis",
     "publications": 1674,
-    "citations": 31566
+    "citations": 31573
   },
   {
     "id": "https://openalex.org/T10892",
     "name": "Drilling and Well Engineering",
     "publications": 1150,
-    "citations": 17068
+    "citations": 17072
   },
   {
     "id": "https://openalex.org/T10399",
     "name": "Hydrocarbon exploration and reservoir analysis",
     "publications": 1134,
-    "citations": 21298
+    "citations": 21303
   },
   {
     "id": "https://openalex.org/T10491",
     "name": "Enhanced Oil Recovery Techniques",
     "publications": 933,
-    "citations": 20942
+    "citations": 20943
   },
   {
     "id": "https://openalex.org/T10271",
     "name": "Seismic Imaging and Inversion Techniques",
     "publications": 691,
-    "citations": 6957
+    "citations": 6958
   },
   {
     "id": "https://openalex.org/T11801",
     "name": "Reservoir Engineering and Simulation Methods",
     "publications": 680,
-    "citations": 9479
+    "citations": 9482
   },
   {
     "id": "https://openalex.org/T11757",
@@ -62,7 +62,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10995",
     "name": "Methane Hydrates and Related Phenomena",
     "publications": 390,
-    "citations": 10268
+    "citations": 10269
   },
   {
     "id": "https://openalex.org/T11302",
@@ -86,7 +86,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10001",
     "name": "Geological and Geochemical Analysis",
     "publications": 321,
-    "citations": 7131
+    "citations": 7133
   },
   {
     "id": "https://openalex.org/T10110",
@@ -110,13 +110,13 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10109",
     "name": "Paleontology and Stratigraphy of Fossils",
     "publications": 223,
-    "citations": 4227
+    "citations": 4228
   },
   {
     "id": "https://openalex.org/T12482",
     "name": "Tunneling and Rock Mechanics",
     "publications": 218,
-    "citations": 3601
+    "citations": 3603
   },
   {
     "id": "https://openalex.org/T13177",
@@ -128,7 +128,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10965",
     "name": "Geological formations and processes",
     "publications": 184,
-    "citations": 3067
+    "citations": 3069
   },
   {
     "id": "https://openalex.org/T10161",
@@ -170,7 +170,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T12603",
     "name": "NMR spectroscopy and applications",
     "publications": 125,
-    "citations": 2275
+    "citations": 2276
   },
   {
     "id": "https://openalex.org/T11588",
@@ -188,7 +188,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T13193",
     "name": "Geological Studies and Exploration",
     "publications": 97,
-    "citations": 2829
+    "citations": 2830
   },
   {
     "id": "https://openalex.org/T12282",
@@ -218,7 +218,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T11278",
     "name": "Calcium Carbonate Crystallization and Inhibition",
     "publications": 83,
-    "citations": 2000
+    "citations": 2001
   },
   {
     "id": "https://openalex.org/T12073",
@@ -266,7 +266,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10045",
     "name": "Organic Electronics and Photovoltaics",
     "publications": 55,
-    "citations": 9629
+    "citations": 9630
   },
   {
     "id": "https://openalex.org/T11284",
@@ -278,7 +278,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T13067",
     "name": "Geological Modeling and Analysis",
     "publications": 55,
-    "citations": 110
+    "citations": 111
   },
   {
     "id": "https://openalex.org/T10967",
@@ -734,7 +734,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T11240",
     "name": "Luminescence and Fluorescent Materials",
     "publications": 19,
-    "citations": 829
+    "citations": 830
   },
   {
     "id": "https://openalex.org/T10234",
@@ -812,13 +812,13 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10611",
     "name": "Organic Light-Emitting Diodes Research",
     "publications": 17,
-    "citations": 1607
+    "citations": 1608
   },
   {
     "id": "https://openalex.org/T12316",
     "name": "Oil Spill Detection and Mitigation",
     "publications": 17,
-    "citations": 620
+    "citations": 621
   },
   {
     "id": "https://openalex.org/T11850",
@@ -902,7 +902,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T13092",
     "name": "Environmental Chemistry and Analysis",
     "publications": 15,
-    "citations": 375
+    "citations": 376
   },
   {
     "id": "https://openalex.org/T12776",
@@ -1946,7 +1946,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T12071",
     "name": "Marine Biology and Environmental Chemistry",
     "publications": 6,
-    "citations": 57
+    "citations": 58
   },
   {
     "id": "https://openalex.org/T10059",
@@ -8429,7 +8429,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I134085113",
     "name": "King Fahd University of Petroleum and Minerals",
     "publications": 3201,
-    "citations": 55484
+    "citations": 55493
   },
   {
     "id": "https://openalex.org/I71920554",
@@ -8561,7 +8561,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I203899302",
     "name": "Universiti Teknologi Petronas",
     "publications": 54,
-    "citations": 2004
+    "citations": 2005
   },
   {
     "id": "https://openalex.org/I154425047",
@@ -8627,7 +8627,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I1294671590",
     "name": "Centre National de la Recherche Scientifique",
     "publications": 33,
-    "citations": 2449
+    "citations": 2450
   },
   {
     "id": "https://openalex.org/I35440088",
@@ -9263,7 +9263,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I27357992",
     "name": "Dalian University of Technology",
     "publications": 10,
-    "citations": 702
+    "citations": 703
   },
   {
     "id": "https://openalex.org/I122411786",
@@ -9371,7 +9371,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I4210092944",
     "name": "Dalian University",
     "publications": 9,
-    "citations": 547
+    "citations": 548
   },
   {
     "id": "https://openalex.org/I180923762",
@@ -10631,7 +10631,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I90183372",
     "name": "Université de Lorraine",
     "publications": 5,
-    "citations": 38
+    "citations": 39
   },
   {
     "id": "https://openalex.org/I4210112279",
@@ -11591,7 +11591,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I4387156043",
     "name": "Laboratoire de Physique et Chimie Théoriques",
     "publications": 3,
-    "citations": 38
+    "citations": 39
   },
   {
     "id": "https://openalex.org/I2800664555",

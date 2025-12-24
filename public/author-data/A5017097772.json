@@ -12207,7 +12207,7 @@
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.70143262,
+        "value": 0.70115762,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13891,7 +13891,7 @@
       "primary_location": {
         "id": "doi:10.56952/arma-2023-0447",
         "is_oa": false,
-        "landing_page_url": "https://doi.org/10.56952/arma-2023-0447",
+        "landing_page_url": "http://dx.doi.org/10.56952/arma-2023-0447",
         "pdf_url": null,
         "source": null,
         "license": null,
@@ -14111,7 +14111,7 @@
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.6480358,
+        "value": 0.64467699,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14404,7 +14404,7 @@
         {
           "id": "doi:10.56952/arma-2023-0447",
           "is_oa": false,
-          "landing_page_url": "https://doi.org/10.56952/arma-2023-0447",
+          "landing_page_url": "http://dx.doi.org/10.56952/arma-2023-0447",
           "pdf_url": null,
           "source": null,
           "license": null,
@@ -15287,7 +15287,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2025-12-23T23:11:35.936235",
       "created_date": "2025-10-10T00:00:00"
     },
     {

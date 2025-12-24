@@ -32081,9 +32081,9 @@
             {
               "raw_affiliation_string": "Université de Lorraine & CNRS, LPCT, UMR 7019, Nancy F-54000, France",
               "institution_ids": [
+                "https://openalex.org/I1294671590",
                 "https://openalex.org/I4387156043",
-                "https://openalex.org/I90183372",
-                "https://openalex.org/I1294671590"
+                "https://openalex.org/I90183372"
               ]
             }
           ]
@@ -32271,9 +32271,9 @@
             {
               "raw_affiliation_string": "Université de Lorraine & CNRS, LPCT, UMR 7019, Nancy F-54000, France",
               "institution_ids": [
+                "https://openalex.org/I1294671590",
                 "https://openalex.org/I4387156043",
-                "https://openalex.org/I90183372",
-                "https://openalex.org/I1294671590"
+                "https://openalex.org/I90183372"
               ]
             }
           ]
@@ -32286,11 +32286,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 6.64503251,
+      "fwci": 7.01420098,
       "has_fulltext": false,
-      "cited_by_count": 18,
+      "cited_by_count": 19,
       "citation_normalized_percentile": {
-        "value": 0.9588749,
+        "value": 0.96030988,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -32861,14 +32861,14 @@
       "counts_by_year": [
         {
           "year": 2025,
-          "cited_by_count": 16
+          "cited_by_count": 17
         },
         {
           "year": 2024,
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2025-12-23T23:11:35.936235",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -120486,7 +120486,7 @@
       "primary_location": {
         "id": "doi:10.26434/chemrxiv-2023-2qqt5",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.26434/chemrxiv-2023-2qqt5",
+        "landing_page_url": "http://dx.doi.org/10.26434/chemrxiv-2023-2qqt5",
         "pdf_url": "https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/647afc92be16ad5c5764ab1d/original/water-oil-emulsions-studied-by-vibrational-sum-frequency-generation.pdf",
         "source": null,
         "license": "cc-by-nc-nd",
@@ -120592,7 +120592,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.08712293,
+        "value": 0.08652194,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -120842,7 +120842,7 @@
         {
           "id": "doi:10.26434/chemrxiv-2023-2qqt5",
           "is_oa": true,
-          "landing_page_url": "https://doi.org/10.26434/chemrxiv-2023-2qqt5",
+          "landing_page_url": "http://dx.doi.org/10.26434/chemrxiv-2023-2qqt5",
           "pdf_url": "https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/647afc92be16ad5c5764ab1d/original/water-oil-emulsions-studied-by-vibrational-sum-frequency-generation.pdf",
           "source": null,
           "license": "cc-by-nc-nd",
@@ -120857,7 +120857,7 @@
       "best_oa_location": {
         "id": "doi:10.26434/chemrxiv-2023-2qqt5",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.26434/chemrxiv-2023-2qqt5",
+        "landing_page_url": "http://dx.doi.org/10.26434/chemrxiv-2023-2qqt5",
         "pdf_url": "https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/647afc92be16ad5c5764ab1d/original/water-oil-emulsions-studied-by-vibrational-sum-frequency-generation.pdf",
         "source": null,
         "license": "cc-by-nc-nd",
@@ -120887,65 +120887,65 @@
         "https://openalex.org/W2970853907",
         "https://openalex.org/W4246447715",
         "https://openalex.org/W1987027200",
-        "https://openalex.org/W2981520971",
-        "https://openalex.org/W2323762690",
-        "https://openalex.org/W3042947710",
         "https://openalex.org/W2781665750",
-        "https://openalex.org/W2122869543",
+        "https://openalex.org/W4298386547",
+        "https://openalex.org/W2605009650",
+        "https://openalex.org/W3042947710",
         "https://openalex.org/W4206239889",
-        "https://openalex.org/W2996562938",
-        "https://openalex.org/W3037134643",
-        "https://openalex.org/W3019124178",
-        "https://openalex.org/W2021246523",
-        "https://openalex.org/W2002018139",
-        "https://openalex.org/W2957928068",
-        "https://openalex.org/W2938558362",
-        "https://openalex.org/W2890322148",
-        "https://openalex.org/W2121242766",
-        "https://openalex.org/W1982815033",
-        "https://openalex.org/W1971696401",
-        "https://openalex.org/W3198387001",
-        "https://openalex.org/W3180480805",
-        "https://openalex.org/W2110099221",
-        "https://openalex.org/W3119013043",
-        "https://openalex.org/W1973506949",
-        "https://openalex.org/W3033363001",
+        "https://openalex.org/W2176835500",
+        "https://openalex.org/W2122869543",
+        "https://openalex.org/W2895132424",
+        "https://openalex.org/W1987897492",
         "https://openalex.org/W2772555606",
+        "https://openalex.org/W1971696401",
+        "https://openalex.org/W2981520971",
         "https://openalex.org/W4200417834",
-        "https://openalex.org/W2392707885",
-        "https://openalex.org/W4281836290",
-        "https://openalex.org/W2020202538",
-        "https://openalex.org/W2426768101",
+        "https://openalex.org/W2021246523",
+        "https://openalex.org/W2890322148",
+        "https://openalex.org/W2263964118",
+        "https://openalex.org/W3119013043",
+        "https://openalex.org/W1968081733",
+        "https://openalex.org/W2996562938",
+        "https://openalex.org/W2002018139",
+        "https://openalex.org/W1785207516",
+        "https://openalex.org/W2121242766",
+        "https://openalex.org/W2050331540",
+        "https://openalex.org/W3013256902",
         "https://openalex.org/W2057991237",
         "https://openalex.org/W2150544040",
+        "https://openalex.org/W1968263644",
+        "https://openalex.org/W1982815033",
+        "https://openalex.org/W2110099221",
+        "https://openalex.org/W2972551216",
+        "https://openalex.org/W1973506949",
+        "https://openalex.org/W2318028776",
+        "https://openalex.org/W3037134643",
+        "https://openalex.org/W2000043654",
+        "https://openalex.org/W3180480805",
+        "https://openalex.org/W3194574263",
+        "https://openalex.org/W4281836290",
+        "https://openalex.org/W2335380111",
+        "https://openalex.org/W2020202538",
+        "https://openalex.org/W2323762690",
+        "https://openalex.org/W2031338401",
+        "https://openalex.org/W3019124178",
+        "https://openalex.org/W2957928068",
+        "https://openalex.org/W2900705276",
+        "https://openalex.org/W2326449803",
+        "https://openalex.org/W2056145492",
+        "https://openalex.org/W3033363001",
+        "https://openalex.org/W3006016529",
+        "https://openalex.org/W2886457639",
         "https://openalex.org/W3010887155",
         "https://openalex.org/W1965477025",
-        "https://openalex.org/W3194574263",
-        "https://openalex.org/W2031338401",
-        "https://openalex.org/W1987897492",
-        "https://openalex.org/W2050331540",
-        "https://openalex.org/W2895132424",
-        "https://openalex.org/W2314508464",
-        "https://openalex.org/W1968263644",
-        "https://openalex.org/W2886457639",
-        "https://openalex.org/W2056145492",
-        "https://openalex.org/W2318028776",
-        "https://openalex.org/W2972551216",
-        "https://openalex.org/W2900705276",
-        "https://openalex.org/W1968081733",
-        "https://openalex.org/W2605009650",
-        "https://openalex.org/W2326449803",
-        "https://openalex.org/W4297206775",
+        "https://openalex.org/W3198387001",
+        "https://openalex.org/W2938558362",
+        "https://openalex.org/W2392707885",
         "https://openalex.org/W4247741056",
-        "https://openalex.org/W2335380111",
-        "https://openalex.org/W2263964118",
+        "https://openalex.org/W4297206775",
+        "https://openalex.org/W2426768101",
         "https://openalex.org/W2946606827",
-        "https://openalex.org/W2176835500",
-        "https://openalex.org/W1785207516",
-        "https://openalex.org/W3006016529",
-        "https://openalex.org/W2000043654",
-        "https://openalex.org/W3013256902",
-        "https://openalex.org/W4298386547"
+        "https://openalex.org/W2314508464"
       ],
       "related_works": [
         "https://openalex.org/W2371901143",
@@ -121320,7 +121320,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2025-12-23T23:11:35.936235",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -128409,7 +128409,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.46766969,
+        "value": 0.46403589,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },

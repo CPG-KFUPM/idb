@@ -4,7 +4,7 @@
     <title>Integrative Dashboard - OpenAlex Feed</title>
     <link>https://digitalgeosciences.github.io/dashboard3.2/</link>
     <description>Recent publications with OpenAlex abstracts and topics.</description>
-    <lastBuildDate>Tue, 23 Dec 2025 20:25:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Dec 2025 20:25:56 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>Kaolinite Illitization Under Hydrothermal Conditions: Experimental Insight into Transformation Pathways</title>
@@ -41,6 +41,15 @@
       <dc:creator>Muhamad Raihan Al Fikri, Shams Kalam, Mobeen Murtaza, Novia Rita, Muslim Abdurrahman, Muhammad Shahzad Kamal, Arshad Raza</dc:creator>
       <dc:publisher>Arabian Journal for Science and Engineering</dc:publisher>
       <description>Venue: Arabian Journal for Science and Engineering&#10;Year: 2025&#10;Citations: 0</description>
+    </item>
+    <item>
+      <title>Integrating Conventional and machine learning approaches with seismic inversion for optimized porosity estimation in heterogeneous siliciclastic rocks</title>
+      <link>https://doi.org/10.1016/j.pce.2025.104248</link>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4417443748</guid>
+      <dc:creator>Muyyassar Hussain, Urooj Shakir, Zohaib Naseer, Muhammad Raiees Amjad, Farooq Arshad, Muhammad Shahzad Kamal, Ahmed E. Radwan</dc:creator>
+      <dc:publisher>Physics and Chemistry of the Earth Parts A/B/C</dc:publisher>
+      <description>Venue: Physics and Chemistry of the Earth Parts A/B/C&#10;Year: 2025&#10;Citations: 0</description>
     </item>
     <item>
       <title>Double-Functionalized Silica Nanomaterials for Effective CO &lt;sub&gt;2&lt;/sub&gt; Foam Stabilization in Harsh Carbonate Reservoirs</title>
@@ -167,15 +176,6 @@
       <dc:creator>R. B. Fahim, Shabeeb Alajmei, Ahmed Al‐Yaseri</dc:creator>
       <dc:publisher>Earth energy science.</dc:publisher>
       <description>Venue: Earth energy science.&#10;Year: 2025&#10;Citations: 0</description>
-    </item>
-    <item>
-      <title>Integrating Conventional and Machine Learning approaches with Seismic Inversion for optimized Porosity Estimation in Heterogeneous Siliciclastic Rocks</title>
-      <link>https://doi.org/10.1016/j.pce.2025.104248</link>
-      <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4417443748</guid>
-      <dc:creator>Muyyassar Hussain, Urooj Shakir, Zohaib Naseer, Muhammad Raiees Amjad, Farooq Arshad, Muhammad Shahzad Kamal, Ahmed E. Radwan</dc:creator>
-      <dc:publisher>Physics and Chemistry of the Earth Parts A/B/C</dc:publisher>
-      <description>Venue: Physics and Chemistry of the Earth Parts A/B/C&#10;Year: 2025&#10;Citations: 0</description>
     </item>
     <item>
       <title>Gradual deletion of diacritics from reading text for learners of Arabic for non-native speakers at the advanced level: &quot; experimental study &quot;</title>

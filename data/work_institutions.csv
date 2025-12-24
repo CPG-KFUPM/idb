@@ -1848,8 +1848,8 @@ https://openalex.org/W4200076748,https://openalex.org/I12870472,Birmingham City 
 https://openalex.org/W4200076748,https://openalex.org/I876237426,Gombe State University
 https://openalex.org/W4200076748,https://openalex.org/I190082696,Durham University
 https://openalex.org/W3169349913,https://openalex.org/I876237426,Gombe State University
-https://openalex.org/W2972228046,https://openalex.org/I876237426,Gombe State University
 https://openalex.org/W4365516011,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
+https://openalex.org/W2972228046,https://openalex.org/I876237426,Gombe State University
 https://openalex.org/W4390667796,https://openalex.org/I4391767744,State Key Laboratory of Marine Geology
 https://openalex.org/W4390667796,https://openalex.org/I116953780,Tongji University
 https://openalex.org/W4390667796,https://openalex.org/I876237426,Gombe State University
@@ -1880,6 +1880,7 @@ https://openalex.org/W4390510283,https://openalex.org/I4210143841,Saudi Aramco (
 https://openalex.org/W4379647935,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W4400654836,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W4401946219,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
+https://openalex.org/W4408660286,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W4401976606,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W4403001018,https://openalex.org/I139322472,Universiti Sains Malaysia
 https://openalex.org/W4403001018,https://openalex.org/I876237426,Gombe State University
@@ -1889,7 +1890,6 @@ https://openalex.org/W4403001018,https://openalex.org/I3129379329,Sokoto State U
 https://openalex.org/W4403001018,https://openalex.org/I4391767744,State Key Laboratory of Marine Geology
 https://openalex.org/W4403001018,https://openalex.org/I116953780,Tongji University
 https://openalex.org/W4403001018,https://openalex.org/I4387156178,Federal University Dutse
-https://openalex.org/W4408660286,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W2077701561,https://openalex.org/I161374704,University of Jos
 https://openalex.org/W4392964788,https://openalex.org/I47818738,Sultan Qaboos University
 https://openalex.org/W4392964788,https://openalex.org/I188973947,Novosibirsk State University
@@ -4510,13 +4510,13 @@ https://openalex.org/W4321596465,https://openalex.org/I134085113,King Fahd Unive
 https://openalex.org/W4383874154,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W4391338548,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W4281636542,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
+https://openalex.org/W4388102725,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W4391845855,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W4392105851,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W4392105851,https://openalex.org/I28046988,Kwame Nkrumah University of Science and Technology
 https://openalex.org/W4394571769,https://openalex.org/I145487455,Cairo University
 https://openalex.org/W4394571769,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W4386399863,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
-https://openalex.org/W4388102725,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W2898890966,https://openalex.org/I60342839,Qatar University
 https://openalex.org/W2898890966,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W2269361011,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
@@ -9242,7 +9242,6 @@ https://openalex.org/W4390885792,https://openalex.org/I4210134929,Jilin Province
 https://openalex.org/W4390885792,https://openalex.org/I194450716,Jilin University
 https://openalex.org/W4390885792,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W4396922243,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
-https://openalex.org/W4399571934,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W2019889479,https://openalex.org/I145487455,Cairo University
 https://openalex.org/W2886844162,https://openalex.org/I194450716,Jilin University
 https://openalex.org/W2886844162,https://openalex.org/I71920554,King Abdullah University of Science and Technology
@@ -9270,6 +9269,7 @@ https://openalex.org/W2323876553,https://openalex.org/I4210099236,Kootenay Assoc
 https://openalex.org/W2323876553,https://openalex.org/I71920554,King Abdullah University of Science and Technology
 https://openalex.org/W2508898808,https://openalex.org/I4210099236,Kootenay Association for Science & Technology
 https://openalex.org/W2508898808,https://openalex.org/I71920554,King Abdullah University of Science and Technology
+https://openalex.org/W4399571934,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W1966978050,https://openalex.org/I145487455,Cairo University
 https://openalex.org/W1966978050,https://openalex.org/I185163786,King Abdulaziz University
 https://openalex.org/W1966978050,https://openalex.org/I71920554,King Abdullah University of Science and Technology
@@ -10212,8 +10212,6 @@ https://openalex.org/W2027425309,https://openalex.org/I154100212,Schlumberger (B
 https://openalex.org/W4285197069,https://openalex.org/I71920554,King Abdullah University of Science and Technology
 https://openalex.org/W4285197069,https://openalex.org/I201799495,Middle East Technical University
 https://openalex.org/W4285197069,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
-https://openalex.org/W4360937510,https://openalex.org/I71920554,King Abdullah University of Science and Technology
-https://openalex.org/W4360937510,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W4378231439,https://openalex.org/I4210164095,Institute of Seismology
 https://openalex.org/W4378231439,https://openalex.org/I36234482,University of Bristol
 https://openalex.org/W4378231439,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
@@ -10232,6 +10230,8 @@ https://openalex.org/W4406141019,https://openalex.org/I176601375,Khalifa Univers
 https://openalex.org/W4406141019,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W2896349087,https://openalex.org/I71920554,King Abdullah University of Science and Technology
 https://openalex.org/W2896349087,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
+https://openalex.org/W4360937510,https://openalex.org/I71920554,King Abdullah University of Science and Technology
+https://openalex.org/W4360937510,https://openalex.org/I134085113,King Fahd University of Petroleum and Minerals
 https://openalex.org/W2075597795,https://openalex.org/I4210099236,Kootenay Association for Science & Technology
 https://openalex.org/W2075597795,https://openalex.org/I71920554,King Abdullah University of Science and Technology
 https://openalex.org/W2325341704,https://openalex.org/I71920554,King Abdullah University of Science and Technology
