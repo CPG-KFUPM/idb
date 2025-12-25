@@ -1147,7 +1147,7 @@
       "has_fulltext": false,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.98723208,
+        "value": 0.98697228,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -1479,21 +1479,21 @@
         "https://openalex.org/W4386913250",
         "https://openalex.org/W4388033045",
         "https://openalex.org/W4385892163",
-        "https://openalex.org/W3216100213",
-        "https://openalex.org/W4320719921",
-        "https://openalex.org/W3201994217",
-        "https://openalex.org/W3213975010",
+        "https://openalex.org/W4390242419",
+        "https://openalex.org/W4402864230",
+        "https://openalex.org/W4398161917",
+        "https://openalex.org/W4383340910",
         "https://openalex.org/W4291335310",
+        "https://openalex.org/W4320719921",
+        "https://openalex.org/W4225154543",
         "https://openalex.org/W4390242465",
         "https://openalex.org/W4403043860",
         "https://openalex.org/W4380762638",
-        "https://openalex.org/W4402864230",
-        "https://openalex.org/W4383340910",
-        "https://openalex.org/W4323637217",
-        "https://openalex.org/W4390242419",
         "https://openalex.org/W4365456076",
-        "https://openalex.org/W4398161917",
-        "https://openalex.org/W4225154543"
+        "https://openalex.org/W4323637217",
+        "https://openalex.org/W3216100213",
+        "https://openalex.org/W3213975010",
+        "https://openalex.org/W3201994217"
       ],
       "related_works": [
         "https://openalex.org/W2489835961",
@@ -2020,9 +2020,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/7",
           "display_name": "Affordable and clean energy",
-          "score": 0.7900000214576721,
-          "id": "https://metadata.un.org/sdg/7"
+          "score": 0.7900000214576721
         }
       ],
       "awards": [
@@ -2798,9 +2798,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/7",
           "display_name": "Affordable and clean energy",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/7"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [
@@ -3607,9 +3607,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8700000047683716,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8700000047683716
         }
       ],
       "awards": [],
@@ -5105,7 +5105,7 @@
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.94043233,
+        "value": 0.94058151,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -6429,9 +6429,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/12",
           "display_name": "Responsible consumption and production",
-          "score": 0.44999998807907104,
-          "id": "https://metadata.un.org/sdg/12"
+          "score": 0.44999998807907104
         }
       ],
       "awards": [],
@@ -7116,9 +7116,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.4399999976158142,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.4399999976158142
         }
       ],
       "awards": [],
@@ -9590,9 +9590,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/7",
           "display_name": "Affordable and clean energy",
-          "score": 0.800000011920929,
-          "id": "https://metadata.un.org/sdg/7"
+          "score": 0.800000011920929
         }
       ],
       "awards": [],

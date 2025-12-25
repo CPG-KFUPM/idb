@@ -2822,9 +2822,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.4099999964237213,
           "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12",
-          "score": 0.4099999964237213
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "awards": [],
@@ -3833,9 +3833,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.4099999964237213,
           "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12",
-          "score": 0.4099999964237213
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "awards": [],
@@ -5327,9 +5327,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8700000047683716,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.8700000047683716
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -7722,9 +7722,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8700000047683716,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7",
-          "score": 0.8700000047683716
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "awards": [],
@@ -8678,9 +8678,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.7799999713897705,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.7799999713897705
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [
@@ -12683,9 +12683,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.6000000238418579,
           "display_name": "Industry, innovation and infrastructure",
-          "id": "https://metadata.un.org/sdg/9",
-          "score": 0.6000000238418579
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "awards": [],
@@ -13503,9 +13503,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5,
           "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12",
-          "score": 0.5
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "awards": [],
@@ -15612,9 +15612,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.7599999904632568,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.7599999904632568
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -16605,9 +16605,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.5299999713897705,
           "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12",
-          "score": 0.5299999713897705
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "awards": [],
@@ -18031,9 +18031,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.800000011920929,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.800000011920929
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -18884,9 +18884,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.46000000834465027,
           "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12",
-          "score": 0.46000000834465027
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "awards": [],
@@ -20719,9 +20719,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.4099999964237213,
           "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12",
-          "score": 0.4099999964237213
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "awards": [],
@@ -22082,9 +22082,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.6499999761581421,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7",
-          "score": 0.6499999761581421
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "awards": [],
@@ -23351,9 +23351,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.4300000071525574,
           "display_name": "Industry, innovation and infrastructure",
-          "id": "https://metadata.un.org/sdg/9",
-          "score": 0.4300000071525574
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "awards": [],
@@ -24721,7 +24721,7 @@
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.89245434,
+        "value": 0.89196017,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -24974,8 +24974,8 @@
         "https://openalex.org/W1982094638",
         "https://openalex.org/W2808089755",
         "https://openalex.org/W1979775472",
-        "https://openalex.org/W4283260162",
         "https://openalex.org/W2087452412",
+        "https://openalex.org/W4283260162",
         "https://openalex.org/W3113047742"
       ],
       "related_works": [
@@ -26529,9 +26529,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.550000011920929,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.550000011920929
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -27986,9 +27986,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5400000214576721,
           "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12",
-          "score": 0.5400000214576721
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "awards": [
@@ -30408,9 +30408,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.4399999976158142,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.4399999976158142
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -37164,9 +37164,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.75,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.75
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -43877,9 +43877,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.4399999976158142,
           "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12",
-          "score": 0.4399999976158142
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "awards": [],
@@ -45720,9 +45720,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.5600000023841858,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.5600000023841858
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -48073,9 +48073,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8700000047683716,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7",
-          "score": 0.8700000047683716
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "awards": [],
@@ -49354,9 +49354,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.46000000834465027,
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15",
-          "score": 0.46000000834465027
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
@@ -50484,9 +50484,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.44999998807907104,
           "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12",
-          "score": 0.44999998807907104
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "awards": [],
@@ -59944,9 +59944,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.4300000071525574,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7",
-          "score": 0.4300000071525574
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "awards": [],
@@ -61363,9 +61363,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.41999998688697815,
           "display_name": "Industry, innovation and infrastructure",
-          "id": "https://metadata.un.org/sdg/9",
-          "score": 0.41999998688697815
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "awards": [],
@@ -66356,9 +66356,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.75,
           "display_name": "Reduced inequalities",
-          "id": "https://metadata.un.org/sdg/10",
-          "score": 0.75
+          "id": "https://metadata.un.org/sdg/10"
         }
       ],
       "awards": [],
@@ -66765,9 +66765,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.49000000953674316,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.49000000953674316
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -67976,9 +67976,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.49000000953674316,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.49000000953674316
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],

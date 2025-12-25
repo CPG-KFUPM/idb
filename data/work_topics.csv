@@ -242,12 +242,12 @@ https://openalex.org/W4307664754,https://openalex.org/T10635,Hydraulic Fracturin
 https://openalex.org/W4309490286,https://openalex.org/T12603,NMR spectroscopy and applications
 https://openalex.org/W4309490286,https://openalex.org/T10635,Hydraulic Fracturing and Reservoir Analysis
 https://openalex.org/W4309490286,https://openalex.org/T10399,Hydrocarbon exploration and reservoir analysis
-https://openalex.org/W4386022471,https://openalex.org/T10635,Hydraulic Fracturing and Reservoir Analysis
-https://openalex.org/W4386022471,https://openalex.org/T11801,Reservoir Engineering and Simulation Methods
-https://openalex.org/W4386022471,https://openalex.org/T10892,Drilling and Well Engineering
 https://openalex.org/W4376139896,https://openalex.org/T10892,Drilling and Well Engineering
 https://openalex.org/W4376139896,https://openalex.org/T10635,Hydraulic Fracturing and Reservoir Analysis
 https://openalex.org/W4376139896,https://openalex.org/T10491,Enhanced Oil Recovery Techniques
+https://openalex.org/W4386022471,https://openalex.org/T10635,Hydraulic Fracturing and Reservoir Analysis
+https://openalex.org/W4386022471,https://openalex.org/T11801,Reservoir Engineering and Simulation Methods
+https://openalex.org/W4386022471,https://openalex.org/T10892,Drilling and Well Engineering
 https://openalex.org/W4212864096,https://openalex.org/T10635,Hydraulic Fracturing and Reservoir Analysis
 https://openalex.org/W4212864096,https://openalex.org/T10892,Drilling and Well Engineering
 https://openalex.org/W4212864096,https://openalex.org/T10161,Rock Mechanics and Modeling
@@ -915,6 +915,9 @@ https://openalex.org/W4361026882,https://openalex.org/T10721,Surfactants and Col
 https://openalex.org/W4323827695,https://openalex.org/T10491,Enhanced Oil Recovery Techniques
 https://openalex.org/W4323827695,https://openalex.org/T10399,Hydrocarbon exploration and reservoir analysis
 https://openalex.org/W4323827695,https://openalex.org/T10635,Hydraulic Fracturing and Reservoir Analysis
+https://openalex.org/W4353062725,https://openalex.org/T10491,Enhanced Oil Recovery Techniques
+https://openalex.org/W4353062725,https://openalex.org/T10399,Hydrocarbon exploration and reservoir analysis
+https://openalex.org/W4353062725,https://openalex.org/T10635,Hydraulic Fracturing and Reservoir Analysis
 https://openalex.org/W4282935700,https://openalex.org/T11801,Reservoir Engineering and Simulation Methods
 https://openalex.org/W4282935700,https://openalex.org/T10635,Hydraulic Fracturing and Reservoir Analysis
 https://openalex.org/W4282935700,https://openalex.org/T10892,Drilling and Well Engineering
@@ -984,9 +987,6 @@ https://openalex.org/W2986115035,https://openalex.org/T10399,Hydrocarbon explora
 https://openalex.org/W3017214012,https://openalex.org/T10721,Surfactants and Colloidal Systems
 https://openalex.org/W3017214012,https://openalex.org/T10491,Enhanced Oil Recovery Techniques
 https://openalex.org/W3017214012,https://openalex.org/T11630,Petroleum Processing and Analysis
-https://openalex.org/W4353062725,https://openalex.org/T10491,Enhanced Oil Recovery Techniques
-https://openalex.org/W4353062725,https://openalex.org/T10399,Hydrocarbon exploration and reservoir analysis
-https://openalex.org/W4353062725,https://openalex.org/T10635,Hydraulic Fracturing and Reservoir Analysis
 https://openalex.org/W2971934997,https://openalex.org/T10491,Enhanced Oil Recovery Techniques
 https://openalex.org/W2971934997,https://openalex.org/T10635,Hydraulic Fracturing and Reservoir Analysis
 https://openalex.org/W2971934997,https://openalex.org/T11801,Reservoir Engineering and Simulation Methods
@@ -8123,6 +8123,9 @@ https://openalex.org/W3208325881,https://openalex.org/T13039,Magnesium Oxide Pro
 https://openalex.org/W4205750342,https://openalex.org/T11801,Reservoir Engineering and Simulation Methods
 https://openalex.org/W4205750342,https://openalex.org/T10635,Hydraulic Fracturing and Reservoir Analysis
 https://openalex.org/W4205750342,https://openalex.org/T10399,Hydrocarbon exploration and reservoir analysis
+https://openalex.org/W4366189838,https://openalex.org/T10892,Drilling and Well Engineering
+https://openalex.org/W4366189838,https://openalex.org/T12482,Tunneling and Rock Mechanics
+https://openalex.org/W4366189838,https://openalex.org/T10635,Hydraulic Fracturing and Reservoir Analysis
 https://openalex.org/W4381681816,https://openalex.org/T11302,CO2 Sequestration and Geologic Interactions
 https://openalex.org/W4381681816,https://openalex.org/T10399,Hydrocarbon exploration and reservoir analysis
 https://openalex.org/W4381681816,https://openalex.org/T10635,Hydraulic Fracturing and Reservoir Analysis
@@ -8144,9 +8147,9 @@ https://openalex.org/W3203896709,https://openalex.org/T10892,Drilling and Well E
 https://openalex.org/W4206545439,https://openalex.org/T10892,Drilling and Well Engineering
 https://openalex.org/W4206545439,https://openalex.org/T12482,Tunneling and Rock Mechanics
 https://openalex.org/W4206545439,https://openalex.org/T10635,Hydraulic Fracturing and Reservoir Analysis
-https://openalex.org/W4366189838,https://openalex.org/T10892,Drilling and Well Engineering
-https://openalex.org/W4366189838,https://openalex.org/T12482,Tunneling and Rock Mechanics
-https://openalex.org/W4366189838,https://openalex.org/T10635,Hydraulic Fracturing and Reservoir Analysis
+https://openalex.org/W4362548794,https://openalex.org/T10033,Concrete and Cement Materials Research
+https://openalex.org/W4362548794,https://openalex.org/T10892,Drilling and Well Engineering
+https://openalex.org/W4362548794,https://openalex.org/T10687,Innovative concrete reinforcement materials
 https://openalex.org/W3113198587,https://openalex.org/T10892,Drilling and Well Engineering
 https://openalex.org/W3113198587,https://openalex.org/T10161,Rock Mechanics and Modeling
 https://openalex.org/W3113198587,https://openalex.org/T10635,Hydraulic Fracturing and Reservoir Analysis
@@ -8156,9 +8159,6 @@ https://openalex.org/W4280627986,https://openalex.org/T10271,Seismic Imaging and
 https://openalex.org/W4294685521,https://openalex.org/T10033,Concrete and Cement Materials Research
 https://openalex.org/W4294685521,https://openalex.org/T10687,Innovative concrete reinforcement materials
 https://openalex.org/W4294685521,https://openalex.org/T11850,Concrete Corrosion and Durability
-https://openalex.org/W4362548794,https://openalex.org/T10033,Concrete and Cement Materials Research
-https://openalex.org/W4362548794,https://openalex.org/T10892,Drilling and Well Engineering
-https://openalex.org/W4362548794,https://openalex.org/T10687,Innovative concrete reinforcement materials
 https://openalex.org/W4387229830,https://openalex.org/T10892,Drilling and Well Engineering
 https://openalex.org/W4387229830,https://openalex.org/T12482,Tunneling and Rock Mechanics
 https://openalex.org/W4387229830,https://openalex.org/T13050,Oil and Gas Production Techniques
@@ -10557,6 +10557,9 @@ https://openalex.org/W4414008448,https://openalex.org/T10615,Granular flow and f
 https://openalex.org/W4414208792,https://openalex.org/T11302,CO2 Sequestration and Geologic Interactions
 https://openalex.org/W4414208792,https://openalex.org/T10491,Enhanced Oil Recovery Techniques
 https://openalex.org/W4414208792,https://openalex.org/T10995,Methane Hydrates and Related Phenomena
+https://openalex.org/W7117143684,https://openalex.org/T11302,CO2 Sequestration and Geologic Interactions
+https://openalex.org/W7117143684,https://openalex.org/T10491,Enhanced Oil Recovery Techniques
+https://openalex.org/W7117143684,https://openalex.org/T10716,Soil and Unsaturated Flow
 https://openalex.org/W2555471677,https://openalex.org/T10892,Drilling and Well Engineering
 https://openalex.org/W2555471677,https://openalex.org/T10271,Seismic Imaging and Inversion Techniques
 https://openalex.org/W2555471677,https://openalex.org/T10995,Methane Hydrates and Related Phenomena
@@ -10878,6 +10881,9 @@ https://openalex.org/W4386689239,https://openalex.org/T10635,Hydraulic Fracturin
 https://openalex.org/W4388297899,https://openalex.org/T10161,Rock Mechanics and Modeling
 https://openalex.org/W4388297899,https://openalex.org/T11046,Geotechnical Engineering and Analysis
 https://openalex.org/W4388297899,https://openalex.org/T12482,Tunneling and Rock Mechanics
+https://openalex.org/W4367853327,https://openalex.org/T11164,Remote Sensing and LiDAR Applications
+https://openalex.org/W4367853327,https://openalex.org/T11211,3D Surveying and Cultural Heritage
+https://openalex.org/W4367853327,https://openalex.org/T13067,Geological Modeling and Analysis
 https://openalex.org/W4404231521,https://openalex.org/T10161,Rock Mechanics and Modeling
 https://openalex.org/W4404231521,https://openalex.org/T11046,Geotechnical Engineering and Analysis
 https://openalex.org/W4404231521,https://openalex.org/T12233,Geotechnical Engineering and Underground Structures
@@ -10902,9 +10908,6 @@ https://openalex.org/W4308725695,https://openalex.org/T12472,Plant responses to 
 https://openalex.org/W4309717468,https://openalex.org/T10161,Rock Mechanics and Modeling
 https://openalex.org/W4309717468,https://openalex.org/T12282,Mineral Processing and Grinding
 https://openalex.org/W4309717468,https://openalex.org/T10535,Landslides and related hazards
-https://openalex.org/W4367853327,https://openalex.org/T11164,Remote Sensing and LiDAR Applications
-https://openalex.org/W4367853327,https://openalex.org/T11211,3D Surveying and Cultural Heritage
-https://openalex.org/W4367853327,https://openalex.org/T13067,Geological Modeling and Analysis
 https://openalex.org/W4312222432,https://openalex.org/T10687,Innovative concrete reinforcement materials
 https://openalex.org/W4312222432,https://openalex.org/T11609,Geophysical Methods and Applications
 https://openalex.org/W4312222432,https://openalex.org/T10161,Rock Mechanics and Modeling

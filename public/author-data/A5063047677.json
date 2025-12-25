@@ -1631,9 +1631,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5899999737739563,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.5899999737739563
         }
       ],
       "awards": [
@@ -1658,8 +1658,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 38,
       "referenced_works": [
@@ -2835,9 +2835,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5400000214576721,
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "score": 0.5400000214576721
         }
       ],
       "awards": [],
@@ -2849,8 +2849,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 36,
       "referenced_works": [
@@ -4034,9 +4034,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.7200000286102295,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.7200000286102295
         }
       ],
       "awards": [],
@@ -4048,8 +4048,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 57,
       "referenced_works": [
@@ -5844,8 +5844,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 57,
       "referenced_works": [
@@ -7635,8 +7635,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 61,
       "referenced_works": [
@@ -8857,8 +8857,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 37,
       "referenced_works": [
@@ -10391,8 +10391,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 39,
       "referenced_works": [
@@ -11919,8 +11919,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 53,
       "referenced_works": [
@@ -13212,9 +13212,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.6100000143051147,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.6100000143051147
         }
       ],
       "awards": [
@@ -13256,8 +13256,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 42,
       "referenced_works": [
@@ -14450,9 +14450,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.49000000953674316,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.49000000953674316
         }
       ],
       "awards": [],
@@ -14474,8 +14474,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 47,
       "referenced_works": [
@@ -16086,9 +16086,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.7400000095367432,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.7400000095367432
         }
       ],
       "awards": [
@@ -16129,8 +16129,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 75,
       "referenced_works": [
@@ -17449,8 +17449,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 50,
       "referenced_works": [
@@ -18601,9 +18601,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6299999952316284,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.6299999952316284
         }
       ],
       "awards": [
@@ -18652,8 +18652,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 37,
       "referenced_works": [
@@ -19902,8 +19902,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 32,
       "referenced_works": [
@@ -21058,16 +21058,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.4300000071525574,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.4300000071525574
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 38,
       "referenced_works": [
@@ -22535,8 +22535,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 55,
       "referenced_works": [
@@ -24086,8 +24086,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 46,
       "referenced_works": [
@@ -25272,8 +25272,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 48,
       "referenced_works": [
@@ -26033,9 +26033,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5699999928474426,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.5699999928474426
         }
       ],
       "awards": [
@@ -26079,8 +26079,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 38,
       "referenced_works": [
@@ -27221,8 +27221,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 59,
       "referenced_works": [
@@ -28902,9 +28902,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5899999737739563,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5899999737739563
         }
       ],
       "awards": [],
@@ -28916,8 +28916,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 48,
       "referenced_works": [
@@ -30147,8 +30147,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 37,
       "referenced_works": [
@@ -31463,9 +31463,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7400000095367432,
           "display_name": "Peace, Justice and strong institutions",
-          "id": "https://metadata.un.org/sdg/16"
+          "id": "https://metadata.un.org/sdg/16",
+          "score": 0.7400000095367432
         }
       ],
       "awards": [],
@@ -31477,8 +31477,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 77,
       "referenced_works": [
@@ -32290,7 +32290,7 @@
       "has_fulltext": false,
       "cited_by_count": 19,
       "citation_normalized_percentile": {
-        "value": 0.96030988,
+        "value": 0.96013749,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -32699,8 +32699,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 133,
       "referenced_works": [
@@ -33607,16 +33607,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.4099999964237213,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.4099999964237213
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 38,
       "referenced_works": [
@@ -34203,16 +34203,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 39,
       "referenced_works": [
@@ -35962,8 +35962,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 66,
       "referenced_works": [
@@ -37052,8 +37052,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 16,
       "referenced_works": [
@@ -37971,8 +37971,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 48,
       "referenced_works": [
@@ -39410,8 +39410,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 27,
       "referenced_works": [
@@ -40481,9 +40481,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6600000262260437,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.6600000262260437
         }
       ],
       "awards": [],
@@ -40505,8 +40505,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 46,
       "referenced_works": [
@@ -41752,8 +41752,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 82,
       "referenced_works": [
@@ -42365,16 +42365,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6200000047683716,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.6200000047683716
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 24,
       "referenced_works": [
@@ -43459,8 +43459,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 54,
       "referenced_works": [
@@ -45028,9 +45028,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4300000071525574,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.4300000071525574
         }
       ],
       "awards": [
@@ -45088,8 +45088,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 101,
       "referenced_works": [
@@ -46754,8 +46754,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 54,
       "referenced_works": [
@@ -47850,9 +47850,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [
@@ -47943,8 +47943,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 69,
       "referenced_works": [
@@ -49283,9 +49283,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.7400000095367432,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.7400000095367432
         }
       ],
       "awards": [
@@ -49326,8 +49326,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 73,
       "referenced_works": [
@@ -50700,16 +50700,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.550000011920929,
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "score": 0.550000011920929
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 59,
       "referenced_works": [
@@ -51431,9 +51431,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [
@@ -51514,8 +51514,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 55,
       "referenced_works": [
@@ -53229,9 +53229,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.7400000095367432,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.7400000095367432
         }
       ],
       "awards": [],
@@ -53253,8 +53253,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 56,
       "referenced_works": [
@@ -54080,16 +54080,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.41999998688697815,
           "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12"
+          "id": "https://metadata.un.org/sdg/12",
+          "score": 0.41999998688697815
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 60,
       "referenced_works": [
@@ -55397,9 +55397,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5099999904632568,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.5099999904632568
         }
       ],
       "awards": [],
@@ -55411,8 +55411,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 61,
       "referenced_works": [
@@ -56037,8 +56037,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 42,
       "referenced_works": [
@@ -57296,8 +57296,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 44,
       "referenced_works": [
@@ -58469,9 +58469,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5099999904632568,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.5099999904632568
         }
       ],
       "awards": [],
@@ -58483,8 +58483,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 48,
       "referenced_works": [
@@ -59458,16 +59458,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4399999976158142,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.4399999976158142
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 43,
       "referenced_works": [
@@ -60275,9 +60275,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5699999928474426,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.5699999928474426
         }
       ],
       "awards": [],
@@ -60289,8 +60289,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 60,
       "referenced_works": [
@@ -62198,8 +62198,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 60,
       "referenced_works": [
@@ -63561,16 +63561,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.4699999988079071,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.4699999988079071
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 56,
       "referenced_works": [
@@ -64818,8 +64818,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 44,
       "referenced_works": [
@@ -66167,8 +66167,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 53,
       "referenced_works": [
@@ -67600,8 +67600,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 56,
       "referenced_works": [
@@ -69008,16 +69008,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8500000238418579,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.8500000238418579
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 51,
       "referenced_works": [
@@ -70260,8 +70260,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 31,
       "referenced_works": [
@@ -71191,16 +71191,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8299999833106995,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.8299999833106995
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 71,
       "referenced_works": [
@@ -72303,8 +72303,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 43,
       "referenced_works": [
@@ -73501,9 +73501,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.46000000834465027,
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "score": 0.46000000834465027
         }
       ],
       "awards": [],
@@ -73515,8 +73515,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 53,
       "referenced_works": [
@@ -74727,8 +74727,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 47,
       "referenced_works": [
@@ -75779,8 +75779,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 45,
       "referenced_works": [
@@ -77104,8 +77104,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "referenced_works_count": 63,
       "referenced_works": [
@@ -78143,8 +78143,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 23,
       "referenced_works": [
@@ -79084,9 +79084,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8999999761581421,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.8999999761581421
         }
       ],
       "awards": [],
@@ -79108,8 +79108,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 28,
       "referenced_works": [
@@ -80183,8 +80183,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 69,
       "referenced_works": [
@@ -81265,9 +81265,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.75,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.75
         }
       ],
       "awards": [],
@@ -81279,8 +81279,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 19,
       "referenced_works": [
@@ -81825,16 +81825,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5299999713897705,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.5299999713897705
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 22,
       "referenced_works": [
@@ -83386,8 +83386,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 59,
       "referenced_works": [
@@ -84297,16 +84297,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8299999833106995,
           "display_name": "Good health and well-being",
-          "id": "https://metadata.un.org/sdg/3"
+          "id": "https://metadata.un.org/sdg/3",
+          "score": 0.8299999833106995
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 55,
       "referenced_works": [
@@ -85116,8 +85116,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 52,
       "referenced_works": [
@@ -86037,8 +86037,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 40,
       "referenced_works": [
@@ -87276,16 +87276,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.7900000214576721,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.7900000214576721
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 78,
       "referenced_works": [
@@ -88192,16 +88192,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8299999833106995,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.8299999833106995
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 23,
       "referenced_works": [
@@ -88657,16 +88657,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.6899999976158142,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.6899999976158142
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -89833,8 +89833,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 47,
       "referenced_works": [
@@ -90750,8 +90750,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 43,
       "referenced_works": [
@@ -91817,16 +91817,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7200000286102295,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.7200000286102295
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 56,
       "referenced_works": [
@@ -93368,8 +93368,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 55,
       "referenced_works": [
@@ -93858,16 +93858,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8700000047683716,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.8700000047683716
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -95026,16 +95026,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8500000238418579,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.8500000238418579
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 25,
       "referenced_works": [
@@ -95805,16 +95805,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.46000000834465027,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.46000000834465027
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 31,
       "referenced_works": [
@@ -96345,16 +96345,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4300000071525574,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.4300000071525574
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 17,
       "referenced_works": [
@@ -97322,16 +97322,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5699999928474426,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.5699999928474426
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -98643,16 +98643,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5600000023841858,
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "score": 0.5600000023841858
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 32,
       "referenced_works": [
@@ -99721,8 +99721,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 30,
       "referenced_works": [
@@ -100736,8 +100736,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 15,
       "referenced_works": [
@@ -101843,8 +101843,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "referenced_works_count": 31,
       "referenced_works": [
@@ -102622,8 +102622,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -103030,16 +103030,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8199999928474426,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.8199999928474426
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -104142,16 +104142,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8299999833106995,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.8299999833106995
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -105420,16 +105420,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7400000095367432,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.7400000095367432
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -105953,16 +105953,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.41999998688697815,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.41999998688697815
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -106553,16 +106553,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.4399999976158142,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.4399999976158142
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -107407,8 +107407,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -108264,8 +108264,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 2,
       "referenced_works": [
@@ -109013,8 +109013,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -109977,16 +109977,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.550000011920929,
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "score": 0.550000011920929
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 35,
       "referenced_works": [
@@ -110956,8 +110956,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -111672,8 +111672,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 1,
       "referenced_works": [
@@ -119281,16 +119281,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.49000000953674316,
           "display_name": "Partnerships for the goals",
-          "id": "https://metadata.un.org/sdg/17"
+          "id": "https://metadata.un.org/sdg/17",
+          "score": 0.49000000953674316
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 10,
       "referenced_works": [
@@ -120091,16 +120091,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 35,
       "referenced_works": [
@@ -120592,7 +120592,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.08652194,
+        "value": 0.08643853,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -120870,16 +120870,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8299999833106995,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.8299999833106995
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 63,
       "referenced_works": [
@@ -120887,65 +120887,65 @@
         "https://openalex.org/W2970853907",
         "https://openalex.org/W4246447715",
         "https://openalex.org/W1987027200",
-        "https://openalex.org/W2781665750",
-        "https://openalex.org/W4298386547",
-        "https://openalex.org/W2605009650",
+        "https://openalex.org/W2981520971",
+        "https://openalex.org/W1785207516",
+        "https://openalex.org/W2020202538",
+        "https://openalex.org/W2110099221",
+        "https://openalex.org/W2957928068",
+        "https://openalex.org/W3006016529",
+        "https://openalex.org/W2021246523",
+        "https://openalex.org/W2426768101",
+        "https://openalex.org/W3019124178",
         "https://openalex.org/W3042947710",
         "https://openalex.org/W4206239889",
-        "https://openalex.org/W2176835500",
-        "https://openalex.org/W2122869543",
-        "https://openalex.org/W2895132424",
-        "https://openalex.org/W1987897492",
-        "https://openalex.org/W2772555606",
-        "https://openalex.org/W1971696401",
-        "https://openalex.org/W2981520971",
-        "https://openalex.org/W4200417834",
-        "https://openalex.org/W2021246523",
-        "https://openalex.org/W2890322148",
-        "https://openalex.org/W2263964118",
-        "https://openalex.org/W3119013043",
-        "https://openalex.org/W1968081733",
-        "https://openalex.org/W2996562938",
-        "https://openalex.org/W2002018139",
-        "https://openalex.org/W1785207516",
-        "https://openalex.org/W2121242766",
-        "https://openalex.org/W2050331540",
-        "https://openalex.org/W3013256902",
-        "https://openalex.org/W2057991237",
-        "https://openalex.org/W2150544040",
-        "https://openalex.org/W1968263644",
-        "https://openalex.org/W1982815033",
-        "https://openalex.org/W2110099221",
-        "https://openalex.org/W2972551216",
-        "https://openalex.org/W1973506949",
-        "https://openalex.org/W2318028776",
-        "https://openalex.org/W3037134643",
-        "https://openalex.org/W2000043654",
-        "https://openalex.org/W3180480805",
-        "https://openalex.org/W3194574263",
         "https://openalex.org/W4281836290",
-        "https://openalex.org/W2335380111",
-        "https://openalex.org/W2020202538",
-        "https://openalex.org/W2323762690",
-        "https://openalex.org/W2031338401",
-        "https://openalex.org/W3019124178",
-        "https://openalex.org/W2957928068",
-        "https://openalex.org/W2900705276",
+        "https://openalex.org/W3194574263",
+        "https://openalex.org/W2895132424",
+        "https://openalex.org/W4298386547",
+        "https://openalex.org/W2057991237",
         "https://openalex.org/W2326449803",
-        "https://openalex.org/W2056145492",
-        "https://openalex.org/W3033363001",
-        "https://openalex.org/W3006016529",
         "https://openalex.org/W2886457639",
+        "https://openalex.org/W1971696401",
         "https://openalex.org/W3010887155",
         "https://openalex.org/W1965477025",
-        "https://openalex.org/W3198387001",
-        "https://openalex.org/W2938558362",
-        "https://openalex.org/W2392707885",
-        "https://openalex.org/W4247741056",
+        "https://openalex.org/W2150544040",
+        "https://openalex.org/W2335380111",
+        "https://openalex.org/W2318028776",
         "https://openalex.org/W4297206775",
-        "https://openalex.org/W2426768101",
+        "https://openalex.org/W2314508464",
+        "https://openalex.org/W2772555606",
+        "https://openalex.org/W3119013043",
+        "https://openalex.org/W2781665750",
+        "https://openalex.org/W1968263644",
+        "https://openalex.org/W2323762690",
         "https://openalex.org/W2946606827",
-        "https://openalex.org/W2314508464"
+        "https://openalex.org/W1987897492",
+        "https://openalex.org/W2176835500",
+        "https://openalex.org/W3033363001",
+        "https://openalex.org/W2263964118",
+        "https://openalex.org/W2996562938",
+        "https://openalex.org/W2890322148",
+        "https://openalex.org/W3037134643",
+        "https://openalex.org/W4200417834",
+        "https://openalex.org/W2972551216",
+        "https://openalex.org/W2938558362",
+        "https://openalex.org/W2000043654",
+        "https://openalex.org/W2392707885",
+        "https://openalex.org/W1968081733",
+        "https://openalex.org/W3198387001",
+        "https://openalex.org/W2121242766",
+        "https://openalex.org/W2002018139",
+        "https://openalex.org/W2031338401",
+        "https://openalex.org/W2050331540",
+        "https://openalex.org/W2122869543",
+        "https://openalex.org/W1973506949",
+        "https://openalex.org/W4247741056",
+        "https://openalex.org/W2605009650",
+        "https://openalex.org/W3013256902",
+        "https://openalex.org/W3180480805",
+        "https://openalex.org/W2900705276",
+        "https://openalex.org/W2056145492",
+        "https://openalex.org/W1982815033"
       ],
       "related_works": [
         "https://openalex.org/W2371901143",
@@ -121845,16 +121845,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7200000286102295,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.7200000286102295
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 4,
       "referenced_works": [
@@ -122480,8 +122480,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 29,
       "referenced_works": [
@@ -123454,8 +123454,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -123842,8 +123842,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 23,
       "referenced_works": [
@@ -124496,8 +124496,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -124939,8 +124939,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -125634,16 +125634,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7599999904632568,
           "display_name": "Good health and well-being",
-          "id": "https://metadata.un.org/sdg/3"
+          "id": "https://metadata.un.org/sdg/3",
+          "score": 0.7599999904632568
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -126291,8 +126291,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 29,
       "referenced_works": [
@@ -127606,8 +127606,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 29,
       "referenced_works": [
@@ -128567,8 +128567,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 67,
       "referenced_works": [
@@ -129284,8 +129284,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -129571,8 +129571,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -130008,8 +130008,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 38,
       "referenced_works": [
@@ -130752,8 +130752,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 21,
       "referenced_works": [
@@ -131434,8 +131434,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 46,
       "referenced_works": [
@@ -131730,8 +131730,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 49,
       "referenced_works": [
@@ -132031,8 +132031,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 41,
       "referenced_works": [

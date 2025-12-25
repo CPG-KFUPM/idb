@@ -20,25 +20,25 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10635",
     "name": "Hydraulic Fracturing and Reservoir Analysis",
     "publications": 1674,
-    "citations": 31573
+    "citations": 31576
   },
   {
     "id": "https://openalex.org/T10892",
     "name": "Drilling and Well Engineering",
     "publications": 1150,
-    "citations": 17072
+    "citations": 17075
   },
   {
     "id": "https://openalex.org/T10399",
     "name": "Hydrocarbon exploration and reservoir analysis",
     "publications": 1134,
-    "citations": 21303
+    "citations": 21304
   },
   {
     "id": "https://openalex.org/T10491",
     "name": "Enhanced Oil Recovery Techniques",
-    "publications": 933,
-    "citations": 20943
+    "publications": 934,
+    "citations": 20945
   },
   {
     "id": "https://openalex.org/T10271",
@@ -67,7 +67,7 @@ export const topicStats: TopicStats[] = [
   {
     "id": "https://openalex.org/T11302",
     "name": "CO2 Sequestration and Geologic Interactions",
-    "publications": 384,
+    "publications": 385,
     "citations": 12559
   },
   {
@@ -116,7 +116,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T12482",
     "name": "Tunneling and Rock Mechanics",
     "publications": 218,
-    "citations": 3603
+    "citations": 3604
   },
   {
     "id": "https://openalex.org/T13177",
@@ -182,7 +182,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10033",
     "name": "Concrete and Cement Materials Research",
     "publications": 102,
-    "citations": 1441
+    "citations": 1442
   },
   {
     "id": "https://openalex.org/T13193",
@@ -278,7 +278,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T13067",
     "name": "Geological Modeling and Analysis",
     "publications": 55,
-    "citations": 111
+    "citations": 112
   },
   {
     "id": "https://openalex.org/T10967",
@@ -455,6 +455,12 @@ export const topicStats: TopicStats[] = [
     "citations": 759
   },
   {
+    "id": "https://openalex.org/T10716",
+    "name": "Soil and Unsaturated Flow",
+    "publications": 32,
+    "citations": 701
+  },
+  {
     "id": "https://openalex.org/T10311",
     "name": "Advancements in Solid Oxide Fuel Cells",
     "publications": 32,
@@ -473,12 +479,6 @@ export const topicStats: TopicStats[] = [
     "citations": 2152
   },
   {
-    "id": "https://openalex.org/T10716",
-    "name": "Soil and Unsaturated Flow",
-    "publications": 31,
-    "citations": 701
-  },
-  {
     "id": "https://openalex.org/T10313",
     "name": "Surface Modification and Superhydrophobicity",
     "publications": 31,
@@ -488,7 +488,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10687",
     "name": "Innovative concrete reinforcement materials",
     "publications": 31,
-    "citations": 488
+    "citations": 489
   },
   {
     "id": "https://openalex.org/T10310",
@@ -1280,7 +1280,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T11211",
     "name": "3D Surveying and Cultural Heritage",
     "publications": 10,
-    "citations": 22
+    "citations": 23
   },
   {
     "id": "https://openalex.org/T10207",
@@ -1832,7 +1832,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T11164",
     "name": "Remote Sensing and LiDAR Applications",
     "publications": 7,
-    "citations": 23
+    "citations": 24
   },
   {
     "id": "https://openalex.org/T13772",
@@ -8428,8 +8428,8 @@ export const institutionStats: InstitutionStats[] = [
   {
     "id": "https://openalex.org/I134085113",
     "name": "King Fahd University of Petroleum and Minerals",
-    "publications": 3201,
-    "citations": 55493
+    "publications": 3204,
+    "citations": 55497
   },
   {
     "id": "https://openalex.org/I71920554",
@@ -8471,7 +8471,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I176601375",
     "name": "Khalifa University of Science and Technology",
     "publications": 138,
-    "citations": 2000
+    "citations": 2001
   },
   {
     "id": "https://openalex.org/I207547235",
@@ -8489,7 +8489,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I142732210",
     "name": "University of Engineering and Technology Lahore",
     "publications": 94,
-    "citations": 1957
+    "citations": 1958
   },
   {
     "id": "https://openalex.org/I12079687",
@@ -9026,6 +9026,12 @@ export const institutionStats: InstitutionStats[] = [
     "citations": 632
   },
   {
+    "id": "https://openalex.org/I4210152837",
+    "name": "Dhahran Health Center",
+    "publications": 13,
+    "citations": 430
+  },
+  {
     "id": "https://openalex.org/I90610274",
     "name": "University of Engineering and Technology Peshawar",
     "publications": 13,
@@ -9126,12 +9132,6 @@ export const institutionStats: InstitutionStats[] = [
     "name": "Aarhus University",
     "publications": 12,
     "citations": 431
-  },
-  {
-    "id": "https://openalex.org/I4210152837",
-    "name": "Dhahran Health Center",
-    "publications": 12,
-    "citations": 430
   },
   {
     "id": "https://openalex.org/I4210162190",
@@ -13292,6 +13292,12 @@ export const institutionStats: InstitutionStats[] = [
     "citations": 3
   },
   {
+    "id": "https://openalex.org/I138564716",
+    "name": "Prince Mohammad bin Fahd University",
+    "publications": 2,
+    "citations": 3
+  },
+  {
     "id": "https://openalex.org/I4210155236",
     "name": "National Research Council",
     "publications": 2,
@@ -15644,6 +15650,12 @@ export const institutionStats: InstitutionStats[] = [
     "citations": 9
   },
   {
+    "id": "https://openalex.org/I157674565",
+    "name": "University of Liège",
+    "publications": 1,
+    "citations": 9
+  },
+  {
     "id": "https://openalex.org/I188760350",
     "name": "Ollscoil na Gaillimhe – University of Galway",
     "publications": 1,
@@ -15748,12 +15760,6 @@ export const institutionStats: InstitutionStats[] = [
   {
     "id": "https://openalex.org/I139894009",
     "name": "University of Bradford",
-    "publications": 1,
-    "citations": 8
-  },
-  {
-    "id": "https://openalex.org/I157674565",
-    "name": "University of Liège",
     "publications": 1,
     "citations": 8
   },
@@ -16468,12 +16474,6 @@ export const institutionStats: InstitutionStats[] = [
   {
     "id": "https://openalex.org/I2801876189",
     "name": "Deutsches Elektronen-Synchrotron DESY",
-    "publications": 1,
-    "citations": 3
-  },
-  {
-    "id": "https://openalex.org/I138564716",
-    "name": "Prince Mohammad bin Fahd University",
     "publications": 1,
     "citations": 3
   },

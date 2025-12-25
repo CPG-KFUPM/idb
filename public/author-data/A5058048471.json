@@ -809,9 +809,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4099999964237213,
+          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure"
+          "score": 0.4099999964237213
         }
       ],
       "awards": [
@@ -1443,9 +1443,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.47999998927116394,
+          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure"
+          "score": 0.47999998927116394
         }
       ],
       "awards": [],
@@ -3718,9 +3718,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5299999713897705,
+          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure"
+          "score": 0.5299999713897705
         }
       ],
       "awards": [],
@@ -4338,9 +4338,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8199999928474426,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "score": 0.8199999928474426
         }
       ],
       "awards": [],
@@ -5303,9 +5303,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6100000143051147,
+          "display_name": "Reduced inequalities",
           "id": "https://metadata.un.org/sdg/10",
-          "display_name": "Reduced inequalities"
+          "score": 0.6100000143051147
         }
       ],
       "awards": [],
@@ -6643,9 +6643,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5699999928474426,
+          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure"
+          "score": 0.5699999928474426
         }
       ],
       "awards": [],
@@ -11734,9 +11734,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.4099999964237213,
+          "display_name": "Responsible consumption and production",
           "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production"
+          "score": 0.4099999964237213
         }
       ],
       "awards": [
@@ -13137,9 +13137,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8199999928474426,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "score": 0.8199999928474426
         }
       ],
       "awards": [],
@@ -15921,9 +15921,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.47999998927116394,
+          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure"
+          "score": 0.47999998927116394
         }
       ],
       "awards": [],
@@ -17044,9 +17044,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5199999809265137,
+          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure"
+          "score": 0.5199999809265137
         }
       ],
       "awards": [],
@@ -22009,9 +22009,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.7599999904632568,
+          "display_name": "Zero hunger",
           "id": "https://metadata.un.org/sdg/2",
-          "display_name": "Zero hunger"
+          "score": 0.7599999904632568
         }
       ],
       "awards": [
@@ -25136,9 +25136,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.44999998807907104,
+          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "score": 0.44999998807907104
         }
       ],
       "awards": [],
@@ -25776,9 +25776,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8199999928474426,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "score": 0.8199999928474426
         }
       ],
       "awards": [],
@@ -26665,9 +26665,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8199999928474426,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "score": 0.8199999928474426
         }
       ],
       "awards": [],

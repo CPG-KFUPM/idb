@@ -9106,7 +9106,7 @@
       "primary_location": {
         "id": "doi:10.2118/213591-ms",
         "is_oa": false,
-        "landing_page_url": "https://doi.org/10.2118/213591-ms",
+        "landing_page_url": "http://dx.doi.org/10.2118/213591-ms",
         "pdf_url": null,
         "source": null,
         "license": null,
@@ -9392,7 +9392,7 @@
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.57399824,
+        "value": 0.57143965,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9673,7 +9673,7 @@
         {
           "id": "doi:10.2118/213591-ms",
           "is_oa": false,
-          "landing_page_url": "https://doi.org/10.2118/213591-ms",
+          "landing_page_url": "http://dx.doi.org/10.2118/213591-ms",
           "pdf_url": null,
           "source": null,
           "license": null,
@@ -10553,7 +10553,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2025-12-24T23:09:58.560324",
       "created_date": "2025-10-10T00:00:00"
     },
     {

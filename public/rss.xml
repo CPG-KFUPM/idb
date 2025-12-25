@@ -4,8 +4,26 @@
     <title>Integrative Dashboard - Publications</title>
     <link>https://digitalgeosciences.github.io/dashboard3.2/</link>
     <description>Recent publications from the Integrative Geosciences dashboard.</description>
-    <lastBuildDate>Wed, 24 Dec 2025 20:25:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Dec 2025 20:26:18 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>A Review of Foamed CO &lt;sub&gt;2&lt;/sub&gt; Dynamics during Geo-Sequestration in Deep Saline Aquifers</title>
+      <link>https://doi.org/10.1021/acs.energyfuels.5c04033</link>
+      <pubDate>Wed, 24 Dec 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W7117143684</guid>
+      <dc:creator>Dele Nurudeen Ismaila; Afeez Gbadamosi; Jawad Al Drwish; Muhammad Shahzad Kamal; Shabeeb Alajmei; Murtada Saleh Aljawad</dc:creator>
+      <dc:publisher>Energy &amp; Fuels</dc:publisher>
+      <description>Authors: Dele Nurudeen Ismaila; Afeez Gbadamosi; Jawad Al Drwish; Muhammad Shahzad Kamal; Shabeeb Alajmei; Murtada Saleh Aljawad | Venue: Energy &amp; Fuels | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1021/acs.energyfuels.5c04033 | OpenAlex: https://openalex.org/W7117143684</description>
+    </item>
+    <item>
+      <title>Integrative Dashboard (IDB)</title>
+      <link>https://doi.org/10.5281/zenodo.18027324</link>
+      <pubDate>Tue, 23 Dec 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W7117128083</guid>
+      <dc:creator>Abdullah Alqubalee</dc:creator>
+      <dc:publisher>Zenodo (CERN European Organization for Nuclear Research)</dc:publisher>
+      <description>Authors: Abdullah Alqubalee | Venue: Zenodo (CERN European Organization for Nuclear Research) | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.5281/zenodo.18027324 | OpenAlex: https://openalex.org/W7117128083</description>
+    </item>
     <item>
       <title>Kaolinite Illitization Under Hydrothermal Conditions: Experimental Insight into Transformation Pathways</title>
       <link>https://doi.org/10.3390/min16010004</link>
@@ -149,6 +167,15 @@
       <dc:creator>Abdelali Aboussabek; Hussaini Adam; Aqeel Ahmad; Adenike A. Akinsemolu; Dedy Anwar; Asma Ashraf; Farrukh Azeem; Rachid Aziam; Shahid Bashir; Fakhra Batool; Alakesh Bharali; Nikhil Biswas; C. Pavani; D. Venkatesh; Nirmala Devi; Rituraj Dubey; Farid Fadhillah; N.K. Farhana; G Divya Jyothi; Sumreen Hayat; Leena V. Hublikar; Abongile Jijana; Damiki Laloo; Kah Hoe Loh; Lerato Machogo-Phao; V. Madhavi; Narender Malothu; Melaku Dereje Mamo; L. Mampane; William Moloto; Muhammad Moniruzzaman; Mahesh P. More; Arunadevi Natarajan; Masooma Nazar; Sadhana Noothi; Bulelwa Ntsendwana; Balaji Padya; Myung‐Geol Pang; Kalpesh Ramlal Patil; Amol R. Pawar; Harshita Rai; Ijaz Rasul; Aneela Regala; Hana Safitri; Bhanu P. Sahu; Adi Setiawan; Muhammad Hussnain Siddique; Kshitij RB Singh; N. Sivakumar; Daniela Simina Ștefan; Hari Chandana T.; Ramesh Thotakura; V.L.N. Balaji Gupta Tiruveedhi; Asad Ullah; Venkatramana Losetty; Yudha Gusti Wibowo; Tehreem Zahra; Mohamed Zerbet; Muhammad Zulfajri</dc:creator>
       <dc:publisher>Elsevier eBooks</dc:publisher>
       <description>Authors: Abdelali Aboussabek; Hussaini Adam; Aqeel Ahmad; Adenike A. Akinsemolu; Dedy Anwar; Asma Ashraf; Farrukh Azeem; Rachid Aziam; Shahid Bashir; Fakhra Batool; Alakesh Bharali; Nikhil Biswas; C. Pavani; D. Venkatesh; Nirmala Devi; Rituraj Dubey; Farid Fadhillah; N.K. Farhana; G Divya Jyothi; Sumreen Hayat; Leena V. Hublikar; Abongile Jijana; Damiki Laloo; Kah Hoe Loh; Lerato Machogo-Phao; V. Madhavi; Narender Malothu; Melaku Dereje Mamo; L. Mampane; William Moloto; Muhammad Moniruzzaman; Mahesh P. More; Arunadevi Natarajan; Masooma Nazar; Sadhana Noothi; Bulelwa Ntsendwana; Balaji Padya; Myung‐Geol Pang; Kalpesh Ramlal Patil; Amol R. Pawar; Harshita Rai; Ijaz Rasul; Aneela Regala; Hana Safitri; Bhanu P. Sahu; Adi Setiawan; Muhammad Hussnain Siddique; Kshitij RB Singh; N. Sivakumar; Daniela Simina Ștefan; Hari Chandana T.; Ramesh Thotakura; V.L.N. Balaji Gupta Tiruveedhi; Asad Ullah; Venkatramana Losetty; Yudha Gusti Wibowo; Tehreem Zahra; Mohamed Zerbet; Muhammad Zulfajri | Venue: Elsevier eBooks | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1016/b978-0-443-31448-3.00031-8 | OpenAlex: https://openalex.org/W4417063028</description>
+    </item>
+    <item>
+      <title>Insights Into Barite Particle Size and Perlite Integration to Advanced Drilling Fluids Efficiency</title>
+      <link>https://doi.org/10.1115/1.4070562</link>
+      <pubDate>Thu, 04 Dec 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4416993484</guid>
+      <dc:creator>Jaber Al Jaberi; Badr Bageri; Anas Alsaleem; Yazeed Alshehri; Shirish Patil</dc:creator>
+      <dc:publisher>Journal of energy resources technology.</dc:publisher>
+      <description>Authors: Jaber Al Jaberi; Badr Bageri; Anas Alsaleem; Yazeed Alshehri; Shirish Patil | Venue: Journal of energy resources technology. | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1115/1.4070562 | OpenAlex: https://openalex.org/W4416993484</description>
     </item>
     <item>
       <title>Review on Applications of Chelating Agents in Enhanced Oil Recovery: Advances and Outlook</title>
@@ -862,32 +889,6 @@
       <dc:creator>Maryana Emad Helmi; Isah Mohammed; Abdulrauf R. Adebayo; Khaled Abdelgawad; Mohamed Mahmoud</dc:creator>
       <dc:publisher>Energy &amp; Fuels</dc:publisher>
       <description>Authors: Maryana Emad Helmi; Isah Mohammed; Abdulrauf R. Adebayo; Khaled Abdelgawad; Mohamed Mahmoud | Venue: Energy &amp; Fuels | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1021/acs.energyfuels.5c03952 | OpenAlex: https://openalex.org/W4414435188</description>
-    </item>
-    <item>
-      <title>Fast Analysis Method of Diagnostic Fracture Injection Test Data: Examples from Four Different Shale Formations (Bakken, Three Forks, Wolfcamp, and Eagle Ford)</title>
-      <link>https://doi.org/10.2118/226622-ms</link>
-      <pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4414447089</guid>
-      <dc:creator>Ahmed Al-Shaikh; Ruud Weijermars</dc:creator>
-      <description>Authors: Ahmed Al-Shaikh; Ruud Weijermars | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.2118/226622-ms | OpenAlex: https://openalex.org/W4414447089</description>
-    </item>
-    <item>
-      <title>Application of Polymers in Hydraulic Fracturing Fluids: A Review</title>
-      <link>https://doi.org/10.3390/polym17182562</link>
-      <pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4414578816</guid>
-      <dc:creator>Amro Othman; Murtada Saleh Aljawad; Rajendra Kalgaonkar; Muhammad Shahzad Kamal</dc:creator>
-      <dc:publisher>Polymers</dc:publisher>
-      <description>Authors: Amro Othman; Murtada Saleh Aljawad; Rajendra Kalgaonkar; Muhammad Shahzad Kamal | Venue: Polymers | Year: 2025 | Citations: 1 | DOI: https://doi.org/10.3390/polym17182562 | OpenAlex: https://openalex.org/W4414578816</description>
-    </item>
-    <item>
-      <title>Mechanisms of near‐normal sea water dolomitisation: Mesohaline‐reflux or syn‐depositional?</title>
-      <link>https://doi.org/10.1002/dep2.70039</link>
-      <pubDate>Sat, 20 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4414373385</guid>
-      <dc:creator>Misbahu Abdullahi; Adhipa Herlambang; Khalid Al‐Ramadan; Ardiansyah Koeshidayatullah</dc:creator>
-      <dc:publisher>The Depositional Record</dc:publisher>
-      <description>Authors: Misbahu Abdullahi; Adhipa Herlambang; Khalid Al‐Ramadan; Ardiansyah Koeshidayatullah | Venue: The Depositional Record | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1002/dep2.70039 | OpenAlex: https://openalex.org/W4414373385</description>
     </item>
   </channel>
 </rss>
