@@ -4,7 +4,7 @@
     <title>Integrative Dashboard - OpenAlex Feed</title>
     <link>https://digitalgeosciences.github.io/dashboard3.2/</link>
     <description>Recent publications with OpenAlex abstracts and topics.</description>
-    <lastBuildDate>Thu, 25 Dec 2025 20:26:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Dec 2025 20:24:50 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>A Review of Foamed CO &lt;sub&gt;2&lt;/sub&gt; Dynamics during Geo-Sequestration in Deep Saline Aquifers</title>
@@ -13,7 +13,12 @@
       <guid isPermaLink="false">https://openalex.org/W7117143684</guid>
       <dc:creator>Dele Nurudeen Ismaila, Afeez Gbadamosi, Jawad Al Drwish, Muhammad Shahzad Kamal, Shabeeb Alajmei, Murtada Saleh Aljawad</dc:creator>
       <dc:publisher>Energy &amp; Fuels</dc:publisher>
-      <description>Venue: Energy &amp; Fuels&#10;Year: 2025&#10;Citations: 0</description>
+      <category>Aquifer</category>
+      <category>Geology</category>
+      <category>Environmental science</category>
+      <category>Petroleum engineering</category>
+      <category>Groundwater</category>
+      <description>Topics: Aquifer, Geology, Environmental science, Petroleum engineering, Groundwater&#10;Venue: Energy &amp; Fuels&#10;Year: 2025&#10;Citations: 0</description>
     </item>
     <item>
       <title>Integrative Dashboard (IDB)</title>
@@ -22,7 +27,30 @@
       <guid isPermaLink="false">https://openalex.org/W7117128083</guid>
       <dc:creator>Abdullah Alqubalee</dc:creator>
       <dc:publisher>Zenodo (CERN European Organization for Nuclear Research)</dc:publisher>
-      <description>Abstract: The latest updates include: Enhancements to the user interface. Restructuring of files for improved organization Repairing broken links Resolving mojibake issues in CSV exports.&#10;Venue: Zenodo (CERN European Organization for Nuclear Research)&#10;Year: 2025&#10;Citations: 0</description>
+      <category>Dashboard</category>
+      <category>Restructuring</category>
+      <category>Computer science</category>
+      <category>Troubleshooting</category>
+      <category>Process management</category>
+      <description>Abstract: The latest updates include: Enhancements to the user interface. Restructuring of files for improved organization Repairing broken links Resolving mojibake issues in CSV exports.&#10;Topics: Dashboard, Restructuring, Computer science, Troubleshooting, Process management&#10;Venue: Zenodo (CERN European Organization for Nuclear Research)&#10;Year: 2025&#10;Citations: 0</description>
+    </item>
+    <item>
+      <title>Gauge-Invariant Long-Wavelength TDDFT Without Empty States: From Polarizability to Kubo Conductivity Across Heterogeneous Materials</title>
+      <link>https://doi.org/10.48550/arxiv.2512.20075</link>
+      <pubDate>Tue, 23 Dec 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W7117255705</guid>
+      <dc:creator>Christian Tantardini, Quentin Pitteloud, B. Yakobson, Martin Andersson</dc:creator>
+      <dc:publisher>arXiv (Cornell University)</dc:publisher>
+      <description>Abstract: Electromagnetic response is commonly computed in two languages: length-gauge molecular polarizabilities and velocity-gauge (Kubo) conductivities for periodic solids. We introduce a compact, gauge-invariant bridge that carries the same microscopic inputs-transition dipoles and interaction kernels-from molecules to crystals and heterogeneous media, with explicit SI prefactors and fine-structure scaling via $(α_{\rm fs})$. The long-wavelength limit is handled through a reduced dielectric matrix that retains local-field mixing, interfaces and 2D layers are treated with sheet boundary conditions (rather than naïve ultrathin films), and length-velocity equivalence is enforced in practice by including the equal-time (diamagnetic/contact) term alongside the paramagnetic current. Finite temperature is addressed on the Matsubara axis with numerically stable real-axis evaluation (complex polarization propagator), preserving unit consistency end-to-end. The framework enables predictive, unit-faithful observables from radio frequency to ultraviolet-RF/microwave heating and penetration depth, dielectric-logging contrast, interfacial optics of thin films and 2D sheets, and adsorption metrics via imaginary-axis polarizabilities. Numerical checks (gauge overlay and optical $(f)$-sum saturation) validate the implementation. Immediate priorities include compact, temperature- and salinity-aware kernels with quantified uncertainties and \emph{operando} interfacial diagnostics for integration into…&#10;Venue: arXiv (Cornell University)&#10;Year: 2025&#10;Citations: 0</description>
+    </item>
+    <item>
+      <title>Gauge-Invariant Long-Wavelength TDDFT Without Empty States: From Polarizability to Kubo Conductivity Across Heterogeneous Materials</title>
+      <link>https://openalex.org/W7117277276</link>
+      <pubDate>Tue, 23 Dec 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W7117277276</guid>
+      <dc:creator>Christian Tantardini, Quentin Pitteloud, B. Yakobson, Martin Andersson</dc:creator>
+      <dc:publisher>arXiv (Cornell University)</dc:publisher>
+      <description>Abstract: Electromagnetic response is commonly computed in two languages: length-gauge molecular polarizabilities and velocity-gauge (Kubo) conductivities for periodic solids. We introduce a compact, gauge-invariant bridge that carries the same microscopic inputs-transition dipoles and interaction kernels-from molecules to crystals and heterogeneous media, with explicit SI prefactors and fine-structure scaling via $(α_{\rm fs})$. The long-wavelength limit is handled through a reduced dielectric matrix that retains local-field mixing, interfaces and 2D layers are treated with sheet boundary conditions (rather than naïve ultrathin films), and length-velocity equivalence is enforced in practice by including the equal-time (diamagnetic/contact) term alongside the paramagnetic current. Finite temperature is addressed on the Matsubara axis with numerically stable real-axis evaluation (complex polarization propagator), preserving unit consistency end-to-end. The framework enables predictive, unit-faithful observables from radio frequency to ultraviolet-RF/microwave heating and penetration depth, dielectric-logging contrast, interfacial optics of thin films and 2D sheets, and adsorption metrics via imaginary-axis polarizabilities. Numerical checks (gauge overlay and optical $(f)$-sum saturation) validate the implementation. Immediate priorities include compact, temperature- and salinity-aware kernels with quantified uncertainties and \emph{operando} interfacial diagnostics for integration into…&#10;Venue: arXiv (Cornell University)&#10;Year: 2025&#10;Citations: 0</description>
     </item>
     <item>
       <title>Kaolinite Illitization Under Hydrothermal Conditions: Experimental Insight into Transformation Pathways</title>
@@ -871,24 +899,6 @@
       <dc:creator>Abdulwahab Muhammad Bello, Abduljamiu O. Amao, Anas Muhammad Salisu, Khalid Al‐Ramadan</dc:creator>
       <dc:publisher>Geology</dc:publisher>
       <description>Abstract: Abstract Dolomite formation remains a debated topic in sedimentary geology, particularly concerning the mechanisms driving its precipitation under natural conditions. While microbial processes have been well studied, the influence of abiotic factors, such as clay minerals, is less understood. This study uses hydrothermal reactor experiments at 80–250 °C to examine the role of clay minerals in post-compactional dolomitization. Results show that smectite and illite effectively promote dolomitization by providing nucleation sites and aiding Mg2+ dehydration through their highly negative surface charges. In contrast, kaolinite and dickite were less effective due to their charge neutrality. In calcite-kaolinite mixtures, dolomite formed at 200 °C when kaolinite partially converted to smectite but was inhibited at 250 °C due to dickite formation. Samples containing only calcite showed little to no dolomite formation, highlighting the role of reactive clays. Dolomitization occurred through two mechanisms: (1) complete calcite dissolution followed by dolomite nucleation, and (2) recrystallization with progressive Mg incorporation. These findings support clay-catalyzed dolomitization as a significant abiotic pathway in ancient muddy carbonates and mixed clastic-carbonate systems.&#10;Venue: Geology&#10;Year: 2025&#10;Citations: 0</description>
-    </item>
-    <item>
-      <title>From Hematite to Magnetite: A Comparative Study on Weighting Materials in Well Cementing</title>
-      <link>https://doi.org/10.2118/230303-pa</link>
-      <pubDate>Wed, 24 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4414470930</guid>
-      <dc:creator>Dandi Alvayed, Ahmed Abdulhamid Mahmoud, Salaheldin Elkatatny, Saad Alafnan</dc:creator>
-      <dc:publisher>SPE Journal</dc:publisher>
-      <description>Abstract: Summary Maintaining wellbore integrity in deep oil wells requires high-density cement slurries to counteract high formation pressures. While various heavy materials can increase slurry density, they can also impact the properties of both the slurry and the resulting cement sheath. In this study, we suggest the use of magnetite as a weighting material for preparing well cementing slurry of 18-ppg density and investigate its effect on different cement properties; then, we compare the change in properties with that caused by using hematite weighting materials. The properties investigated include rheological behavior, density variation, and compressive and tensile strength. The results indicate that both hematite-weighted and magnetite-weighted slurries have the same rheological characteristics; however, the 10-minute gel strength (10-m GS) increased significantly for the magnetite-weighted slurry. The hematite-weighted samples exhibited a density variation of 8.7% over a 4-in. sample, which was decreased to 7.3% for the magnetite-weighted samples; this decrease in the density variation was also confirmed by the computed tomography (CT) scan images and CT number change along the samples. The magnetite-weighted samples experienced higher compressive and tensile strength; they also showed more elastic behavior as indicated by the increase in the Poisson’s ratio (PR) and the decrease in the Young’s modulus (YM) for these samples compared with the hematite-weighted samples.&#10;Venue: SPE Journal&#10;Year: 2025&#10;Citations: 0</description>
-    </item>
-    <item>
-      <title>Geoelectrical Evaluation of CO&lt;sub&gt;2&lt;/sub&gt; Storage in Carbonate Aquifers Using Carbonated Water Injection</title>
-      <link>https://doi.org/10.1021/acs.energyfuels.5c03952</link>
-      <pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4414435188</guid>
-      <dc:creator>Maryana Emad Helmi, Isah Mohammed, Abdulrauf R. Adebayo, Khaled Abdelgawad, Mohamed Mahmoud</dc:creator>
-      <dc:publisher>Energy &amp; Fuels</dc:publisher>
-      <description>Venue: Energy &amp; Fuels&#10;Year: 2025&#10;Citations: 0</description>
     </item>
   </channel>
 </rss>

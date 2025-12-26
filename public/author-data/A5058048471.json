@@ -809,9 +809,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9",
-          "score": 0.4099999964237213
+          "score": 0.4099999964237213,
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [
@@ -836,8 +836,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 34,
       "referenced_works": [
@@ -1443,16 +1443,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9",
-          "score": 0.47999998927116394
+          "score": 0.47999998927116394,
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 8,
       "referenced_works": [
@@ -2639,8 +2639,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 19,
       "referenced_works": [
@@ -3718,16 +3718,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9",
-          "score": 0.5299999713897705
+          "score": 0.5299999713897705,
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 109,
       "referenced_works": [
@@ -4338,9 +4338,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.8199999928474426
+          "score": 0.8199999928474426,
+          "display_name": "Affordable and clean energy"
         }
       ],
       "awards": [],
@@ -4352,8 +4352,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 53,
       "referenced_works": [
@@ -5303,16 +5303,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Reduced inequalities",
           "id": "https://metadata.un.org/sdg/10",
-          "score": 0.6100000143051147
+          "score": 0.6100000143051147,
+          "display_name": "Reduced inequalities"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 28,
       "referenced_works": [
@@ -6643,16 +6643,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9",
-          "score": 0.5699999928474426
+          "score": 0.5699999928474426,
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 42,
       "referenced_works": [
@@ -8209,8 +8209,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 16,
       "referenced_works": [
@@ -9795,8 +9795,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 53,
       "referenced_works": [
@@ -10380,8 +10380,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 34,
       "referenced_works": [
@@ -11043,1664 +11043,6 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W4388485681",
-      "doi": "https://doi.org/10.1021/acsomega.3c06297",
-      "title": "Novel Environmentally Friendly Nanomaterials for Drag Reduction of the Emulsified Acid System",
-      "display_name": "Novel Environmentally Friendly Nanomaterials for Drag Reduction of the Emulsified Acid System",
-      "publication_year": 2023,
-      "publication_date": "2023-11-08",
-      "ids": {
-        "openalex": "https://openalex.org/W4388485681",
-        "doi": "https://doi.org/10.1021/acsomega.3c06297",
-        "pmid": "https://pubmed.ncbi.nlm.nih.gov/38027320"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1021/acsomega.3c06297",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1021/acsomega.3c06297",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4210239500",
-          "display_name": "ACS Omega",
-          "issn_l": "2470-1343",
-          "issn": [
-            "2470-1343"
-          ],
-          "is_oa": true,
-          "is_in_doaj": true,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320006",
-          "host_organization_name": "American Chemical Society",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320006"
-          ],
-          "host_organization_lineage_names": [
-            "American Chemical Society"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "ACS Omega",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref",
-        "doaj",
-        "pubmed"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "gold",
-        "oa_url": "https://doi.org/10.1021/acsomega.3c06297",
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5058048471",
-            "display_name": "Ala AL-Dogail",
-            "orcid": "https://orcid.org/0000-0002-1668-3112"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Ala AL-Dogail",
-          "raw_affiliation_strings": [
-            "Department of Petroleum Engineering, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Petroleum Engineering, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5029149528",
-            "display_name": "Rahul Gajbhiye",
-            "orcid": "https://orcid.org/0000-0003-3906-5453"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Rahul Gajbhiye",
-          "raw_affiliation_strings": [
-            "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
-            "Department of Petroleum Engineering, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Petroleum Engineering, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5038432622",
-            "display_name": "Theis I. Sølling",
-            "orcid": "https://orcid.org/0000-0003-1710-9072"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Theis I. Solling",
-          "raw_affiliation_strings": [
-            "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5023484800",
-            "display_name": "Abdullah S. Sultan",
-            "orcid": "https://orcid.org/0000-0001-9617-4678"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Abdullah S. Sultan",
-          "raw_affiliation_strings": [
-            "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
-            "Department of Petroleum Engineering, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Petroleum Engineering, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5005252413",
-            "display_name": "Shirish Patil",
-            "orcid": "https://orcid.org/0000-0002-0131-4912"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Shirish Patil",
-          "raw_affiliation_strings": [
-            "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
-            "Department of Petroleum Engineering, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Petroleum Engineering, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5065211444",
-            "display_name": "Abdelsalam Al‐Sarkhi",
-            "orcid": "https://orcid.org/0000-0002-3410-9093"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Abdelsalam Alsarkhi",
-          "raw_affiliation_strings": [
-            "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
-            "Department of Mechanical Engineering, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Mechanical Engineering, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 6,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5029149528"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I134085113"
-      ],
-      "apc_list": {
-        "value": 1685,
-        "currency": "USD",
-        "value_usd": 1685
-      },
-      "apc_paid": {
-        "value": 1685,
-        "currency": "USD",
-        "value_usd": 1685
-      },
-      "fwci": 0.42201935,
-      "has_fulltext": false,
-      "cited_by_count": 2,
-      "citation_normalized_percentile": {
-        "value": 0.56272706,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 95,
-        "max": 97
-      },
-      "biblio": {
-        "volume": "8",
-        "issue": "46",
-        "first_page": "44057",
-        "last_page": "44075"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T11630",
-        "display_name": "Petroleum Processing and Analysis",
-        "score": 0.9959999918937683,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1602",
-          "display_name": "Analytical Chemistry"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/16",
-          "display_name": "Chemistry"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T11630",
-          "display_name": "Petroleum Processing and Analysis",
-          "score": 0.9959999918937683,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1602",
-            "display_name": "Analytical Chemistry"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/16",
-            "display_name": "Chemistry"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10491",
-          "display_name": "Enhanced Oil Recovery Techniques",
-          "score": 0.9957000017166138,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2212",
-            "display_name": "Ocean Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11557",
-          "display_name": "Lubricants and Their Additives",
-          "score": 0.9753000140190125,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2210",
-            "display_name": "Mechanical Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/environmentally-friendly",
-          "display_name": "Environmentally friendly",
-          "score": 0.7142546772956848
-        },
-        {
-          "id": "https://openalex.org/keywords/nanomaterials",
-          "display_name": "Nanomaterials",
-          "score": 0.5640970468521118
-        },
-        {
-          "id": "https://openalex.org/keywords/materials-science",
-          "display_name": "Materials science",
-          "score": 0.5303441286087036
-        },
-        {
-          "id": "https://openalex.org/keywords/viscosity",
-          "display_name": "Viscosity",
-          "score": 0.4349084496498108
-        },
-        {
-          "id": "https://openalex.org/keywords/chemical-engineering",
-          "display_name": "Chemical engineering",
-          "score": 0.4234165847301483
-        },
-        {
-          "id": "https://openalex.org/keywords/nanotechnology",
-          "display_name": "Nanotechnology",
-          "score": 0.42218658328056335
-        },
-        {
-          "id": "https://openalex.org/keywords/process-engineering",
-          "display_name": "Process engineering",
-          "score": 0.35679107904434204
-        },
-        {
-          "id": "https://openalex.org/keywords/composite-material",
-          "display_name": "Composite material",
-          "score": 0.17927303910255432
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C171534860",
-          "wikidata": "https://www.wikidata.org/wiki/Q655870",
-          "display_name": "Environmentally friendly",
-          "level": 2,
-          "score": 0.7142546772956848
-        },
-        {
-          "id": "https://openalex.org/C138631740",
-          "wikidata": "https://www.wikidata.org/wiki/Q967847",
-          "display_name": "Nanomaterials",
-          "level": 2,
-          "score": 0.5640970468521118
-        },
-        {
-          "id": "https://openalex.org/C192562407",
-          "wikidata": "https://www.wikidata.org/wiki/Q228736",
-          "display_name": "Materials science",
-          "level": 0,
-          "score": 0.5303441286087036
-        },
-        {
-          "id": "https://openalex.org/C127172972",
-          "wikidata": "https://www.wikidata.org/wiki/Q128709",
-          "display_name": "Viscosity",
-          "level": 2,
-          "score": 0.4349084496498108
-        },
-        {
-          "id": "https://openalex.org/C42360764",
-          "wikidata": "https://www.wikidata.org/wiki/Q83588",
-          "display_name": "Chemical engineering",
-          "level": 1,
-          "score": 0.4234165847301483
-        },
-        {
-          "id": "https://openalex.org/C171250308",
-          "wikidata": "https://www.wikidata.org/wiki/Q11468",
-          "display_name": "Nanotechnology",
-          "level": 1,
-          "score": 0.42218658328056335
-        },
-        {
-          "id": "https://openalex.org/C21880701",
-          "wikidata": "https://www.wikidata.org/wiki/Q2144042",
-          "display_name": "Process engineering",
-          "level": 1,
-          "score": 0.35679107904434204
-        },
-        {
-          "id": "https://openalex.org/C159985019",
-          "wikidata": "https://www.wikidata.org/wiki/Q181790",
-          "display_name": "Composite material",
-          "level": 1,
-          "score": 0.17927303910255432
-        },
-        {
-          "id": "https://openalex.org/C127413603",
-          "wikidata": "https://www.wikidata.org/wiki/Q11023",
-          "display_name": "Engineering",
-          "level": 0,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C18903297",
-          "wikidata": "https://www.wikidata.org/wiki/Q7150",
-          "display_name": "Ecology",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C86803240",
-          "wikidata": "https://www.wikidata.org/wiki/Q420",
-          "display_name": "Biology",
-          "level": 0,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 4,
-      "locations": [
-        {
-          "id": "doi:10.1021/acsomega.3c06297",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.1021/acsomega.3c06297",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4210239500",
-            "display_name": "ACS Omega",
-            "issn_l": "2470-1343",
-            "issn": [
-              "2470-1343"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310320006",
-            "host_organization_name": "American Chemical Society",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320006"
-            ],
-            "host_organization_lineage_names": [
-              "American Chemical Society"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "ACS Omega",
-          "raw_type": "journal-article"
-        },
-        {
-          "id": "pmid:38027320",
-          "is_oa": false,
-          "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/38027320",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306525036",
-            "display_name": "PubMed",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I1299303238",
-            "host_organization_name": "National Institutes of Health",
-            "host_organization_lineage": [
-              "https://openalex.org/I1299303238"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "ACS omega",
-          "raw_type": null
-        },
-        {
-          "id": "pmh:oai:pubmedcentral.nih.gov:10666234",
-          "is_oa": true,
-          "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/10666234",
-          "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10666234/pdf/ao3c06297.pdf",
-          "source": {
-            "id": "https://openalex.org/S2764455111",
-            "display_name": "PubMed Central",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I1299303238",
-            "host_organization_name": "National Institutes of Health",
-            "host_organization_lineage": [
-              "https://openalex.org/I1299303238"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by-nc-nd",
-          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "ACS Omega",
-          "raw_type": "Text"
-        },
-        {
-          "id": "pmh:oai:doaj.org/article:5dc8c49ac6d34ce9804370bcda3578b5",
-          "is_oa": false,
-          "landing_page_url": "https://doaj.org/article/5dc8c49ac6d34ce9804370bcda3578b5",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306401280",
-            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "ACS Omega, Vol 8, Iss 46, Pp 44057-44075 (2023)",
-          "raw_type": "article"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.1021/acsomega.3c06297",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1021/acsomega.3c06297",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4210239500",
-          "display_name": "ACS Omega",
-          "issn_l": "2470-1343",
-          "issn": [
-            "2470-1343"
-          ],
-          "is_oa": true,
-          "is_in_doaj": true,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320006",
-          "host_organization_name": "American Chemical Society",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320006"
-          ],
-          "host_organization_lineage_names": [
-            "American Chemical Society"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "ACS Omega",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [
-        {
-          "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12",
-          "score": 0.4099999964237213
-        }
-      ],
-      "awards": [
-        {
-          "id": "https://openalex.org/G418959582",
-          "display_name": null,
-          "funder_award_id": "DTV21101",
-          "funder_id": "https://openalex.org/F4320322323",
-          "funder_display_name": "King Fahd University of Petroleum and Minerals"
-        }
-      ],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320322323",
-          "display_name": "King Fahd University of Petroleum and Minerals",
-          "ror": "https://ror.org/03yez3163"
-        }
-      ],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "referenced_works_count": 60,
-      "referenced_works": [
-        "https://openalex.org/W3154182737",
-        "https://openalex.org/W2079319734",
-        "https://openalex.org/W2039270559",
-        "https://openalex.org/W2140090238",
-        "https://openalex.org/W4229948144",
-        "https://openalex.org/W4381618930",
-        "https://openalex.org/W2024257704",
-        "https://openalex.org/W1985791267",
-        "https://openalex.org/W4323981371",
-        "https://openalex.org/W4235688834",
-        "https://openalex.org/W2003938007",
-        "https://openalex.org/W2076511557",
-        "https://openalex.org/W2048634995",
-        "https://openalex.org/W2000073099",
-        "https://openalex.org/W2029121530",
-        "https://openalex.org/W2014868488",
-        "https://openalex.org/W2180089553",
-        "https://openalex.org/W3202458597",
-        "https://openalex.org/W2048970159",
-        "https://openalex.org/W2030763607",
-        "https://openalex.org/W1977956156",
-        "https://openalex.org/W1992300007",
-        "https://openalex.org/W2045035214",
-        "https://openalex.org/W2011644864",
-        "https://openalex.org/W1968522482",
-        "https://openalex.org/W2134078822",
-        "https://openalex.org/W2278842118",
-        "https://openalex.org/W2462243734",
-        "https://openalex.org/W2620832446",
-        "https://openalex.org/W2896144192",
-        "https://openalex.org/W2802066796",
-        "https://openalex.org/W2896066952",
-        "https://openalex.org/W2889891939",
-        "https://openalex.org/W2886514380",
-        "https://openalex.org/W2923866390",
-        "https://openalex.org/W2891369181",
-        "https://openalex.org/W4200268182",
-        "https://openalex.org/W4213263543",
-        "https://openalex.org/W4213107921",
-        "https://openalex.org/W3109331279",
-        "https://openalex.org/W3145003145",
-        "https://openalex.org/W2945411978",
-        "https://openalex.org/W4387191200",
-        "https://openalex.org/W3041857019",
-        "https://openalex.org/W2279102513",
-        "https://openalex.org/W2549816058",
-        "https://openalex.org/W2992731834",
-        "https://openalex.org/W2997006663",
-        "https://openalex.org/W2084871302",
-        "https://openalex.org/W4385719097",
-        "https://openalex.org/W4318996534",
-        "https://openalex.org/W3015841925",
-        "https://openalex.org/W4200115484",
-        "https://openalex.org/W3176386775",
-        "https://openalex.org/W2992897417",
-        "https://openalex.org/W2971600217",
-        "https://openalex.org/W4289868382",
-        "https://openalex.org/W1967033543",
-        "https://openalex.org/W2205276570",
-        "https://openalex.org/W4306722823"
-      ],
-      "related_works": [
-        "https://openalex.org/W2043351428",
-        "https://openalex.org/W431759199",
-        "https://openalex.org/W4296229359",
-        "https://openalex.org/W2808792098",
-        "https://openalex.org/W2380442882",
-        "https://openalex.org/W2136564186",
-        "https://openalex.org/W152233855",
-        "https://openalex.org/W4226436838",
-        "https://openalex.org/W657615746",
-        "https://openalex.org/W1982053913"
-      ],
-      "abstract_inverted_index": {
-        "10": [
-          190
-        ],
-        "Matrix": [
-          0
-        ],
-        "acidizing": [
-          1,
-          33,
-          57,
-          121
-        ],
-        "is": [
-          2,
-          6,
-          186,
-          394
-        ],
-        "a": [
-          3,
-          43,
-          114,
-          130,
-          222,
-          387,
-          411
-        ],
-        "technique": [
-          4
-        ],
-        "that": [
-          5,
-          133,
-          296
-        ],
-        "widely": [
-          7,
-          148
-        ],
-        "used": [
-          8,
-          53,
-          85,
-          160,
-          174,
-          300,
-          409
-        ],
-        "in": [
-          9,
-          19,
-          161,
-          175,
-          178,
-          332,
-          364,
-          396,
-          419
-        ],
-        "the": [
-          10,
-          20,
-          55,
-          99,
-          103,
-          107,
-          156,
-          204,
-          219,
-          225,
-          240,
-          247,
-          251,
-          256,
-          260,
-          266,
-          282,
-          286,
-          305,
-          309,
-          312,
-          315,
-          327,
-          330,
-          333,
-          344,
-          350,
-          359,
-          365,
-          374,
-          378
-        ],
-        "petroleum": [
-          11
-        ],
-        "industry": [
-          12
-        ],
-        "to": [
-          13,
-          86,
-          106,
-          119,
-          129,
-          143,
-          217,
-          238,
-          264,
-          284,
-          311,
-          343
-        ],
-        "remove": [
-          14
-        ],
-        "scales": [
-          15,
-          24
-        ],
-        "and": [
-          16,
-          25,
-          42,
-          49,
-          73,
-          78,
-          94,
-          137,
-          147,
-          172,
-          198,
-          235,
-          255,
-          279,
-          323,
-          370,
-          402,
-          424
-        ],
-        "create": [
-          17,
-          92
-        ],
-        "channels": [
-          18,
-          28
-        ],
-        "rock.": [
-          21
-        ],
-        "Removal": [
-          22
-        ],
-        "of": [
-          23,
-          27,
-          45,
-          102,
-          126,
-          155,
-          183,
-          206,
-          242,
-          253,
-          259,
-          268,
-          288,
-          291,
-          329,
-          335,
-          361,
-          398
-        ],
-        "creation": [
-          26
-        ],
-        "(wormhole)": [
-          29
-        ],
-        "enhance": [
-          30
-        ],
-        "productivity.": [
-          31
-        ],
-        "Conventional": [
-          32
-        ],
-        "fluids,": [
-          34
-        ],
-        "such": [
-          35
-        ],
-        "as": [
-          36,
-          151,
-          208,
-          221,
-          301,
-          338,
-          340,
-          386,
-          410
-        ],
-        "hydrochloric": [
-          37
-        ],
-        "acid": [
-          38,
-          47,
-          67,
-          81,
-          104
-        ],
-        "(HCl)": [
-          39
-        ],
-        "for": [
-          40,
-          54,
-          210,
-          224,
-          233,
-          250,
-          304,
-          373
-        ],
-        "carbonate": [
-          41
-        ],
-        "mixture": [
-          44
-        ],
-        "hydrofluoric": [
-          46
-        ],
-        "(HF)": [
-          48
-        ],
-        "HCl": [
-          50,
-          320
-        ],
-        "acid,": [
-          51
-        ],
-        "are": [
-          52,
-          84,
-          164,
-          173,
-          193,
-          381
-        ],
-        "matrix": [
-          56
-        ],
-        "process.": [
-          58
-        ],
-        "However,": [
-          59,
-          111
-        ],
-        "these": [
-          60,
-          88,
-          184
-        ],
-        "fluids": [
-          61
-        ],
-        "have": [
-          62,
-          113,
-          169,
-          214
-        ],
-        "some": [
-          63
-        ],
-        "drawbacks,": [
-          64
-        ],
-        "including": [
-          65
-        ],
-        "strong": [
-          66
-        ],
-        "strength,": [
-          68
-        ],
-        "corrosion": [
-          69,
-          336
-        ],
-        "at": [
-          70,
-          317,
-          358
-        ],
-        "high": [
-          71,
-          124,
-          131
-        ],
-        "temperatures,": [
-          72
-        ],
-        "quick": [
-          74
-        ],
-        "reactions": [
-          75
-        ],
-        "with": [
-          76,
-          274,
-          349,
-          392,
-          413
-        ],
-        "scale": [
-          77
-        ],
-        "particles.": [
-          79
-        ],
-        "Emulsified": [
-          80
-        ],
-        "systems": [
-          82
-        ],
-        "(EASs)": [
-          83
-        ],
-        "address": [
-          87
-        ],
-        "drawbacks.": [
-          89
-        ],
-        "EASs": [
-          90,
-          112,
-          127,
-          275
-        ],
-        "can": [
-          91,
-          298,
-          407
-        ],
-        "deeper": [
-          93
-        ],
-        "narrower": [
-          95
-        ],
-        "wormholes": [
-          96
-        ],
-        "by": [
-          97,
-          195
-        ],
-        "reducing": [
-          98
-        ],
-        "reaction": [
-          100
-        ],
-        "rate": [
-          101
-        ],
-        "due": [
-          105
-        ],
-        "external": [
-          108
-        ],
-        "oil": [
-          109
-        ],
-        "phase.": [
-          110
-        ],
-        "much": [
-          115
-        ],
-        "higher": [
-          116
-        ],
-        "viscosity": [
-          117,
-          125,
-          302,
-          316,
-          328
-        ],
-        "compared": [
-          118
-        ],
-        "conventional": [
-          120
-        ],
-        "fluids.": [
-          122
-        ],
-        "The": [
-          123,
-          158,
-          181,
-          227,
-          293,
-          353,
-          367,
-          389,
-          405
-        ],
-        "leads": [
-          128
-        ],
-        "drag": [
-          132,
-          289,
-          354,
-          418
-        ],
-        "restricts": [
-          134
-        ],
-        "pumping": [
-          135,
-          422
-        ],
-        "rates": [
-          136,
-          423
-        ],
-        "consumes": [
-          138
-        ],
-        "energy.": [
-          139,
-          426
-        ],
-        "This": [
-          140,
-          201
-        ],
-        "study": [
-          141,
-          163,
-          202
-        ],
-        "aims": [
-          142
-        ],
-        "utilize": [
-          144
-        ],
-        "environmentally": [
-          145
-        ],
-        "friendly": [
-          146
-        ],
-        "available": [
-          149
-        ],
-        "nanomaterials": [
-          150,
-          159
-        ],
-        "drag-reducing": [
-          152
-        ],
-        "agents": [
-          153
-        ],
-        "(DRAs)": [
-          154
-        ],
-        "EAS.": [
-          157,
-          211,
-          226
-        ],
-        "this": [
-          162
-        ],
-        "carbon": [
-          165
-        ],
-        "nanodots": [
-          166
-        ],
-        "(CNDs).": [
-          167
-        ],
-        "CNDs": [
-          168,
-          185,
-          192,
-          207,
-          220,
-          283,
-          297,
-          310,
-          384,
-          393,
-          406
-        ],
-        "unique": [
-          170
-        ],
-        "properties": [
-          171,
-          258
-        ],
-        "diverse": [
-          176
-        ],
-        "applications": [
-          177
-        ],
-        "different": [
-          179,
-          319
-        ],
-        "industries.": [
-          180
-        ],
-        "size": [
-          182
-        ],
-        "usually": [
-          187
-        ],
-        "smaller": [
-          188
-        ],
-        "than": [
-          189
-        ],
-        "nm.": [
-          191
-        ],
-        "characterized": [
-          194
-        ],
-        "their": [
-          196
-        ],
-        "biocompatibility": [
-          197
-        ],
-        "chemical": [
-          199
-        ],
-        "stability.": [
-          200
-        ],
-        "investigates": [
-          203
-        ],
-        "use": [
-          205
-        ],
-        "DRAs": [
-          209
-        ],
-        "Several": [
-          212
-        ],
-        "experiments": [
-          213,
-          273,
-          372
-        ],
-        "been": [
-          215
-        ],
-        "conducted": [
-          216,
-          277
-        ],
-        "investigate": [
-          218,
-          285
-        ],
-        "DRA": [
-          223,
-          412
-        ],
-        "developed": [
-          228,
-          390
-        ],
-        "EAS": [
-          229,
-          261,
-          313,
-          331,
-          391
-        ],
-        "was": [
-          230,
-          356
-        ],
-        "initially": [
-          231
-        ],
-        "tested": [
-          232
-        ],
-        "conductivity": [
-          234
-        ],
-        "drop-test": [
-          236
-        ],
-        "analysis": [
-          237
-        ],
-        "ensure": [
-          239
-        ],
-        "formation": [
-          241
-        ],
-        "an": [
-          243
-        ],
-        "inverted": [
-          244
-        ],
-        "emulsion.": [
-          245
-        ],
-        "Thereafter,": [
-          246
-        ],
-        "thermal": [
-          248
-        ],
-        "stability": [
-          249
-        ],
-        "range": [
-          252,
-          360
-        ],
-        "temperatures": [
-          254,
-          362
-        ],
-        "rheological": [
-          257
-        ],
-        "were": [
-          262,
-          276
-        ],
-        "evaluated": [
-          263
-        ],
-        "meet": [
-          265
-        ],
-        "criteria": [
-          267
-        ],
-        "field": [
-          269,
-          351,
-          399
-        ],
-        "operation.": [
-          270
-        ],
-        "Then": [
-          271
-        ],
-        "flow": [
-          272,
-          379
-        ],
-        "before": [
-          278
-        ],
-        "after": [
-          280,
-          377
-        ],
-        "adding": [
-          281,
-          308
-        ],
-        "efficacy": [
-          287
-        ],
-        "reduction": [
-          290,
-          355
-        ],
-        "EASs.": [
-          292
-        ],
-        "results": [
-          294
-        ],
-        "revealed": [
-          295
-        ],
-        "be": [
-          299,
-          408
-        ],
-        "reducers": [
-          303
-        ],
-        "EAS,": [
-          306,
-          345,
-          414
-        ],
-        "where": [
-          307
-        ],
-        "reduces": [
-          314,
-          326
-        ],
-        "two": [
-          318
-        ],
-        "concentrations": [
-          321
-        ],
-        "(15": [
-          322
-        ],
-        "20%).": [
-          324
-        ],
-        "It": [
-          325
-        ],
-        "presence": [
-          334
-        ],
-        "inhibitors": [
-          337
-        ],
-        "well": [
-          339
-        ],
-        "other": [
-          341
-        ],
-        "additives": [
-          342
-        ],
-        "showing": [
-          346
-        ],
-        "its": [
-          347
-        ],
-        "compatibility": [
-          348
-        ],
-        "formulation.": [
-          352
-        ],
-        "observed": [
-          357
-        ],
-        "investigated": [
-          363
-        ],
-        "study.": [
-          366
-        ],
-        "conductivity,": [
-          368
-        ],
-        "stability,": [
-          369
-        ],
-        "rheology": [
-          371
-        ],
-        "sample": [
-          375
-        ],
-        "taken": [
-          376
-        ],
-        "experiment": [
-          380
-        ],
-        "consistent,": [
-          382
-        ],
-        "ensuring": [
-          383
-        ],
-        "work": [
-          385
-        ],
-        "DRA.": [
-          388
-        ],
-        "robust": [
-          395
-        ],
-        "terms": [
-          397
-        ],
-        "mixing": [
-          400
-        ],
-        "procedures": [
-          401
-        ],
-        "thermally": [
-          403
-        ],
-        "stable.": [
-          404
-        ],
-        "which": [
-          415
-        ],
-        "will": [
-          416
-        ],
-        "reduce": [
-          417
-        ],
-        "pipes,": [
-          420
-        ],
-        "increasing": [
-          421
-        ],
-        "saving": [
-          425
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2025,
-          "cited_by_count": 2
-        }
-      ],
-      "updated_date": "2025-11-06T03:46:38.306776",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W4404350331",
       "doi": "https://doi.org/10.2139/ssrn.5021296",
       "title": "Robust Integral Sliding Mode Control for Pressure Management in Multi-Phase Flow Systems",
@@ -13137,16 +11479,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.8199999928474426
+          "score": 0.8199999928474426,
+          "display_name": "Affordable and clean energy"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -13598,8 +11940,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 10,
       "referenced_works": [
@@ -14689,8 +13031,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 14,
       "referenced_works": [
@@ -15921,16 +14263,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9",
-          "score": 0.47999998927116394
+          "score": 0.47999998927116394,
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 13,
       "referenced_works": [
@@ -17044,16 +15386,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9",
-          "score": 0.5199999809265137
+          "score": 0.5199999809265137,
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 23,
       "referenced_works": [
@@ -18607,8 +16949,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 51,
       "referenced_works": [
@@ -19471,6 +17813,1664 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
+      "id": "https://openalex.org/W4388485681",
+      "doi": "https://doi.org/10.1021/acsomega.3c06297",
+      "title": "Novel Environmentally Friendly Nanomaterials for Drag Reduction of the Emulsified Acid System",
+      "display_name": "Novel Environmentally Friendly Nanomaterials for Drag Reduction of the Emulsified Acid System",
+      "publication_year": 2023,
+      "publication_date": "2023-11-08",
+      "ids": {
+        "openalex": "https://openalex.org/W4388485681",
+        "doi": "https://doi.org/10.1021/acsomega.3c06297",
+        "pmid": "https://pubmed.ncbi.nlm.nih.gov/38027320"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1021/acsomega.3c06297",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1021/acsomega.3c06297",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210239500",
+          "display_name": "ACS Omega",
+          "issn_l": "2470-1343",
+          "issn": [
+            "2470-1343"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320006",
+          "host_organization_name": "American Chemical Society",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320006"
+          ],
+          "host_organization_lineage_names": [
+            "American Chemical Society"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "ACS Omega",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref",
+        "doaj",
+        "pubmed"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://doi.org/10.1021/acsomega.3c06297",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5058048471",
+            "display_name": "Ala AL-Dogail",
+            "orcid": "https://orcid.org/0000-0002-1668-3112"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ala AL-Dogail",
+          "raw_affiliation_strings": [
+            "Department of Petroleum Engineering, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Petroleum Engineering, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5029149528",
+            "display_name": "Rahul Gajbhiye",
+            "orcid": "https://orcid.org/0000-0003-3906-5453"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Rahul Gajbhiye",
+          "raw_affiliation_strings": [
+            "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
+            "Department of Petroleum Engineering, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Petroleum Engineering, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5038432622",
+            "display_name": "Theis I. Sølling",
+            "orcid": "https://orcid.org/0000-0003-1710-9072"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Theis I. Solling",
+          "raw_affiliation_strings": [
+            "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5023484800",
+            "display_name": "Abdullah S. Sultan",
+            "orcid": "https://orcid.org/0000-0001-9617-4678"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Abdullah S. Sultan",
+          "raw_affiliation_strings": [
+            "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
+            "Department of Petroleum Engineering, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Petroleum Engineering, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5005252413",
+            "display_name": "Shirish Patil",
+            "orcid": "https://orcid.org/0000-0002-0131-4912"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Shirish Patil",
+          "raw_affiliation_strings": [
+            "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
+            "Department of Petroleum Engineering, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Petroleum Engineering, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5065211444",
+            "display_name": "Abdelsalam Al‐Sarkhi",
+            "orcid": "https://orcid.org/0000-0002-3410-9093"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Abdelsalam Alsarkhi",
+          "raw_affiliation_strings": [
+            "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
+            "Department of Mechanical Engineering, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Mechanical Engineering, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 6,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5029149528"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I134085113"
+      ],
+      "apc_list": {
+        "value": 1685,
+        "currency": "USD",
+        "value_usd": 1685
+      },
+      "apc_paid": {
+        "value": 1685,
+        "currency": "USD",
+        "value_usd": 1685
+      },
+      "fwci": 0.42201935,
+      "has_fulltext": false,
+      "cited_by_count": 2,
+      "citation_normalized_percentile": {
+        "value": 0.56001544,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 95,
+        "max": 96
+      },
+      "biblio": {
+        "volume": "8",
+        "issue": "46",
+        "first_page": "44057",
+        "last_page": "44075"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11630",
+        "display_name": "Petroleum Processing and Analysis",
+        "score": 0.9959999918937683,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1602",
+          "display_name": "Analytical Chemistry"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/16",
+          "display_name": "Chemistry"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11630",
+          "display_name": "Petroleum Processing and Analysis",
+          "score": 0.9959999918937683,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1602",
+            "display_name": "Analytical Chemistry"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/16",
+            "display_name": "Chemistry"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10491",
+          "display_name": "Enhanced Oil Recovery Techniques",
+          "score": 0.9957000017166138,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2212",
+            "display_name": "Ocean Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11557",
+          "display_name": "Lubricants and Their Additives",
+          "score": 0.9753000140190125,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2210",
+            "display_name": "Mechanical Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/environmentally-friendly",
+          "display_name": "Environmentally friendly",
+          "score": 0.7142546772956848
+        },
+        {
+          "id": "https://openalex.org/keywords/nanomaterials",
+          "display_name": "Nanomaterials",
+          "score": 0.5640970468521118
+        },
+        {
+          "id": "https://openalex.org/keywords/materials-science",
+          "display_name": "Materials science",
+          "score": 0.5303441286087036
+        },
+        {
+          "id": "https://openalex.org/keywords/viscosity",
+          "display_name": "Viscosity",
+          "score": 0.4349084496498108
+        },
+        {
+          "id": "https://openalex.org/keywords/chemical-engineering",
+          "display_name": "Chemical engineering",
+          "score": 0.4234165847301483
+        },
+        {
+          "id": "https://openalex.org/keywords/nanotechnology",
+          "display_name": "Nanotechnology",
+          "score": 0.42218658328056335
+        },
+        {
+          "id": "https://openalex.org/keywords/process-engineering",
+          "display_name": "Process engineering",
+          "score": 0.35679107904434204
+        },
+        {
+          "id": "https://openalex.org/keywords/composite-material",
+          "display_name": "Composite material",
+          "score": 0.17927303910255432
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C171534860",
+          "wikidata": "https://www.wikidata.org/wiki/Q655870",
+          "display_name": "Environmentally friendly",
+          "level": 2,
+          "score": 0.7142546772956848
+        },
+        {
+          "id": "https://openalex.org/C138631740",
+          "wikidata": "https://www.wikidata.org/wiki/Q967847",
+          "display_name": "Nanomaterials",
+          "level": 2,
+          "score": 0.5640970468521118
+        },
+        {
+          "id": "https://openalex.org/C192562407",
+          "wikidata": "https://www.wikidata.org/wiki/Q228736",
+          "display_name": "Materials science",
+          "level": 0,
+          "score": 0.5303441286087036
+        },
+        {
+          "id": "https://openalex.org/C127172972",
+          "wikidata": "https://www.wikidata.org/wiki/Q128709",
+          "display_name": "Viscosity",
+          "level": 2,
+          "score": 0.4349084496498108
+        },
+        {
+          "id": "https://openalex.org/C42360764",
+          "wikidata": "https://www.wikidata.org/wiki/Q83588",
+          "display_name": "Chemical engineering",
+          "level": 1,
+          "score": 0.4234165847301483
+        },
+        {
+          "id": "https://openalex.org/C171250308",
+          "wikidata": "https://www.wikidata.org/wiki/Q11468",
+          "display_name": "Nanotechnology",
+          "level": 1,
+          "score": 0.42218658328056335
+        },
+        {
+          "id": "https://openalex.org/C21880701",
+          "wikidata": "https://www.wikidata.org/wiki/Q2144042",
+          "display_name": "Process engineering",
+          "level": 1,
+          "score": 0.35679107904434204
+        },
+        {
+          "id": "https://openalex.org/C159985019",
+          "wikidata": "https://www.wikidata.org/wiki/Q181790",
+          "display_name": "Composite material",
+          "level": 1,
+          "score": 0.17927303910255432
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C18903297",
+          "wikidata": "https://www.wikidata.org/wiki/Q7150",
+          "display_name": "Ecology",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 4,
+      "locations": [
+        {
+          "id": "doi:10.1021/acsomega.3c06297",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1021/acsomega.3c06297",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4210239500",
+            "display_name": "ACS Omega",
+            "issn_l": "2470-1343",
+            "issn": [
+              "2470-1343"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320006",
+            "host_organization_name": "American Chemical Society",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320006"
+            ],
+            "host_organization_lineage_names": [
+              "American Chemical Society"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by-nc-nd",
+          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "ACS Omega",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmid:38027320",
+          "is_oa": false,
+          "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/38027320",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306525036",
+            "display_name": "PubMed",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "ACS omega",
+          "raw_type": null
+        },
+        {
+          "id": "pmh:oai:pubmedcentral.nih.gov:10666234",
+          "is_oa": true,
+          "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/10666234",
+          "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10666234/pdf/ao3c06297.pdf",
+          "source": {
+            "id": "https://openalex.org/S2764455111",
+            "display_name": "PubMed Central",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-nc-nd",
+          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "ACS Omega",
+          "raw_type": "Text"
+        },
+        {
+          "id": "pmh:oai:doaj.org/article:5dc8c49ac6d34ce9804370bcda3578b5",
+          "is_oa": false,
+          "landing_page_url": "https://doaj.org/article/5dc8c49ac6d34ce9804370bcda3578b5",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "ACS Omega, Vol 8, Iss 46, Pp 44057-44075 (2023)",
+          "raw_type": "article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1021/acsomega.3c06297",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1021/acsomega.3c06297",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210239500",
+          "display_name": "ACS Omega",
+          "issn_l": "2470-1343",
+          "issn": [
+            "2470-1343"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320006",
+          "host_organization_name": "American Chemical Society",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320006"
+          ],
+          "host_organization_lineage_names": [
+            "American Chemical Society"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "ACS Omega",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/12",
+          "score": 0.4099999964237213,
+          "display_name": "Responsible consumption and production"
+        }
+      ],
+      "awards": [
+        {
+          "id": "https://openalex.org/G418959582",
+          "display_name": null,
+          "funder_award_id": "DTV21101",
+          "funder_id": "https://openalex.org/F4320322323",
+          "funder_display_name": "King Fahd University of Petroleum and Minerals"
+        }
+      ],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320322323",
+          "display_name": "King Fahd University of Petroleum and Minerals",
+          "ror": "https://ror.org/03yez3163"
+        }
+      ],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "referenced_works_count": 60,
+      "referenced_works": [
+        "https://openalex.org/W3154182737",
+        "https://openalex.org/W2079319734",
+        "https://openalex.org/W2039270559",
+        "https://openalex.org/W2140090238",
+        "https://openalex.org/W4229948144",
+        "https://openalex.org/W4381618930",
+        "https://openalex.org/W2024257704",
+        "https://openalex.org/W1985791267",
+        "https://openalex.org/W4323981371",
+        "https://openalex.org/W4235688834",
+        "https://openalex.org/W2003938007",
+        "https://openalex.org/W2076511557",
+        "https://openalex.org/W2048634995",
+        "https://openalex.org/W2000073099",
+        "https://openalex.org/W2029121530",
+        "https://openalex.org/W2014868488",
+        "https://openalex.org/W2180089553",
+        "https://openalex.org/W3202458597",
+        "https://openalex.org/W2048970159",
+        "https://openalex.org/W2030763607",
+        "https://openalex.org/W1977956156",
+        "https://openalex.org/W1992300007",
+        "https://openalex.org/W2045035214",
+        "https://openalex.org/W2011644864",
+        "https://openalex.org/W1968522482",
+        "https://openalex.org/W2134078822",
+        "https://openalex.org/W2278842118",
+        "https://openalex.org/W2462243734",
+        "https://openalex.org/W2620832446",
+        "https://openalex.org/W2896144192",
+        "https://openalex.org/W2802066796",
+        "https://openalex.org/W2896066952",
+        "https://openalex.org/W2889891939",
+        "https://openalex.org/W2886514380",
+        "https://openalex.org/W2923866390",
+        "https://openalex.org/W2891369181",
+        "https://openalex.org/W4200268182",
+        "https://openalex.org/W4213263543",
+        "https://openalex.org/W4213107921",
+        "https://openalex.org/W3109331279",
+        "https://openalex.org/W3145003145",
+        "https://openalex.org/W2945411978",
+        "https://openalex.org/W4387191200",
+        "https://openalex.org/W3041857019",
+        "https://openalex.org/W2279102513",
+        "https://openalex.org/W2549816058",
+        "https://openalex.org/W2992731834",
+        "https://openalex.org/W2997006663",
+        "https://openalex.org/W2084871302",
+        "https://openalex.org/W4385719097",
+        "https://openalex.org/W4318996534",
+        "https://openalex.org/W3015841925",
+        "https://openalex.org/W4200115484",
+        "https://openalex.org/W3176386775",
+        "https://openalex.org/W2992897417",
+        "https://openalex.org/W2971600217",
+        "https://openalex.org/W4289868382",
+        "https://openalex.org/W1967033543",
+        "https://openalex.org/W2205276570",
+        "https://openalex.org/W4306722823"
+      ],
+      "related_works": [
+        "https://openalex.org/W2043351428",
+        "https://openalex.org/W431759199",
+        "https://openalex.org/W4296229359",
+        "https://openalex.org/W2808792098",
+        "https://openalex.org/W2380442882",
+        "https://openalex.org/W2136564186",
+        "https://openalex.org/W152233855",
+        "https://openalex.org/W4226436838",
+        "https://openalex.org/W657615746",
+        "https://openalex.org/W1982053913"
+      ],
+      "abstract_inverted_index": {
+        "10": [
+          190
+        ],
+        "Matrix": [
+          0
+        ],
+        "acidizing": [
+          1,
+          33,
+          57,
+          121
+        ],
+        "is": [
+          2,
+          6,
+          186,
+          394
+        ],
+        "a": [
+          3,
+          43,
+          114,
+          130,
+          222,
+          387,
+          411
+        ],
+        "technique": [
+          4
+        ],
+        "that": [
+          5,
+          133,
+          296
+        ],
+        "widely": [
+          7,
+          148
+        ],
+        "used": [
+          8,
+          53,
+          85,
+          160,
+          174,
+          300,
+          409
+        ],
+        "in": [
+          9,
+          19,
+          161,
+          175,
+          178,
+          332,
+          364,
+          396,
+          419
+        ],
+        "the": [
+          10,
+          20,
+          55,
+          99,
+          103,
+          107,
+          156,
+          204,
+          219,
+          225,
+          240,
+          247,
+          251,
+          256,
+          260,
+          266,
+          282,
+          286,
+          305,
+          309,
+          312,
+          315,
+          327,
+          330,
+          333,
+          344,
+          350,
+          359,
+          365,
+          374,
+          378
+        ],
+        "petroleum": [
+          11
+        ],
+        "industry": [
+          12
+        ],
+        "to": [
+          13,
+          86,
+          106,
+          119,
+          129,
+          143,
+          217,
+          238,
+          264,
+          284,
+          311,
+          343
+        ],
+        "remove": [
+          14
+        ],
+        "scales": [
+          15,
+          24
+        ],
+        "and": [
+          16,
+          25,
+          42,
+          49,
+          73,
+          78,
+          94,
+          137,
+          147,
+          172,
+          198,
+          235,
+          255,
+          279,
+          323,
+          370,
+          402,
+          424
+        ],
+        "create": [
+          17,
+          92
+        ],
+        "channels": [
+          18,
+          28
+        ],
+        "rock.": [
+          21
+        ],
+        "Removal": [
+          22
+        ],
+        "of": [
+          23,
+          27,
+          45,
+          102,
+          126,
+          155,
+          183,
+          206,
+          242,
+          253,
+          259,
+          268,
+          288,
+          291,
+          329,
+          335,
+          361,
+          398
+        ],
+        "creation": [
+          26
+        ],
+        "(wormhole)": [
+          29
+        ],
+        "enhance": [
+          30
+        ],
+        "productivity.": [
+          31
+        ],
+        "Conventional": [
+          32
+        ],
+        "fluids,": [
+          34
+        ],
+        "such": [
+          35
+        ],
+        "as": [
+          36,
+          151,
+          208,
+          221,
+          301,
+          338,
+          340,
+          386,
+          410
+        ],
+        "hydrochloric": [
+          37
+        ],
+        "acid": [
+          38,
+          47,
+          67,
+          81,
+          104
+        ],
+        "(HCl)": [
+          39
+        ],
+        "for": [
+          40,
+          54,
+          210,
+          224,
+          233,
+          250,
+          304,
+          373
+        ],
+        "carbonate": [
+          41
+        ],
+        "mixture": [
+          44
+        ],
+        "hydrofluoric": [
+          46
+        ],
+        "(HF)": [
+          48
+        ],
+        "HCl": [
+          50,
+          320
+        ],
+        "acid,": [
+          51
+        ],
+        "are": [
+          52,
+          84,
+          164,
+          173,
+          193,
+          381
+        ],
+        "matrix": [
+          56
+        ],
+        "process.": [
+          58
+        ],
+        "However,": [
+          59,
+          111
+        ],
+        "these": [
+          60,
+          88,
+          184
+        ],
+        "fluids": [
+          61
+        ],
+        "have": [
+          62,
+          113,
+          169,
+          214
+        ],
+        "some": [
+          63
+        ],
+        "drawbacks,": [
+          64
+        ],
+        "including": [
+          65
+        ],
+        "strong": [
+          66
+        ],
+        "strength,": [
+          68
+        ],
+        "corrosion": [
+          69,
+          336
+        ],
+        "at": [
+          70,
+          317,
+          358
+        ],
+        "high": [
+          71,
+          124,
+          131
+        ],
+        "temperatures,": [
+          72
+        ],
+        "quick": [
+          74
+        ],
+        "reactions": [
+          75
+        ],
+        "with": [
+          76,
+          274,
+          349,
+          392,
+          413
+        ],
+        "scale": [
+          77
+        ],
+        "particles.": [
+          79
+        ],
+        "Emulsified": [
+          80
+        ],
+        "systems": [
+          82
+        ],
+        "(EASs)": [
+          83
+        ],
+        "address": [
+          87
+        ],
+        "drawbacks.": [
+          89
+        ],
+        "EASs": [
+          90,
+          112,
+          127,
+          275
+        ],
+        "can": [
+          91,
+          298,
+          407
+        ],
+        "deeper": [
+          93
+        ],
+        "narrower": [
+          95
+        ],
+        "wormholes": [
+          96
+        ],
+        "by": [
+          97,
+          195
+        ],
+        "reducing": [
+          98
+        ],
+        "reaction": [
+          100
+        ],
+        "rate": [
+          101
+        ],
+        "due": [
+          105
+        ],
+        "external": [
+          108
+        ],
+        "oil": [
+          109
+        ],
+        "phase.": [
+          110
+        ],
+        "much": [
+          115
+        ],
+        "higher": [
+          116
+        ],
+        "viscosity": [
+          117,
+          125,
+          302,
+          316,
+          328
+        ],
+        "compared": [
+          118
+        ],
+        "conventional": [
+          120
+        ],
+        "fluids.": [
+          122
+        ],
+        "The": [
+          123,
+          158,
+          181,
+          227,
+          293,
+          353,
+          367,
+          389,
+          405
+        ],
+        "leads": [
+          128
+        ],
+        "drag": [
+          132,
+          289,
+          354,
+          418
+        ],
+        "restricts": [
+          134
+        ],
+        "pumping": [
+          135,
+          422
+        ],
+        "rates": [
+          136,
+          423
+        ],
+        "consumes": [
+          138
+        ],
+        "energy.": [
+          139,
+          426
+        ],
+        "This": [
+          140,
+          201
+        ],
+        "study": [
+          141,
+          163,
+          202
+        ],
+        "aims": [
+          142
+        ],
+        "utilize": [
+          144
+        ],
+        "environmentally": [
+          145
+        ],
+        "friendly": [
+          146
+        ],
+        "available": [
+          149
+        ],
+        "nanomaterials": [
+          150,
+          159
+        ],
+        "drag-reducing": [
+          152
+        ],
+        "agents": [
+          153
+        ],
+        "(DRAs)": [
+          154
+        ],
+        "EAS.": [
+          157,
+          211,
+          226
+        ],
+        "this": [
+          162
+        ],
+        "carbon": [
+          165
+        ],
+        "nanodots": [
+          166
+        ],
+        "(CNDs).": [
+          167
+        ],
+        "CNDs": [
+          168,
+          185,
+          192,
+          207,
+          220,
+          283,
+          297,
+          310,
+          384,
+          393,
+          406
+        ],
+        "unique": [
+          170
+        ],
+        "properties": [
+          171,
+          258
+        ],
+        "diverse": [
+          176
+        ],
+        "applications": [
+          177
+        ],
+        "different": [
+          179,
+          319
+        ],
+        "industries.": [
+          180
+        ],
+        "size": [
+          182
+        ],
+        "usually": [
+          187
+        ],
+        "smaller": [
+          188
+        ],
+        "than": [
+          189
+        ],
+        "nm.": [
+          191
+        ],
+        "characterized": [
+          194
+        ],
+        "their": [
+          196
+        ],
+        "biocompatibility": [
+          197
+        ],
+        "chemical": [
+          199
+        ],
+        "stability.": [
+          200
+        ],
+        "investigates": [
+          203
+        ],
+        "use": [
+          205
+        ],
+        "DRAs": [
+          209
+        ],
+        "Several": [
+          212
+        ],
+        "experiments": [
+          213,
+          273,
+          372
+        ],
+        "been": [
+          215
+        ],
+        "conducted": [
+          216,
+          277
+        ],
+        "investigate": [
+          218,
+          285
+        ],
+        "DRA": [
+          223,
+          412
+        ],
+        "developed": [
+          228,
+          390
+        ],
+        "EAS": [
+          229,
+          261,
+          313,
+          331,
+          391
+        ],
+        "was": [
+          230,
+          356
+        ],
+        "initially": [
+          231
+        ],
+        "tested": [
+          232
+        ],
+        "conductivity": [
+          234
+        ],
+        "drop-test": [
+          236
+        ],
+        "analysis": [
+          237
+        ],
+        "ensure": [
+          239
+        ],
+        "formation": [
+          241
+        ],
+        "an": [
+          243
+        ],
+        "inverted": [
+          244
+        ],
+        "emulsion.": [
+          245
+        ],
+        "Thereafter,": [
+          246
+        ],
+        "thermal": [
+          248
+        ],
+        "stability": [
+          249
+        ],
+        "range": [
+          252,
+          360
+        ],
+        "temperatures": [
+          254,
+          362
+        ],
+        "rheological": [
+          257
+        ],
+        "were": [
+          262,
+          276
+        ],
+        "evaluated": [
+          263
+        ],
+        "meet": [
+          265
+        ],
+        "criteria": [
+          267
+        ],
+        "field": [
+          269,
+          351,
+          399
+        ],
+        "operation.": [
+          270
+        ],
+        "Then": [
+          271
+        ],
+        "flow": [
+          272,
+          379
+        ],
+        "before": [
+          278
+        ],
+        "after": [
+          280,
+          377
+        ],
+        "adding": [
+          281,
+          308
+        ],
+        "efficacy": [
+          287
+        ],
+        "reduction": [
+          290,
+          355
+        ],
+        "EASs.": [
+          292
+        ],
+        "results": [
+          294
+        ],
+        "revealed": [
+          295
+        ],
+        "be": [
+          299,
+          408
+        ],
+        "reducers": [
+          303
+        ],
+        "EAS,": [
+          306,
+          345,
+          414
+        ],
+        "where": [
+          307
+        ],
+        "reduces": [
+          314,
+          326
+        ],
+        "two": [
+          318
+        ],
+        "concentrations": [
+          321
+        ],
+        "(15": [
+          322
+        ],
+        "20%).": [
+          324
+        ],
+        "It": [
+          325
+        ],
+        "presence": [
+          334
+        ],
+        "inhibitors": [
+          337
+        ],
+        "well": [
+          339
+        ],
+        "other": [
+          341
+        ],
+        "additives": [
+          342
+        ],
+        "showing": [
+          346
+        ],
+        "its": [
+          347
+        ],
+        "compatibility": [
+          348
+        ],
+        "formulation.": [
+          352
+        ],
+        "observed": [
+          357
+        ],
+        "investigated": [
+          363
+        ],
+        "study.": [
+          366
+        ],
+        "conductivity,": [
+          368
+        ],
+        "stability,": [
+          369
+        ],
+        "rheology": [
+          371
+        ],
+        "sample": [
+          375
+        ],
+        "taken": [
+          376
+        ],
+        "experiment": [
+          380
+        ],
+        "consistent,": [
+          382
+        ],
+        "ensuring": [
+          383
+        ],
+        "work": [
+          385
+        ],
+        "DRA.": [
+          388
+        ],
+        "robust": [
+          395
+        ],
+        "terms": [
+          397
+        ],
+        "mixing": [
+          400
+        ],
+        "procedures": [
+          401
+        ],
+        "thermally": [
+          403
+        ],
+        "stable.": [
+          404
+        ],
+        "which": [
+          415
+        ],
+        "will": [
+          416
+        ],
+        "reduce": [
+          417
+        ],
+        "pipes,": [
+          420
+        ],
+        "increasing": [
+          421
+        ],
+        "saving": [
+          425
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2025-12-25T23:11:45.687758",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W3204816258",
       "doi": "https://doi.org/10.1016/j.dib.2021.107396",
       "title": "Dataset of flow experiment: Effects of density, viscosity and surface tension on flow regimes and pressure drop of two-phase flow in horizontal pipes",
@@ -20116,8 +20116,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 4,
       "referenced_works": [
@@ -20609,8 +20609,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 55,
       "referenced_works": [
@@ -22009,9 +22009,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Zero hunger",
           "id": "https://metadata.un.org/sdg/2",
-          "score": 0.7599999904632568
+          "score": 0.7599999904632568,
+          "display_name": "Zero hunger"
         }
       ],
       "awards": [
@@ -22031,8 +22031,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 48,
       "referenced_works": [
@@ -23156,8 +23156,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 11,
       "referenced_works": [
@@ -24386,8 +24386,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "referenced_works_count": 12,
       "referenced_works": [
@@ -25136,16 +25136,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.44999998807907104
+          "score": 0.44999998807907104,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -25776,9 +25776,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.8199999928474426
+          "score": 0.8199999928474426,
+          "display_name": "Affordable and clean energy"
         }
       ],
       "awards": [],
@@ -25790,8 +25790,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 21,
       "referenced_works": [
@@ -26665,16 +26665,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.8199999928474426
+          "score": 0.8199999928474426,
+          "display_name": "Affordable and clean energy"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -27069,8 +27069,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 18,
       "referenced_works": [
@@ -27955,8 +27955,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 295,
       "referenced_works": [

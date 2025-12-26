@@ -10590,7 +10590,7 @@
       "has_fulltext": true,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.76796651,
+        "value": 0.76788713,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10962,16 +10962,16 @@
         "https://openalex.org/W2586790200",
         "https://openalex.org/W6657550301",
         "https://openalex.org/W2092057264",
-        "https://openalex.org/W591821005",
-        "https://openalex.org/W2988182084",
-        "https://openalex.org/W4247649532",
         "https://openalex.org/W1572239019",
-        "https://openalex.org/W4298221226",
-        "https://openalex.org/W2083985580",
-        "https://openalex.org/W2496618909",
-        "https://openalex.org/W2028515670",
+        "https://openalex.org/W2988182084",
         "https://openalex.org/W1539592020",
-        "https://openalex.org/W4250929171"
+        "https://openalex.org/W4298221226",
+        "https://openalex.org/W2496618909",
+        "https://openalex.org/W4250929171",
+        "https://openalex.org/W2083985580",
+        "https://openalex.org/W2028515670",
+        "https://openalex.org/W4247649532",
+        "https://openalex.org/W591821005"
       ],
       "related_works": [
         "https://openalex.org/W1968270095",
@@ -47249,7 +47249,7 @@
       "has_fulltext": true,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.52382683,
+        "value": 0.51988271,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -47676,7 +47676,7 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
+        "grobid_xml": false,
         "pdf": true
       },
       "referenced_works_count": 12,
@@ -48135,7 +48135,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2025-12-25T23:11:45.687758",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -55730,7 +55730,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.1440921,
+        "value": 0.14272863,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -56771,7 +56771,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2025-12-25T23:11:45.687758",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -61377,7 +61377,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.2703009,
+        "value": 0.26918303,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },

@@ -20,13 +20,13 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10635",
     "name": "Hydraulic Fracturing and Reservoir Analysis",
     "publications": 1674,
-    "citations": 31576
+    "citations": 31577
   },
   {
     "id": "https://openalex.org/T10892",
     "name": "Drilling and Well Engineering",
     "publications": 1150,
-    "citations": 17075
+    "citations": 17076
   },
   {
     "id": "https://openalex.org/T10399",
@@ -116,7 +116,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T12482",
     "name": "Tunneling and Rock Mechanics",
     "publications": 218,
-    "citations": 3604
+    "citations": 3605
   },
   {
     "id": "https://openalex.org/T13177",
@@ -386,7 +386,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10398",
     "name": "Groundwater and Isotope Geochemistry",
     "publications": 37,
-    "citations": 505
+    "citations": 506
   },
   {
     "id": "https://openalex.org/T10247",
@@ -866,7 +866,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T12543",
     "name": "Groundwater and Watershed Analysis",
     "publications": 16,
-    "citations": 135
+    "citations": 136
   },
   {
     "id": "https://openalex.org/T12021",
@@ -1010,7 +1010,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T11634",
     "name": "Water Quality and Pollution Assessment",
     "publications": 14,
-    "citations": 61
+    "citations": 62
   },
   {
     "id": "https://openalex.org/T11053",
@@ -1023,6 +1023,12 @@ export const topicStats: TopicStats[] = [
     "name": "Catalysis and Hydrodesulfurization Studies",
     "publications": 13,
     "citations": 1959
+  },
+  {
+    "id": "https://openalex.org/T10275",
+    "name": "2D Materials and Applications",
+    "publications": 13,
+    "citations": 1296
   },
   {
     "id": "https://openalex.org/T10903",
@@ -1107,12 +1113,6 @@ export const topicStats: TopicStats[] = [
     "name": "Extraction and Separation Processes",
     "publications": 12,
     "citations": 64
-  },
-  {
-    "id": "https://openalex.org/T10275",
-    "name": "2D Materials and Applications",
-    "publications": 11,
-    "citations": 1296
   },
   {
     "id": "https://openalex.org/T11260",
@@ -1305,6 +1305,12 @@ export const topicStats: TopicStats[] = [
     "name": "Advanced Sensor and Energy Harvesting Materials",
     "publications": 9,
     "citations": 263
+  },
+  {
+    "id": "https://openalex.org/T12285",
+    "name": "Surface Chemistry and Catalysis",
+    "publications": 9,
+    "citations": 244
   },
   {
     "id": "https://openalex.org/T11336",
@@ -1647,12 +1653,6 @@ export const topicStats: TopicStats[] = [
     "name": "Integrated Circuits and Semiconductor Failure Analysis",
     "publications": 7,
     "citations": 249
-  },
-  {
-    "id": "https://openalex.org/T12285",
-    "name": "Surface Chemistry and Catalysis",
-    "publications": 7,
-    "citations": 244
   },
   {
     "id": "https://openalex.org/T11802",
@@ -4999,6 +4999,12 @@ export const topicStats: TopicStats[] = [
   {
     "id": "https://openalex.org/T10953",
     "name": "E-Government and Public Services",
+    "publications": 2,
+    "citations": 0
+  },
+  {
+    "id": "https://openalex.org/T12612",
+    "name": "Strong Light-Matter Interactions",
     "publications": 2,
     "citations": 0
   },
@@ -8429,7 +8435,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I134085113",
     "name": "King Fahd University of Petroleum and Minerals",
     "publications": 3204,
-    "citations": 55497
+    "citations": 55499
   },
   {
     "id": "https://openalex.org/I71920554",
@@ -10103,13 +10109,13 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I196355604",
     "name": "National Research Tomsk State University",
     "publications": 6,
-    "citations": 74
+    "citations": 75
   },
   {
     "id": "https://openalex.org/I30849647",
     "name": "Tomsk Polytechnic University",
     "publications": 6,
-    "citations": 74
+    "citations": 75
   },
   {
     "id": "https://openalex.org/I201799495",

@@ -4,7 +4,7 @@
     <title>Integrative Dashboard - Publications</title>
     <link>https://digitalgeosciences.github.io/dashboard3.2/</link>
     <description>Recent publications from the Integrative Geosciences dashboard.</description>
-    <lastBuildDate>Thu, 25 Dec 2025 20:26:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Dec 2025 20:24:50 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>A Review of Foamed CO &lt;sub&gt;2&lt;/sub&gt; Dynamics during Geo-Sequestration in Deep Saline Aquifers</title>
@@ -23,6 +23,24 @@
       <dc:creator>Abdullah Alqubalee</dc:creator>
       <dc:publisher>Zenodo (CERN European Organization for Nuclear Research)</dc:publisher>
       <description>Authors: Abdullah Alqubalee | Venue: Zenodo (CERN European Organization for Nuclear Research) | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.5281/zenodo.18027324 | OpenAlex: https://openalex.org/W7117128083</description>
+    </item>
+    <item>
+      <title>Gauge-Invariant Long-Wavelength TDDFT Without Empty States: From Polarizability to Kubo Conductivity Across Heterogeneous Materials</title>
+      <link>https://doi.org/10.48550/arxiv.2512.20075</link>
+      <pubDate>Tue, 23 Dec 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W7117255705</guid>
+      <dc:creator>Christian Tantardini; Quentin Pitteloud; B. Yakobson; Martin Andersson</dc:creator>
+      <dc:publisher>arXiv (Cornell University)</dc:publisher>
+      <description>Authors: Christian Tantardini; Quentin Pitteloud; B. Yakobson; Martin Andersson | Venue: arXiv (Cornell University) | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.48550/arxiv.2512.20075 | OpenAlex: https://openalex.org/W7117255705</description>
+    </item>
+    <item>
+      <title>Gauge-Invariant Long-Wavelength TDDFT Without Empty States: From Polarizability to Kubo Conductivity Across Heterogeneous Materials</title>
+      <link>https://openalex.org/W7117277276</link>
+      <pubDate>Tue, 23 Dec 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W7117277276</guid>
+      <dc:creator>Christian Tantardini; Quentin Pitteloud; B. Yakobson; Martin Andersson</dc:creator>
+      <dc:publisher>arXiv (Cornell University)</dc:publisher>
+      <description>Authors: Christian Tantardini; Quentin Pitteloud; B. Yakobson; Martin Andersson | Venue: arXiv (Cornell University) | Year: 2025 | Citations: 0 | OpenAlex: https://openalex.org/W7117277276</description>
     </item>
     <item>
       <title>Kaolinite Illitization Under Hydrothermal Conditions: Experimental Insight into Transformation Pathways</title>
@@ -871,24 +889,6 @@
       <dc:creator>Abdulwahab Muhammad Bello; Abduljamiu O. Amao; Anas Muhammad Salisu; Khalid Al‐Ramadan</dc:creator>
       <dc:publisher>Geology</dc:publisher>
       <description>Authors: Abdulwahab Muhammad Bello; Abduljamiu O. Amao; Anas Muhammad Salisu; Khalid Al‐Ramadan | Venue: Geology | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1130/g53737.1 | OpenAlex: https://openalex.org/W4414459744</description>
-    </item>
-    <item>
-      <title>From Hematite to Magnetite: A Comparative Study on Weighting Materials in Well Cementing</title>
-      <link>https://doi.org/10.2118/230303-pa</link>
-      <pubDate>Wed, 24 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4414470930</guid>
-      <dc:creator>Dandi Alvayed; Ahmed Abdulhamid Mahmoud; Salaheldin Elkatatny; Saad Alafnan</dc:creator>
-      <dc:publisher>SPE Journal</dc:publisher>
-      <description>Authors: Dandi Alvayed; Ahmed Abdulhamid Mahmoud; Salaheldin Elkatatny; Saad Alafnan | Venue: SPE Journal | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.2118/230303-pa | OpenAlex: https://openalex.org/W4414470930</description>
-    </item>
-    <item>
-      <title>Geoelectrical Evaluation of CO&lt;sub&gt;2&lt;/sub&gt; Storage in Carbonate Aquifers Using Carbonated Water Injection</title>
-      <link>https://doi.org/10.1021/acs.energyfuels.5c03952</link>
-      <pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4414435188</guid>
-      <dc:creator>Maryana Emad Helmi; Isah Mohammed; Abdulrauf R. Adebayo; Khaled Abdelgawad; Mohamed Mahmoud</dc:creator>
-      <dc:publisher>Energy &amp; Fuels</dc:publisher>
-      <description>Authors: Maryana Emad Helmi; Isah Mohammed; Abdulrauf R. Adebayo; Khaled Abdelgawad; Mohamed Mahmoud | Venue: Energy &amp; Fuels | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1021/acs.energyfuels.5c03952 | OpenAlex: https://openalex.org/W4414435188</description>
     </item>
   </channel>
 </rss>

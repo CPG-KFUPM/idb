@@ -1321,9 +1321,6 @@ https://openalex.org/W4200540423,https://openalex.org/T13050,Oil and Gas Product
 https://openalex.org/W4376566047,https://openalex.org/T10491,Enhanced Oil Recovery Techniques
 https://openalex.org/W4376566047,https://openalex.org/T10399,Hydrocarbon exploration and reservoir analysis
 https://openalex.org/W4376566047,https://openalex.org/T10635,Hydraulic Fracturing and Reservoir Analysis
-https://openalex.org/W4388485681,https://openalex.org/T11630,Petroleum Processing and Analysis
-https://openalex.org/W4388485681,https://openalex.org/T10491,Enhanced Oil Recovery Techniques
-https://openalex.org/W4388485681,https://openalex.org/T11557,Lubricants and Their Additives
 https://openalex.org/W4392189229,https://openalex.org/T13856,Advanced Power Generation Technologies
 https://openalex.org/W4392189229,https://openalex.org/T10507,Biodiesel Production and Applications
 https://openalex.org/W4392189229,https://openalex.org/T10088,Thermochemical Biomass Conversion Processes
@@ -1393,6 +1390,9 @@ https://openalex.org/W4384207619,https://openalex.org/T11558,Composite Material 
 https://openalex.org/W3154046633,https://openalex.org/T10491,Enhanced Oil Recovery Techniques
 https://openalex.org/W3154046633,https://openalex.org/T10399,Hydrocarbon exploration and reservoir analysis
 https://openalex.org/W3154046633,https://openalex.org/T11630,Petroleum Processing and Analysis
+https://openalex.org/W4388485681,https://openalex.org/T11630,Petroleum Processing and Analysis
+https://openalex.org/W4388485681,https://openalex.org/T10491,Enhanced Oil Recovery Techniques
+https://openalex.org/W4388485681,https://openalex.org/T11557,Lubricants and Their Additives
 https://openalex.org/W1976241877,https://openalex.org/T10491,Enhanced Oil Recovery Techniques
 https://openalex.org/W1976241877,https://openalex.org/T11801,Reservoir Engineering and Simulation Methods
 https://openalex.org/W1976241877,https://openalex.org/T10399,Hydrocarbon exploration and reservoir analysis
@@ -3921,9 +3921,6 @@ https://openalex.org/W3186079111,https://openalex.org/T10514,Numerical methods i
 https://openalex.org/W4402190575,https://openalex.org/T10271,Seismic Imaging and Inversion Techniques
 https://openalex.org/W4402190575,https://openalex.org/T13619,Geotechnical and Geomechanical Engineering
 https://openalex.org/W4402190575,https://openalex.org/T10995,Methane Hydrates and Related Phenomena
-https://openalex.org/W4382369676,https://openalex.org/T10491,Enhanced Oil Recovery Techniques
-https://openalex.org/W4382369676,https://openalex.org/T10399,Hydrocarbon exploration and reservoir analysis
-https://openalex.org/W4382369676,https://openalex.org/T11751,Lattice Boltzmann Simulation Studies
 https://openalex.org/W4403343181,https://openalex.org/T11757,Seismic Waves and Analysis
 https://openalex.org/W4403343181,https://openalex.org/T10271,Seismic Imaging and Inversion Techniques
 https://openalex.org/W4403343181,https://openalex.org/T12233,Geotechnical Engineering and Underground Structures
@@ -3954,6 +3951,9 @@ https://openalex.org/W2553677368,https://openalex.org/T10637,Advanced Clustering
 https://openalex.org/W3193280444,https://openalex.org/T13772,Geomechanics and Mining Engineering
 https://openalex.org/W3193280444,https://openalex.org/T13619,Geotechnical and Geomechanical Engineering
 https://openalex.org/W3193280444,https://openalex.org/T14392,Geoscience and Mining Technology
+https://openalex.org/W4382369676,https://openalex.org/T10491,Enhanced Oil Recovery Techniques
+https://openalex.org/W4382369676,https://openalex.org/T10399,Hydrocarbon exploration and reservoir analysis
+https://openalex.org/W4382369676,https://openalex.org/T11751,Lattice Boltzmann Simulation Studies
 https://openalex.org/W4213164158,https://openalex.org/T12449,Spacecraft Design and Technology
 https://openalex.org/W4390614592,https://openalex.org/T10132,Advanced ceramic materials synthesis
 https://openalex.org/W4390614592,https://openalex.org/T10460,Electronic Packaging and Soldering Technologies
@@ -8591,9 +8591,6 @@ https://openalex.org/W4313480634,https://openalex.org/T10687,Innovative concrete
 https://openalex.org/W4323308347,https://openalex.org/T10892,Drilling and Well Engineering
 https://openalex.org/W4323308347,https://openalex.org/T10635,Hydraulic Fracturing and Reservoir Analysis
 https://openalex.org/W4323308347,https://openalex.org/T10161,Rock Mechanics and Modeling
-https://openalex.org/W4386830035,https://openalex.org/T10892,Drilling and Well Engineering
-https://openalex.org/W4386830035,https://openalex.org/T12482,Tunneling and Rock Mechanics
-https://openalex.org/W4386830035,https://openalex.org/T10188,Advanced machining processes and optimization
 https://openalex.org/W2896511556,https://openalex.org/T10399,Hydrocarbon exploration and reservoir analysis
 https://openalex.org/W2896511556,https://openalex.org/T12603,NMR spectroscopy and applications
 https://openalex.org/W2896511556,https://openalex.org/T10635,Hydraulic Fracturing and Reservoir Analysis
@@ -8698,6 +8695,9 @@ https://openalex.org/W4252478841,https://openalex.org/T10635,Hydraulic Fracturin
 https://openalex.org/W4366777497,https://openalex.org/T10892,Drilling and Well Engineering
 https://openalex.org/W4366777497,https://openalex.org/T10635,Hydraulic Fracturing and Reservoir Analysis
 https://openalex.org/W4366777497,https://openalex.org/T11801,Reservoir Engineering and Simulation Methods
+https://openalex.org/W4386830035,https://openalex.org/T10892,Drilling and Well Engineering
+https://openalex.org/W4386830035,https://openalex.org/T12482,Tunneling and Rock Mechanics
+https://openalex.org/W4386830035,https://openalex.org/T10188,Advanced machining processes and optimization
 https://openalex.org/W3196814585,https://openalex.org/T10320,Neural Networks and Applications
 https://openalex.org/W4221022820,https://openalex.org/T10892,Drilling and Well Engineering
 https://openalex.org/W4221022820,https://openalex.org/T11801,Reservoir Engineering and Simulation Methods
@@ -11675,9 +11675,6 @@ https://openalex.org/W4401444371,https://openalex.org/T10399,Hydrocarbon explora
 https://openalex.org/W4403691116,https://openalex.org/T10965,Geological formations and processes
 https://openalex.org/W4403691116,https://openalex.org/T12543,Groundwater and Watershed Analysis
 https://openalex.org/W4403691116,https://openalex.org/T10577,Hydrology and Sediment Transport Processes
-https://openalex.org/W4389450736,https://openalex.org/T13018,Seismology and Earthquake Studies
-https://openalex.org/W4389450736,https://openalex.org/T10271,Seismic Imaging and Inversion Techniques
-https://openalex.org/W4389450736,https://openalex.org/T11757,Seismic Waves and Analysis
 https://openalex.org/W4409191406,https://openalex.org/T13018,Seismology and Earthquake Studies
 https://openalex.org/W4409191406,https://openalex.org/T10271,Seismic Imaging and Inversion Techniques
 https://openalex.org/W4409191406,https://openalex.org/T10110,earthquake and tectonic studies
@@ -11711,6 +11708,9 @@ https://openalex.org/W3127304390,https://openalex.org/T10892,Drilling and Well E
 https://openalex.org/W2422944524,https://openalex.org/T11757,Seismic Waves and Analysis
 https://openalex.org/W2422944524,https://openalex.org/T10271,Seismic Imaging and Inversion Techniques
 https://openalex.org/W2422944524,https://openalex.org/T11698,Underwater Acoustics Research
+https://openalex.org/W4389450736,https://openalex.org/T13018,Seismology and Earthquake Studies
+https://openalex.org/W4389450736,https://openalex.org/T10271,Seismic Imaging and Inversion Techniques
+https://openalex.org/W4389450736,https://openalex.org/T11757,Seismic Waves and Analysis
 https://openalex.org/W2620834904,https://openalex.org/T10271,Seismic Imaging and Inversion Techniques
 https://openalex.org/W2620834904,https://openalex.org/T10635,Hydraulic Fracturing and Reservoir Analysis
 https://openalex.org/W2620834904,https://openalex.org/T10892,Drilling and Well Engineering
@@ -14860,6 +14860,9 @@ https://openalex.org/W1983804293,https://openalex.org/T12078,Environmental remed
 https://openalex.org/W2908493854,https://openalex.org/T12071,Marine Biology and Environmental Chemistry
 https://openalex.org/W2908493854,https://openalex.org/T10447,Environmental Toxicology and Ecotoxicology
 https://openalex.org/W2908493854,https://openalex.org/T12213,Marine Ecology and Invasive Species
+https://openalex.org/W4386365539,https://openalex.org/T10398,Groundwater and Isotope Geochemistry
+https://openalex.org/W4386365539,https://openalex.org/T12543,Groundwater and Watershed Analysis
+https://openalex.org/W4386365539,https://openalex.org/T11634,Water Quality and Pollution Assessment
 https://openalex.org/W4400896951,https://openalex.org/T10930,Flood Risk Assessment and Management
 https://openalex.org/W4400896951,https://openalex.org/T12543,Groundwater and Watershed Analysis
 https://openalex.org/W4400896951,https://openalex.org/T10330,Hydrology and Watershed Management Studies
@@ -14880,9 +14883,6 @@ https://openalex.org/W3167868482,https://openalex.org/T12240,Nanomaterials for c
 https://openalex.org/W3167868482,https://openalex.org/T10083,Graphene research and applications
 https://openalex.org/W4283746594,https://openalex.org/T12157,Geochemistry and Geologic Mapping
 https://openalex.org/W4283746594,https://openalex.org/T10770,Soil Geostatistics and Mapping
-https://openalex.org/W4386365539,https://openalex.org/T10398,Groundwater and Isotope Geochemistry
-https://openalex.org/W4386365539,https://openalex.org/T12543,Groundwater and Watershed Analysis
-https://openalex.org/W4386365539,https://openalex.org/T11634,Water Quality and Pollution Assessment
 https://openalex.org/W3027475076,https://openalex.org/T10398,Groundwater and Isotope Geochemistry
 https://openalex.org/W3027475076,https://openalex.org/T10894,Groundwater flow and contamination studies
 https://openalex.org/W3027475076,https://openalex.org/T10330,Hydrology and Watershed Management Studies
@@ -16542,6 +16542,12 @@ https://openalex.org/W592453176,https://openalex.org/T10321,Quantum Dots Synthes
 https://openalex.org/W605136686,https://openalex.org/T12021,Social and Educational Sciences
 https://openalex.org/W606471962,https://openalex.org/T10164,Quality and Supply Management
 https://openalex.org/W637320392,https://openalex.org/T12021,Social and Educational Sciences
+https://openalex.org/W7117255705,https://openalex.org/T10275,2D Materials and Applications
+https://openalex.org/W7117255705,https://openalex.org/T12612,Strong Light-Matter Interactions
+https://openalex.org/W7117255705,https://openalex.org/T12285,Surface Chemistry and Catalysis
+https://openalex.org/W7117277276,https://openalex.org/T10275,2D Materials and Applications
+https://openalex.org/W7117277276,https://openalex.org/T12612,Strong Light-Matter Interactions
+https://openalex.org/W7117277276,https://openalex.org/T12285,Surface Chemistry and Catalysis
 https://openalex.org/W7425214,https://openalex.org/T13065,Mining Techniques and Economics
 https://openalex.org/W7425214,https://openalex.org/T12282,Mineral Processing and Grinding
 https://openalex.org/W767057887,https://openalex.org/T10002,Advanced Chemical Physics Studies
