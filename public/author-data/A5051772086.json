@@ -2123,8 +2123,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15",
-          "score": 0.5400000214576721
+          "score": 0.5400000214576721,
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
@@ -8111,8 +8111,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15",
-          "score": 0.41999998688697815
+          "score": 0.41999998688697815,
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [
@@ -9433,8 +9433,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.4300000071525574
+          "score": 0.4300000071525574,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -10261,8 +10261,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "No poverty",
-          "id": "https://metadata.un.org/sdg/1",
-          "score": 0.5600000023841858
+          "score": 0.5600000023841858,
+          "id": "https://metadata.un.org/sdg/1"
         }
       ],
       "awards": [],
@@ -12374,8 +12374,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.6200000047683716
+          "score": 0.6200000047683716,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -13626,8 +13626,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.49000000953674316
+          "score": 0.49000000953674316,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -22322,8 +22322,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11",
-          "score": 0.5600000023841858
+          "score": 0.5600000023841858,
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [],
@@ -23157,8 +23157,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12",
-          "score": 0.41999998688697815
+          "score": 0.41999998688697815,
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "awards": [],
@@ -26574,8 +26574,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Industry, innovation and infrastructure",
-          "id": "https://metadata.un.org/sdg/9",
-          "score": 0.550000011920929
+          "score": 0.550000011920929,
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "awards": [],
@@ -32676,8 +32676,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11",
-          "score": 0.7599999904632568
+          "score": 0.7599999904632568,
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [],
@@ -33808,8 +33808,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12",
-          "score": 0.5299999713897705
+          "score": 0.5299999713897705,
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "awards": [],
@@ -36276,1042 +36276,6 @@
       "created_date": "2023-01-06T00:00:00"
     },
     {
-      "id": "https://openalex.org/W4393383880",
-      "doi": "https://doi.org/10.1049/tje2.12369",
-      "title": "Enhancing tunnel stability in the Himalayas: Empirical design support through numerical modelling",
-      "display_name": "Enhancing tunnel stability in the Himalayas: Empirical design support through numerical modelling",
-      "publication_year": 2024,
-      "publication_date": "2024-03-31",
-      "ids": {
-        "openalex": "https://openalex.org/W4393383880",
-        "doi": "https://doi.org/10.1049/tje2.12369"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1049/tje2.12369",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1049/tje2.12369",
-        "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1049/tje2.12369",
-        "source": {
-          "id": "https://openalex.org/S2764687066",
-          "display_name": "The Journal of Engineering",
-          "issn_l": "2051-3305",
-          "issn": [
-            "2051-3305"
-          ],
-          "is_oa": true,
-          "is_in_doaj": true,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310311714",
-          "host_organization_name": "Institution of Engineering and Technology",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310311714"
-          ],
-          "host_organization_lineage_names": [
-            "Institution of Engineering and Technology"
-          ],
-          "type": "journal"
-        },
-        "license": "other-oa",
-        "license_id": "https://openalex.org/licenses/other-oa",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "The Journal of Engineering",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref",
-        "doaj"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "gold",
-        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1049/tje2.12369",
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5037251511",
-            "display_name": "Naeem Abbas",
-            "orcid": "https://orcid.org/0000-0002-4495-8144"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I10660446",
-              "display_name": "Kunming University of Science and Technology",
-              "ror": "https://ror.org/00xyeez13",
-              "country_code": "CN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I10660446"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I236232284",
-              "display_name": "Karakoram International University",
-              "ror": "https://ror.org/0324r4e56",
-              "country_code": "PK",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I236232284"
-              ]
-            }
-          ],
-          "countries": [
-            "CN",
-            "PK"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Naeem Abbas",
-          "raw_affiliation_strings": [
-            "Department of Mining Engineering Karakoram International University (KIU) Gilgit Pakistan",
-            "Faculty of Land Resource Engineering Kunming University of Science and Technology Kunming Yunnan China"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Mining Engineering Karakoram International University (KIU) Gilgit Pakistan",
-              "institution_ids": [
-                "https://openalex.org/I236232284"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Faculty of Land Resource Engineering Kunming University of Science and Technology Kunming Yunnan China",
-              "institution_ids": [
-                "https://openalex.org/I10660446"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5087924997",
-            "display_name": "Kegang Li",
-            "orcid": "https://orcid.org/0000-0002-6961-7258"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I10660446",
-              "display_name": "Kunming University of Science and Technology",
-              "ror": "https://ror.org/00xyeez13",
-              "country_code": "CN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I10660446"
-              ]
-            }
-          ],
-          "countries": [
-            "CN"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Kegang Li",
-          "raw_affiliation_strings": [
-            "Faculty of Land Resource Engineering Kunming University of Science and Technology Kunming Yunnan China"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Faculty of Land Resource Engineering Kunming University of Science and Technology Kunming Yunnan China",
-              "institution_ids": [
-                "https://openalex.org/I10660446"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5051772086",
-            "display_name": "Muhammad Zaka Emad",
-            "orcid": "https://orcid.org/0000-0001-8537-8026"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I142732210",
-              "display_name": "University of Engineering and Technology Lahore",
-              "ror": "https://ror.org/0051w2v06",
-              "country_code": "PK",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I142732210"
-              ]
-            }
-          ],
-          "countries": [
-            "PK"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Muhammad Zaka Emad",
-          "raw_affiliation_strings": [
-            "Department of Mining Engineering University of Engineering and Technology Lahore Pakistan"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Mining Engineering University of Engineering and Technology Lahore Pakistan",
-              "institution_ids": [
-                "https://openalex.org/I142732210"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5084696038",
-            "display_name": "Yewuhalashet Fissha",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I78545622",
-              "display_name": "Aksum University",
-              "ror": "https://ror.org/003659f07",
-              "country_code": "ET",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I78545622"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I70999451",
-              "display_name": "Akita International University",
-              "ror": "https://ror.org/05qz4zw08",
-              "country_code": "JP",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I70999451"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I203765153",
-              "display_name": "Akita University",
-              "ror": "https://ror.org/03hv1ad10",
-              "country_code": "JP",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I203765153"
-              ]
-            }
-          ],
-          "countries": [
-            "ET",
-            "JP"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Yewuhalashet Fissha",
-          "raw_affiliation_strings": [
-            "Department of Geosciences, Geotechnology and Materials Engineering for Resources, Graduate School of International Resource Sciences Akita University Akita Japan",
-            "Department of Mining Engineering Aksum University Aksum Tigray Ethiopia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geosciences, Geotechnology and Materials Engineering for Resources, Graduate School of International Resource Sciences Akita University Akita Japan",
-              "institution_ids": [
-                "https://openalex.org/I203765153",
-                "https://openalex.org/I70999451"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Mining Engineering Aksum University Aksum Tigray Ethiopia",
-              "institution_ids": [
-                "https://openalex.org/I78545622"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5021896593",
-            "display_name": "Mujahid Ali",
-            "orcid": "https://orcid.org/0000-0003-4376-0459"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I119004910",
-              "display_name": "Silesian University of Technology",
-              "ror": "https://ror.org/02dyjk442",
-              "country_code": "PL",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I119004910"
-              ]
-            }
-          ],
-          "countries": [
-            "PL"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Mujahid Ali",
-          "raw_affiliation_strings": [
-            "Department of Transport Systems, Traffic Engineering and Logistics, Faculty of Transport and Aviation Engineering Silesian University of Technology Katowice Poland"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Transport Systems, Traffic Engineering and Logistics, Faculty of Transport and Aviation Engineering Silesian University of Technology Katowice Poland",
-              "institution_ids": [
-                "https://openalex.org/I119004910"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5061536269",
-            "display_name": "Wade Ghribi",
-            "orcid": "https://orcid.org/0000-0002-1221-8010"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I82952536",
-              "display_name": "King Khalid University",
-              "ror": "https://ror.org/052kwzs30",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I82952536"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Wade Ghribi",
-          "raw_affiliation_strings": [
-            "Department of Computer Engineering, College of Computer Science King Khalid University Abha Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Computer Engineering, College of Computer Science King Khalid University Abha Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I82952536"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5046254337",
-            "display_name": "Yaser Gamil",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I11662577",
-              "display_name": "Monash University Malaysia",
-              "ror": "https://ror.org/00yncr324",
-              "country_code": "MY",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I11662577"
-              ]
-            }
-          ],
-          "countries": [
-            "MY"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Yaser Gamil",
-          "raw_affiliation_strings": [
-            "Department of Civil Engineering, School of Engineering Monash University Malaysia Jalan Lagoon Selatan, Bandar Sunway Selangor Malaysia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Civil Engineering, School of Engineering Monash University Malaysia Jalan Lagoon Selatan, Bandar Sunway Selangor Malaysia",
-              "institution_ids": [
-                "https://openalex.org/I11662577"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5051232593",
-            "display_name": "Hajime Ikeda",
-            "orcid": "https://orcid.org/0000-0002-0863-5583"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I70999451",
-              "display_name": "Akita International University",
-              "ror": "https://ror.org/05qz4zw08",
-              "country_code": "JP",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I70999451"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I203765153",
-              "display_name": "Akita University",
-              "ror": "https://ror.org/03hv1ad10",
-              "country_code": "JP",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I203765153"
-              ]
-            }
-          ],
-          "countries": [
-            "JP"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Hajime Ikeda",
-          "raw_affiliation_strings": [
-            "Department of Geosciences, Geotechnology and Materials Engineering for Resources, Graduate School of International Resource Sciences Akita University Akita Japan"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geosciences, Geotechnology and Materials Engineering for Resources, Graduate School of International Resource Sciences Akita University Akita Japan",
-              "institution_ids": [
-                "https://openalex.org/I203765153",
-                "https://openalex.org/I70999451"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 7,
-      "institutions_distinct_count": 8,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
-      "apc_list": {
-        "value": 1500,
-        "currency": "EUR",
-        "value_usd": 1650
-      },
-      "apc_paid": {
-        "value": 1500,
-        "currency": "EUR",
-        "value_usd": 1650
-      },
-      "fwci": 1.42894725,
-      "has_fulltext": true,
-      "cited_by_count": 2,
-      "citation_normalized_percentile": {
-        "value": 0.72809084,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 95,
-        "max": 97
-      },
-      "biblio": {
-        "volume": "2024",
-        "issue": "4",
-        "first_page": null,
-        "last_page": null
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T11046",
-        "display_name": "Geotechnical Engineering and Analysis",
-        "score": 0.9998999834060669,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2213",
-          "display_name": "Safety, Risk, Reliability and Quality"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T11046",
-          "display_name": "Geotechnical Engineering and Analysis",
-          "score": 0.9998999834060669,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2213",
-            "display_name": "Safety, Risk, Reliability and Quality"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10161",
-          "display_name": "Rock Mechanics and Modeling",
-          "score": 0.9997000098228455,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T12482",
-          "display_name": "Tunneling and Rock Mechanics",
-          "score": 0.9991000294685364,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2205",
-            "display_name": "Civil and Structural Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/stability",
-          "display_name": "Stability (learning theory)",
-          "score": 0.5978654026985168
-        },
-        {
-          "id": "https://openalex.org/keywords/computer-science",
-          "display_name": "Computer science",
-          "score": 0.3614739179611206
-        },
-        {
-          "id": "https://openalex.org/keywords/machine-learning",
-          "display_name": "Machine learning",
-          "score": 0.06796962022781372
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C112972136",
-          "wikidata": "https://www.wikidata.org/wiki/Q7595718",
-          "display_name": "Stability (learning theory)",
-          "level": 2,
-          "score": 0.5978654026985168
-        },
-        {
-          "id": "https://openalex.org/C41008148",
-          "wikidata": "https://www.wikidata.org/wiki/Q21198",
-          "display_name": "Computer science",
-          "level": 0,
-          "score": 0.3614739179611206
-        },
-        {
-          "id": "https://openalex.org/C119857082",
-          "wikidata": "https://www.wikidata.org/wiki/Q2539",
-          "display_name": "Machine learning",
-          "level": 1,
-          "score": 0.06796962022781372
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1049/tje2.12369",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.1049/tje2.12369",
-          "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1049/tje2.12369",
-          "source": {
-            "id": "https://openalex.org/S2764687066",
-            "display_name": "The Journal of Engineering",
-            "issn_l": "2051-3305",
-            "issn": [
-              "2051-3305"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310311714",
-            "host_organization_name": "Institution of Engineering and Technology",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310311714"
-            ],
-            "host_organization_lineage_names": [
-              "Institution of Engineering and Technology"
-            ],
-            "type": "journal"
-          },
-          "license": "other-oa",
-          "license_id": "https://openalex.org/licenses/other-oa",
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "The Journal of Engineering",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.1049/tje2.12369",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1049/tje2.12369",
-        "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1049/tje2.12369",
-        "source": {
-          "id": "https://openalex.org/S2764687066",
-          "display_name": "The Journal of Engineering",
-          "issn_l": "2051-3305",
-          "issn": [
-            "2051-3305"
-          ],
-          "is_oa": true,
-          "is_in_doaj": true,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310311714",
-          "host_organization_name": "Institution of Engineering and Technology",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310311714"
-          ],
-          "host_organization_lineage_names": [
-            "Institution of Engineering and Technology"
-          ],
-          "type": "journal"
-        },
-        "license": "other-oa",
-        "license_id": "https://openalex.org/licenses/other-oa",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "The Journal of Engineering",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": true,
-        "pdf": true
-      },
-      "referenced_works_count": 24,
-      "referenced_works": [
-        "https://openalex.org/W2152508407",
-        "https://openalex.org/W2509940486",
-        "https://openalex.org/W3014830541",
-        "https://openalex.org/W2041230212",
-        "https://openalex.org/W24812779",
-        "https://openalex.org/W1977168082",
-        "https://openalex.org/W2903086388",
-        "https://openalex.org/W4220994406",
-        "https://openalex.org/W4252180842",
-        "https://openalex.org/W4360977872",
-        "https://openalex.org/W2075218807",
-        "https://openalex.org/W1982833447",
-        "https://openalex.org/W2925060624",
-        "https://openalex.org/W1999565652",
-        "https://openalex.org/W2904325554",
-        "https://openalex.org/W3012304313",
-        "https://openalex.org/W2790068011",
-        "https://openalex.org/W2010057689",
-        "https://openalex.org/W4388297899",
-        "https://openalex.org/W2610842381",
-        "https://openalex.org/W2192079199",
-        "https://openalex.org/W2079305979",
-        "https://openalex.org/W1586019852",
-        "https://openalex.org/W2485738731"
-      ],
-      "related_works": [
-        "https://openalex.org/W2748952813",
-        "https://openalex.org/W2390279801",
-        "https://openalex.org/W2358668433",
-        "https://openalex.org/W2376932109",
-        "https://openalex.org/W2001405890",
-        "https://openalex.org/W2382290278",
-        "https://openalex.org/W2478288626",
-        "https://openalex.org/W4391913857",
-        "https://openalex.org/W2350741829",
-        "https://openalex.org/W2530322880"
-      ],
-      "abstract_inverted_index": {
-        "Abstract": [
-          0
-        ],
-        "This": [
-          1
-        ],
-        "study": [
-          2,
-          113
-        ],
-        "focuses": [
-          3
-        ],
-        "on": [
-          4,
-          34,
-          49
-        ],
-        "assessing": [
-          5
-        ],
-        "the": [
-          6,
-          40,
-          44,
-          50,
-          67,
-          74,
-          83,
-          87,
-          94,
-          101,
-          105,
-          112,
-          117,
-          122,
-          146
-        ],
-        "effectiveness": [
-          7
-        ],
-        "of": [
-          8,
-          76,
-          111,
-          132,
-          148
-        ],
-        "an": [
-          9
-        ],
-        "empirically": [
-          10
-        ],
-        "recommended": [
-          11,
-          45,
-          85
-        ],
-        "support": [
-          12,
-          46,
-          62,
-          84,
-          155
-        ],
-        "design": [
-          13,
-          47
-        ],
-        "through": [
-          14
-        ],
-        "numerical": [
-          15,
-          79
-        ],
-        "modelling.": [
-          16
-        ],
-        "Numerical": [
-          17,
-          30
-        ],
-        "techniques": [
-          18
-        ],
-        "are": [
-          19,
-          64
-        ],
-        "utilized": [
-          20
-        ],
-        "to": [
-          21,
-          107,
-          124,
-          157
-        ],
-        "accurately": [
-          22
-        ],
-        "evaluate": [
-          23
-        ],
-        "tunnel": [
-          24,
-          41,
-          102,
-          159
-        ],
-        "stability": [
-          25
-        ],
-        "under": [
-          26
-        ],
-        "various": [
-          27
-        ],
-        "geological": [
-          28
-        ],
-        "conditions.": [
-          29
-        ],
-        "analysis": [
-          31,
-          80
-        ],
-        "is": [
-          32
-        ],
-        "conducted": [
-          33
-        ],
-        "two": [
-          35
-        ],
-        "different": [
-          36
-        ],
-        "rock": [
-          37,
-          52,
-          109
-        ],
-        "types": [
-          38
-        ],
-        "along": [
-          39
-        ],
-        "route,": [
-          42
-        ],
-        "employing": [
-          43
-        ],
-        "based": [
-          48
-        ],
-        "existing": [
-          51,
-          88
-        ],
-        "mass": [
-          53,
-          110
-        ],
-        "rating": [
-          54
-        ],
-        "(": [
-          55
-        ],
-        "RMR": [
-          56,
-          69,
-          89,
-          123
-        ],
-        ")": [
-          57
-        ],
-        "and": [
-          58,
-          70,
-          97,
-          135,
-          152
-        ],
-        "Q": [
-          59,
-          71
-        ],
-        "‐system.": [
-          60
-        ],
-        "Furthermore,": [
-          61
-        ],
-        "recommendations": [
-          63
-        ],
-        "made": [
-          65
-        ],
-        "using": [
-          66
-        ],
-        "modified": [
-          68,
-          154
-        ],
-        "‐system,": [
-          72
-        ],
-        "considering": [
-          73,
-          149
-        ],
-        "impact": [
-          75,
-          93
-        ],
-        "stress.": [
-          77
-        ],
-        "The": [
-          78
-        ],
-        "indicates": [
-          81
-        ],
-        "that": [
-          82
-        ],
-        "by": [
-          86,
-          120
-        ],
-        "may": [
-          90
-        ],
-        "not": [
-          91
-        ],
-        "substantially": [
-          92
-        ],
-        "total": [
-          95,
-          133
-        ],
-        "displacement": [
-          96,
-          134
-        ],
-        "vertical": [
-          98,
-          136
-        ],
-        "stresses": [
-          99
-        ],
-        "around": [
-          100
-        ],
-        "crown": [
-          103
-        ],
-        "in": [
-          104,
-          129
-        ],
-        "“Fair”": [
-          106
-        ],
-        "“Poor”": [
-          108
-        ],
-        "area.": [
-          114
-        ],
-        "However,": [
-          115
-        ],
-        "extending": [
-          116
-        ],
-        "bolt": [
-          118
-        ],
-        "length": [
-          119
-        ],
-        "modifying": [
-          121
-        ],
-        "incorporate": [
-          125
-        ],
-        "stress": [
-          126,
-          150
-        ],
-        "effects": [
-          127,
-          151
-        ],
-        "results": [
-          128,
-          144
-        ],
-        "a": [
-          130,
-          140
-        ],
-        "reduction": [
-          131
-        ],
-        "stresses,": [
-          137
-        ],
-        "ultimately": [
-          138
-        ],
-        "achieving": [
-          139
-        ],
-        "stable": [
-          141
-        ],
-        "level.": [
-          142
-        ],
-        "These": [
-          143
-        ],
-        "underline": [
-          145
-        ],
-        "importance": [
-          147
-        ],
-        "utilizing": [
-          153
-        ],
-        "designs": [
-          156
-        ],
-        "enhance": [
-          158
-        ],
-        "stability.": [
-          160
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2025,
-          "cited_by_count": 2
-        }
-      ],
-      "updated_date": "2025-11-06T03:46:38.306776",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W2079589551",
       "doi": "https://doi.org/10.2118/131577-ms",
       "title": "Deep Tight Gas Zonal Isolation Solution with Novel Flexible and Expandable Cement Technology",
@@ -39013,8 +37977,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Industry, innovation and infrastructure",
-          "id": "https://metadata.un.org/sdg/9",
-          "score": 0.4099999964237213
+          "score": 0.4099999964237213,
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "awards": [],
@@ -41607,6 +40571,1042 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
+      "id": "https://openalex.org/W4393383880",
+      "doi": "https://doi.org/10.1049/tje2.12369",
+      "title": "Enhancing tunnel stability in the Himalayas: Empirical design support through numerical modelling",
+      "display_name": "Enhancing tunnel stability in the Himalayas: Empirical design support through numerical modelling",
+      "publication_year": 2024,
+      "publication_date": "2024-03-31",
+      "ids": {
+        "openalex": "https://openalex.org/W4393383880",
+        "doi": "https://doi.org/10.1049/tje2.12369"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1049/tje2.12369",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1049/tje2.12369",
+        "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1049/tje2.12369",
+        "source": {
+          "id": "https://openalex.org/S2764687066",
+          "display_name": "The Journal of Engineering",
+          "issn_l": "2051-3305",
+          "issn": [
+            "2051-3305"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310311714",
+          "host_organization_name": "Institution of Engineering and Technology",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310311714"
+          ],
+          "host_organization_lineage_names": [
+            "Institution of Engineering and Technology"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "The Journal of Engineering",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref",
+        "doaj"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1049/tje2.12369",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5037251511",
+            "display_name": "Naeem Abbas",
+            "orcid": "https://orcid.org/0000-0002-4495-8144"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I10660446",
+              "display_name": "Kunming University of Science and Technology",
+              "ror": "https://ror.org/00xyeez13",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I10660446"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I236232284",
+              "display_name": "Karakoram International University",
+              "ror": "https://ror.org/0324r4e56",
+              "country_code": "PK",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I236232284"
+              ]
+            }
+          ],
+          "countries": [
+            "CN",
+            "PK"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Naeem Abbas",
+          "raw_affiliation_strings": [
+            "Department of Mining Engineering Karakoram International University (KIU) Gilgit Pakistan",
+            "Faculty of Land Resource Engineering Kunming University of Science and Technology Kunming Yunnan China"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Mining Engineering Karakoram International University (KIU) Gilgit Pakistan",
+              "institution_ids": [
+                "https://openalex.org/I236232284"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Faculty of Land Resource Engineering Kunming University of Science and Technology Kunming Yunnan China",
+              "institution_ids": [
+                "https://openalex.org/I10660446"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5087924997",
+            "display_name": "Kegang Li",
+            "orcid": "https://orcid.org/0000-0002-6961-7258"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I10660446",
+              "display_name": "Kunming University of Science and Technology",
+              "ror": "https://ror.org/00xyeez13",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I10660446"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Kegang Li",
+          "raw_affiliation_strings": [
+            "Faculty of Land Resource Engineering Kunming University of Science and Technology Kunming Yunnan China"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Faculty of Land Resource Engineering Kunming University of Science and Technology Kunming Yunnan China",
+              "institution_ids": [
+                "https://openalex.org/I10660446"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5051772086",
+            "display_name": "Muhammad Zaka Emad",
+            "orcid": "https://orcid.org/0000-0001-8537-8026"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I142732210",
+              "display_name": "University of Engineering and Technology Lahore",
+              "ror": "https://ror.org/0051w2v06",
+              "country_code": "PK",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I142732210"
+              ]
+            }
+          ],
+          "countries": [
+            "PK"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Muhammad Zaka Emad",
+          "raw_affiliation_strings": [
+            "Department of Mining Engineering University of Engineering and Technology Lahore Pakistan"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Mining Engineering University of Engineering and Technology Lahore Pakistan",
+              "institution_ids": [
+                "https://openalex.org/I142732210"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5084696038",
+            "display_name": "Yewuhalashet Fissha",
+            "orcid": "https://orcid.org/0000-0002-8066-1065"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I78545622",
+              "display_name": "Aksum University",
+              "ror": "https://ror.org/003659f07",
+              "country_code": "ET",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I78545622"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I70999451",
+              "display_name": "Akita International University",
+              "ror": "https://ror.org/05qz4zw08",
+              "country_code": "JP",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I70999451"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I203765153",
+              "display_name": "Akita University",
+              "ror": "https://ror.org/03hv1ad10",
+              "country_code": "JP",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I203765153"
+              ]
+            }
+          ],
+          "countries": [
+            "ET",
+            "JP"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Yewuhalashet Fissha",
+          "raw_affiliation_strings": [
+            "Department of Geosciences, Geotechnology and Materials Engineering for Resources, Graduate School of International Resource Sciences Akita University Akita Japan",
+            "Department of Mining Engineering Aksum University Aksum Tigray Ethiopia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geosciences, Geotechnology and Materials Engineering for Resources, Graduate School of International Resource Sciences Akita University Akita Japan",
+              "institution_ids": [
+                "https://openalex.org/I203765153",
+                "https://openalex.org/I70999451"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Mining Engineering Aksum University Aksum Tigray Ethiopia",
+              "institution_ids": [
+                "https://openalex.org/I78545622"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5021896593",
+            "display_name": "Mujahid Ali",
+            "orcid": "https://orcid.org/0000-0003-4376-0459"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I119004910",
+              "display_name": "Silesian University of Technology",
+              "ror": "https://ror.org/02dyjk442",
+              "country_code": "PL",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I119004910"
+              ]
+            }
+          ],
+          "countries": [
+            "PL"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mujahid Ali",
+          "raw_affiliation_strings": [
+            "Department of Transport Systems, Traffic Engineering and Logistics, Faculty of Transport and Aviation Engineering Silesian University of Technology Katowice Poland"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Transport Systems, Traffic Engineering and Logistics, Faculty of Transport and Aviation Engineering Silesian University of Technology Katowice Poland",
+              "institution_ids": [
+                "https://openalex.org/I119004910"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5061536269",
+            "display_name": "Wade Ghribi",
+            "orcid": "https://orcid.org/0000-0002-1221-8010"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I82952536",
+              "display_name": "King Khalid University",
+              "ror": "https://ror.org/052kwzs30",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I82952536"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Wade Ghribi",
+          "raw_affiliation_strings": [
+            "Department of Computer Engineering, College of Computer Science King Khalid University Abha Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Computer Engineering, College of Computer Science King Khalid University Abha Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I82952536"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5046254337",
+            "display_name": "Yaser Gamil",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I11662577",
+              "display_name": "Monash University Malaysia",
+              "ror": "https://ror.org/00yncr324",
+              "country_code": "MY",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I11662577"
+              ]
+            }
+          ],
+          "countries": [
+            "MY"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Yaser Gamil",
+          "raw_affiliation_strings": [
+            "Department of Civil Engineering, School of Engineering Monash University Malaysia Jalan Lagoon Selatan, Bandar Sunway Selangor Malaysia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Civil Engineering, School of Engineering Monash University Malaysia Jalan Lagoon Selatan, Bandar Sunway Selangor Malaysia",
+              "institution_ids": [
+                "https://openalex.org/I11662577"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5051232593",
+            "display_name": "Hajime Ikeda",
+            "orcid": "https://orcid.org/0000-0002-0863-5583"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I70999451",
+              "display_name": "Akita International University",
+              "ror": "https://ror.org/05qz4zw08",
+              "country_code": "JP",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I70999451"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I203765153",
+              "display_name": "Akita University",
+              "ror": "https://ror.org/03hv1ad10",
+              "country_code": "JP",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I203765153"
+              ]
+            }
+          ],
+          "countries": [
+            "JP"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Hajime Ikeda",
+          "raw_affiliation_strings": [
+            "Department of Geosciences, Geotechnology and Materials Engineering for Resources, Graduate School of International Resource Sciences Akita University Akita Japan"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geosciences, Geotechnology and Materials Engineering for Resources, Graduate School of International Resource Sciences Akita University Akita Japan",
+              "institution_ids": [
+                "https://openalex.org/I203765153",
+                "https://openalex.org/I70999451"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 7,
+      "institutions_distinct_count": 8,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": {
+        "value": 1500,
+        "currency": "EUR",
+        "value_usd": 1650
+      },
+      "apc_paid": {
+        "value": 1500,
+        "currency": "EUR",
+        "value_usd": 1650
+      },
+      "fwci": 1.42894725,
+      "has_fulltext": true,
+      "cited_by_count": 2,
+      "citation_normalized_percentile": {
+        "value": 0.72103082,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 95,
+        "max": 96
+      },
+      "biblio": {
+        "volume": "2024",
+        "issue": "4",
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11046",
+        "display_name": "Geotechnical Engineering and Analysis",
+        "score": 0.9998999834060669,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2213",
+          "display_name": "Safety, Risk, Reliability and Quality"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11046",
+          "display_name": "Geotechnical Engineering and Analysis",
+          "score": 0.9998999834060669,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2213",
+            "display_name": "Safety, Risk, Reliability and Quality"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10161",
+          "display_name": "Rock Mechanics and Modeling",
+          "score": 0.9997000098228455,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12482",
+          "display_name": "Tunneling and Rock Mechanics",
+          "score": 0.9991000294685364,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2205",
+            "display_name": "Civil and Structural Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/stability",
+          "display_name": "Stability (learning theory)",
+          "score": 0.5978654026985168
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.3614739179611206
+        },
+        {
+          "id": "https://openalex.org/keywords/machine-learning",
+          "display_name": "Machine learning",
+          "score": 0.06796962022781372
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C112972136",
+          "wikidata": "https://www.wikidata.org/wiki/Q7595718",
+          "display_name": "Stability (learning theory)",
+          "level": 2,
+          "score": 0.5978654026985168
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.3614739179611206
+        },
+        {
+          "id": "https://openalex.org/C119857082",
+          "wikidata": "https://www.wikidata.org/wiki/Q2539",
+          "display_name": "Machine learning",
+          "level": 1,
+          "score": 0.06796962022781372
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1049/tje2.12369",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1049/tje2.12369",
+          "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1049/tje2.12369",
+          "source": {
+            "id": "https://openalex.org/S2764687066",
+            "display_name": "The Journal of Engineering",
+            "issn_l": "2051-3305",
+            "issn": [
+              "2051-3305"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310311714",
+            "host_organization_name": "Institution of Engineering and Technology",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310311714"
+            ],
+            "host_organization_lineage_names": [
+              "Institution of Engineering and Technology"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "The Journal of Engineering",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1049/tje2.12369",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1049/tje2.12369",
+        "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1049/tje2.12369",
+        "source": {
+          "id": "https://openalex.org/S2764687066",
+          "display_name": "The Journal of Engineering",
+          "issn_l": "2051-3305",
+          "issn": [
+            "2051-3305"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310311714",
+          "host_organization_name": "Institution of Engineering and Technology",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310311714"
+          ],
+          "host_organization_lineage_names": [
+            "Institution of Engineering and Technology"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "The Journal of Engineering",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": true
+      },
+      "referenced_works_count": 24,
+      "referenced_works": [
+        "https://openalex.org/W2152508407",
+        "https://openalex.org/W2509940486",
+        "https://openalex.org/W3014830541",
+        "https://openalex.org/W2041230212",
+        "https://openalex.org/W24812779",
+        "https://openalex.org/W1977168082",
+        "https://openalex.org/W2903086388",
+        "https://openalex.org/W4220994406",
+        "https://openalex.org/W4252180842",
+        "https://openalex.org/W4360977872",
+        "https://openalex.org/W2075218807",
+        "https://openalex.org/W1982833447",
+        "https://openalex.org/W2925060624",
+        "https://openalex.org/W1999565652",
+        "https://openalex.org/W2904325554",
+        "https://openalex.org/W3012304313",
+        "https://openalex.org/W2790068011",
+        "https://openalex.org/W2010057689",
+        "https://openalex.org/W4388297899",
+        "https://openalex.org/W2610842381",
+        "https://openalex.org/W2192079199",
+        "https://openalex.org/W2079305979",
+        "https://openalex.org/W1586019852",
+        "https://openalex.org/W2485738731"
+      ],
+      "related_works": [
+        "https://openalex.org/W2748952813",
+        "https://openalex.org/W2390279801",
+        "https://openalex.org/W2358668433",
+        "https://openalex.org/W2376932109",
+        "https://openalex.org/W2001405890",
+        "https://openalex.org/W2382290278",
+        "https://openalex.org/W2478288626",
+        "https://openalex.org/W4391913857",
+        "https://openalex.org/W2350741829",
+        "https://openalex.org/W2530322880"
+      ],
+      "abstract_inverted_index": {
+        "Abstract": [
+          0
+        ],
+        "This": [
+          1
+        ],
+        "study": [
+          2,
+          113
+        ],
+        "focuses": [
+          3
+        ],
+        "on": [
+          4,
+          34,
+          49
+        ],
+        "assessing": [
+          5
+        ],
+        "the": [
+          6,
+          40,
+          44,
+          50,
+          67,
+          74,
+          83,
+          87,
+          94,
+          101,
+          105,
+          112,
+          117,
+          122,
+          146
+        ],
+        "effectiveness": [
+          7
+        ],
+        "of": [
+          8,
+          76,
+          111,
+          132,
+          148
+        ],
+        "an": [
+          9
+        ],
+        "empirically": [
+          10
+        ],
+        "recommended": [
+          11,
+          45,
+          85
+        ],
+        "support": [
+          12,
+          46,
+          62,
+          84,
+          155
+        ],
+        "design": [
+          13,
+          47
+        ],
+        "through": [
+          14
+        ],
+        "numerical": [
+          15,
+          79
+        ],
+        "modelling.": [
+          16
+        ],
+        "Numerical": [
+          17,
+          30
+        ],
+        "techniques": [
+          18
+        ],
+        "are": [
+          19,
+          64
+        ],
+        "utilized": [
+          20
+        ],
+        "to": [
+          21,
+          107,
+          124,
+          157
+        ],
+        "accurately": [
+          22
+        ],
+        "evaluate": [
+          23
+        ],
+        "tunnel": [
+          24,
+          41,
+          102,
+          159
+        ],
+        "stability": [
+          25
+        ],
+        "under": [
+          26
+        ],
+        "various": [
+          27
+        ],
+        "geological": [
+          28
+        ],
+        "conditions.": [
+          29
+        ],
+        "analysis": [
+          31,
+          80
+        ],
+        "is": [
+          32
+        ],
+        "conducted": [
+          33
+        ],
+        "two": [
+          35
+        ],
+        "different": [
+          36
+        ],
+        "rock": [
+          37,
+          52,
+          109
+        ],
+        "types": [
+          38
+        ],
+        "along": [
+          39
+        ],
+        "route,": [
+          42
+        ],
+        "employing": [
+          43
+        ],
+        "based": [
+          48
+        ],
+        "existing": [
+          51,
+          88
+        ],
+        "mass": [
+          53,
+          110
+        ],
+        "rating": [
+          54
+        ],
+        "(": [
+          55
+        ],
+        "RMR": [
+          56,
+          69,
+          89,
+          123
+        ],
+        ")": [
+          57
+        ],
+        "and": [
+          58,
+          70,
+          97,
+          135,
+          152
+        ],
+        "Q": [
+          59,
+          71
+        ],
+        "‐system.": [
+          60
+        ],
+        "Furthermore,": [
+          61
+        ],
+        "recommendations": [
+          63
+        ],
+        "made": [
+          65
+        ],
+        "using": [
+          66
+        ],
+        "modified": [
+          68,
+          154
+        ],
+        "‐system,": [
+          72
+        ],
+        "considering": [
+          73,
+          149
+        ],
+        "impact": [
+          75,
+          93
+        ],
+        "stress.": [
+          77
+        ],
+        "The": [
+          78
+        ],
+        "indicates": [
+          81
+        ],
+        "that": [
+          82
+        ],
+        "by": [
+          86,
+          120
+        ],
+        "may": [
+          90
+        ],
+        "not": [
+          91
+        ],
+        "substantially": [
+          92
+        ],
+        "total": [
+          95,
+          133
+        ],
+        "displacement": [
+          96,
+          134
+        ],
+        "vertical": [
+          98,
+          136
+        ],
+        "stresses": [
+          99
+        ],
+        "around": [
+          100
+        ],
+        "crown": [
+          103
+        ],
+        "in": [
+          104,
+          129
+        ],
+        "“Fair”": [
+          106
+        ],
+        "“Poor”": [
+          108
+        ],
+        "area.": [
+          114
+        ],
+        "However,": [
+          115
+        ],
+        "extending": [
+          116
+        ],
+        "bolt": [
+          118
+        ],
+        "length": [
+          119
+        ],
+        "modifying": [
+          121
+        ],
+        "incorporate": [
+          125
+        ],
+        "stress": [
+          126,
+          150
+        ],
+        "effects": [
+          127,
+          151
+        ],
+        "results": [
+          128,
+          144
+        ],
+        "a": [
+          130,
+          140
+        ],
+        "reduction": [
+          131
+        ],
+        "stresses,": [
+          137
+        ],
+        "ultimately": [
+          138
+        ],
+        "achieving": [
+          139
+        ],
+        "stable": [
+          141
+        ],
+        "level.": [
+          142
+        ],
+        "These": [
+          143
+        ],
+        "underline": [
+          145
+        ],
+        "importance": [
+          147
+        ],
+        "utilizing": [
+          153
+        ],
+        "designs": [
+          156
+        ],
+        "enhance": [
+          158
+        ],
+        "stability.": [
+          160
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2025-12-26T23:08:49.675405",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W4400227500",
       "doi": "https://doi.org/10.1134/s1062739124010095",
       "title": "Prediction of Rock Fragmentation in Bench Blasting Operations Based on Multi Parameters—A Case Study",
@@ -42024,8 +42024,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5
+          "score": 0.5,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -44914,8 +44914,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12",
-          "score": 0.6000000238418579
+          "score": 0.6000000238418579,
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "awards": [],
@@ -47249,7 +47249,7 @@
       "has_fulltext": true,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.51988271,
+        "value": 0.51953808,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -48727,8 +48727,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11",
-          "score": 0.5299999713897705
+          "score": 0.5299999713897705,
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [],
@@ -49265,8 +49265,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.46000000834465027
+          "score": 0.46000000834465027,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -53229,8 +53229,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Industry, innovation and infrastructure",
-          "id": "https://metadata.un.org/sdg/9",
-          "score": 0.4699999988079071
+          "score": 0.4699999988079071,
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "awards": [],
@@ -54146,8 +54146,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11",
-          "score": 0.7099999785423279
+          "score": 0.7099999785423279,
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [],
@@ -55730,7 +55730,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.14272863,
+        "value": 0.14264378,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -57168,8 +57168,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11",
-          "score": 0.6299999952316284
+          "score": 0.6299999952316284,
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [],
@@ -59407,7 +59407,7 @@
       "primary_location": {
         "id": "doi:10.56952/arma-2024-0864",
         "is_oa": false,
-        "landing_page_url": "http://doi.org/10.56952/arma-2024-0864",
+        "landing_page_url": "http://dx.doi.org/10.56952/arma-2024-0864",
         "pdf_url": null,
         "source": null,
         "license": null,
@@ -59585,7 +59585,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.17657416,
+        "value": 0.1722283,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -59727,7 +59727,7 @@
         {
           "id": "doi:10.56952/arma-2024-0864",
           "is_oa": false,
-          "landing_page_url": "http://doi.org/10.56952/arma-2024-0864",
+          "landing_page_url": "http://dx.doi.org/10.56952/arma-2024-0864",
           "pdf_url": null,
           "source": null,
           "license": null,
@@ -59743,8 +59743,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Industry, innovation and infrastructure",
-          "id": "https://metadata.un.org/sdg/9",
-          "score": 0.47999998927116394
+          "score": 0.47999998927116394,
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "awards": [],
@@ -60495,7 +60495,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2025-12-26T23:08:49.675405",
       "created_date": "2025-10-10T00:00:00"
     },
     {

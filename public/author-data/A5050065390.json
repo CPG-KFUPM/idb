@@ -869,8 +869,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 116,
       "referenced_works": [
@@ -2132,8 +2132,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 53,
       "referenced_works": [
@@ -3348,16 +3348,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.8700000047683716,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.8700000047683716
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 18,
       "referenced_works": [
@@ -4413,16 +4413,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.4699999988079071,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.4699999988079071
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 26,
       "referenced_works": [
@@ -6150,8 +6150,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 19,
       "referenced_works": [
@@ -7192,16 +7192,16 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land",
-          "score": 0.6299999952316284,
-          "id": "https://metadata.un.org/sdg/15"
+          "score": 0.6299999952316284
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "referenced_works_count": 52,
       "referenced_works": [
@@ -8328,16 +8328,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.8299999833106995,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.8299999833106995
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 117,
       "referenced_works": [
@@ -9131,8 +9131,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "referenced_works_count": 52,
       "referenced_works": [
@@ -10284,16 +10284,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.5600000023841858,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.5600000023841858
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 7,
       "referenced_works": [
@@ -11829,9 +11829,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.5199999809265137,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.5199999809265137
         }
       ],
       "awards": [],
@@ -11843,8 +11843,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 19,
       "referenced_works": [
@@ -12966,8 +12966,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 61,
       "referenced_works": [
@@ -14089,8 +14089,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 36,
       "referenced_works": [
@@ -14708,948 +14708,6 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W4389618777",
-      "doi": "https://doi.org/10.1007/s13202-023-01724-0",
-      "title": "Prediction of proppant distribution as a function of perforation orientations",
-      "display_name": "Prediction of proppant distribution as a function of perforation orientations",
-      "publication_year": 2023,
-      "publication_date": "2023-12-12",
-      "ids": {
-        "openalex": "https://openalex.org/W4389618777",
-        "doi": "https://doi.org/10.1007/s13202-023-01724-0"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1007/s13202-023-01724-0",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1007/s13202-023-01724-0",
-        "pdf_url": "https://link.springer.com/content/pdf/10.1007/s13202-023-01724-0.pdf",
-        "source": {
-          "id": "https://openalex.org/S2764546325",
-          "display_name": "Journal of Petroleum Exploration and Production Technology",
-          "issn_l": "2190-0558",
-          "issn": [
-            "2190-0558",
-            "2190-0566"
-          ],
-          "is_oa": true,
-          "is_in_doaj": true,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310319965",
-          "host_organization_name": "Springer Nature",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310319965"
-          ],
-          "host_organization_lineage_names": [
-            "Springer Nature"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Journal of Petroleum Exploration and Production Technology",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref",
-        "doaj"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "gold",
-        "oa_url": "https://link.springer.com/content/pdf/10.1007/s13202-023-01724-0.pdf",
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5050065390",
-            "display_name": "Shabeeb Alajmei",
-            "orcid": "https://orcid.org/0000-0002-5816-4214"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Shabeeb Alajmei",
-          "raw_affiliation_strings": [
-            "Department of Petroleum Engineering, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Petroleum Engineering, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5050065390"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I134085113"
-      ],
-      "apc_list": {
-        "value": 1570,
-        "currency": "EUR",
-        "value_usd": 1930
-      },
-      "apc_paid": {
-        "value": 1570,
-        "currency": "EUR",
-        "value_usd": 1930
-      },
-      "fwci": 0.36902224,
-      "has_fulltext": true,
-      "cited_by_count": 2,
-      "citation_normalized_percentile": {
-        "value": 0.56152099,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 95,
-        "max": 97
-      },
-      "biblio": {
-        "volume": "14",
-        "issue": "2",
-        "first_page": "609",
-        "last_page": "621"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10635",
-        "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-        "score": 0.9998999834060669,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2210",
-          "display_name": "Mechanical Engineering"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10635",
-          "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-          "score": 0.9998999834060669,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2210",
-            "display_name": "Mechanical Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10892",
-          "display_name": "Drilling and Well Engineering",
-          "score": 0.9995999932289124,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2212",
-            "display_name": "Ocean Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13050",
-          "display_name": "Oil and Gas Production Techniques",
-          "score": 0.9993000030517578,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2212",
-            "display_name": "Ocean Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/perforation",
-          "display_name": "Perforation",
-          "score": 0.8381627798080444
-        },
-        {
-          "id": "https://openalex.org/keywords/hydraulic-fracturing",
-          "display_name": "Hydraulic fracturing",
-          "score": 0.6350014209747314
-        },
-        {
-          "id": "https://openalex.org/keywords/petroleum-engineering",
-          "display_name": "Petroleum engineering",
-          "score": 0.5455240607261658
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.5028499960899353
-        },
-        {
-          "id": "https://openalex.org/keywords/correlation",
-          "display_name": "Correlation",
-          "score": 0.48885053396224976
-        },
-        {
-          "id": "https://openalex.org/keywords/distribution",
-          "display_name": "Distribution (mathematics)",
-          "score": 0.48304373025894165
-        },
-        {
-          "id": "https://openalex.org/keywords/geotechnical-engineering",
-          "display_name": "Geotechnical engineering",
-          "score": 0.3327130079269409
-        },
-        {
-          "id": "https://openalex.org/keywords/materials-science",
-          "display_name": "Materials science",
-          "score": 0.3306925892829895
-        },
-        {
-          "id": "https://openalex.org/keywords/mathematics",
-          "display_name": "Mathematics",
-          "score": 0.26637500524520874
-        },
-        {
-          "id": "https://openalex.org/keywords/engineering",
-          "display_name": "Engineering",
-          "score": 0.25266164541244507
-        },
-        {
-          "id": "https://openalex.org/keywords/geometry",
-          "display_name": "Geometry",
-          "score": 0.14014706015586853
-        },
-        {
-          "id": "https://openalex.org/keywords/mechanical-engineering",
-          "display_name": "Mechanical engineering",
-          "score": 0.13015437126159668
-        },
-        {
-          "id": "https://openalex.org/keywords/mathematical-analysis",
-          "display_name": "Mathematical analysis",
-          "score": 0.07284927368164062
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C2778456384",
-          "wikidata": "https://www.wikidata.org/wiki/Q1508510",
-          "display_name": "Perforation",
-          "level": 3,
-          "score": 0.8381627798080444
-        },
-        {
-          "id": "https://openalex.org/C2779096232",
-          "wikidata": "https://www.wikidata.org/wiki/Q890794",
-          "display_name": "Hydraulic fracturing",
-          "level": 2,
-          "score": 0.6350014209747314
-        },
-        {
-          "id": "https://openalex.org/C78762247",
-          "wikidata": "https://www.wikidata.org/wiki/Q1273174",
-          "display_name": "Petroleum engineering",
-          "level": 1,
-          "score": 0.5455240607261658
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.5028499960899353
-        },
-        {
-          "id": "https://openalex.org/C117220453",
-          "wikidata": "https://www.wikidata.org/wiki/Q5172842",
-          "display_name": "Correlation",
-          "level": 2,
-          "score": 0.48885053396224976
-        },
-        {
-          "id": "https://openalex.org/C110121322",
-          "wikidata": "https://www.wikidata.org/wiki/Q865811",
-          "display_name": "Distribution (mathematics)",
-          "level": 2,
-          "score": 0.48304373025894165
-        },
-        {
-          "id": "https://openalex.org/C187320778",
-          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
-          "display_name": "Geotechnical engineering",
-          "level": 1,
-          "score": 0.3327130079269409
-        },
-        {
-          "id": "https://openalex.org/C192562407",
-          "wikidata": "https://www.wikidata.org/wiki/Q228736",
-          "display_name": "Materials science",
-          "level": 0,
-          "score": 0.3306925892829895
-        },
-        {
-          "id": "https://openalex.org/C33923547",
-          "wikidata": "https://www.wikidata.org/wiki/Q395",
-          "display_name": "Mathematics",
-          "level": 0,
-          "score": 0.26637500524520874
-        },
-        {
-          "id": "https://openalex.org/C127413603",
-          "wikidata": "https://www.wikidata.org/wiki/Q11023",
-          "display_name": "Engineering",
-          "level": 0,
-          "score": 0.25266164541244507
-        },
-        {
-          "id": "https://openalex.org/C2524010",
-          "wikidata": "https://www.wikidata.org/wiki/Q8087",
-          "display_name": "Geometry",
-          "level": 1,
-          "score": 0.14014706015586853
-        },
-        {
-          "id": "https://openalex.org/C78519656",
-          "wikidata": "https://www.wikidata.org/wiki/Q101333",
-          "display_name": "Mechanical engineering",
-          "level": 1,
-          "score": 0.13015437126159668
-        },
-        {
-          "id": "https://openalex.org/C134306372",
-          "wikidata": "https://www.wikidata.org/wiki/Q7754",
-          "display_name": "Mathematical analysis",
-          "level": 1,
-          "score": 0.07284927368164062
-        },
-        {
-          "id": "https://openalex.org/C2778527123",
-          "wikidata": "https://www.wikidata.org/wiki/Q11750728",
-          "display_name": "Punching",
-          "level": 2,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 2,
-      "locations": [
-        {
-          "id": "doi:10.1007/s13202-023-01724-0",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.1007/s13202-023-01724-0",
-          "pdf_url": "https://link.springer.com/content/pdf/10.1007/s13202-023-01724-0.pdf",
-          "source": {
-            "id": "https://openalex.org/S2764546325",
-            "display_name": "Journal of Petroleum Exploration and Production Technology",
-            "issn_l": "2190-0558",
-            "issn": [
-              "2190-0558",
-              "2190-0566"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310319965",
-            "host_organization_name": "Springer Nature",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310319965"
-            ],
-            "host_organization_lineage_names": [
-              "Springer Nature"
-            ],
-            "type": "journal"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Journal of Petroleum Exploration and Production Technology",
-          "raw_type": "journal-article"
-        },
-        {
-          "id": "pmh:oai:doaj.org/article:968ab194bf854eeca4c86feb2685b07a",
-          "is_oa": false,
-          "landing_page_url": "https://doaj.org/article/968ab194bf854eeca4c86feb2685b07a",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306401280",
-            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Journal of Petroleum Exploration and Production Technology, Vol 14, Iss 2, Pp 609-621 (2023)",
-          "raw_type": "article"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.1007/s13202-023-01724-0",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1007/s13202-023-01724-0",
-        "pdf_url": "https://link.springer.com/content/pdf/10.1007/s13202-023-01724-0.pdf",
-        "source": {
-          "id": "https://openalex.org/S2764546325",
-          "display_name": "Journal of Petroleum Exploration and Production Technology",
-          "issn_l": "2190-0558",
-          "issn": [
-            "2190-0558",
-            "2190-0566"
-          ],
-          "is_oa": true,
-          "is_in_doaj": true,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310319965",
-          "host_organization_name": "Springer Nature",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310319965"
-          ],
-          "host_organization_lineage_names": [
-            "Springer Nature"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Journal of Petroleum Exploration and Production Technology",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": true,
-        "grobid_xml": true
-      },
-      "referenced_works_count": 23,
-      "referenced_works": [
-        "https://openalex.org/W2914703976",
-        "https://openalex.org/W4376956820",
-        "https://openalex.org/W4281623444",
-        "https://openalex.org/W3111990155",
-        "https://openalex.org/W3166584254",
-        "https://openalex.org/W2766911874",
-        "https://openalex.org/W3171050534",
-        "https://openalex.org/W2062730011",
-        "https://openalex.org/W1976934651",
-        "https://openalex.org/W2021786390",
-        "https://openalex.org/W2560225917",
-        "https://openalex.org/W2013706127",
-        "https://openalex.org/W2038985202",
-        "https://openalex.org/W2002321052",
-        "https://openalex.org/W2569223244",
-        "https://openalex.org/W1997669404",
-        "https://openalex.org/W3163832215",
-        "https://openalex.org/W4297916474",
-        "https://openalex.org/W2346421247",
-        "https://openalex.org/W2020736110",
-        "https://openalex.org/W2922956605",
-        "https://openalex.org/W2254014085",
-        "https://openalex.org/W2202904717"
-      ],
-      "related_works": [
-        "https://openalex.org/W2980694549",
-        "https://openalex.org/W2785376915",
-        "https://openalex.org/W2096720932",
-        "https://openalex.org/W4389934377",
-        "https://openalex.org/W2900912765",
-        "https://openalex.org/W2901629677",
-        "https://openalex.org/W2359388994",
-        "https://openalex.org/W2364013350",
-        "https://openalex.org/W1932970760",
-        "https://openalex.org/W2912972024"
-      ],
-      "abstract_inverted_index": {
-        "Abstract": [
-          0
-        ],
-        "In": [
-          1,
-          91
-        ],
-        "treatments": [
-          2
-        ],
-        "that": [
-          3,
-          17,
-          36,
-          153
-        ],
-        "involve": [
-          4
-        ],
-        "multiple": [
-          5,
-          141
-        ],
-        "stages": [
-          6
-        ],
-        "and": [
-          7,
-          87,
-          111
-        ],
-        "clusters,": [
-          8,
-          51
-        ],
-        "one": [
-          9
-        ],
-        "of": [
-          10,
-          125,
-          138
-        ],
-        "the": [
-          11,
-          18,
-          31,
-          46,
-          60,
-          71,
-          76,
-          104,
-          117,
-          136,
-          165,
-          181
-        ],
-        "most": [
-          12
-        ],
-        "important": [
-          13
-        ],
-        "challenges": [
-          14
-        ],
-        "is": [
-          15,
-          20,
-          27,
-          99,
-          177
-        ],
-        "ensuring": [
-          16
-        ],
-        "proppant": [
-          19,
-          32,
-          47,
-          105,
-          118,
-          156,
-          166,
-          175,
-          182
-        ],
-        "evenly": [
-          21,
-          168
-        ],
-        "distributed": [
-          22
-        ],
-        "across": [
-          23,
-          140,
-          169
-        ],
-        "all": [
-          24,
-          37
-        ],
-        "clusters.": [
-          25,
-          171
-        ],
-        "It": [
-          26
-        ],
-        "crucial": [
-          28
-        ],
-        "to": [
-          29,
-          34,
-          42,
-          74,
-          101,
-          134,
-          163
-        ],
-        "distribute": [
-          30
-        ],
-        "equally": [
-          33
-        ],
-        "ensure": [
-          35
-        ],
-        "perforation": [
-          38,
-          50,
-          109,
-          170
-        ],
-        "clusters": [
-          39,
-          142
-        ],
-        "are": [
-          40
-        ],
-        "contributing": [
-          41
-        ],
-        "production.": [
-          43
-        ],
-        "To": [
-          44
-        ],
-        "forecast": [
-          45,
-          103
-        ],
-        "distribution": [
-          48,
-          106,
-          119,
-          137,
-          176
-        ],
-        "between": [
-          49
-        ],
-        "an": [
-          52,
-          94
-        ],
-        "experimental": [
-          53,
-          97
-        ],
-        "correlation": [
-          54,
-          98,
-          114,
-          130,
-          151
-        ],
-        "was": [
-          55,
-          68
-        ],
-        "established": [
-          56
-        ],
-        "using": [
-          57,
-          70,
-          107
-        ],
-        "data": [
-          58
-        ],
-        "from": [
-          59,
-          79
-        ],
-        "literature": [
-          61
-        ],
-        "on": [
-          62
-        ],
-        "horizontal": [
-          63
-        ],
-        "wellbores.": [
-          64
-        ],
-        "A": [
-          65
-        ],
-        "dimensional": [
-          66
-        ],
-        "analysis": [
-          67
-        ],
-        "performed": [
-          69
-        ],
-        "Buckingham": [
-          72
-        ],
-        "Pi-theorem": [
-          73
-        ],
-        "develop": [
-          75
-        ],
-        "correlation.": [
-          77
-        ],
-        "Data": [
-          78
-        ],
-        "different": [
-          80
-        ],
-        "independent": [
-          81
-        ],
-        "variables,": [
-          82
-        ],
-        "such": [
-          83
-        ],
-        "as": [
-          84
-        ],
-        "completion": [
-          85
-        ],
-        "designs": [
-          86
-        ],
-        "orientations,": [
-          88
-        ],
-        "were": [
-          89
-        ],
-        "incorporated.": [
-          90
-        ],
-        "this": [
-          92
-        ],
-        "study,": [
-          93
-        ],
-        "improved": [
-          95
-        ],
-        "novel": [
-          96
-        ],
-        "proposed": [
-          100
-        ],
-        "accurately": [
-          102
-        ],
-        "various": [
-          108
-        ],
-        "configurations": [
-          110
-        ],
-        "orientations.": [
-          112
-        ],
-        "The": [
-          113,
-          149
-        ],
-        "can": [
-          115
-        ],
-        "predict": [
-          116,
-          135
-        ],
-        "with": [
-          120
-        ],
-        "a": [
-          121,
-          144,
-          158,
-          173
-        ],
-        "low": [
-          122
-        ],
-        "percentage": [
-          123
-        ],
-        "difference": [
-          124
-        ],
-        "less": [
-          126
-        ],
-        "than": [
-          127
-        ],
-        "20%.": [
-          128
-        ],
-        "This": [
-          129
-        ],
-        "may": [
-          131,
-          161
-        ],
-        "be": [
-          132
-        ],
-        "upscaled": [
-          133
-        ],
-        "proppants": [
-          139
-        ],
-        "in": [
-          143
-        ],
-        "single-stage": [
-          145
-        ],
-        "hydraulic": [
-          146
-        ],
-        "fracturing": [
-          147
-        ],
-        "stimulation.": [
-          148
-        ],
-        "developed": [
-          150
-        ],
-        "illustrates": [
-          152
-        ],
-        "injecting": [
-          154
-        ],
-        "more": [
-          155,
-          167
-        ],
-        "at": [
-          157
-        ],
-        "higher": [
-          159
-        ],
-        "rate": [
-          160
-        ],
-        "help": [
-          162
-        ],
-        "allocate": [
-          164
-        ],
-        "However,": [
-          172
-        ],
-        "nonuniform": [
-          174
-        ],
-        "obtained": [
-          178
-        ],
-        "by": [
-          179
-        ],
-        "increasing": [
-          180
-        ],
-        "median": [
-          183
-        ],
-        "diameter.": [
-          184
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2025,
-          "cited_by_count": 2
-        }
-      ],
-      "updated_date": "2025-11-06T03:46:38.306776",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W4401934105",
       "doi": "https://doi.org/10.1021/acs.energyfuels.4c02809",
       "title": "Evaluating CO<sub>2</sub> Residuals in Water Aquifers and Depleted Oil Reservoirs via X-ray Core-Flooding Experiments",
@@ -16242,9 +15300,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.7099999785423279,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.7099999785423279
         }
       ],
       "awards": [],
@@ -16256,8 +15314,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 54,
       "referenced_works": [
@@ -17527,16 +16585,16 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.550000011920929,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.550000011920929
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "referenced_works_count": 37,
       "referenced_works": [
@@ -18188,6 +17246,948 @@
         }
       ],
       "updated_date": "2025-11-06T03:46:38.306776",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4389618777",
+      "doi": "https://doi.org/10.1007/s13202-023-01724-0",
+      "title": "Prediction of proppant distribution as a function of perforation orientations",
+      "display_name": "Prediction of proppant distribution as a function of perforation orientations",
+      "publication_year": 2023,
+      "publication_date": "2023-12-12",
+      "ids": {
+        "openalex": "https://openalex.org/W4389618777",
+        "doi": "https://doi.org/10.1007/s13202-023-01724-0"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1007/s13202-023-01724-0",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1007/s13202-023-01724-0",
+        "pdf_url": "https://link.springer.com/content/pdf/10.1007/s13202-023-01724-0.pdf",
+        "source": {
+          "id": "https://openalex.org/S2764546325",
+          "display_name": "Journal of Petroleum Exploration and Production Technology",
+          "issn_l": "2190-0558",
+          "issn": [
+            "2190-0558",
+            "2190-0566"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319965",
+          "host_organization_name": "Springer Nature",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Petroleum Exploration and Production Technology",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref",
+        "doaj"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s13202-023-01724-0.pdf",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5050065390",
+            "display_name": "Shabeeb Alajmei",
+            "orcid": "https://orcid.org/0000-0002-5816-4214"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Shabeeb Alajmei",
+          "raw_affiliation_strings": [
+            "Department of Petroleum Engineering, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Petroleum Engineering, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5050065390"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I134085113"
+      ],
+      "apc_list": {
+        "value": 1570,
+        "currency": "EUR",
+        "value_usd": 1930
+      },
+      "apc_paid": {
+        "value": 1570,
+        "currency": "EUR",
+        "value_usd": 1930
+      },
+      "fwci": 0.36902224,
+      "has_fulltext": true,
+      "cited_by_count": 2,
+      "citation_normalized_percentile": {
+        "value": 0.55874541,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 95,
+        "max": 96
+      },
+      "biblio": {
+        "volume": "14",
+        "issue": "2",
+        "first_page": "609",
+        "last_page": "621"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10635",
+        "display_name": "Hydraulic Fracturing and Reservoir Analysis",
+        "score": 0.9998999834060669,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2210",
+          "display_name": "Mechanical Engineering"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10635",
+          "display_name": "Hydraulic Fracturing and Reservoir Analysis",
+          "score": 0.9998999834060669,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2210",
+            "display_name": "Mechanical Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10892",
+          "display_name": "Drilling and Well Engineering",
+          "score": 0.9995999932289124,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2212",
+            "display_name": "Ocean Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13050",
+          "display_name": "Oil and Gas Production Techniques",
+          "score": 0.9993000030517578,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2212",
+            "display_name": "Ocean Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/perforation",
+          "display_name": "Perforation",
+          "score": 0.8381627798080444
+        },
+        {
+          "id": "https://openalex.org/keywords/hydraulic-fracturing",
+          "display_name": "Hydraulic fracturing",
+          "score": 0.6350014209747314
+        },
+        {
+          "id": "https://openalex.org/keywords/petroleum-engineering",
+          "display_name": "Petroleum engineering",
+          "score": 0.5455240607261658
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.5028499960899353
+        },
+        {
+          "id": "https://openalex.org/keywords/correlation",
+          "display_name": "Correlation",
+          "score": 0.48885053396224976
+        },
+        {
+          "id": "https://openalex.org/keywords/distribution",
+          "display_name": "Distribution (mathematics)",
+          "score": 0.48304373025894165
+        },
+        {
+          "id": "https://openalex.org/keywords/geotechnical-engineering",
+          "display_name": "Geotechnical engineering",
+          "score": 0.3327130079269409
+        },
+        {
+          "id": "https://openalex.org/keywords/materials-science",
+          "display_name": "Materials science",
+          "score": 0.3306925892829895
+        },
+        {
+          "id": "https://openalex.org/keywords/mathematics",
+          "display_name": "Mathematics",
+          "score": 0.26637500524520874
+        },
+        {
+          "id": "https://openalex.org/keywords/engineering",
+          "display_name": "Engineering",
+          "score": 0.25266164541244507
+        },
+        {
+          "id": "https://openalex.org/keywords/geometry",
+          "display_name": "Geometry",
+          "score": 0.14014706015586853
+        },
+        {
+          "id": "https://openalex.org/keywords/mechanical-engineering",
+          "display_name": "Mechanical engineering",
+          "score": 0.13015437126159668
+        },
+        {
+          "id": "https://openalex.org/keywords/mathematical-analysis",
+          "display_name": "Mathematical analysis",
+          "score": 0.07284927368164062
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2778456384",
+          "wikidata": "https://www.wikidata.org/wiki/Q1508510",
+          "display_name": "Perforation",
+          "level": 3,
+          "score": 0.8381627798080444
+        },
+        {
+          "id": "https://openalex.org/C2779096232",
+          "wikidata": "https://www.wikidata.org/wiki/Q890794",
+          "display_name": "Hydraulic fracturing",
+          "level": 2,
+          "score": 0.6350014209747314
+        },
+        {
+          "id": "https://openalex.org/C78762247",
+          "wikidata": "https://www.wikidata.org/wiki/Q1273174",
+          "display_name": "Petroleum engineering",
+          "level": 1,
+          "score": 0.5455240607261658
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.5028499960899353
+        },
+        {
+          "id": "https://openalex.org/C117220453",
+          "wikidata": "https://www.wikidata.org/wiki/Q5172842",
+          "display_name": "Correlation",
+          "level": 2,
+          "score": 0.48885053396224976
+        },
+        {
+          "id": "https://openalex.org/C110121322",
+          "wikidata": "https://www.wikidata.org/wiki/Q865811",
+          "display_name": "Distribution (mathematics)",
+          "level": 2,
+          "score": 0.48304373025894165
+        },
+        {
+          "id": "https://openalex.org/C187320778",
+          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
+          "display_name": "Geotechnical engineering",
+          "level": 1,
+          "score": 0.3327130079269409
+        },
+        {
+          "id": "https://openalex.org/C192562407",
+          "wikidata": "https://www.wikidata.org/wiki/Q228736",
+          "display_name": "Materials science",
+          "level": 0,
+          "score": 0.3306925892829895
+        },
+        {
+          "id": "https://openalex.org/C33923547",
+          "wikidata": "https://www.wikidata.org/wiki/Q395",
+          "display_name": "Mathematics",
+          "level": 0,
+          "score": 0.26637500524520874
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0.25266164541244507
+        },
+        {
+          "id": "https://openalex.org/C2524010",
+          "wikidata": "https://www.wikidata.org/wiki/Q8087",
+          "display_name": "Geometry",
+          "level": 1,
+          "score": 0.14014706015586853
+        },
+        {
+          "id": "https://openalex.org/C78519656",
+          "wikidata": "https://www.wikidata.org/wiki/Q101333",
+          "display_name": "Mechanical engineering",
+          "level": 1,
+          "score": 0.13015437126159668
+        },
+        {
+          "id": "https://openalex.org/C134306372",
+          "wikidata": "https://www.wikidata.org/wiki/Q7754",
+          "display_name": "Mathematical analysis",
+          "level": 1,
+          "score": 0.07284927368164062
+        },
+        {
+          "id": "https://openalex.org/C2778527123",
+          "wikidata": "https://www.wikidata.org/wiki/Q11750728",
+          "display_name": "Punching",
+          "level": 2,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "doi:10.1007/s13202-023-01724-0",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1007/s13202-023-01724-0",
+          "pdf_url": "https://link.springer.com/content/pdf/10.1007/s13202-023-01724-0.pdf",
+          "source": {
+            "id": "https://openalex.org/S2764546325",
+            "display_name": "Journal of Petroleum Exploration and Production Technology",
+            "issn_l": "2190-0558",
+            "issn": [
+              "2190-0558",
+              "2190-0566"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310319965",
+            "host_organization_name": "Springer Nature",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319965"
+            ],
+            "host_organization_lineage_names": [
+              "Springer Nature"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Journal of Petroleum Exploration and Production Technology",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:doaj.org/article:968ab194bf854eeca4c86feb2685b07a",
+          "is_oa": false,
+          "landing_page_url": "https://doaj.org/article/968ab194bf854eeca4c86feb2685b07a",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Journal of Petroleum Exploration and Production Technology, Vol 14, Iss 2, Pp 609-621 (2023)",
+          "raw_type": "article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1007/s13202-023-01724-0",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1007/s13202-023-01724-0",
+        "pdf_url": "https://link.springer.com/content/pdf/10.1007/s13202-023-01724-0.pdf",
+        "source": {
+          "id": "https://openalex.org/S2764546325",
+          "display_name": "Journal of Petroleum Exploration and Production Technology",
+          "issn_l": "2190-0558",
+          "issn": [
+            "2190-0558",
+            "2190-0566"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319965",
+          "host_organization_name": "Springer Nature",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Petroleum Exploration and Production Technology",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": true
+      },
+      "referenced_works_count": 23,
+      "referenced_works": [
+        "https://openalex.org/W2914703976",
+        "https://openalex.org/W4376956820",
+        "https://openalex.org/W4281623444",
+        "https://openalex.org/W3111990155",
+        "https://openalex.org/W3166584254",
+        "https://openalex.org/W2766911874",
+        "https://openalex.org/W3171050534",
+        "https://openalex.org/W2062730011",
+        "https://openalex.org/W1976934651",
+        "https://openalex.org/W2021786390",
+        "https://openalex.org/W2560225917",
+        "https://openalex.org/W2013706127",
+        "https://openalex.org/W2038985202",
+        "https://openalex.org/W2002321052",
+        "https://openalex.org/W2569223244",
+        "https://openalex.org/W1997669404",
+        "https://openalex.org/W3163832215",
+        "https://openalex.org/W4297916474",
+        "https://openalex.org/W2346421247",
+        "https://openalex.org/W2020736110",
+        "https://openalex.org/W2922956605",
+        "https://openalex.org/W2254014085",
+        "https://openalex.org/W2202904717"
+      ],
+      "related_works": [
+        "https://openalex.org/W2980694549",
+        "https://openalex.org/W2785376915",
+        "https://openalex.org/W2096720932",
+        "https://openalex.org/W4389934377",
+        "https://openalex.org/W2900912765",
+        "https://openalex.org/W2901629677",
+        "https://openalex.org/W2359388994",
+        "https://openalex.org/W2364013350",
+        "https://openalex.org/W1932970760",
+        "https://openalex.org/W2912972024"
+      ],
+      "abstract_inverted_index": {
+        "Abstract": [
+          0
+        ],
+        "In": [
+          1,
+          91
+        ],
+        "treatments": [
+          2
+        ],
+        "that": [
+          3,
+          17,
+          36,
+          153
+        ],
+        "involve": [
+          4
+        ],
+        "multiple": [
+          5,
+          141
+        ],
+        "stages": [
+          6
+        ],
+        "and": [
+          7,
+          87,
+          111
+        ],
+        "clusters,": [
+          8,
+          51
+        ],
+        "one": [
+          9
+        ],
+        "of": [
+          10,
+          125,
+          138
+        ],
+        "the": [
+          11,
+          18,
+          31,
+          46,
+          60,
+          71,
+          76,
+          104,
+          117,
+          136,
+          165,
+          181
+        ],
+        "most": [
+          12
+        ],
+        "important": [
+          13
+        ],
+        "challenges": [
+          14
+        ],
+        "is": [
+          15,
+          20,
+          27,
+          99,
+          177
+        ],
+        "ensuring": [
+          16
+        ],
+        "proppant": [
+          19,
+          32,
+          47,
+          105,
+          118,
+          156,
+          166,
+          175,
+          182
+        ],
+        "evenly": [
+          21,
+          168
+        ],
+        "distributed": [
+          22
+        ],
+        "across": [
+          23,
+          140,
+          169
+        ],
+        "all": [
+          24,
+          37
+        ],
+        "clusters.": [
+          25,
+          171
+        ],
+        "It": [
+          26
+        ],
+        "crucial": [
+          28
+        ],
+        "to": [
+          29,
+          34,
+          42,
+          74,
+          101,
+          134,
+          163
+        ],
+        "distribute": [
+          30
+        ],
+        "equally": [
+          33
+        ],
+        "ensure": [
+          35
+        ],
+        "perforation": [
+          38,
+          50,
+          109,
+          170
+        ],
+        "clusters": [
+          39,
+          142
+        ],
+        "are": [
+          40
+        ],
+        "contributing": [
+          41
+        ],
+        "production.": [
+          43
+        ],
+        "To": [
+          44
+        ],
+        "forecast": [
+          45,
+          103
+        ],
+        "distribution": [
+          48,
+          106,
+          119,
+          137,
+          176
+        ],
+        "between": [
+          49
+        ],
+        "an": [
+          52,
+          94
+        ],
+        "experimental": [
+          53,
+          97
+        ],
+        "correlation": [
+          54,
+          98,
+          114,
+          130,
+          151
+        ],
+        "was": [
+          55,
+          68
+        ],
+        "established": [
+          56
+        ],
+        "using": [
+          57,
+          70,
+          107
+        ],
+        "data": [
+          58
+        ],
+        "from": [
+          59,
+          79
+        ],
+        "literature": [
+          61
+        ],
+        "on": [
+          62
+        ],
+        "horizontal": [
+          63
+        ],
+        "wellbores.": [
+          64
+        ],
+        "A": [
+          65
+        ],
+        "dimensional": [
+          66
+        ],
+        "analysis": [
+          67
+        ],
+        "performed": [
+          69
+        ],
+        "Buckingham": [
+          72
+        ],
+        "Pi-theorem": [
+          73
+        ],
+        "develop": [
+          75
+        ],
+        "correlation.": [
+          77
+        ],
+        "Data": [
+          78
+        ],
+        "different": [
+          80
+        ],
+        "independent": [
+          81
+        ],
+        "variables,": [
+          82
+        ],
+        "such": [
+          83
+        ],
+        "as": [
+          84
+        ],
+        "completion": [
+          85
+        ],
+        "designs": [
+          86
+        ],
+        "orientations,": [
+          88
+        ],
+        "were": [
+          89
+        ],
+        "incorporated.": [
+          90
+        ],
+        "this": [
+          92
+        ],
+        "study,": [
+          93
+        ],
+        "improved": [
+          95
+        ],
+        "novel": [
+          96
+        ],
+        "proposed": [
+          100
+        ],
+        "accurately": [
+          102
+        ],
+        "various": [
+          108
+        ],
+        "configurations": [
+          110
+        ],
+        "orientations.": [
+          112
+        ],
+        "The": [
+          113,
+          149
+        ],
+        "can": [
+          115
+        ],
+        "predict": [
+          116,
+          135
+        ],
+        "with": [
+          120
+        ],
+        "a": [
+          121,
+          144,
+          158,
+          173
+        ],
+        "low": [
+          122
+        ],
+        "percentage": [
+          123
+        ],
+        "difference": [
+          124
+        ],
+        "less": [
+          126
+        ],
+        "than": [
+          127
+        ],
+        "20%.": [
+          128
+        ],
+        "This": [
+          129
+        ],
+        "may": [
+          131,
+          161
+        ],
+        "be": [
+          132
+        ],
+        "upscaled": [
+          133
+        ],
+        "proppants": [
+          139
+        ],
+        "in": [
+          143
+        ],
+        "single-stage": [
+          145
+        ],
+        "hydraulic": [
+          146
+        ],
+        "fracturing": [
+          147
+        ],
+        "stimulation.": [
+          148
+        ],
+        "developed": [
+          150
+        ],
+        "illustrates": [
+          152
+        ],
+        "injecting": [
+          154
+        ],
+        "more": [
+          155,
+          167
+        ],
+        "at": [
+          157
+        ],
+        "higher": [
+          159
+        ],
+        "rate": [
+          160
+        ],
+        "help": [
+          162
+        ],
+        "allocate": [
+          164
+        ],
+        "However,": [
+          172
+        ],
+        "nonuniform": [
+          174
+        ],
+        "obtained": [
+          178
+        ],
+        "by": [
+          179
+        ],
+        "increasing": [
+          180
+        ],
+        "median": [
+          183
+        ],
+        "diameter.": [
+          184
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2025-12-26T23:08:49.675405",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -18877,9 +18877,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/2",
           "display_name": "Zero hunger",
-          "score": 0.44999998807907104,
-          "id": "https://metadata.un.org/sdg/2"
+          "score": 0.44999998807907104
         }
       ],
       "awards": [],
@@ -18891,8 +18891,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "referenced_works_count": 31,
       "referenced_works": [
@@ -20213,8 +20213,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 23,
       "referenced_works": [
@@ -21407,16 +21407,16 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.5099999904632568,
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.5099999904632568
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -22623,8 +22623,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 19,
       "referenced_works": [
@@ -22870,7 +22870,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.16340213,
+        "value": 0.16331605,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23293,8 +23293,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 24,
       "referenced_works": [
@@ -24357,16 +24357,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.8399999737739563,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.8399999737739563
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 10,
       "referenced_works": [
@@ -24776,8 +24776,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 25,
       "referenced_works": [
@@ -25968,8 +25968,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 28,
       "referenced_works": [
@@ -26286,8 +26286,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 9,
       "referenced_works": [
@@ -27234,8 +27234,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 29,
       "referenced_works": [
@@ -28469,8 +28469,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 46,
       "referenced_works": [
@@ -28845,8 +28845,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 35,
       "referenced_works": [
@@ -29256,8 +29256,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 16,
       "referenced_works": [
@@ -29927,8 +29927,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 15,
       "referenced_works": [
@@ -30828,8 +30828,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 36,
       "referenced_works": [
@@ -31870,8 +31870,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 51,
       "referenced_works": [
@@ -32526,8 +32526,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 165,
       "referenced_works": [

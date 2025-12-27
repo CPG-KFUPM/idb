@@ -20,13 +20,13 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10635",
     "name": "Hydraulic Fracturing and Reservoir Analysis",
     "publications": 1674,
-    "citations": 31577
+    "citations": 31579
   },
   {
     "id": "https://openalex.org/T10892",
     "name": "Drilling and Well Engineering",
     "publications": 1150,
-    "citations": 17076
+    "citations": 17078
   },
   {
     "id": "https://openalex.org/T10399",
@@ -44,13 +44,13 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10271",
     "name": "Seismic Imaging and Inversion Techniques",
     "publications": 691,
-    "citations": 6958
+    "citations": 6960
   },
   {
     "id": "https://openalex.org/T11801",
     "name": "Reservoir Engineering and Simulation Methods",
     "publications": 680,
-    "citations": 9482
+    "citations": 9483
   },
   {
     "id": "https://openalex.org/T11757",
@@ -116,7 +116,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T12482",
     "name": "Tunneling and Rock Mechanics",
     "publications": 218,
-    "citations": 3605
+    "citations": 3606
   },
   {
     "id": "https://openalex.org/T13177",
@@ -140,7 +140,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T13018",
     "name": "Seismology and Earthquake Studies",
     "publications": 155,
-    "citations": 1371
+    "citations": 1372
   },
   {
     "id": "https://openalex.org/T11609",
@@ -410,7 +410,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T11434",
     "name": "Electrochemical Analysis and Applications",
     "publications": 35,
-    "citations": 682
+    "citations": 683
   },
   {
     "id": "https://openalex.org/T11401",
@@ -494,7 +494,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10310",
     "name": "Corrosion Behavior and Inhibition",
     "publications": 31,
-    "citations": 452
+    "citations": 453
   },
   {
     "id": "https://openalex.org/T11852",
@@ -608,7 +608,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T11007",
     "name": "Hybrid Renewable Energy Systems",
     "publications": 25,
-    "citations": 1671
+    "citations": 1672
   },
   {
     "id": "https://openalex.org/T10339",
@@ -824,7 +824,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T11850",
     "name": "Concrete Corrosion and Durability",
     "publications": 17,
-    "citations": 413
+    "citations": 414
   },
   {
     "id": "https://openalex.org/T12236",
@@ -1196,7 +1196,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10811",
     "name": "Hydrogen Storage and Materials",
     "publications": 10,
-    "citations": 345
+    "citations": 346
   },
   {
     "id": "https://openalex.org/T12293",
@@ -1826,7 +1826,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T12112",
     "name": "Ammonia Synthesis and Nitrogen Reduction",
     "publications": 7,
-    "citations": 28
+    "citations": 29
   },
   {
     "id": "https://openalex.org/T11164",
@@ -8435,19 +8435,19 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I134085113",
     "name": "King Fahd University of Petroleum and Minerals",
     "publications": 3204,
-    "citations": 55499
+    "citations": 55503
   },
   {
     "id": "https://openalex.org/I71920554",
     "name": "King Abdullah University of Science and Technology",
     "publications": 316,
-    "citations": 9920
+    "citations": 9921
   },
   {
     "id": "https://openalex.org/I4210143841",
     "name": "Saudi Aramco (Saudi Arabia)",
     "publications": 228,
-    "citations": 3097
+    "citations": 3098
   },
   {
     "id": "https://openalex.org/I96673099",
@@ -8633,7 +8633,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I1294671590",
     "name": "Centre National de la Recherche Scientifique",
     "publications": 33,
-    "citations": 2450
+    "citations": 2451
   },
   {
     "id": "https://openalex.org/I35440088",
@@ -8753,7 +8753,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I28022161",
     "name": "King Saud University",
     "publications": 22,
-    "citations": 218
+    "citations": 219
   },
   {
     "id": "https://openalex.org/I190397597",
@@ -9029,7 +9029,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I343975184",
     "name": "Dawood University of Engineering and Technology",
     "publications": 13,
-    "citations": 632
+    "citations": 633
   },
   {
     "id": "https://openalex.org/I4210152837",
@@ -9185,7 +9185,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I87482320",
     "name": "University of Management and Technology",
     "publications": 12,
-    "citations": 72
+    "citations": 73
   },
   {
     "id": "https://openalex.org/I138006243",
@@ -9689,7 +9689,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I106663880",
     "name": "University of Bahrain",
     "publications": 7,
-    "citations": 273
+    "citations": 274
   },
   {
     "id": "https://openalex.org/I84884186",
@@ -11396,6 +11396,12 @@ export const institutionStats: InstitutionStats[] = [
     "citations": 84
   },
   {
+    "id": "https://openalex.org/I2279609970",
+    "name": "Université de Lille",
+    "publications": 3,
+    "citations": 81
+  },
+  {
     "id": "https://openalex.org/I2801997478",
     "name": "European Synchrotron Radiation Facility",
     "publications": 3,
@@ -11406,12 +11412,6 @@ export const institutionStats: InstitutionStats[] = [
     "name": "University of the Western Cape",
     "publications": 3,
     "citations": 81
-  },
-  {
-    "id": "https://openalex.org/I2279609970",
-    "name": "Université de Lille",
-    "publications": 3,
-    "citations": 80
   },
   {
     "id": "https://openalex.org/I4210087957",
@@ -12668,14 +12668,14 @@ export const institutionStats: InstitutionStats[] = [
     "citations": 35
   },
   {
-    "id": "https://openalex.org/I4210135718",
-    "name": "Steacie Institute for Molecular Sciences",
-    "publications": 2,
-    "citations": 34
-  },
-  {
     "id": "https://openalex.org/I4210125507",
     "name": "Chouaib Doukkali University",
+    "publications": 2,
+    "citations": 35
+  },
+  {
+    "id": "https://openalex.org/I4210135718",
+    "name": "Steacie Institute for Molecular Sciences",
     "publications": 2,
     "citations": 34
   },
@@ -15062,6 +15062,54 @@ export const institutionStats: InstitutionStats[] = [
     "citations": 16
   },
   {
+    "id": "https://openalex.org/I3121676899",
+    "name": "Université Ibn-Tofail",
+    "publications": 1,
+    "citations": 16
+  },
+  {
+    "id": "https://openalex.org/I126477371",
+    "name": "Mohammed V University",
+    "publications": 1,
+    "citations": 16
+  },
+  {
+    "id": "https://openalex.org/I132358288",
+    "name": "Al-Azhar University – Gaza",
+    "publications": 1,
+    "citations": 16
+  },
+  {
+    "id": "https://openalex.org/I17533244",
+    "name": "An-Najah National University",
+    "publications": 1,
+    "citations": 16
+  },
+  {
+    "id": "https://openalex.org/I204743663",
+    "name": "University of Mysore",
+    "publications": 1,
+    "citations": 16
+  },
+  {
+    "id": "https://openalex.org/I4210088668",
+    "name": "Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",
+    "publications": 1,
+    "citations": 16
+  },
+  {
+    "id": "https://openalex.org/I4210143235",
+    "name": "Unité Matériaux et Transformations",
+    "publications": 1,
+    "citations": 16
+  },
+  {
+    "id": "https://openalex.org/I7454413",
+    "name": "École Centrale de Lille",
+    "publications": 1,
+    "citations": 16
+  },
+  {
     "id": "https://openalex.org/I4210131439",
     "name": "Applied Mathematics (United States)",
     "publications": 1,
@@ -15136,54 +15184,6 @@ export const institutionStats: InstitutionStats[] = [
   {
     "id": "https://openalex.org/I102962589",
     "name": "Atomic Energy Organization of Iran",
-    "publications": 1,
-    "citations": 15
-  },
-  {
-    "id": "https://openalex.org/I3121676899",
-    "name": "Université Ibn-Tofail",
-    "publications": 1,
-    "citations": 15
-  },
-  {
-    "id": "https://openalex.org/I126477371",
-    "name": "Mohammed V University",
-    "publications": 1,
-    "citations": 15
-  },
-  {
-    "id": "https://openalex.org/I132358288",
-    "name": "Al-Azhar University – Gaza",
-    "publications": 1,
-    "citations": 15
-  },
-  {
-    "id": "https://openalex.org/I17533244",
-    "name": "An-Najah National University",
-    "publications": 1,
-    "citations": 15
-  },
-  {
-    "id": "https://openalex.org/I204743663",
-    "name": "University of Mysore",
-    "publications": 1,
-    "citations": 15
-  },
-  {
-    "id": "https://openalex.org/I4210088668",
-    "name": "Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",
-    "publications": 1,
-    "citations": 15
-  },
-  {
-    "id": "https://openalex.org/I4210143235",
-    "name": "Unité Matériaux et Transformations",
-    "publications": 1,
-    "citations": 15
-  },
-  {
-    "id": "https://openalex.org/I7454413",
-    "name": "École Centrale de Lille",
     "publications": 1,
     "citations": 15
   },
