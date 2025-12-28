@@ -1474,9 +1474,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7300000190734863,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.7300000190734863
         }
       ],
       "awards": [],
@@ -1488,8 +1488,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 21,
       "referenced_works": [
@@ -2161,16 +2161,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5099999904632568,
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "score": 0.5099999904632568
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 22,
       "referenced_works": [
@@ -3275,9 +3275,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8100000023841858,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.8100000023841858
         }
       ],
       "awards": [],
@@ -3289,8 +3289,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 33,
       "referenced_works": [
@@ -3983,8 +3983,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 104,
       "referenced_works": [
@@ -5447,8 +5447,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 50,
       "referenced_works": [
@@ -6161,8 +6161,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "referenced_works_count": 46,
       "referenced_works": [
@@ -7177,9 +7177,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6200000047683716,
           "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11"
+          "id": "https://metadata.un.org/sdg/11",
+          "score": 0.6200000047683716
         }
       ],
       "awards": [
@@ -7199,8 +7199,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 43,
       "referenced_works": [
@@ -8044,8 +8044,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "referenced_works_count": 23,
       "referenced_works": [
@@ -9365,16 +9365,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.800000011920929,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.800000011920929
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 34,
       "referenced_works": [
@@ -9991,8 +9991,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 37,
       "referenced_works": [
@@ -10891,8 +10891,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 32,
       "referenced_works": [
@@ -12036,9 +12036,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.46000000834465027,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.46000000834465027
         }
       ],
       "awards": [
@@ -12096,8 +12096,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 43,
       "referenced_works": [
@@ -13241,16 +13241,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.4300000071525574,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.4300000071525574
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "referenced_works_count": 36,
       "referenced_works": [
@@ -14481,16 +14481,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8500000238418579,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.8500000238418579
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 38,
       "referenced_works": [
@@ -15592,8 +15592,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 37,
       "referenced_works": [
@@ -16825,9 +16825,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8399999737739563,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.8399999737739563
         }
       ],
       "awards": [
@@ -16859,8 +16859,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 41,
       "referenced_works": [
@@ -18008,8 +18008,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "referenced_works_count": 93,
       "referenced_works": [
@@ -19161,16 +19161,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8700000047683716,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.8700000047683716
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 25,
       "referenced_works": [
@@ -19968,8 +19968,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "referenced_works_count": 38,
       "referenced_works": [
@@ -21364,8 +21364,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "referenced_works_count": 25,
       "referenced_works": [
@@ -22522,16 +22522,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8999999761581421,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.8999999761581421
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 9,
       "referenced_works": [
@@ -23591,8 +23591,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 56,
       "referenced_works": [
@@ -24843,16 +24843,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.550000011920929,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.550000011920929
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "referenced_works_count": 55,
       "referenced_works": [
@@ -25829,16 +25829,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 32,
       "referenced_works": [
@@ -26981,8 +26981,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 42,
       "referenced_works": [
@@ -28218,8 +28218,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 20,
       "referenced_works": [
@@ -29342,16 +29342,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7400000095367432,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.7400000095367432
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 44,
       "referenced_works": [
@@ -30397,8 +30397,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 58,
       "referenced_works": [
@@ -31407,8 +31407,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 40,
       "referenced_works": [
@@ -32529,8 +32529,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 56,
       "referenced_works": [
@@ -33855,8 +33855,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "referenced_works_count": 24,
       "referenced_works": [
@@ -34975,8 +34975,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 26,
       "referenced_works": [
@@ -35823,9 +35823,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.41999998688697815,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.41999998688697815
         }
       ],
       "awards": [],
@@ -35837,8 +35837,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 27,
       "referenced_works": [
@@ -36989,8 +36989,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 30,
       "referenced_works": [
@@ -37643,16 +37643,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.9100000262260437,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.9100000262260437
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 25,
       "referenced_works": [
@@ -38781,8 +38781,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 46,
       "referenced_works": [
@@ -40006,16 +40006,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5899999737739563,
           "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11"
+          "id": "https://metadata.un.org/sdg/11",
+          "score": 0.5899999737739563
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 42,
       "referenced_works": [
@@ -41096,8 +41096,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 44,
       "referenced_works": [
@@ -42163,8 +42163,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 48,
       "referenced_works": [
@@ -43309,8 +43309,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 52,
       "referenced_works": [
@@ -44518,9 +44518,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [
@@ -44545,8 +44545,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "referenced_works_count": 20,
       "referenced_works": [
@@ -45688,9 +45688,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8700000047683716,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.8700000047683716
         }
       ],
       "awards": [],
@@ -45702,8 +45702,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 51,
       "referenced_works": [
@@ -46801,16 +46801,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.800000011920929,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.800000011920929
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 14,
       "referenced_works": [
@@ -47924,8 +47924,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "referenced_works_count": 42,
       "referenced_works": [
@@ -49530,16 +49530,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8600000143051147,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8600000143051147
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "referenced_works_count": 32,
       "referenced_works": [
@@ -50738,16 +50738,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8500000238418579,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8500000238418579
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "referenced_works_count": 29,
       "referenced_works": [
@@ -52227,8 +52227,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 49,
       "referenced_works": [
@@ -53387,9 +53387,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8999999761581421,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.8999999761581421
         }
       ],
       "awards": [
@@ -53409,8 +53409,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 36,
       "referenced_works": [
@@ -54553,8 +54553,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 56,
       "referenced_works": [
@@ -55747,8 +55747,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "referenced_works_count": 35,
       "referenced_works": [
@@ -56936,8 +56936,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 52,
       "referenced_works": [
@@ -57944,8 +57944,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 31,
       "referenced_works": [
@@ -58502,1417 +58502,6 @@
       "created_date": "2024-09-04T00:00:00"
     },
     {
-      "id": "https://openalex.org/W4403343181",
-      "doi": "https://doi.org/10.1093/gji/ggae363",
-      "title": "Ray and energy-flux velocities at a contact of two viscoelastic anisotropic materials",
-      "display_name": "Ray and energy-flux velocities at a contact of two viscoelastic anisotropic materials",
-      "publication_year": 2024,
-      "publication_date": "2024-10-10",
-      "ids": {
-        "openalex": "https://openalex.org/W4403343181",
-        "doi": "https://doi.org/10.1093/gji/ggae363"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1093/gji/ggae363",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1093/gji/ggae363",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S108821158",
-          "display_name": "Geophysical Journal International",
-          "issn_l": "0956-540X",
-          "issn": [
-            "0956-540X",
-            "1365-246X"
-          ],
-          "is_oa": true,
-          "is_in_doaj": true,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310311648",
-          "host_organization_name": "Oxford University Press",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310311648",
-            "https://openalex.org/P4310311647"
-          ],
-          "host_organization_lineage_names": [
-            "Oxford University Press",
-            "University of Oxford"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Geophysical Journal International",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref",
-        "doaj"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "gold",
-        "oa_url": "https://doi.org/10.1093/gji/ggae363",
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5022899503",
-            "display_name": "Xu Liu",
-            "orcid": "https://orcid.org/0000-0003-2835-2844"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Xu Liu",
-          "raw_affiliation_strings": [
-            "College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum and Minerals, PO Box 5086, Dhahran 31261, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum and Minerals, PO Box 5086, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5019519998",
-            "display_name": "Bing Zhou",
-            "orcid": "https://orcid.org/0000-0002-6813-5265"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I176601375",
-              "display_name": "Khalifa University of Science and Technology",
-              "ror": "https://ror.org/05hffr360",
-              "country_code": "AE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I176601375"
-              ]
-            }
-          ],
-          "countries": [
-            "AE"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Bing Zhou",
-          "raw_affiliation_strings": [
-            "Department of Earth Science, Khalifa University of Science and Technology , Abu Dhabi 127788 ,"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth Science, Khalifa University of Science and Technology , Abu Dhabi 127788 ,",
-              "institution_ids": [
-                "https://openalex.org/I176601375"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5054922583",
-            "display_name": "Abdullatif Al‐Shuhail",
-            "orcid": "https://orcid.org/0000-0002-2171-0154"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Abdullatif A Al-Shuhail",
-          "raw_affiliation_strings": [
-            "College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum and Minerals, PO Box 5086, Dhahran 31261, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum and Minerals, PO Box 5086, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5100644674",
-            "display_name": "Wei Zhou",
-            "orcid": "https://orcid.org/0009-0005-8205-1753"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Wei Zhou",
-          "raw_affiliation_strings": [
-            "College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum and Minerals, PO Box 5086, Dhahran 31261, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum and Minerals, PO Box 5086, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5091188360",
-            "display_name": "Bo Liu",
-            "orcid": "https://orcid.org/0000-0001-6615-1096"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Bo Liu",
-          "raw_affiliation_strings": [
-            "Research Center for Communication Systems and Sensing, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Research Center for Communication Systems and Sensing, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5086290026",
-            "display_name": "Qinzhuo Liao",
-            "orcid": "https://orcid.org/0000-0003-0223-7725"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I204553293",
-              "display_name": "China University of Petroleum, Beijing",
-              "ror": "https://ror.org/041qf4r12",
-              "country_code": "CN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I204553293"
-              ]
-            }
-          ],
-          "countries": [
-            "CN"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Qinzhuo Liao",
-          "raw_affiliation_strings": [
-            "College of Petroleum Engineering, China University of Petroleum, Beijing 102249, China"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "College of Petroleum Engineering, China University of Petroleum, Beijing 102249, China",
-              "institution_ids": [
-                "https://openalex.org/I204553293"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 3,
-      "institutions_distinct_count": 6,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
-      "apc_list": {
-        "value": 2590,
-        "currency": "GBP",
-        "value_usd": 3176
-      },
-      "apc_paid": {
-        "value": 2590,
-        "currency": "GBP",
-        "value_usd": 3176
-      },
-      "fwci": 3.01049475,
-      "has_fulltext": false,
-      "cited_by_count": 2,
-      "citation_normalized_percentile": {
-        "value": 0.80786117,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 95,
-        "max": 97
-      },
-      "biblio": {
-        "volume": "240",
-        "issue": "1",
-        "first_page": "13",
-        "last_page": "30"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T11757",
-        "display_name": "Seismic Waves and Analysis",
-        "score": 0.9994999766349792,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T11757",
-          "display_name": "Seismic Waves and Analysis",
-          "score": 0.9994999766349792,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10271",
-          "display_name": "Seismic Imaging and Inversion Techniques",
-          "score": 0.9991999864578247,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T12233",
-          "display_name": "Geotechnical Engineering and Underground Structures",
-          "score": 0.9972000122070312,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2205",
-            "display_name": "Civil and Structural Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/slowness",
-          "display_name": "Slowness",
-          "score": 0.965242326259613
-        },
-        {
-          "id": "https://openalex.org/keywords/viscoelasticity",
-          "display_name": "Viscoelasticity",
-          "score": 0.6227105259895325
-        },
-        {
-          "id": "https://openalex.org/keywords/anisotropy",
-          "display_name": "Anisotropy",
-          "score": 0.5653510093688965
-        },
-        {
-          "id": "https://openalex.org/keywords/hamiltonian",
-          "display_name": "Hamiltonian (control theory)",
-          "score": 0.5281211137771606
-        },
-        {
-          "id": "https://openalex.org/keywords/physics",
-          "display_name": "Physics",
-          "score": 0.47832393646240234
-        },
-        {
-          "id": "https://openalex.org/keywords/energy-flux",
-          "display_name": "Energy flux",
-          "score": 0.46627214550971985
-        },
-        {
-          "id": "https://openalex.org/keywords/snells-law",
-          "display_name": "Snell's law",
-          "score": 0.45721742510795593
-        },
-        {
-          "id": "https://openalex.org/keywords/mathematical-analysis",
-          "display_name": "Mathematical analysis",
-          "score": 0.4331931173801422
-        },
-        {
-          "id": "https://openalex.org/keywords/classical-mechanics",
-          "display_name": "Classical mechanics",
-          "score": 0.388374924659729
-        },
-        {
-          "id": "https://openalex.org/keywords/optics",
-          "display_name": "Optics",
-          "score": 0.3477925658226013
-        },
-        {
-          "id": "https://openalex.org/keywords/geometry",
-          "display_name": "Geometry",
-          "score": 0.32689332962036133
-        },
-        {
-          "id": "https://openalex.org/keywords/mathematics",
-          "display_name": "Mathematics",
-          "score": 0.2647910714149475
-        },
-        {
-          "id": "https://openalex.org/keywords/quantum-mechanics",
-          "display_name": "Quantum mechanics",
-          "score": 0.11078032851219177
-        },
-        {
-          "id": "https://openalex.org/keywords/thermodynamics",
-          "display_name": "Thermodynamics",
-          "score": 0.08127608895301819
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C11940443",
-          "wikidata": "https://www.wikidata.org/wiki/Q16965645",
-          "display_name": "Slowness",
-          "level": 2,
-          "score": 0.965242326259613
-        },
-        {
-          "id": "https://openalex.org/C186541917",
-          "wikidata": "https://www.wikidata.org/wiki/Q910483",
-          "display_name": "Viscoelasticity",
-          "level": 2,
-          "score": 0.6227105259895325
-        },
-        {
-          "id": "https://openalex.org/C85725439",
-          "wikidata": "https://www.wikidata.org/wiki/Q466686",
-          "display_name": "Anisotropy",
-          "level": 2,
-          "score": 0.5653510093688965
-        },
-        {
-          "id": "https://openalex.org/C130787639",
-          "wikidata": "https://www.wikidata.org/wiki/Q5645293",
-          "display_name": "Hamiltonian (control theory)",
-          "level": 2,
-          "score": 0.5281211137771606
-        },
-        {
-          "id": "https://openalex.org/C121332964",
-          "wikidata": "https://www.wikidata.org/wiki/Q413",
-          "display_name": "Physics",
-          "level": 0,
-          "score": 0.47832393646240234
-        },
-        {
-          "id": "https://openalex.org/C55519028",
-          "wikidata": "https://www.wikidata.org/wiki/Q5377054",
-          "display_name": "Energy flux",
-          "level": 2,
-          "score": 0.46627214550971985
-        },
-        {
-          "id": "https://openalex.org/C90081545",
-          "wikidata": "https://www.wikidata.org/wiki/Q208391",
-          "display_name": "Snell's law",
-          "level": 3,
-          "score": 0.45721742510795593
-        },
-        {
-          "id": "https://openalex.org/C134306372",
-          "wikidata": "https://www.wikidata.org/wiki/Q7754",
-          "display_name": "Mathematical analysis",
-          "level": 1,
-          "score": 0.4331931173801422
-        },
-        {
-          "id": "https://openalex.org/C74650414",
-          "wikidata": "https://www.wikidata.org/wiki/Q11397",
-          "display_name": "Classical mechanics",
-          "level": 1,
-          "score": 0.388374924659729
-        },
-        {
-          "id": "https://openalex.org/C120665830",
-          "wikidata": "https://www.wikidata.org/wiki/Q14620",
-          "display_name": "Optics",
-          "level": 1,
-          "score": 0.3477925658226013
-        },
-        {
-          "id": "https://openalex.org/C2524010",
-          "wikidata": "https://www.wikidata.org/wiki/Q8087",
-          "display_name": "Geometry",
-          "level": 1,
-          "score": 0.32689332962036133
-        },
-        {
-          "id": "https://openalex.org/C33923547",
-          "wikidata": "https://www.wikidata.org/wiki/Q395",
-          "display_name": "Mathematics",
-          "level": 0,
-          "score": 0.2647910714149475
-        },
-        {
-          "id": "https://openalex.org/C62520636",
-          "wikidata": "https://www.wikidata.org/wiki/Q944",
-          "display_name": "Quantum mechanics",
-          "level": 1,
-          "score": 0.11078032851219177
-        },
-        {
-          "id": "https://openalex.org/C97355855",
-          "wikidata": "https://www.wikidata.org/wiki/Q11473",
-          "display_name": "Thermodynamics",
-          "level": 1,
-          "score": 0.08127608895301819
-        },
-        {
-          "id": "https://openalex.org/C126255220",
-          "wikidata": "https://www.wikidata.org/wiki/Q141495",
-          "display_name": "Mathematical optimization",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C205318122",
-          "wikidata": "https://www.wikidata.org/wiki/Q72277",
-          "display_name": "Refraction",
-          "level": 2,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1093/gji/ggae363",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.1093/gji/ggae363",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S108821158",
-            "display_name": "Geophysical Journal International",
-            "issn_l": "0956-540X",
-            "issn": [
-              "0956-540X",
-              "1365-246X"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310311648",
-            "host_organization_name": "Oxford University Press",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310311648",
-              "https://openalex.org/P4310311647"
-            ],
-            "host_organization_lineage_names": [
-              "Oxford University Press",
-              "University of Oxford"
-            ],
-            "type": "journal"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Geophysical Journal International",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.1093/gji/ggae363",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1093/gji/ggae363",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S108821158",
-          "display_name": "Geophysical Journal International",
-          "issn_l": "0956-540X",
-          "issn": [
-            "0956-540X",
-            "1365-246X"
-          ],
-          "is_oa": true,
-          "is_in_doaj": true,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310311648",
-          "host_organization_name": "Oxford University Press",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310311648",
-            "https://openalex.org/P4310311647"
-          ],
-          "host_organization_lineage_names": [
-            "Oxford University Press",
-            "University of Oxford"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Geophysical Journal International",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [
-        {
-          "score": 0.8700000047683716,
-          "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
-        }
-      ],
-      "awards": [
-        {
-          "id": "https://openalex.org/G1411698606",
-          "display_name": null,
-          "funder_award_id": "H2FC2311",
-          "funder_id": "https://openalex.org/F4320322323",
-          "funder_display_name": "King Fahd University of Petroleum and Minerals"
-        }
-      ],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320322323",
-          "display_name": "King Fahd University of Petroleum and Minerals",
-          "ror": "https://ror.org/03yez3163"
-        }
-      ],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "referenced_works_count": 37,
-      "referenced_works": [
-        "https://openalex.org/W2298254826",
-        "https://openalex.org/W2120903141",
-        "https://openalex.org/W2080227130",
-        "https://openalex.org/W2326851115",
-        "https://openalex.org/W1996333244",
-        "https://openalex.org/W2024357010",
-        "https://openalex.org/W4244402928",
-        "https://openalex.org/W2134436049",
-        "https://openalex.org/W2123563979",
-        "https://openalex.org/W1970287537",
-        "https://openalex.org/W2094046716",
-        "https://openalex.org/W2099152253",
-        "https://openalex.org/W2032909446",
-        "https://openalex.org/W2095358357",
-        "https://openalex.org/W2118633324",
-        "https://openalex.org/W2001607792",
-        "https://openalex.org/W409091221",
-        "https://openalex.org/W1991463983",
-        "https://openalex.org/W2116355519",
-        "https://openalex.org/W3089451433",
-        "https://openalex.org/W3165457978",
-        "https://openalex.org/W3023291508",
-        "https://openalex.org/W3131862178",
-        "https://openalex.org/W2036685553",
-        "https://openalex.org/W4255085047",
-        "https://openalex.org/W2123419969",
-        "https://openalex.org/W2115726501",
-        "https://openalex.org/W2161997712",
-        "https://openalex.org/W2032687490",
-        "https://openalex.org/W4390945721",
-        "https://openalex.org/W3200255423",
-        "https://openalex.org/W4292155138",
-        "https://openalex.org/W3091650376",
-        "https://openalex.org/W2888303366",
-        "https://openalex.org/W4402190575",
-        "https://openalex.org/W4389405864",
-        "https://openalex.org/W2119276715"
-      ],
-      "related_works": [
-        "https://openalex.org/W3103461978",
-        "https://openalex.org/W2356299150",
-        "https://openalex.org/W4378230892",
-        "https://openalex.org/W2183532835",
-        "https://openalex.org/W1992068058",
-        "https://openalex.org/W2134436049",
-        "https://openalex.org/W2184424596",
-        "https://openalex.org/W2035725409",
-        "https://openalex.org/W2044845334",
-        "https://openalex.org/W2962855174"
-      ],
-      "abstract_inverted_index": {
-        "SUMMARY": [
-          0
-        ],
-        "A": [
-          1
-        ],
-        "g*-Hamiltonian": [
-          2,
-          29
-        ],
-        "method": [
-          3,
-          30,
-          212,
-          240,
-          329
-        ],
-        "for": [
-          4,
-          161,
-          200,
-          217,
-          244,
-          300,
-          309,
-          317
-        ],
-        "tracing": [
-          5,
-          247
-        ],
-        "real": [
-          6,
-          38,
-          57,
-          68,
-          76,
-          245
-        ],
-        "rays": [
-          7
-        ],
-        "was": [
-          8,
-          221
-        ],
-        "developed": [
-          9
-        ],
-        "that": [
-          10,
-          27,
-          104,
-          131,
-          228,
-          326
-        ],
-        "can": [
-          11,
-          31,
-          241
-        ],
-        "handle": [
-          12
-        ],
-        "cusps": [
-          13
-        ],
-        "and": [
-          14,
-          39,
-          42,
-          48,
-          158,
-          172,
-          183,
-          196,
-          232,
-          255,
-          272
-        ],
-        "triplication": [
-          15
-        ],
-        "of": [
-          16,
-          46,
-          66,
-          70,
-          86,
-          133,
-          146,
-          155,
-          251
-        ],
-        "quasi-shear": [
-          17
-        ],
-        "wave": [
-          18
-        ],
-        "in": [
-          19,
-          168,
-          187,
-          189,
-          296
-        ],
-        "a": [
-          20,
-          116,
-          144,
-          222
-        ],
-        "general": [
-          21
-        ],
-        "viscoelastic": [
-          22,
-          148,
-          252
-        ],
-        "anisotropic": [
-          23,
-          149,
-          253,
-          298
-        ],
-        "medium.": [
-          24
-        ],
-        "We": [
-          25,
-          129,
-          323
-        ],
-        "demonstrate": [
-          26
-        ],
-        "the": [
-          28,
-          43,
-          52,
-          56,
-          64,
-          67,
-          71,
-          75,
-          83,
-          87,
-          95,
-          153,
-          156,
-          170,
-          190,
-          204,
-          210,
-          214,
-          229,
-          238,
-          249,
-          256,
-          267,
-          270,
-          277,
-          284,
-          304,
-          310,
-          327,
-          331,
-          335
-        ],
-        "produce": [
-          32
-        ],
-        "homogeneous": [
-          33,
-          292
-        ],
-        "ray-velocity": [
-          34
-        ],
-        "vectors": [
-          35,
-          45
-        ],
-        "(with": [
-          36
-        ],
-        "parallel": [
-          37
-        ],
-        "imaginary": [
-          40
-        ],
-        "parts)": [
-          41
-        ],
-        "slowness": [
-          44,
-          72,
-          77,
-          88
-        ],
-        "reflected": [
-          47
-        ],
-        "transmitted": [
-          49
-        ],
-        "waves": [
-          50,
-          164
-        ],
-        "at": [
-          51,
-          143,
-          248
-        ],
-        "interface": [
-          53,
-          250
-        ],
-        "based": [
-          54,
-          93
-        ],
-        "on": [
-          55,
-          94
-        ],
-        "Snell's": [
-          58,
-          140
-        ],
-        "law": [
-          59,
-          141
-        ],
-        "(RSL),": [
-          60
-        ],
-        "which": [
-          61,
-          81,
-          125,
-          169,
-          220,
-          290,
-          320
-        ],
-        "constrains": [
-          62
-        ],
-        "only": [
-          63
-        ],
-        "continuity": [
-          65
-        ],
-        "parts": [
-          69
-        ],
-        "vectors,": [
-          73
-        ],
-        "or": [
-          74
-        ],
-        "direction": [
-          78
-        ],
-        "(RSD)": [
-          79
-        ],
-        "method,": [
-          80
-        ],
-        "ignores": [
-          82
-        ],
-        "inhomogeneous": [
-          84
-        ],
-        "component": [
-          85
-        ],
-        "vector.": [
-          89
-        ],
-        "These": [
-          90
-        ],
-        "methods": [
-          91,
-          106,
-          160,
-          174,
-          185,
-          274
-        ],
-        "are": [
-          92,
-          107
-        ],
-        "characteristic": [
-          96
-        ],
-        "lines": [
-          97
-        ],
-        "with": [
-          98,
-          138,
-          237
-        ],
-        "different": [
-          99
-        ],
-        "Hamiltonians.": [
-          100
-        ],
-        "Our": [
-          101,
-          225
-        ],
-        "research": [
-          102
-        ],
-        "indicates": [
-          103
-        ],
-        "these": [
-          105
-        ],
-        "limited": [
-          108
-        ],
-        "to": [
-          109,
-          176,
-          287
-        ],
-        "pre-critical": [
-          110
-        ],
-        "incidence": [
-          111,
-          167
-        ],
-        "ranges.": [
-          112
-        ],
-        "Moreover,": [
-          113
-        ],
-        "we": [
-          114
-        ],
-        "derived": [
-          115
-        ],
-        "complex": [
-          117,
-          139,
-          257
-        ],
-        "energy": [
-          118,
-          135,
-          197,
-          230,
-          233,
-          258,
-          305
-        ],
-        "velocity": [
-          119,
-          136,
-          231,
-          260,
-          294
-        ],
-        "vector": [
-          120,
-          261
-        ],
-        "(energy": [
-          121
-        ],
-        "flux": [
-          122,
-          259,
-          306
-        ],
-        "velocity)": [
-          123
-        ],
-        "expression,": [
-          124
-        ],
-        "is": [
-          126,
-          262,
-          313,
-          321
-        ],
-        "always": [
-          127,
-          263
-        ],
-        "homogenous.": [
-          128
-        ],
-        "found": [
-          130
-        ],
-        "directions": [
-          132
-        ],
-        "corresponding": [
-          134
-        ],
-        "calculated": [
-          137
-        ],
-        "(CSL)": [
-          142
-        ],
-        "contact": [
-          145
-        ],
-        "two": [
-          147
-        ],
-        "materials": [
-          150,
-          299
-        ],
-        "well": [
-          151
-        ],
-        "match": [
-          152
-        ],
-        "solutions": [
-          154
-        ],
-        "RSL": [
-          157,
-          171,
-          182,
-          271
-        ],
-        "RSD": [
-          159,
-          173,
-          184,
-          211,
-          273,
-          301,
-          336
-        ],
-        "all": [
-          162,
-          314
-        ],
-        "R/T": [
-          163,
-          194
-        ],
-        "except": [
-          165
-        ],
-        "post-critical": [
-          166,
-          201,
-          268,
-          318
-        ],
-        "fail": [
-          175,
-          275
-        ],
-        "obtain": [
-          177
-        ],
-        "homogenous": [
-          178
-        ],
-        "ray": [
-          179,
-          191,
-          246,
-          278,
-          293
-        ],
-        "velocities.": [
-          180
-        ],
-        "The": [
-          181
-        ],
-        "result": [
-          186
-        ],
-        "discrepancies": [
-          188
-        ],
-        "quality": [
-          192,
-          234,
-          279,
-          307
-        ],
-        "factor,": [
-          193
-        ],
-        "coefficients,": [
-          195
-        ],
-        "ratios,": [
-          198
-        ],
-        "especially": [
-          199
-        ],
-        "incidence.": [
-          202
-        ],
-        "However,": [
-          203,
-          303
-        ],
-        "exact": [
-          205
-        ],
-        "critical": [
-          206
-        ],
-        "angle": [
-          207,
-          216
-        ],
-        "determined": [
-          208
-        ],
-        "by": [
-          209
-        ],
-        "approximates": [
-          213
-        ],
-        "‘critical’": [
-          215
-        ],
-        "anelastic/inhomogeneous": [
-          218
-        ],
-        "waves,": [
-          219
-        ],
-        "previous": [
-          223
-        ],
-        "challenge.": [
-          224
-        ],
-        "calculations": [
-          226
-        ],
-        "suggest": [
-          227
-        ],
-        "factor": [
-          235,
-          280,
-          308
-        ],
-        "obtained": [
-          236
-        ],
-        "CSL": [
-          239,
-          328
-        ],
-        "be": [
-          242
-        ],
-        "used": [
-          243
-        ],
-        "media,": [
-          254
-        ],
-        "exactly": [
-          264
-        ],
-        "homogeneous.": [
-          265
-        ],
-        "For": [
-          266
-        ],
-        "incidence,": [
-          269,
-          319
-        ],
-        "because": [
-          276
-        ],
-        "drastically": [
-          281
-        ],
-        "changes": [
-          282
-        ],
-        "from": [
-          283
-        ],
-        "infinite": [
-          285
-        ],
-        "down": [
-          286
-        ],
-        "near": [
-          288
-        ],
-        "2,": [
-          289
-        ],
-        "contradicts": [
-          291
-        ],
-        "even": [
-          295,
-          316
-        ],
-        "elastic": [
-          297
-        ],
-        "method.": [
-          302,
-          337
-        ],
-        "elastic-anisotropic": [
-          311
-        ],
-        "material": [
-          312
-        ],
-        "infinite,": [
-          315
-        ],
-        "correct.": [
-          322
-        ],
-        "also": [
-          324
-        ],
-        "show": [
-          325
-        ],
-        "has": [
-          330
-        ],
-        "same": [
-          332
-        ],
-        "efficiency": [
-          333
-        ],
-        "as": [
-          334
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2025,
-          "cited_by_count": 2
-        }
-      ],
-      "updated_date": "2025-11-06T03:46:38.306776",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W4404966182",
       "doi": "https://doi.org/10.1016/j.jallcom.2024.177924",
       "title": "Microstructure and oxidation properties of TF550 alloy by laser cladding and ultrasonic impact hybrid manufacturing",
@@ -60378,8 +58967,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 24,
       "referenced_works": [
@@ -61085,9 +59674,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5600000023841858,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.5600000023841858
         }
       ],
       "awards": [],
@@ -61109,8 +59698,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 24,
       "referenced_works": [
@@ -61825,8 +60414,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 51,
       "referenced_works": [
@@ -63313,8 +61902,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 35,
       "referenced_works": [
@@ -64771,8 +63360,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 74,
       "referenced_works": [
@@ -65642,8 +64231,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 35,
       "referenced_works": [
@@ -66927,8 +65516,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "referenced_works_count": 26,
       "referenced_works": [
@@ -67780,8 +66369,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 47,
       "referenced_works": [
@@ -68576,16 +67165,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6700000166893005,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.6700000166893005
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -69880,8 +68469,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 57,
       "referenced_works": [
@@ -70798,8 +69387,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "referenced_works_count": 31,
       "referenced_works": [
@@ -71195,6 +69784,1417 @@
         }
       ],
       "updated_date": "2025-12-25T23:11:45.687758",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4403343181",
+      "doi": "https://doi.org/10.1093/gji/ggae363",
+      "title": "Ray and energy-flux velocities at a contact of two viscoelastic anisotropic materials",
+      "display_name": "Ray and energy-flux velocities at a contact of two viscoelastic anisotropic materials",
+      "publication_year": 2024,
+      "publication_date": "2024-10-10",
+      "ids": {
+        "openalex": "https://openalex.org/W4403343181",
+        "doi": "https://doi.org/10.1093/gji/ggae363"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1093/gji/ggae363",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1093/gji/ggae363",
+        "pdf_url": "https://academic.oup.com/gji/advance-article-pdf/doi/10.1093/gji/ggae363/59715498/ggae363.pdf",
+        "source": {
+          "id": "https://openalex.org/S108821158",
+          "display_name": "Geophysical Journal International",
+          "issn_l": "0956-540X",
+          "issn": [
+            "0956-540X",
+            "1365-246X"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310311648",
+          "host_organization_name": "Oxford University Press",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310311648",
+            "https://openalex.org/P4310311647"
+          ],
+          "host_organization_lineage_names": [
+            "Oxford University Press",
+            "University of Oxford"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Geophysical Journal International",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref",
+        "doaj"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://academic.oup.com/gji/advance-article-pdf/doi/10.1093/gji/ggae363/59715498/ggae363.pdf",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5022899503",
+            "display_name": "Xu Liu",
+            "orcid": "https://orcid.org/0000-0003-2835-2844"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Xu Liu",
+          "raw_affiliation_strings": [
+            "College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum and Minerals, PO Box 5086, Dhahran 31261, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum and Minerals, PO Box 5086, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5019519998",
+            "display_name": "Bing Zhou",
+            "orcid": "https://orcid.org/0000-0002-6813-5265"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I176601375",
+              "display_name": "Khalifa University of Science and Technology",
+              "ror": "https://ror.org/05hffr360",
+              "country_code": "AE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I176601375"
+              ]
+            }
+          ],
+          "countries": [
+            "AE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Bing Zhou",
+          "raw_affiliation_strings": [
+            "Department of Earth Science, Khalifa University of Science and Technology , Abu Dhabi 127788 ,"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth Science, Khalifa University of Science and Technology , Abu Dhabi 127788 ,",
+              "institution_ids": [
+                "https://openalex.org/I176601375"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5054922583",
+            "display_name": "Abdullatif Al‐Shuhail",
+            "orcid": "https://orcid.org/0000-0002-2171-0154"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Abdullatif A Al-Shuhail",
+          "raw_affiliation_strings": [
+            "College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum and Minerals, PO Box 5086, Dhahran 31261, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum and Minerals, PO Box 5086, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5100644674",
+            "display_name": "Wei Zhou",
+            "orcid": "https://orcid.org/0009-0005-8205-1753"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Wei Zhou",
+          "raw_affiliation_strings": [
+            "College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum and Minerals, PO Box 5086, Dhahran 31261, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum and Minerals, PO Box 5086, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5091188360",
+            "display_name": "Bo Liu",
+            "orcid": "https://orcid.org/0000-0001-6615-1096"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Bo Liu",
+          "raw_affiliation_strings": [
+            "Research Center for Communication Systems and Sensing, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Research Center for Communication Systems and Sensing, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5086290026",
+            "display_name": "Qinzhuo Liao",
+            "orcid": "https://orcid.org/0000-0003-0223-7725"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I204553293",
+              "display_name": "China University of Petroleum, Beijing",
+              "ror": "https://ror.org/041qf4r12",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I204553293"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Qinzhuo Liao",
+          "raw_affiliation_strings": [
+            "College of Petroleum Engineering, China University of Petroleum, Beijing 102249, China"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "College of Petroleum Engineering, China University of Petroleum, Beijing 102249, China",
+              "institution_ids": [
+                "https://openalex.org/I204553293"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 3,
+      "institutions_distinct_count": 6,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": {
+        "value": 2590,
+        "currency": "GBP",
+        "value_usd": 3176
+      },
+      "apc_paid": {
+        "value": 2590,
+        "currency": "GBP",
+        "value_usd": 3176
+      },
+      "fwci": 3.01049475,
+      "has_fulltext": false,
+      "cited_by_count": 2,
+      "citation_normalized_percentile": {
+        "value": 0.80166568,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 95,
+        "max": 96
+      },
+      "biblio": {
+        "volume": "240",
+        "issue": "1",
+        "first_page": "13",
+        "last_page": "30"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11757",
+        "display_name": "Seismic Waves and Analysis",
+        "score": 0.9994999766349792,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1908",
+          "display_name": "Geophysics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11757",
+          "display_name": "Seismic Waves and Analysis",
+          "score": 0.9994999766349792,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10271",
+          "display_name": "Seismic Imaging and Inversion Techniques",
+          "score": 0.9991999864578247,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12233",
+          "display_name": "Geotechnical Engineering and Underground Structures",
+          "score": 0.9972000122070312,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2205",
+            "display_name": "Civil and Structural Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/slowness",
+          "display_name": "Slowness",
+          "score": 0.965242326259613
+        },
+        {
+          "id": "https://openalex.org/keywords/viscoelasticity",
+          "display_name": "Viscoelasticity",
+          "score": 0.6227105259895325
+        },
+        {
+          "id": "https://openalex.org/keywords/anisotropy",
+          "display_name": "Anisotropy",
+          "score": 0.5653510093688965
+        },
+        {
+          "id": "https://openalex.org/keywords/hamiltonian",
+          "display_name": "Hamiltonian (control theory)",
+          "score": 0.5281211137771606
+        },
+        {
+          "id": "https://openalex.org/keywords/physics",
+          "display_name": "Physics",
+          "score": 0.47832393646240234
+        },
+        {
+          "id": "https://openalex.org/keywords/energy-flux",
+          "display_name": "Energy flux",
+          "score": 0.46627214550971985
+        },
+        {
+          "id": "https://openalex.org/keywords/snells-law",
+          "display_name": "Snell's law",
+          "score": 0.45721742510795593
+        },
+        {
+          "id": "https://openalex.org/keywords/mathematical-analysis",
+          "display_name": "Mathematical analysis",
+          "score": 0.4331931173801422
+        },
+        {
+          "id": "https://openalex.org/keywords/classical-mechanics",
+          "display_name": "Classical mechanics",
+          "score": 0.388374924659729
+        },
+        {
+          "id": "https://openalex.org/keywords/optics",
+          "display_name": "Optics",
+          "score": 0.3477925658226013
+        },
+        {
+          "id": "https://openalex.org/keywords/geometry",
+          "display_name": "Geometry",
+          "score": 0.32689332962036133
+        },
+        {
+          "id": "https://openalex.org/keywords/mathematics",
+          "display_name": "Mathematics",
+          "score": 0.2647910714149475
+        },
+        {
+          "id": "https://openalex.org/keywords/quantum-mechanics",
+          "display_name": "Quantum mechanics",
+          "score": 0.11078032851219177
+        },
+        {
+          "id": "https://openalex.org/keywords/thermodynamics",
+          "display_name": "Thermodynamics",
+          "score": 0.08127608895301819
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C11940443",
+          "wikidata": "https://www.wikidata.org/wiki/Q16965645",
+          "display_name": "Slowness",
+          "level": 2,
+          "score": 0.965242326259613
+        },
+        {
+          "id": "https://openalex.org/C186541917",
+          "wikidata": "https://www.wikidata.org/wiki/Q910483",
+          "display_name": "Viscoelasticity",
+          "level": 2,
+          "score": 0.6227105259895325
+        },
+        {
+          "id": "https://openalex.org/C85725439",
+          "wikidata": "https://www.wikidata.org/wiki/Q466686",
+          "display_name": "Anisotropy",
+          "level": 2,
+          "score": 0.5653510093688965
+        },
+        {
+          "id": "https://openalex.org/C130787639",
+          "wikidata": "https://www.wikidata.org/wiki/Q5645293",
+          "display_name": "Hamiltonian (control theory)",
+          "level": 2,
+          "score": 0.5281211137771606
+        },
+        {
+          "id": "https://openalex.org/C121332964",
+          "wikidata": "https://www.wikidata.org/wiki/Q413",
+          "display_name": "Physics",
+          "level": 0,
+          "score": 0.47832393646240234
+        },
+        {
+          "id": "https://openalex.org/C55519028",
+          "wikidata": "https://www.wikidata.org/wiki/Q5377054",
+          "display_name": "Energy flux",
+          "level": 2,
+          "score": 0.46627214550971985
+        },
+        {
+          "id": "https://openalex.org/C90081545",
+          "wikidata": "https://www.wikidata.org/wiki/Q208391",
+          "display_name": "Snell's law",
+          "level": 3,
+          "score": 0.45721742510795593
+        },
+        {
+          "id": "https://openalex.org/C134306372",
+          "wikidata": "https://www.wikidata.org/wiki/Q7754",
+          "display_name": "Mathematical analysis",
+          "level": 1,
+          "score": 0.4331931173801422
+        },
+        {
+          "id": "https://openalex.org/C74650414",
+          "wikidata": "https://www.wikidata.org/wiki/Q11397",
+          "display_name": "Classical mechanics",
+          "level": 1,
+          "score": 0.388374924659729
+        },
+        {
+          "id": "https://openalex.org/C120665830",
+          "wikidata": "https://www.wikidata.org/wiki/Q14620",
+          "display_name": "Optics",
+          "level": 1,
+          "score": 0.3477925658226013
+        },
+        {
+          "id": "https://openalex.org/C2524010",
+          "wikidata": "https://www.wikidata.org/wiki/Q8087",
+          "display_name": "Geometry",
+          "level": 1,
+          "score": 0.32689332962036133
+        },
+        {
+          "id": "https://openalex.org/C33923547",
+          "wikidata": "https://www.wikidata.org/wiki/Q395",
+          "display_name": "Mathematics",
+          "level": 0,
+          "score": 0.2647910714149475
+        },
+        {
+          "id": "https://openalex.org/C62520636",
+          "wikidata": "https://www.wikidata.org/wiki/Q944",
+          "display_name": "Quantum mechanics",
+          "level": 1,
+          "score": 0.11078032851219177
+        },
+        {
+          "id": "https://openalex.org/C97355855",
+          "wikidata": "https://www.wikidata.org/wiki/Q11473",
+          "display_name": "Thermodynamics",
+          "level": 1,
+          "score": 0.08127608895301819
+        },
+        {
+          "id": "https://openalex.org/C126255220",
+          "wikidata": "https://www.wikidata.org/wiki/Q141495",
+          "display_name": "Mathematical optimization",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C205318122",
+          "wikidata": "https://www.wikidata.org/wiki/Q72277",
+          "display_name": "Refraction",
+          "level": 2,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1093/gji/ggae363",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1093/gji/ggae363",
+          "pdf_url": "https://academic.oup.com/gji/advance-article-pdf/doi/10.1093/gji/ggae363/59715498/ggae363.pdf",
+          "source": {
+            "id": "https://openalex.org/S108821158",
+            "display_name": "Geophysical Journal International",
+            "issn_l": "0956-540X",
+            "issn": [
+              "0956-540X",
+              "1365-246X"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310311648",
+            "host_organization_name": "Oxford University Press",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310311648",
+              "https://openalex.org/P4310311647"
+            ],
+            "host_organization_lineage_names": [
+              "Oxford University Press",
+              "University of Oxford"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Geophysical Journal International",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1093/gji/ggae363",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1093/gji/ggae363",
+        "pdf_url": "https://academic.oup.com/gji/advance-article-pdf/doi/10.1093/gji/ggae363/59715498/ggae363.pdf",
+        "source": {
+          "id": "https://openalex.org/S108821158",
+          "display_name": "Geophysical Journal International",
+          "issn_l": "0956-540X",
+          "issn": [
+            "0956-540X",
+            "1365-246X"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310311648",
+          "host_organization_name": "Oxford University Press",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310311648",
+            "https://openalex.org/P4310311647"
+          ],
+          "host_organization_lineage_names": [
+            "Oxford University Press",
+            "University of Oxford"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Geophysical Journal International",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.8700000047683716
+        }
+      ],
+      "awards": [
+        {
+          "id": "https://openalex.org/G1411698606",
+          "display_name": null,
+          "funder_award_id": "H2FC2311",
+          "funder_id": "https://openalex.org/F4320322323",
+          "funder_display_name": "King Fahd University of Petroleum and Minerals"
+        }
+      ],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320322323",
+          "display_name": "King Fahd University of Petroleum and Minerals",
+          "ror": "https://ror.org/03yez3163"
+        }
+      ],
+      "has_content": {
+        "pdf": true,
+        "grobid_xml": false
+      },
+      "referenced_works_count": 37,
+      "referenced_works": [
+        "https://openalex.org/W2298254826",
+        "https://openalex.org/W2120903141",
+        "https://openalex.org/W2080227130",
+        "https://openalex.org/W2326851115",
+        "https://openalex.org/W1996333244",
+        "https://openalex.org/W2024357010",
+        "https://openalex.org/W4244402928",
+        "https://openalex.org/W2134436049",
+        "https://openalex.org/W2123563979",
+        "https://openalex.org/W1970287537",
+        "https://openalex.org/W2094046716",
+        "https://openalex.org/W2099152253",
+        "https://openalex.org/W2032909446",
+        "https://openalex.org/W2095358357",
+        "https://openalex.org/W2118633324",
+        "https://openalex.org/W2001607792",
+        "https://openalex.org/W409091221",
+        "https://openalex.org/W1991463983",
+        "https://openalex.org/W2116355519",
+        "https://openalex.org/W3089451433",
+        "https://openalex.org/W3165457978",
+        "https://openalex.org/W3023291508",
+        "https://openalex.org/W3131862178",
+        "https://openalex.org/W2036685553",
+        "https://openalex.org/W4255085047",
+        "https://openalex.org/W2123419969",
+        "https://openalex.org/W2115726501",
+        "https://openalex.org/W2161997712",
+        "https://openalex.org/W2032687490",
+        "https://openalex.org/W4390945721",
+        "https://openalex.org/W3200255423",
+        "https://openalex.org/W4292155138",
+        "https://openalex.org/W3091650376",
+        "https://openalex.org/W2888303366",
+        "https://openalex.org/W4402190575",
+        "https://openalex.org/W4389405864",
+        "https://openalex.org/W2119276715"
+      ],
+      "related_works": [
+        "https://openalex.org/W3103461978",
+        "https://openalex.org/W2356299150",
+        "https://openalex.org/W4378230892",
+        "https://openalex.org/W2183532835",
+        "https://openalex.org/W1992068058",
+        "https://openalex.org/W2134436049",
+        "https://openalex.org/W2184424596",
+        "https://openalex.org/W2035725409",
+        "https://openalex.org/W2044845334",
+        "https://openalex.org/W2962855174"
+      ],
+      "abstract_inverted_index": {
+        "SUMMARY": [
+          0
+        ],
+        "A": [
+          1
+        ],
+        "g*-Hamiltonian": [
+          2,
+          29
+        ],
+        "method": [
+          3,
+          30,
+          212,
+          240,
+          329
+        ],
+        "for": [
+          4,
+          161,
+          200,
+          217,
+          244,
+          300,
+          309,
+          317
+        ],
+        "tracing": [
+          5,
+          247
+        ],
+        "real": [
+          6,
+          38,
+          57,
+          68,
+          76,
+          245
+        ],
+        "rays": [
+          7
+        ],
+        "was": [
+          8,
+          221
+        ],
+        "developed": [
+          9
+        ],
+        "that": [
+          10,
+          27,
+          104,
+          131,
+          228,
+          326
+        ],
+        "can": [
+          11,
+          31,
+          241
+        ],
+        "handle": [
+          12
+        ],
+        "cusps": [
+          13
+        ],
+        "and": [
+          14,
+          39,
+          42,
+          48,
+          158,
+          172,
+          183,
+          196,
+          232,
+          255,
+          272
+        ],
+        "triplication": [
+          15
+        ],
+        "of": [
+          16,
+          46,
+          66,
+          70,
+          86,
+          133,
+          146,
+          155,
+          251
+        ],
+        "quasi-shear": [
+          17
+        ],
+        "wave": [
+          18
+        ],
+        "in": [
+          19,
+          168,
+          187,
+          189,
+          296
+        ],
+        "a": [
+          20,
+          116,
+          144,
+          222
+        ],
+        "general": [
+          21
+        ],
+        "viscoelastic": [
+          22,
+          148,
+          252
+        ],
+        "anisotropic": [
+          23,
+          149,
+          253,
+          298
+        ],
+        "medium.": [
+          24
+        ],
+        "We": [
+          25,
+          129,
+          323
+        ],
+        "demonstrate": [
+          26
+        ],
+        "the": [
+          28,
+          43,
+          52,
+          56,
+          64,
+          67,
+          71,
+          75,
+          83,
+          87,
+          95,
+          153,
+          156,
+          170,
+          190,
+          204,
+          210,
+          214,
+          229,
+          238,
+          249,
+          256,
+          267,
+          270,
+          277,
+          284,
+          304,
+          310,
+          327,
+          331,
+          335
+        ],
+        "produce": [
+          32
+        ],
+        "homogeneous": [
+          33,
+          292
+        ],
+        "ray-velocity": [
+          34
+        ],
+        "vectors": [
+          35,
+          45
+        ],
+        "(with": [
+          36
+        ],
+        "parallel": [
+          37
+        ],
+        "imaginary": [
+          40
+        ],
+        "parts)": [
+          41
+        ],
+        "slowness": [
+          44,
+          72,
+          77,
+          88
+        ],
+        "reflected": [
+          47
+        ],
+        "transmitted": [
+          49
+        ],
+        "waves": [
+          50,
+          164
+        ],
+        "at": [
+          51,
+          143,
+          248
+        ],
+        "interface": [
+          53,
+          250
+        ],
+        "based": [
+          54,
+          93
+        ],
+        "on": [
+          55,
+          94
+        ],
+        "Snell's": [
+          58,
+          140
+        ],
+        "law": [
+          59,
+          141
+        ],
+        "(RSL),": [
+          60
+        ],
+        "which": [
+          61,
+          81,
+          125,
+          169,
+          220,
+          290,
+          320
+        ],
+        "constrains": [
+          62
+        ],
+        "only": [
+          63
+        ],
+        "continuity": [
+          65
+        ],
+        "parts": [
+          69
+        ],
+        "vectors,": [
+          73
+        ],
+        "or": [
+          74
+        ],
+        "direction": [
+          78
+        ],
+        "(RSD)": [
+          79
+        ],
+        "method,": [
+          80
+        ],
+        "ignores": [
+          82
+        ],
+        "inhomogeneous": [
+          84
+        ],
+        "component": [
+          85
+        ],
+        "vector.": [
+          89
+        ],
+        "These": [
+          90
+        ],
+        "methods": [
+          91,
+          106,
+          160,
+          174,
+          185,
+          274
+        ],
+        "are": [
+          92,
+          107
+        ],
+        "characteristic": [
+          96
+        ],
+        "lines": [
+          97
+        ],
+        "with": [
+          98,
+          138,
+          237
+        ],
+        "different": [
+          99
+        ],
+        "Hamiltonians.": [
+          100
+        ],
+        "Our": [
+          101,
+          225
+        ],
+        "research": [
+          102
+        ],
+        "indicates": [
+          103
+        ],
+        "these": [
+          105
+        ],
+        "limited": [
+          108
+        ],
+        "to": [
+          109,
+          176,
+          287
+        ],
+        "pre-critical": [
+          110
+        ],
+        "incidence": [
+          111,
+          167
+        ],
+        "ranges.": [
+          112
+        ],
+        "Moreover,": [
+          113
+        ],
+        "we": [
+          114
+        ],
+        "derived": [
+          115
+        ],
+        "complex": [
+          117,
+          139,
+          257
+        ],
+        "energy": [
+          118,
+          135,
+          197,
+          230,
+          233,
+          258,
+          305
+        ],
+        "velocity": [
+          119,
+          136,
+          231,
+          260,
+          294
+        ],
+        "vector": [
+          120,
+          261
+        ],
+        "(energy": [
+          121
+        ],
+        "flux": [
+          122,
+          259,
+          306
+        ],
+        "velocity)": [
+          123
+        ],
+        "expression,": [
+          124
+        ],
+        "is": [
+          126,
+          262,
+          313,
+          321
+        ],
+        "always": [
+          127,
+          263
+        ],
+        "homogenous.": [
+          128
+        ],
+        "found": [
+          130
+        ],
+        "directions": [
+          132
+        ],
+        "corresponding": [
+          134
+        ],
+        "calculated": [
+          137
+        ],
+        "(CSL)": [
+          142
+        ],
+        "contact": [
+          145
+        ],
+        "two": [
+          147
+        ],
+        "materials": [
+          150,
+          299
+        ],
+        "well": [
+          151
+        ],
+        "match": [
+          152
+        ],
+        "solutions": [
+          154
+        ],
+        "RSL": [
+          157,
+          171,
+          182,
+          271
+        ],
+        "RSD": [
+          159,
+          173,
+          184,
+          211,
+          273,
+          301,
+          336
+        ],
+        "all": [
+          162,
+          314
+        ],
+        "R/T": [
+          163,
+          194
+        ],
+        "except": [
+          165
+        ],
+        "post-critical": [
+          166,
+          201,
+          268,
+          318
+        ],
+        "fail": [
+          175,
+          275
+        ],
+        "obtain": [
+          177
+        ],
+        "homogenous": [
+          178
+        ],
+        "ray": [
+          179,
+          191,
+          246,
+          278,
+          293
+        ],
+        "velocities.": [
+          180
+        ],
+        "The": [
+          181
+        ],
+        "result": [
+          186
+        ],
+        "discrepancies": [
+          188
+        ],
+        "quality": [
+          192,
+          234,
+          279,
+          307
+        ],
+        "factor,": [
+          193
+        ],
+        "coefficients,": [
+          195
+        ],
+        "ratios,": [
+          198
+        ],
+        "especially": [
+          199
+        ],
+        "incidence.": [
+          202
+        ],
+        "However,": [
+          203,
+          303
+        ],
+        "exact": [
+          205
+        ],
+        "critical": [
+          206
+        ],
+        "angle": [
+          207,
+          216
+        ],
+        "determined": [
+          208
+        ],
+        "by": [
+          209
+        ],
+        "approximates": [
+          213
+        ],
+        "‘critical’": [
+          215
+        ],
+        "anelastic/inhomogeneous": [
+          218
+        ],
+        "waves,": [
+          219
+        ],
+        "previous": [
+          223
+        ],
+        "challenge.": [
+          224
+        ],
+        "calculations": [
+          226
+        ],
+        "suggest": [
+          227
+        ],
+        "factor": [
+          235,
+          280,
+          308
+        ],
+        "obtained": [
+          236
+        ],
+        "CSL": [
+          239,
+          328
+        ],
+        "be": [
+          242
+        ],
+        "used": [
+          243
+        ],
+        "media,": [
+          254
+        ],
+        "exactly": [
+          264
+        ],
+        "homogeneous.": [
+          265
+        ],
+        "For": [
+          266
+        ],
+        "incidence,": [
+          269,
+          319
+        ],
+        "because": [
+          276
+        ],
+        "drastically": [
+          281
+        ],
+        "changes": [
+          282
+        ],
+        "from": [
+          283
+        ],
+        "infinite": [
+          285
+        ],
+        "down": [
+          286
+        ],
+        "near": [
+          288
+        ],
+        "2,": [
+          289
+        ],
+        "contradicts": [
+          291
+        ],
+        "even": [
+          295,
+          316
+        ],
+        "elastic": [
+          297
+        ],
+        "method.": [
+          302,
+          337
+        ],
+        "elastic-anisotropic": [
+          311
+        ],
+        "material": [
+          312
+        ],
+        "infinite,": [
+          315
+        ],
+        "correct.": [
+          322
+        ],
+        "also": [
+          324
+        ],
+        "show": [
+          325
+        ],
+        "has": [
+          330
+        ],
+        "same": [
+          332
+        ],
+        "efficiency": [
+          333
+        ],
+        "as": [
+          334
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2025-12-27T23:08:20.325037",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -71842,16 +71842,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.7699999809265137,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.7699999809265137
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -72727,16 +72727,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.6800000071525574,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.6800000071525574
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "referenced_works_count": 13,
       "referenced_works": [
@@ -73759,16 +73759,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8600000143051147,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8600000143051147
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "referenced_works_count": 28,
       "referenced_works": [
@@ -74587,8 +74587,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -75521,9 +75521,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.699999988079071,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.699999988079071
         }
       ],
       "awards": [
@@ -75543,8 +75543,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 14,
       "referenced_works": [
@@ -75974,8 +75974,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 39,
       "referenced_works": [
@@ -77115,8 +77115,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 53,
       "referenced_works": [
@@ -77702,9 +77702,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7400000095367432,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.7400000095367432
         }
       ],
       "awards": [],
@@ -77721,8 +77721,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 8,
       "referenced_works": [
@@ -78632,16 +78632,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.75,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.75
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 11,
       "referenced_works": [
@@ -79778,8 +79778,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 46,
       "referenced_works": [
@@ -80337,8 +80337,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -81004,8 +81004,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 30,
       "referenced_works": [
@@ -82217,9 +82217,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6499999761581421,
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "score": 0.6499999761581421
         }
       ],
       "awards": [],
@@ -82236,8 +82236,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 29,
       "referenced_works": [
@@ -83255,8 +83255,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "referenced_works_count": 14,
       "referenced_works": [
@@ -84410,8 +84410,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -85427,16 +85427,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.550000011920929,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.550000011920929
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 5,
       "referenced_works": [
@@ -86257,8 +86257,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 5,
       "referenced_works": [
@@ -86980,8 +86980,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -87689,8 +87689,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 10,
       "referenced_works": [
@@ -88525,8 +88525,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 12,
       "referenced_works": [
@@ -89322,16 +89322,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8100000023841858,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.8100000023841858
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 2,
       "referenced_works": [
@@ -90335,8 +90335,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 38,
       "referenced_works": [
@@ -91287,8 +91287,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 5,
       "referenced_works": [
@@ -92114,16 +92114,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8999999761581421,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.8999999761581421
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 13,
       "referenced_works": [
@@ -92872,8 +92872,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "referenced_works_count": 42,
       "referenced_works": [
@@ -93613,8 +93613,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 3,
       "referenced_works": [
@@ -94355,8 +94355,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 18,
       "referenced_works": [
@@ -95222,16 +95222,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5400000214576721,
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "score": 0.5400000214576721
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -96072,8 +96072,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -97028,8 +97028,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 7,
       "referenced_works": [
@@ -97886,16 +97886,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.6899999976158142,
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "score": 0.6899999976158142
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "referenced_works_count": 4,
       "referenced_works": [
@@ -98673,16 +98673,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.9100000262260437,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.9100000262260437
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -99639,8 +99639,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 10,
       "referenced_works": [
@@ -100405,8 +100405,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -101056,8 +101056,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -101579,8 +101579,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -102404,16 +102404,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4000000059604645,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.4000000059604645
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -103066,8 +103066,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -103934,8 +103934,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 11,
       "referenced_works": [
@@ -104868,8 +104868,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -105591,16 +105591,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8399999737739563,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.8399999737739563
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -106081,8 +106081,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 18,
       "referenced_works": [
@@ -107028,16 +107028,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.5
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -107746,16 +107746,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7599999904632568,
           "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11"
+          "id": "https://metadata.un.org/sdg/11",
+          "score": 0.7599999904632568
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 1,
       "referenced_works": [
@@ -108453,8 +108453,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -108986,16 +108986,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.75,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.75
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 1,
       "referenced_works": [
@@ -109664,8 +109664,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -110378,8 +110378,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 32,
       "referenced_works": [
@@ -111291,8 +111291,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 25,
       "referenced_works": [
@@ -112188,8 +112188,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 3,
       "referenced_works": [
@@ -112981,8 +112981,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "referenced_works_count": 37,
       "referenced_works": [
@@ -114179,16 +114179,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6000000238418579,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.6000000238418579
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -114755,7 +114755,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.12273967,
+        "value": 0.12265074,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -115040,8 +115040,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 19,
       "referenced_works": [
@@ -115062,8 +115062,8 @@
         "https://openalex.org/W3016266047",
         "https://openalex.org/W2009777725",
         "https://openalex.org/W3003120323",
-        "https://openalex.org/W2363598966",
-        "https://openalex.org/W3127651791"
+        "https://openalex.org/W3127651791",
+        "https://openalex.org/W2363598966"
       ],
       "related_works": [
         "https://openalex.org/W2058940780",
@@ -115559,8 +115559,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -116021,16 +116021,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8399999737739563,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8399999737739563
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 41,
       "referenced_works": [
@@ -117042,8 +117042,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 92,
       "referenced_works": [
@@ -117767,8 +117767,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 62,
       "referenced_works": [
@@ -118833,16 +118833,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7400000095367432,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.7400000095367432
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 34,
       "referenced_works": [
@@ -119312,8 +119312,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 21,
       "referenced_works": [
@@ -120151,8 +120151,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "referenced_works_count": 39,
       "referenced_works": [
@@ -121145,8 +121145,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 40,
       "referenced_works": [
@@ -122305,8 +122305,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 16,
       "referenced_works": [
@@ -122569,8 +122569,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 15,
       "referenced_works": [
@@ -123140,8 +123140,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -123349,8 +123349,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 51,
       "referenced_works": [

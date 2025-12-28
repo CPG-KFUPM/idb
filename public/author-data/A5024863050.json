@@ -817,8 +817,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6399999856948853
+          "score": 0.6399999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -6281,8 +6281,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.7200000286102295
+          "score": 0.7200000286102295,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -8593,8 +8593,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5299999713897705
+          "score": 0.5299999713897705,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],

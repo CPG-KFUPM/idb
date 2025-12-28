@@ -37514,8 +37514,145 @@
       "is_xpac": false,
       "primary_topic": null,
       "topics": [],
-      "keywords": [],
-      "concepts": [],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/dashboard",
+          "display_name": "Dashboard",
+          "score": 0.785876989364624
+        },
+        {
+          "id": "https://openalex.org/keywords/analytics",
+          "display_name": "Analytics",
+          "score": 0.5241353511810303
+        },
+        {
+          "id": "https://openalex.org/keywords/restructuring",
+          "display_name": "Restructuring",
+          "score": 0.47311919927597046
+        },
+        {
+          "id": "https://openalex.org/keywords/troubleshooting",
+          "display_name": "Troubleshooting",
+          "score": 0.44532737135887146
+        },
+        {
+          "id": "https://openalex.org/keywords/filter",
+          "display_name": "Filter (signal processing)",
+          "score": 0.43578770756721497
+        },
+        {
+          "id": "https://openalex.org/keywords/workflow",
+          "display_name": "Workflow",
+          "score": 0.3158920407295227
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C33499554",
+          "wikidata": "https://www.wikidata.org/wiki/Q1417134",
+          "display_name": "Dashboard",
+          "level": 2,
+          "score": 0.785876989364624
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.6812209486961365
+        },
+        {
+          "id": "https://openalex.org/C136764020",
+          "wikidata": "https://www.wikidata.org/wiki/Q466",
+          "display_name": "World Wide Web",
+          "level": 1,
+          "score": 0.5602324604988098
+        },
+        {
+          "id": "https://openalex.org/C79158427",
+          "wikidata": "https://www.wikidata.org/wiki/Q485396",
+          "display_name": "Analytics",
+          "level": 2,
+          "score": 0.5241353511810303
+        },
+        {
+          "id": "https://openalex.org/C45237549",
+          "wikidata": "https://www.wikidata.org/wiki/Q1376796",
+          "display_name": "Restructuring",
+          "level": 2,
+          "score": 0.47311919927597046
+        },
+        {
+          "id": "https://openalex.org/C147494362",
+          "wikidata": "https://www.wikidata.org/wiki/Q2078905",
+          "display_name": "Troubleshooting",
+          "level": 2,
+          "score": 0.44532737135887146
+        },
+        {
+          "id": "https://openalex.org/C106131492",
+          "wikidata": "https://www.wikidata.org/wiki/Q3072260",
+          "display_name": "Filter (signal processing)",
+          "level": 2,
+          "score": 0.43578770756721497
+        },
+        {
+          "id": "https://openalex.org/C2522767166",
+          "wikidata": "https://www.wikidata.org/wiki/Q2374463",
+          "display_name": "Data science",
+          "level": 1,
+          "score": 0.3583432734012604
+        },
+        {
+          "id": "https://openalex.org/C177212765",
+          "wikidata": "https://www.wikidata.org/wiki/Q627335",
+          "display_name": "Workflow",
+          "level": 2,
+          "score": 0.3158920407295227
+        },
+        {
+          "id": "https://openalex.org/C77088390",
+          "wikidata": "https://www.wikidata.org/wiki/Q8513",
+          "display_name": "Database",
+          "level": 1,
+          "score": 0.30782032012939453
+        },
+        {
+          "id": "https://openalex.org/C47487241",
+          "wikidata": "https://www.wikidata.org/wiki/Q5227230",
+          "display_name": "Data access",
+          "level": 2,
+          "score": 0.28322532773017883
+        },
+        {
+          "id": "https://openalex.org/C175801342",
+          "wikidata": "https://www.wikidata.org/wiki/Q1988917",
+          "display_name": "Data analysis",
+          "level": 2,
+          "score": 0.27141043543815613
+        },
+        {
+          "id": "https://openalex.org/C133462117",
+          "wikidata": "https://www.wikidata.org/wiki/Q4929239",
+          "display_name": "Data collection",
+          "level": 2,
+          "score": 0.26873403787612915
+        },
+        {
+          "id": "https://openalex.org/C93996380",
+          "wikidata": "https://www.wikidata.org/wiki/Q44127",
+          "display_name": "Server",
+          "level": 2,
+          "score": 0.2609975337982178
+        },
+        {
+          "id": "https://openalex.org/C20136886",
+          "wikidata": "https://www.wikidata.org/wiki/Q749647",
+          "display_name": "Interoperability",
+          "level": 2,
+          "score": 0.2504635453224182
+        }
+      ],
       "mesh": [],
       "locations_count": 1,
       "locations": [

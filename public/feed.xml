@@ -4,7 +4,7 @@
     <title>Integrative Dashboard - OpenAlex Feed</title>
     <link>https://digitalgeosciences.github.io/dashboard3.2/</link>
     <description>Recent publications with OpenAlex abstracts and topics.</description>
-    <lastBuildDate>Sat, 27 Dec 2025 20:25:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Dec 2025 20:26:17 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>A Review of Foamed CO &lt;sub&gt;2&lt;/sub&gt; Dynamics during Geo-Sequestration in Deep Saline Aquifers</title>
@@ -27,7 +27,12 @@
       <guid isPermaLink="false">https://openalex.org/W7117128083</guid>
       <dc:creator>Abdullah Alqubalee</dc:creator>
       <dc:publisher>Zenodo (CERN European Organization for Nuclear Research)</dc:publisher>
-      <description>Abstract: An offline, data-driven research analytics app that uses locally cached OpenAlex data to keep navigation fast and accessible without relying on live API calls. It helps you explore publications and citations by topic, institution, and member over the years, inspect co-author networks and follow links to publication DOIs or URLs, and filter instantly with precomputed tables—no waiting for remote queries. The latest updates include: Enhancements to the user interface. Restructuring of files for improved organization Repairing broken links Resolving mojibake issues in CSV exports.&#10;Venue: Zenodo (CERN European Organization for Nuclear Research)&#10;Year: 2025&#10;Citations: 0</description>
+      <category>Dashboard</category>
+      <category>Computer science</category>
+      <category>World Wide Web</category>
+      <category>Analytics</category>
+      <category>Restructuring</category>
+      <description>Abstract: An offline, data-driven research analytics app that uses locally cached OpenAlex data to keep navigation fast and accessible without relying on live API calls. It helps you explore publications and citations by topic, institution, and member over the years, inspect co-author networks and follow links to publication DOIs or URLs, and filter instantly with precomputed tables—no waiting for remote queries. The latest updates include: Enhancements to the user interface. Restructuring of files for improved organization Repairing broken links Resolving mojibake issues in CSV exports.&#10;Topics: Dashboard, Computer science, World Wide Web, Analytics, Restructuring&#10;Venue: Zenodo (CERN European Organization for Nuclear Research)&#10;Year: 2025&#10;Citations: 0</description>
     </item>
     <item>
       <title>Gauge-Invariant Long-Wavelength TDDFT Without Empty States: From Polarizability to Kubo Conductivity Across Heterogeneous Materials</title>
@@ -218,6 +223,15 @@
       <dc:creator>Abdul Ahad Manzoor, Xiao Deng, Mohammed Alotaibi, Mohanad Fahmi, Syed Muhammad Shakil Hussain, Mohamed Mahmoud, Muhammad Shahzad Kamal, Shirish Patil</dc:creator>
       <dc:publisher>Energy &amp; Fuels</dc:publisher>
       <description>Venue: Energy &amp; Fuels&#10;Year: 2025&#10;Citations: 0</description>
+    </item>
+    <item>
+      <title>Induced polarization effects in transient electromagnetic data: A case study from the Hawiah volcanogenic massive sulfide deposit in Saudi Arabia</title>
+      <link>https://doi.org/10.1016/j.jappgeo.2025.106084</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W7117362764</guid>
+      <dc:creator>Hesham El-Kaliouby, Juntao Lu, Panagiotis Kirmizakis, Abid Khogali, Tim Eatwell, Tomos Bryan, Pantelis Soupios</dc:creator>
+      <dc:publisher>Journal of Applied Geophysics</dc:publisher>
+      <description>Venue: Journal of Applied Geophysics&#10;Year: 2025&#10;Citations: 0</description>
     </item>
     <item>
       <title>Sedimentological and diagenetic controls on burrow fillings in the upper Jurassic Hanifa formation, central Saudi Arabia: Implications for porosity and pore system variations in bioturbated reservoirs</title>
@@ -895,15 +909,6 @@
       <dc:creator>Mariam Abiola Akanbi-Gada, Haroon Olamilekan Abdullahi, Abdulazeez Abdulraheem, Ridwan Onituwo Abdulganiyu, Abdulrasheed Adio, Najeemdeen Bolaji Abiodun, Omolara Faith Amubieya, A.T. Agboola</dc:creator>
       <dc:publisher>BIMA JOURNAL OF SCIENCE AND TECHNOLOGY GOMBE</dc:publisher>
       <description>Abstract: Vehicular emissions are a major source of urban pollution, releasing heavy metals and other toxicants that impair soil quality and threaten food safety. This study evaluated the impact of traffic-derived pollutants on soil physicochemical properties, heavy metal accumulation, and non-enzymatic antioxidant responses of Celosia argentea, a common leafy vegetable in Nigeria. Soil and plant samples were collected from three roadside stations with varying traffic densities and a rural control site in Ilorin, North-Central Nigeria. Soil pH, electrical conductivity (EC), organic carbon, nitrogen, phosphorus, exchangeable cations, and heavy metals were determined using standard procedures, while non-enzymatic antioxidants (ascorbic acid, phenolics, flavonoids, and carotenoids) were quantified spectrophotometrically. Results revealed significant spatial variation (p ≤ 0.05) in soil quality and heavy metal content. Station 1 (high traffic) recorded the lowest pH (6.08 ± 0.02), highest EC (275.67± 18.09 dS/m), and elevated Pb (3.01 ± 0.01 mg/kg), Cd (0.49 ± 0.01 mg/kg), Cu (2.73 ± 0.02 mg/kg), and Zn (3.60 ± 0.02 mg/kg), relative to other sites. C. argentea from polluted stations accumulated higher levels of these metals, accompanied by increased non-enzymatic antioxidant activities, suggesting an adaptive response to vehicular stress. Interestingly, carotenoid levels remained stable across all sites, highlighting their inherent resilience and essential role in photosynthetic protection…&#10;Venue: BIMA JOURNAL OF SCIENCE AND TECHNOLOGY GOMBE&#10;Year: 2025&#10;Citations: 0</description>
-    </item>
-    <item>
-      <title>Clay-driven dolomitization at moderate to high temperatures: Evidence from hydrothermal experiments</title>
-      <link>https://doi.org/10.1130/g53737.1</link>
-      <pubDate>Wed, 24 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4414459744</guid>
-      <dc:creator>Abdulwahab Muhammad Bello, Abduljamiu O. Amao, Anas Muhammad Salisu, Khalid Al‐Ramadan</dc:creator>
-      <dc:publisher>Geology</dc:publisher>
-      <description>Abstract: Abstract Dolomite formation remains a debated topic in sedimentary geology, particularly concerning the mechanisms driving its precipitation under natural conditions. While microbial processes have been well studied, the influence of abiotic factors, such as clay minerals, is less understood. This study uses hydrothermal reactor experiments at 80–250 °C to examine the role of clay minerals in post-compactional dolomitization. Results show that smectite and illite effectively promote dolomitization by providing nucleation sites and aiding Mg2+ dehydration through their highly negative surface charges. In contrast, kaolinite and dickite were less effective due to their charge neutrality. In calcite-kaolinite mixtures, dolomite formed at 200 °C when kaolinite partially converted to smectite but was inhibited at 250 °C due to dickite formation. Samples containing only calcite showed little to no dolomite formation, highlighting the role of reactive clays. Dolomitization occurred through two mechanisms: (1) complete calcite dissolution followed by dolomite nucleation, and (2) recrystallization with progressive Mg incorporation. These findings support clay-catalyzed dolomitization as a significant abiotic pathway in ancient muddy carbonates and mixed clastic-carbonate systems.&#10;Venue: Geology&#10;Year: 2025&#10;Citations: 0</description>
     </item>
   </channel>
 </rss>

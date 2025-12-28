@@ -4,7 +4,7 @@
     <title>Integrative Dashboard - Publications</title>
     <link>https://digitalgeosciences.github.io/dashboard3.2/</link>
     <description>Recent publications from the Integrative Geosciences dashboard.</description>
-    <lastBuildDate>Sat, 27 Dec 2025 20:25:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Dec 2025 20:26:16 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>A Review of Foamed CO &lt;sub&gt;2&lt;/sub&gt; Dynamics during Geo-Sequestration in Deep Saline Aquifers</title>
@@ -203,6 +203,15 @@
       <dc:creator>Abdul Ahad Manzoor; Xiao Deng; Mohammed Alotaibi; Mohanad Fahmi; Syed Muhammad Shakil Hussain; Mohamed Mahmoud; Muhammad Shahzad Kamal; Shirish Patil</dc:creator>
       <dc:publisher>Energy &amp; Fuels</dc:publisher>
       <description>Authors: Abdul Ahad Manzoor; Xiao Deng; Mohammed Alotaibi; Mohanad Fahmi; Syed Muhammad Shakil Hussain; Mohamed Mahmoud; Muhammad Shahzad Kamal; Shirish Patil | Venue: Energy &amp; Fuels | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1021/acs.energyfuels.5c04766 | OpenAlex: https://openalex.org/W4416952831</description>
+    </item>
+    <item>
+      <title>Induced polarization effects in transient electromagnetic data: A case study from the Hawiah volcanogenic massive sulfide deposit in Saudi Arabia</title>
+      <link>https://doi.org/10.1016/j.jappgeo.2025.106084</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W7117362764</guid>
+      <dc:creator>Hesham El-Kaliouby; Juntao Lu; Panagiotis Kirmizakis; Abid Khogali; Tim Eatwell; Tomos Bryan; Pantelis Soupios</dc:creator>
+      <dc:publisher>Journal of Applied Geophysics</dc:publisher>
+      <description>Authors: Hesham El-Kaliouby; Juntao Lu; Panagiotis Kirmizakis; Abid Khogali; Tim Eatwell; Tomos Bryan; Pantelis Soupios | Venue: Journal of Applied Geophysics | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1016/j.jappgeo.2025.106084 | OpenAlex: https://openalex.org/W7117362764</description>
     </item>
     <item>
       <title>Sedimentological and diagenetic controls on burrow fillings in the upper Jurassic Hanifa formation, central Saudi Arabia: Implications for porosity and pore system variations in bioturbated reservoirs</title>
@@ -880,15 +889,6 @@
       <dc:creator>Mariam Abiola Akanbi-Gada; Haroon Olamilekan Abdullahi; Abdulazeez Abdulraheem; Ridwan Onituwo Abdulganiyu; Abdulrasheed Adio; Najeemdeen Bolaji Abiodun; Omolara Faith Amubieya; A.T. Agboola</dc:creator>
       <dc:publisher>BIMA JOURNAL OF SCIENCE AND TECHNOLOGY GOMBE</dc:publisher>
       <description>Authors: Mariam Abiola Akanbi-Gada; Haroon Olamilekan Abdullahi; Abdulazeez Abdulraheem; Ridwan Onituwo Abdulganiyu; Abdulrasheed Adio; Najeemdeen Bolaji Abiodun; Omolara Faith Amubieya; A.T. Agboola | Venue: BIMA JOURNAL OF SCIENCE AND TECHNOLOGY GOMBE | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.64290/bima.v9i3a.1340 | OpenAlex: https://openalex.org/W4415060409</description>
-    </item>
-    <item>
-      <title>Clay-driven dolomitization at moderate to high temperatures: Evidence from hydrothermal experiments</title>
-      <link>https://doi.org/10.1130/g53737.1</link>
-      <pubDate>Wed, 24 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4414459744</guid>
-      <dc:creator>Abdulwahab Muhammad Bello; Abduljamiu O. Amao; Anas Muhammad Salisu; Khalid Al‐Ramadan</dc:creator>
-      <dc:publisher>Geology</dc:publisher>
-      <description>Authors: Abdulwahab Muhammad Bello; Abduljamiu O. Amao; Anas Muhammad Salisu; Khalid Al‐Ramadan | Venue: Geology | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1130/g53737.1 | OpenAlex: https://openalex.org/W4414459744</description>
     </item>
   </channel>
 </rss>

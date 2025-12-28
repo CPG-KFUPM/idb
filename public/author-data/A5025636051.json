@@ -991,8 +991,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 60,
       "referenced_works": [
@@ -1661,15 +1661,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.5799999833106995,
-          "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure"
+          "display_name": "Industry, innovation and infrastructure",
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 156,
       "referenced_works": [
@@ -3177,8 +3177,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 55,
       "referenced_works": [
@@ -4533,8 +4533,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 45,
       "referenced_works": [
@@ -5201,8 +5201,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 21,
       "referenced_works": [
@@ -5872,8 +5872,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 19,
       "referenced_works": [
@@ -6532,15 +6532,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.4300000071525574,
-          "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production"
+          "display_name": "Responsible consumption and production",
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 22,
       "referenced_works": [
@@ -7994,8 +7994,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.41999998688697815,
-          "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production"
+          "display_name": "Responsible consumption and production",
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "awards": [],
@@ -8007,8 +8007,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 34,
       "referenced_works": [
@@ -8689,8 +8689,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 24,
       "referenced_works": [
@@ -10276,15 +10276,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.6200000047683716,
-          "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 23,
       "referenced_works": [
@@ -11621,8 +11621,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.7799999713897705,
-          "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -11634,8 +11634,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 52,
       "referenced_works": [
@@ -12312,8 +12312,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 53,
       "referenced_works": [
@@ -13630,8 +13630,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 32,
       "referenced_works": [
@@ -14468,8 +14468,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.44999998807907104,
-          "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
@@ -14481,8 +14481,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 28,
       "referenced_works": [
@@ -15567,8 +15567,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8199999928474426,
-          "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -15580,8 +15580,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 64,
       "referenced_works": [
@@ -16340,8 +16340,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 54,
       "referenced_works": [
@@ -17523,8 +17523,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 36,
       "referenced_works": [
@@ -18323,8 +18323,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 23,
       "referenced_works": [
@@ -19512,8 +19512,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.699999988079071,
-          "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -19525,8 +19525,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 39,
       "referenced_works": [
@@ -20132,8 +20132,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 88,
       "referenced_works": [
@@ -20911,8 +20911,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 30,
       "referenced_works": [
@@ -22014,8 +22014,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 25,
       "referenced_works": [
@@ -23159,15 +23159,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.7099999785423279,
-          "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 68,
       "referenced_works": [
@@ -23905,8 +23905,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 23,
       "referenced_works": [
@@ -25212,8 +25212,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 63,
       "referenced_works": [
@@ -25965,15 +25965,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.5,
-          "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 36,
       "referenced_works": [
@@ -27327,8 +27327,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 37,
       "referenced_works": [
@@ -28818,8 +28818,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 35,
       "referenced_works": [
@@ -30190,8 +30190,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 46,
       "referenced_works": [
@@ -31527,15 +31527,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.5,
-          "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 38,
       "referenced_works": [
@@ -32128,15 +32128,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.7300000190734863,
-          "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 17,
       "referenced_works": [
@@ -33461,15 +33461,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.4099999964237213,
-          "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 40,
       "referenced_works": [
@@ -34711,8 +34711,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 33,
       "referenced_works": [
@@ -35971,15 +35971,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.4300000071525574,
-          "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 20,
       "referenced_works": [
@@ -37317,8 +37317,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 44,
       "referenced_works": [
@@ -37988,8 +37988,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -38835,8 +38835,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 29,
       "referenced_works": [
@@ -39931,8 +39931,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -40820,15 +40820,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.8299999833106995,
-          "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 40,
       "referenced_works": [
@@ -42019,8 +42019,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 33,
       "referenced_works": [
@@ -42354,7 +42354,7 @@
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.7796078,
+        "value": 0.77934176,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -42821,8 +42821,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.4399999976158142,
-          "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -42834,8 +42834,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "referenced_works_count": 29,
       "referenced_works": [
@@ -42865,9 +42865,9 @@
         "https://openalex.org/W2065154675",
         "https://openalex.org/W2313017742",
         "https://openalex.org/W3128978303",
+        "https://openalex.org/W4302051266",
         "https://openalex.org/W1541510137",
-        "https://openalex.org/W2565662054",
-        "https://openalex.org/W4302051266"
+        "https://openalex.org/W2565662054"
       ],
       "related_works": [
         "https://openalex.org/W2897903382",
@@ -43921,8 +43921,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 21,
       "referenced_works": [
@@ -45257,8 +45257,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.47999998927116394,
-          "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -45270,8 +45270,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 18,
       "referenced_works": [
@@ -45804,15 +45804,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.6100000143051147,
-          "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 24,
       "referenced_works": [
@@ -46912,8 +46912,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 51,
       "referenced_works": [
@@ -47398,8 +47398,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -47840,8 +47840,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 16,
       "referenced_works": [
@@ -49173,8 +49173,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 31,
       "referenced_works": [
@@ -50503,8 +50503,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 44,
       "referenced_works": [
@@ -51624,8 +51624,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 56,
       "referenced_works": [
@@ -52735,8 +52735,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 26,
       "referenced_works": [
@@ -53663,8 +53663,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 6,
       "referenced_works": [
@@ -54292,15 +54292,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.7300000190734863,
-          "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -55810,8 +55810,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.5099999904632568,
-          "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
@@ -55823,8 +55823,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "referenced_works_count": 23,
       "referenced_works": [
@@ -56896,8 +56896,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -57536,15 +57536,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.699999988079071,
-          "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -58466,15 +58466,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.6100000143051147,
-          "id": "https://metadata.un.org/sdg/2",
-          "display_name": "Zero hunger"
+          "display_name": "Zero hunger",
+          "id": "https://metadata.un.org/sdg/2"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 26,
       "referenced_works": [
@@ -58962,8 +58962,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.5699999928474426,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -58975,8 +58975,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 38,
       "referenced_works": [
@@ -59988,15 +59988,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.5400000214576721,
-          "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production"
+          "display_name": "Responsible consumption and production",
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 53,
       "referenced_works": [
@@ -60445,8 +60445,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 21,
       "referenced_works": [
@@ -60719,8 +60719,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 15,
       "referenced_works": [
@@ -61677,8 +61677,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 35,
       "referenced_works": [
@@ -62424,8 +62424,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 21,
       "referenced_works": [
@@ -62743,8 +62743,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 21,
       "referenced_works": [

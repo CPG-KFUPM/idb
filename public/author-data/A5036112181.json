@@ -851,9 +851,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6000000238418579,
           "display_name": "Industry, innovation and infrastructure",
-          "id": "https://metadata.un.org/sdg/9"
+          "id": "https://metadata.un.org/sdg/9",
+          "score": 0.6000000238418579
         }
       ],
       "awards": [],
@@ -1890,9 +1890,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.75,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.75
         }
       ],
       "awards": [
@@ -7139,9 +7139,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6200000047683716,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.6200000047683716
         }
       ],
       "awards": [],
@@ -7895,9 +7895,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7200000286102295,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.7200000286102295
         }
       ],
       "awards": [],
@@ -8573,9 +8573,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.800000011920929,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.800000011920929
         }
       ],
       "awards": [],
@@ -9965,14 +9965,14 @@
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Department of Petroleum Engineering",
-              "institution_ids": []
-            },
-            {
               "raw_affiliation_string": "King Fahd University of Petroleum & Minerals",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
+            },
+            {
+              "raw_affiliation_string": "Department of Petroleum Engineering",
+              "institution_ids": []
             }
           ]
         },
@@ -10052,14 +10052,14 @@
               "institution_ids": []
             },
             {
+              "raw_affiliation_string": "Center for Integrative Petroleum Research",
+              "institution_ids": []
+            },
+            {
               "raw_affiliation_string": "King Fahd University of Petroleum & Minerals",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
-            },
-            {
-              "raw_affiliation_string": "Center for Integrative Petroleum Research",
-              "institution_ids": []
             }
           ]
         },
@@ -10175,14 +10175,14 @@
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Center for Integrative Petroleum Research",
-              "institution_ids": []
-            },
-            {
               "raw_affiliation_string": "King Fahd University of Petroleum & Minerals",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
+            },
+            {
+              "raw_affiliation_string": "Center for Integrative Petroleum Research",
+              "institution_ids": []
             }
           ]
         }
@@ -10198,7 +10198,7 @@
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.98293133,
+        "value": 0.98021794,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -10608,7 +10608,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2025-12-27T23:08:20.325037",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -11221,9 +11221,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5799999833106995,
           "display_name": "Industry, innovation and infrastructure",
-          "id": "https://metadata.un.org/sdg/9"
+          "id": "https://metadata.un.org/sdg/9",
+          "score": 0.5799999833106995
         }
       ],
       "awards": [],
@@ -12814,9 +12814,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7099999785423279,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.7099999785423279
         }
       ],
       "awards": [],
@@ -14103,9 +14103,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.44999998807907104,
           "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12"
+          "id": "https://metadata.un.org/sdg/12",
+          "score": 0.44999998807907104
         }
       ],
       "awards": [],
@@ -14739,9 +14739,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.44999998807907104,
           "display_name": "Industry, innovation and infrastructure",
-          "id": "https://metadata.un.org/sdg/9"
+          "id": "https://metadata.un.org/sdg/9",
+          "score": 0.44999998807907104
         }
       ],
       "awards": [],
@@ -15705,9 +15705,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5199999809265137,
           "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12"
+          "id": "https://metadata.un.org/sdg/12",
+          "score": 0.5199999809265137
         }
       ],
       "awards": [],

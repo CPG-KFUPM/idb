@@ -1108,9 +1108,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "score": 0.5099999904632568,
-          "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [
@@ -1817,9 +1817,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "score": 0.6399999856948853,
-          "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [
@@ -2925,9 +2925,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "score": 0.8600000143051147,
-          "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [
@@ -3836,9 +3836,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "score": 0.7200000286102295,
-          "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [
@@ -6861,9 +6861,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "score": 0.6100000143051147,
-          "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -8657,9 +8657,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "score": 0.5299999713897705,
-          "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -9388,9 +9388,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/9",
           "score": 0.4399999976158142,
-          "display_name": "Industry, innovation and infrastructure",
-          "id": "https://metadata.un.org/sdg/9"
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [],
@@ -10724,9 +10724,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "score": 0.47999998927116394,
-          "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -11719,9 +11719,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.5699999928474426,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "awards": [
@@ -12500,9 +12500,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "score": 0.6700000166893005,
-          "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -15039,9 +15039,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "score": 0.46000000834465027,
-          "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -15916,7 +15916,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.64321361,
+        "value": 0.63732277,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16225,9 +16225,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.6899999976158142,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -16330,18 +16330,18 @@
         "https://openalex.org/W2413778174",
         "https://openalex.org/W2611424285",
         "https://openalex.org/W2029188744",
-        "https://openalex.org/W4206105069",
-        "https://openalex.org/W4212773366",
-        "https://openalex.org/W4365451773",
-        "https://openalex.org/W4229709421",
-        "https://openalex.org/W3004327159",
+        "https://openalex.org/W2317481205",
         "https://openalex.org/W4312648657",
         "https://openalex.org/W3035188260",
-        "https://openalex.org/W4379347728",
-        "https://openalex.org/W2317481205",
-        "https://openalex.org/W2943098170",
-        "https://openalex.org/W3205419042",
+        "https://openalex.org/W4212773366",
         "https://openalex.org/W2935817180",
+        "https://openalex.org/W3004327159",
+        "https://openalex.org/W4379347728",
+        "https://openalex.org/W4365451773",
+        "https://openalex.org/W3205419042",
+        "https://openalex.org/W2943098170",
+        "https://openalex.org/W4229709421",
+        "https://openalex.org/W4206105069",
         "https://openalex.org/W3207433824"
       ],
       "related_works": [
@@ -16363,7 +16363,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2025-12-27T23:08:20.325037",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -20100,9 +20100,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/10",
           "score": 0.6399999856948853,
-          "display_name": "Reduced inequalities",
-          "id": "https://metadata.un.org/sdg/10"
+          "display_name": "Reduced inequalities"
         }
       ],
       "awards": [],
