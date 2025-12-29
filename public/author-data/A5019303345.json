@@ -1219,9 +1219,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8600000143051147,
+          "display_name": "Zero hunger",
           "id": "https://metadata.un.org/sdg/2",
-          "display_name": "Zero hunger"
+          "score": 0.8600000143051147
         }
       ],
       "awards": [],
@@ -3457,9 +3457,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8399999737739563,
+          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "score": 0.8399999737739563
         }
       ],
       "awards": [],
@@ -4150,9 +4150,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8600000143051147,
+          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "score": 0.8600000143051147
         }
       ],
       "awards": [],
@@ -5478,9 +5478,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.46000000834465027,
+          "display_name": "Zero hunger",
           "id": "https://metadata.un.org/sdg/2",
-          "display_name": "Zero hunger"
+          "score": 0.46000000834465027
         }
       ],
       "awards": [],
@@ -7240,9 +7240,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8600000143051147,
+          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "score": 0.8600000143051147
         }
       ],
       "awards": [
@@ -9211,9 +9211,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6899999976158142,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "score": 0.6899999976158142
         }
       ],
       "awards": [
@@ -11299,9 +11299,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8700000047683716,
+          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "score": 0.8700000047683716
         }
       ],
       "awards": [],
@@ -12066,9 +12066,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8600000143051147,
+          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "score": 0.8600000143051147
         }
       ],
       "awards": [
@@ -14848,9 +14848,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.7699999809265137,
+          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "score": 0.7699999809265137
         }
       ],
       "awards": [],
@@ -15764,9 +15764,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.41999998688697815,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.41999998688697815
         }
       ],
       "awards": [],
@@ -17142,9 +17142,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.6100000143051147,
+          "display_name": "Life in Land",
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land"
+          "score": 0.6100000143051147
         }
       ],
       "awards": [],
@@ -18536,9 +18536,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.6899999976158142,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.6899999976158142
         }
       ],
       "awards": [],
@@ -19525,9 +19525,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.41999998688697815,
+          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "score": 0.41999998688697815
         }
       ],
       "awards": [],
@@ -20621,9 +20621,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.46000000834465027,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.46000000834465027
         }
       ],
       "awards": [],
@@ -24124,9 +24124,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.44999998807907104,
+          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure"
+          "score": 0.44999998807907104
         }
       ],
       "awards": [],
@@ -26251,9 +26251,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4399999976158142,
+          "display_name": "Life in Land",
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land"
+          "score": 0.4399999976158142
         }
       ],
       "awards": [],
@@ -27530,9 +27530,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8399999737739563,
+          "display_name": "Zero hunger",
           "id": "https://metadata.un.org/sdg/2",
-          "display_name": "Zero hunger"
+          "score": 0.8399999737739563
         }
       ],
       "awards": [],
@@ -28040,6 +28040,1202 @@
         }
       ],
       "updated_date": "2025-11-06T03:46:38.306776",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4407623559",
+      "doi": "https://doi.org/10.3390/min15020186",
+      "title": "Mapping Sulphide Mineralization in the Hawiah Area Using Transient Electromagnetic Methods",
+      "display_name": "Mapping Sulphide Mineralization in the Hawiah Area Using Transient Electromagnetic Methods",
+      "publication_year": 2025,
+      "publication_date": "2025-02-17",
+      "ids": {
+        "openalex": "https://openalex.org/W4407623559",
+        "doi": "https://doi.org/10.3390/min15020186"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.3390/min15020186",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3390/min15020186",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S2737336974",
+          "display_name": "Minerals",
+          "issn_l": "2075-163X",
+          "issn": [
+            "2075-163X"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310310987",
+          "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310310987"
+          ],
+          "host_organization_lineage_names": [
+            "Multidisciplinary Digital Publishing Institute"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Minerals",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://doi.org/10.3390/min15020186",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5019303345",
+            "display_name": "Panagiotis Kirmizakis",
+            "orcid": "https://orcid.org/0000-0002-2723-7855"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Panagiotis Kirmizakis",
+          "raw_affiliation_strings": [
+            "Center for Integrative Petroleum Research, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5007783400",
+            "display_name": "Abid Khogali",
+            "orcid": "https://orcid.org/0000-0002-5750-3309"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Abid Khogali",
+          "raw_affiliation_strings": [
+            "Department of Geosciences, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geosciences, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5005128141",
+            "display_name": "Konstantinos Chavanidis",
+            "orcid": "https://orcid.org/0000-0002-1565-6489"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Konstantinos Chavanidis",
+          "raw_affiliation_strings": [
+            "Department of Geosciences, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geosciences, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5116289642",
+            "display_name": "Timothy Eatwell",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Timothy Eatwell",
+          "raw_affiliation_strings": [
+            "Gold & Minerals Company Ltd., Bishah 64731, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Gold & Minerals Company Ltd., Bishah 64731, Saudi Arabia",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5116289643",
+            "display_name": "Tomos Bryan",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Tomos Bryan",
+          "raw_affiliation_strings": [
+            "Gold & Minerals Company Ltd., Bishah 64731, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Gold & Minerals Company Ltd., Bishah 64731, Saudi Arabia",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5008213975",
+            "display_name": "Pantelis Soupios",
+            "orcid": "https://orcid.org/0000-0002-4153-3415"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Pantelis Soupios",
+          "raw_affiliation_strings": [
+            "Department of Geosciences, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geosciences, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 6,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": {
+        "value": 2000,
+        "currency": "CHF",
+        "value_usd": 2165
+      },
+      "apc_paid": {
+        "value": 2000,
+        "currency": "CHF",
+        "value_usd": 2165
+      },
+      "fwci": 14.45923544,
+      "has_fulltext": false,
+      "cited_by_count": 3,
+      "citation_normalized_percentile": {
+        "value": 0.97918901,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 96,
+        "max": 97
+      },
+      "biblio": {
+        "volume": "15",
+        "issue": "2",
+        "first_page": "186",
+        "last_page": "186"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T12157",
+        "display_name": "Geochemistry and Geologic Mapping",
+        "score": 0.9994999766349792,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1702",
+          "display_name": "Artificial Intelligence"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T12157",
+          "display_name": "Geochemistry and Geologic Mapping",
+          "score": 0.9994999766349792,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10572",
+          "display_name": "Geophysical and Geoelectrical Methods",
+          "score": 0.9993000030517578,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11609",
+          "display_name": "Geophysical Methods and Applications",
+          "score": 0.9983000159263611,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2212",
+            "display_name": "Ocean Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/mineralization",
+          "display_name": "Mineralization (soil science)",
+          "score": 0.7316532731056213
+        },
+        {
+          "id": "https://openalex.org/keywords/transient",
+          "display_name": "Transient (computer programming)",
+          "score": 0.5963362455368042
+        },
+        {
+          "id": "https://openalex.org/keywords/environmental-science",
+          "display_name": "Environmental science",
+          "score": 0.5099152326583862
+        },
+        {
+          "id": "https://openalex.org/keywords/environmental-chemistry",
+          "display_name": "Environmental chemistry",
+          "score": 0.41306784749031067
+        },
+        {
+          "id": "https://openalex.org/keywords/mineralogy",
+          "display_name": "Mineralogy",
+          "score": 0.39125171303749084
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.3302684724330902
+        },
+        {
+          "id": "https://openalex.org/keywords/chemistry",
+          "display_name": "Chemistry",
+          "score": 0.30927038192749023
+        },
+        {
+          "id": "https://openalex.org/keywords/soil-science",
+          "display_name": "Soil science",
+          "score": 0.2872782349586487
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.10912242531776428
+        },
+        {
+          "id": "https://openalex.org/keywords/soil-water",
+          "display_name": "Soil water",
+          "score": 0.0786626935005188
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C111696902",
+          "wikidata": "https://www.wikidata.org/wiki/Q6864413",
+          "display_name": "Mineralization (soil science)",
+          "level": 3,
+          "score": 0.7316532731056213
+        },
+        {
+          "id": "https://openalex.org/C2780799671",
+          "wikidata": "https://www.wikidata.org/wiki/Q17087362",
+          "display_name": "Transient (computer programming)",
+          "level": 2,
+          "score": 0.5963362455368042
+        },
+        {
+          "id": "https://openalex.org/C39432304",
+          "wikidata": "https://www.wikidata.org/wiki/Q188847",
+          "display_name": "Environmental science",
+          "level": 0,
+          "score": 0.5099152326583862
+        },
+        {
+          "id": "https://openalex.org/C107872376",
+          "wikidata": "https://www.wikidata.org/wiki/Q321355",
+          "display_name": "Environmental chemistry",
+          "level": 1,
+          "score": 0.41306784749031067
+        },
+        {
+          "id": "https://openalex.org/C199289684",
+          "wikidata": "https://www.wikidata.org/wiki/Q83353",
+          "display_name": "Mineralogy",
+          "level": 1,
+          "score": 0.39125171303749084
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.3302684724330902
+        },
+        {
+          "id": "https://openalex.org/C185592680",
+          "wikidata": "https://www.wikidata.org/wiki/Q2329",
+          "display_name": "Chemistry",
+          "level": 0,
+          "score": 0.30927038192749023
+        },
+        {
+          "id": "https://openalex.org/C159390177",
+          "wikidata": "https://www.wikidata.org/wiki/Q9161265",
+          "display_name": "Soil science",
+          "level": 1,
+          "score": 0.2872782349586487
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.10912242531776428
+        },
+        {
+          "id": "https://openalex.org/C159750122",
+          "wikidata": "https://www.wikidata.org/wiki/Q96621023",
+          "display_name": "Soil water",
+          "level": 2,
+          "score": 0.0786626935005188
+        },
+        {
+          "id": "https://openalex.org/C111919701",
+          "wikidata": "https://www.wikidata.org/wiki/Q9135",
+          "display_name": "Operating system",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.3390/min15020186",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.3390/min15020186",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S2737336974",
+            "display_name": "Minerals",
+            "issn_l": "2075-163X",
+            "issn": [
+              "2075-163X"
+            ],
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310310987",
+            "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310310987"
+            ],
+            "host_organization_lineage_names": [
+              "Multidisciplinary Digital Publishing Institute"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Minerals",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.3390/min15020186",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3390/min15020186",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S2737336974",
+          "display_name": "Minerals",
+          "issn_l": "2075-163X",
+          "issn": [
+            "2075-163X"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310310987",
+          "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310310987"
+          ],
+          "host_organization_lineage_names": [
+            "Multidisciplinary Digital Publishing Institute"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Minerals",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "referenced_works_count": 41,
+      "referenced_works": [
+        "https://openalex.org/W2139564482",
+        "https://openalex.org/W2065471838",
+        "https://openalex.org/W3122982851",
+        "https://openalex.org/W2174216460",
+        "https://openalex.org/W2039438134",
+        "https://openalex.org/W2139025935",
+        "https://openalex.org/W2175772604",
+        "https://openalex.org/W2083253928",
+        "https://openalex.org/W2095633464",
+        "https://openalex.org/W2008056984",
+        "https://openalex.org/W2051870429",
+        "https://openalex.org/W2046593869",
+        "https://openalex.org/W2033102396",
+        "https://openalex.org/W2604512930",
+        "https://openalex.org/W1601706052",
+        "https://openalex.org/W325118406",
+        "https://openalex.org/W2150606133",
+        "https://openalex.org/W2076403176",
+        "https://openalex.org/W4391671255",
+        "https://openalex.org/W4224995153",
+        "https://openalex.org/W2485142276",
+        "https://openalex.org/W2971703238",
+        "https://openalex.org/W1967011165",
+        "https://openalex.org/W4361204457",
+        "https://openalex.org/W6785872914",
+        "https://openalex.org/W4394575395",
+        "https://openalex.org/W2606736767",
+        "https://openalex.org/W1983801093",
+        "https://openalex.org/W4210695799",
+        "https://openalex.org/W2146648217",
+        "https://openalex.org/W4229074891",
+        "https://openalex.org/W1966706163",
+        "https://openalex.org/W6869698087",
+        "https://openalex.org/W3112352837",
+        "https://openalex.org/W1975691376",
+        "https://openalex.org/W3042471378",
+        "https://openalex.org/W2087628391",
+        "https://openalex.org/W2064178555",
+        "https://openalex.org/W2161464081",
+        "https://openalex.org/W3102997184",
+        "https://openalex.org/W4399188310"
+      ],
+      "related_works": [
+        "https://openalex.org/W1526398043",
+        "https://openalex.org/W2094955567",
+        "https://openalex.org/W3178470992",
+        "https://openalex.org/W2027141232",
+        "https://openalex.org/W2040016745",
+        "https://openalex.org/W2050309075",
+        "https://openalex.org/W2408945782",
+        "https://openalex.org/W2324615561",
+        "https://openalex.org/W2035119604",
+        "https://openalex.org/W2050435256"
+      ],
+      "abstract_inverted_index": {
+        "30": [
+          54
+        ],
+        "800": [
+          68
+        ],
+        "950": [
+          66
+        ],
+        "The": [
+          0,
+          41,
+          163,
+          188
+        ],
+        "Arabian–Nubian": [
+          1
+        ],
+        "Shield": [
+          2
+        ],
+        "(ANS)": [
+          3
+        ],
+        "hosts": [
+          4,
+          36
+        ],
+        "numerous": [
+          5
+        ],
+        "volcanogenic": [
+          6
+        ],
+        "massive": [
+          7
+        ],
+        "sulphide": [
+          8,
+          128
+        ],
+        "(VMS)": [
+          9
+        ],
+        "deposits": [
+          10,
+          34,
+          210
+        ],
+        "formed": [
+          11
+        ],
+        "in": [
+          12,
+          204,
+          211,
+          223,
+          240
+        ],
+        "submarine": [
+          13
+        ],
+        "volcanic": [
+          14
+        ],
+        "settings": [
+          15
+        ],
+        "and": [
+          16,
+          37,
+          67,
+          123,
+          133,
+          139,
+          150,
+          177,
+          181,
+          195,
+          206,
+          226
+        ],
+        "enriched": [
+          17
+        ],
+        "by": [
+          18
+        ],
+        "hydrothermal": [
+          19
+        ],
+        "processes,": [
+          20
+        ],
+        "making": [
+          21
+        ],
+        "it": [
+          22,
+          35
+        ],
+        "a": [
+          23,
+          98,
+          234
+        ],
+        "critical": [
+          24,
+          144
+        ],
+        "region": [
+          25
+        ],
+        "for": [
+          26,
+          237
+        ],
+        "mineral": [
+          27,
+          74,
+          209,
+          238
+        ],
+        "exploration": [
+          28,
+          239
+        ],
+        "due": [
+          29
+        ],
+        "to": [
+          30,
+          80,
+          87,
+          105,
+          118,
+          135
+        ],
+        "the": [
+          31,
+          49,
+          76,
+          95,
+          103,
+          120,
+          147,
+          153,
+          158,
+          186,
+          199,
+          218,
+          224,
+          228,
+          241
+        ],
+        "types": [
+          32
+        ],
+        "of": [
+          33,
+          127,
+          152,
+          190,
+          201,
+          220,
+          230
+        ],
+        "its": [
+          38,
+          73
+        ],
+        "geological": [
+          39,
+          194,
+          213
+        ],
+        "complexity.": [
+          40
+        ],
+        "Wadi": [
+          42
+        ],
+        "Bidah": [
+          43
+        ],
+        "Mineral": [
+          44
+        ],
+        "Belt": [
+          45
+        ],
+        "(WBMB),": [
+          46
+        ],
+        "located": [
+          47
+        ],
+        "within": [
+          48,
+          102
+        ],
+        "Arabian": [
+          50,
+          242
+        ],
+        "Shield,": [
+          51
+        ],
+        "contains": [
+          52
+        ],
+        "over": [
+          53
+        ],
+        "polymetallic": [
+          55
+        ],
+        "VMS": [
+          56,
+          100,
+          221
+        ],
+        "occurrences": [
+          57
+        ],
+        "associated": [
+          58
+        ],
+        "with": [
+          59,
+          83,
+          173,
+          193
+        ],
+        "an": [
+          60
+        ],
+        "island": [
+          61
+        ],
+        "arc": [
+          62
+        ],
+        "system": [
+          63
+        ],
+        "active": [
+          64
+        ],
+        "between": [
+          65
+        ],
+        "million": [
+          69
+        ],
+        "years": [
+          70
+        ],
+        "ago.": [
+          71
+        ],
+        "Despite": [
+          72
+        ],
+        "potential,": [
+          75
+        ],
+        "WBMB": [
+          77,
+          225
+        ],
+        "still": [
+          78
+        ],
+        "needs": [
+          79
+        ],
+        "be": [
+          81
+        ],
+        "explored,": [
+          82
+        ],
+        "limited": [
+          84
+        ],
+        "geophysical": [
+          85
+        ],
+        "studies": [
+          86
+        ],
+        "support": [
+          88
+        ],
+        "resource": [
+          89
+        ],
+        "evaluation.": [
+          90
+        ],
+        "This": [
+          91,
+          215
+        ],
+        "study": [
+          92,
+          216
+        ],
+        "focuses": [
+          93
+        ],
+        "on": [
+          94,
+          157
+        ],
+        "Hawiah": [
+          96
+        ],
+        "area,": [
+          97
+        ],
+        "prominent": [
+          99
+        ],
+        "site": [
+          101
+        ],
+        "WBMB,": [
+          104
+        ],
+        "delineate": [
+          106
+        ],
+        "subsurface": [
+          107
+        ],
+        "mineralization": [
+          108
+        ],
+        "using": [
+          109
+        ],
+        "transient": [
+          110
+        ],
+        "electromagnetic": [
+          111
+        ],
+        "(TEM)": [
+          112
+        ],
+        "methods.": [
+          113
+        ],
+        "TEM": [
+          114,
+          191,
+          231
+        ],
+        "surveys": [
+          115,
+          232
+        ],
+        "were": [
+          116,
+          131
+        ],
+        "conducted": [
+          117
+        ],
+        "characterize": [
+          119
+        ],
+        "conductivity": [
+          121
+        ],
+        "structure": [
+          122
+        ],
+        "identify": [
+          124
+        ],
+        "potential": [
+          125,
+          229
+        ],
+        "zones": [
+          126,
+          155
+        ],
+        "mineralization.": [
+          129
+        ],
+        "Data": [
+          130
+        ],
+        "processed": [
+          132
+        ],
+        "inverted": [
+          134
+        ],
+        "generate": [
+          136
+        ],
+        "1D,": [
+          137
+        ],
+        "2D,": [
+          138
+        ],
+        "3D": [
+          140,
+          160
+        ],
+        "resistivity": [
+          141,
+          161
+        ],
+        "models,": [
+          142
+        ],
+        "providing": [
+          143
+        ],
+        "insights": [
+          145
+        ],
+        "into": [
+          146,
+          185
+        ],
+        "depth,": [
+          148
+        ],
+        "geometry,": [
+          149
+        ],
+        "continuity": [
+          151
+        ],
+        "mineralized": [
+          154
+        ],
+        "based": [
+          156
+        ],
+        "final": [
+          159
+        ],
+        "distribution.": [
+          162
+        ],
+        "results": [
+          164,
+          192
+        ],
+        "revealed": [
+          165
+        ],
+        "distinct": [
+          166
+        ],
+        "conductive": [
+          167
+        ],
+        "(very": [
+          168
+        ],
+        "low": [
+          169
+        ],
+        "resistivity)": [
+          170
+        ],
+        "anomalies,": [
+          171
+        ],
+        "correlating": [
+          172
+        ],
+        "known": [
+          174
+        ],
+        "surface": [
+          175
+        ],
+        "gossans": [
+          176
+        ],
+        "inferred": [
+          178
+        ],
+        "sulphide-rich": [
+          179
+        ],
+        "layers,": [
+          180
+        ],
+        "extended": [
+          182
+        ],
+        "these": [
+          183
+        ],
+        "features": [
+          184
+        ],
+        "subsurface.": [
+          187
+        ],
+        "integration": [
+          189
+        ],
+        "geochemical": [
+          196
+        ],
+        "data": [
+          197
+        ],
+        "highlights": [
+          198
+        ],
+        "effectiveness": [
+          200
+        ],
+        "this": [
+          202
+        ],
+        "approach": [
+          203
+        ],
+        "detecting": [
+          205
+        ],
+        "mapping": [
+          207
+        ],
+        "concealed": [
+          208
+        ],
+        "complex": [
+          212
+        ],
+        "environments.": [
+          214
+        ],
+        "advances": [
+          217
+        ],
+        "understanding": [
+          219
+        ],
+        "systems": [
+          222
+        ],
+        "demonstrates": [
+          227
+        ],
+        "as": [
+          233
+        ],
+        "key": [
+          235
+        ],
+        "tool": [
+          236
+        ],
+        "Shield.": [
+          243
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 3
+        }
+      ],
+      "updated_date": "2025-12-28T23:10:05.387466",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -29117,9 +30313,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7200000286102295,
+          "display_name": "Life in Land",
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land"
+          "score": 0.7200000286102295
         }
       ],
       "awards": [
@@ -31099,7 +32295,7 @@
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.7956276,
+        "value": 0.79552554,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -31329,9 +32525,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5299999713897705,
+          "display_name": "Life in Land",
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land"
+          "score": 0.5299999713897705
         }
       ],
       "awards": [],
@@ -31847,9 +33043,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6399999856948853,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.6399999856948853
         }
       ],
       "awards": [],
@@ -32623,9 +33819,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5,
+          "display_name": "Responsible consumption and production",
           "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production"
+          "score": 0.5
         }
       ],
       "awards": [],
@@ -33704,9 +34900,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.41999998688697815,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.41999998688697815
         }
       ],
       "awards": [],
@@ -34672,9 +35868,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.7400000095367432,
+          "display_name": "Sustainable cities and communities",
           "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities"
+          "score": 0.7400000095367432
         }
       ],
       "awards": [
@@ -36690,9 +37886,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.49000000953674316,
+          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure"
+          "score": 0.49000000953674316
         }
       ],
       "awards": [],
@@ -38167,9 +39363,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.550000011920929,
+          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "score": 0.550000011920929
         }
       ],
       "awards": [
@@ -38718,1202 +39914,6 @@
         }
       ],
       "updated_date": "2025-12-22T23:10:17.713674",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W4407623559",
-      "doi": "https://doi.org/10.3390/min15020186",
-      "title": "Mapping Sulphide Mineralization in the Hawiah Area Using Transient Electromagnetic Methods",
-      "display_name": "Mapping Sulphide Mineralization in the Hawiah Area Using Transient Electromagnetic Methods",
-      "publication_year": 2025,
-      "publication_date": "2025-02-17",
-      "ids": {
-        "openalex": "https://openalex.org/W4407623559",
-        "doi": "https://doi.org/10.3390/min15020186"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.3390/min15020186",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.3390/min15020186",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S2737336974",
-          "display_name": "Minerals",
-          "issn_l": "2075-163X",
-          "issn": [
-            "2075-163X"
-          ],
-          "is_oa": true,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310310987",
-          "host_organization_name": "Multidisciplinary Digital Publishing Institute",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310310987"
-          ],
-          "host_organization_lineage_names": [
-            "Multidisciplinary Digital Publishing Institute"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Minerals",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "gold",
-        "oa_url": "https://doi.org/10.3390/min15020186",
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5019303345",
-            "display_name": "Panagiotis Kirmizakis",
-            "orcid": "https://orcid.org/0000-0002-2723-7855"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Panagiotis Kirmizakis",
-          "raw_affiliation_strings": [
-            "Center for Integrative Petroleum Research, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5007783400",
-            "display_name": "Abid Khogali",
-            "orcid": "https://orcid.org/0000-0002-5750-3309"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Abid Khogali",
-          "raw_affiliation_strings": [
-            "Department of Geosciences, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geosciences, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5005128141",
-            "display_name": "Konstantinos Chavanidis",
-            "orcid": "https://orcid.org/0000-0002-1565-6489"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Konstantinos Chavanidis",
-          "raw_affiliation_strings": [
-            "Department of Geosciences, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geosciences, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5116289642",
-            "display_name": "Timothy Eatwell",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Timothy Eatwell",
-          "raw_affiliation_strings": [
-            "Gold & Minerals Company Ltd., Bishah 64731, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Gold & Minerals Company Ltd., Bishah 64731, Saudi Arabia",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5116289643",
-            "display_name": "Tomos Bryan",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Tomos Bryan",
-          "raw_affiliation_strings": [
-            "Gold & Minerals Company Ltd., Bishah 64731, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Gold & Minerals Company Ltd., Bishah 64731, Saudi Arabia",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5008213975",
-            "display_name": "Pantelis Soupios",
-            "orcid": "https://orcid.org/0000-0002-4153-3415"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Pantelis Soupios",
-          "raw_affiliation_strings": [
-            "Department of Geosciences, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geosciences, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 6,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
-      "apc_list": {
-        "value": 2000,
-        "currency": "CHF",
-        "value_usd": 2165
-      },
-      "apc_paid": {
-        "value": 2000,
-        "currency": "CHF",
-        "value_usd": 2165
-      },
-      "fwci": 4.81974515,
-      "has_fulltext": false,
-      "cited_by_count": 1,
-      "citation_normalized_percentile": {
-        "value": 0.92881875,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 91,
-        "max": 95
-      },
-      "biblio": {
-        "volume": "15",
-        "issue": "2",
-        "first_page": "186",
-        "last_page": "186"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T12157",
-        "display_name": "Geochemistry and Geologic Mapping",
-        "score": 0.9994999766349792,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1702",
-          "display_name": "Artificial Intelligence"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/17",
-          "display_name": "Computer Science"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T12157",
-          "display_name": "Geochemistry and Geologic Mapping",
-          "score": 0.9994999766349792,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1702",
-            "display_name": "Artificial Intelligence"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/17",
-            "display_name": "Computer Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10572",
-          "display_name": "Geophysical and Geoelectrical Methods",
-          "score": 0.9993000030517578,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11609",
-          "display_name": "Geophysical Methods and Applications",
-          "score": 0.9983000159263611,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2212",
-            "display_name": "Ocean Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/mineralization",
-          "display_name": "Mineralization (soil science)",
-          "score": 0.7316532731056213
-        },
-        {
-          "id": "https://openalex.org/keywords/transient",
-          "display_name": "Transient (computer programming)",
-          "score": 0.5963362455368042
-        },
-        {
-          "id": "https://openalex.org/keywords/environmental-science",
-          "display_name": "Environmental science",
-          "score": 0.5099152326583862
-        },
-        {
-          "id": "https://openalex.org/keywords/environmental-chemistry",
-          "display_name": "Environmental chemistry",
-          "score": 0.41306784749031067
-        },
-        {
-          "id": "https://openalex.org/keywords/mineralogy",
-          "display_name": "Mineralogy",
-          "score": 0.39125171303749084
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.3302684724330902
-        },
-        {
-          "id": "https://openalex.org/keywords/chemistry",
-          "display_name": "Chemistry",
-          "score": 0.30927038192749023
-        },
-        {
-          "id": "https://openalex.org/keywords/soil-science",
-          "display_name": "Soil science",
-          "score": 0.2872782349586487
-        },
-        {
-          "id": "https://openalex.org/keywords/computer-science",
-          "display_name": "Computer science",
-          "score": 0.10912242531776428
-        },
-        {
-          "id": "https://openalex.org/keywords/soil-water",
-          "display_name": "Soil water",
-          "score": 0.0786626935005188
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C111696902",
-          "wikidata": "https://www.wikidata.org/wiki/Q6864413",
-          "display_name": "Mineralization (soil science)",
-          "level": 3,
-          "score": 0.7316532731056213
-        },
-        {
-          "id": "https://openalex.org/C2780799671",
-          "wikidata": "https://www.wikidata.org/wiki/Q17087362",
-          "display_name": "Transient (computer programming)",
-          "level": 2,
-          "score": 0.5963362455368042
-        },
-        {
-          "id": "https://openalex.org/C39432304",
-          "wikidata": "https://www.wikidata.org/wiki/Q188847",
-          "display_name": "Environmental science",
-          "level": 0,
-          "score": 0.5099152326583862
-        },
-        {
-          "id": "https://openalex.org/C107872376",
-          "wikidata": "https://www.wikidata.org/wiki/Q321355",
-          "display_name": "Environmental chemistry",
-          "level": 1,
-          "score": 0.41306784749031067
-        },
-        {
-          "id": "https://openalex.org/C199289684",
-          "wikidata": "https://www.wikidata.org/wiki/Q83353",
-          "display_name": "Mineralogy",
-          "level": 1,
-          "score": 0.39125171303749084
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.3302684724330902
-        },
-        {
-          "id": "https://openalex.org/C185592680",
-          "wikidata": "https://www.wikidata.org/wiki/Q2329",
-          "display_name": "Chemistry",
-          "level": 0,
-          "score": 0.30927038192749023
-        },
-        {
-          "id": "https://openalex.org/C159390177",
-          "wikidata": "https://www.wikidata.org/wiki/Q9161265",
-          "display_name": "Soil science",
-          "level": 1,
-          "score": 0.2872782349586487
-        },
-        {
-          "id": "https://openalex.org/C41008148",
-          "wikidata": "https://www.wikidata.org/wiki/Q21198",
-          "display_name": "Computer science",
-          "level": 0,
-          "score": 0.10912242531776428
-        },
-        {
-          "id": "https://openalex.org/C159750122",
-          "wikidata": "https://www.wikidata.org/wiki/Q96621023",
-          "display_name": "Soil water",
-          "level": 2,
-          "score": 0.0786626935005188
-        },
-        {
-          "id": "https://openalex.org/C111919701",
-          "wikidata": "https://www.wikidata.org/wiki/Q9135",
-          "display_name": "Operating system",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.3390/min15020186",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.3390/min15020186",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S2737336974",
-            "display_name": "Minerals",
-            "issn_l": "2075-163X",
-            "issn": [
-              "2075-163X"
-            ],
-            "is_oa": true,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310310987",
-            "host_organization_name": "Multidisciplinary Digital Publishing Institute",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310310987"
-            ],
-            "host_organization_lineage_names": [
-              "Multidisciplinary Digital Publishing Institute"
-            ],
-            "type": "journal"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Minerals",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.3390/min15020186",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.3390/min15020186",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S2737336974",
-          "display_name": "Minerals",
-          "issn_l": "2075-163X",
-          "issn": [
-            "2075-163X"
-          ],
-          "is_oa": true,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310310987",
-          "host_organization_name": "Multidisciplinary Digital Publishing Institute",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310310987"
-          ],
-          "host_organization_lineage_names": [
-            "Multidisciplinary Digital Publishing Institute"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Minerals",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "referenced_works_count": 41,
-      "referenced_works": [
-        "https://openalex.org/W2139564482",
-        "https://openalex.org/W2065471838",
-        "https://openalex.org/W3122982851",
-        "https://openalex.org/W2174216460",
-        "https://openalex.org/W2039438134",
-        "https://openalex.org/W2139025935",
-        "https://openalex.org/W2175772604",
-        "https://openalex.org/W2083253928",
-        "https://openalex.org/W2095633464",
-        "https://openalex.org/W2008056984",
-        "https://openalex.org/W2051870429",
-        "https://openalex.org/W2046593869",
-        "https://openalex.org/W2033102396",
-        "https://openalex.org/W2604512930",
-        "https://openalex.org/W1601706052",
-        "https://openalex.org/W325118406",
-        "https://openalex.org/W2150606133",
-        "https://openalex.org/W2076403176",
-        "https://openalex.org/W4391671255",
-        "https://openalex.org/W4224995153",
-        "https://openalex.org/W2485142276",
-        "https://openalex.org/W2971703238",
-        "https://openalex.org/W1967011165",
-        "https://openalex.org/W4361204457",
-        "https://openalex.org/W6785872914",
-        "https://openalex.org/W4394575395",
-        "https://openalex.org/W2606736767",
-        "https://openalex.org/W1983801093",
-        "https://openalex.org/W4210695799",
-        "https://openalex.org/W2146648217",
-        "https://openalex.org/W4229074891",
-        "https://openalex.org/W1966706163",
-        "https://openalex.org/W6869698087",
-        "https://openalex.org/W3112352837",
-        "https://openalex.org/W1975691376",
-        "https://openalex.org/W3042471378",
-        "https://openalex.org/W2087628391",
-        "https://openalex.org/W2064178555",
-        "https://openalex.org/W2161464081",
-        "https://openalex.org/W4399188310",
-        "https://openalex.org/W3102997184"
-      ],
-      "related_works": [
-        "https://openalex.org/W1526398043",
-        "https://openalex.org/W2094955567",
-        "https://openalex.org/W3178470992",
-        "https://openalex.org/W2027141232",
-        "https://openalex.org/W2040016745",
-        "https://openalex.org/W2050309075",
-        "https://openalex.org/W2408945782",
-        "https://openalex.org/W2324615561",
-        "https://openalex.org/W2035119604",
-        "https://openalex.org/W2050435256"
-      ],
-      "abstract_inverted_index": {
-        "30": [
-          54
-        ],
-        "800": [
-          68
-        ],
-        "950": [
-          66
-        ],
-        "The": [
-          0,
-          41,
-          163,
-          188
-        ],
-        "Arabian–Nubian": [
-          1
-        ],
-        "Shield": [
-          2
-        ],
-        "(ANS)": [
-          3
-        ],
-        "hosts": [
-          4,
-          36
-        ],
-        "numerous": [
-          5
-        ],
-        "volcanogenic": [
-          6
-        ],
-        "massive": [
-          7
-        ],
-        "sulphide": [
-          8,
-          128
-        ],
-        "(VMS)": [
-          9
-        ],
-        "deposits": [
-          10,
-          34,
-          210
-        ],
-        "formed": [
-          11
-        ],
-        "in": [
-          12,
-          204,
-          211,
-          223,
-          240
-        ],
-        "submarine": [
-          13
-        ],
-        "volcanic": [
-          14
-        ],
-        "settings": [
-          15
-        ],
-        "and": [
-          16,
-          37,
-          67,
-          123,
-          133,
-          139,
-          150,
-          177,
-          181,
-          195,
-          206,
-          226
-        ],
-        "enriched": [
-          17
-        ],
-        "by": [
-          18
-        ],
-        "hydrothermal": [
-          19
-        ],
-        "processes,": [
-          20
-        ],
-        "making": [
-          21
-        ],
-        "it": [
-          22,
-          35
-        ],
-        "a": [
-          23,
-          98,
-          234
-        ],
-        "critical": [
-          24,
-          144
-        ],
-        "region": [
-          25
-        ],
-        "for": [
-          26,
-          237
-        ],
-        "mineral": [
-          27,
-          74,
-          209,
-          238
-        ],
-        "exploration": [
-          28,
-          239
-        ],
-        "due": [
-          29
-        ],
-        "to": [
-          30,
-          80,
-          87,
-          105,
-          118,
-          135
-        ],
-        "the": [
-          31,
-          49,
-          76,
-          95,
-          103,
-          120,
-          147,
-          153,
-          158,
-          186,
-          199,
-          218,
-          224,
-          228,
-          241
-        ],
-        "types": [
-          32
-        ],
-        "of": [
-          33,
-          127,
-          152,
-          190,
-          201,
-          220,
-          230
-        ],
-        "its": [
-          38,
-          73
-        ],
-        "geological": [
-          39,
-          194,
-          213
-        ],
-        "complexity.": [
-          40
-        ],
-        "Wadi": [
-          42
-        ],
-        "Bidah": [
-          43
-        ],
-        "Mineral": [
-          44
-        ],
-        "Belt": [
-          45
-        ],
-        "(WBMB),": [
-          46
-        ],
-        "located": [
-          47
-        ],
-        "within": [
-          48,
-          102
-        ],
-        "Arabian": [
-          50,
-          242
-        ],
-        "Shield,": [
-          51
-        ],
-        "contains": [
-          52
-        ],
-        "over": [
-          53
-        ],
-        "polymetallic": [
-          55
-        ],
-        "VMS": [
-          56,
-          100,
-          221
-        ],
-        "occurrences": [
-          57
-        ],
-        "associated": [
-          58
-        ],
-        "with": [
-          59,
-          83,
-          173,
-          193
-        ],
-        "an": [
-          60
-        ],
-        "island": [
-          61
-        ],
-        "arc": [
-          62
-        ],
-        "system": [
-          63
-        ],
-        "active": [
-          64
-        ],
-        "between": [
-          65
-        ],
-        "million": [
-          69
-        ],
-        "years": [
-          70
-        ],
-        "ago.": [
-          71
-        ],
-        "Despite": [
-          72
-        ],
-        "potential,": [
-          75
-        ],
-        "WBMB": [
-          77,
-          225
-        ],
-        "still": [
-          78
-        ],
-        "needs": [
-          79
-        ],
-        "be": [
-          81
-        ],
-        "explored,": [
-          82
-        ],
-        "limited": [
-          84
-        ],
-        "geophysical": [
-          85
-        ],
-        "studies": [
-          86
-        ],
-        "support": [
-          88
-        ],
-        "resource": [
-          89
-        ],
-        "evaluation.": [
-          90
-        ],
-        "This": [
-          91,
-          215
-        ],
-        "study": [
-          92,
-          216
-        ],
-        "focuses": [
-          93
-        ],
-        "on": [
-          94,
-          157
-        ],
-        "Hawiah": [
-          96
-        ],
-        "area,": [
-          97
-        ],
-        "prominent": [
-          99
-        ],
-        "site": [
-          101
-        ],
-        "WBMB,": [
-          104
-        ],
-        "delineate": [
-          106
-        ],
-        "subsurface": [
-          107
-        ],
-        "mineralization": [
-          108
-        ],
-        "using": [
-          109
-        ],
-        "transient": [
-          110
-        ],
-        "electromagnetic": [
-          111
-        ],
-        "(TEM)": [
-          112
-        ],
-        "methods.": [
-          113
-        ],
-        "TEM": [
-          114,
-          191,
-          231
-        ],
-        "surveys": [
-          115,
-          232
-        ],
-        "were": [
-          116,
-          131
-        ],
-        "conducted": [
-          117
-        ],
-        "characterize": [
-          119
-        ],
-        "conductivity": [
-          121
-        ],
-        "structure": [
-          122
-        ],
-        "identify": [
-          124
-        ],
-        "potential": [
-          125,
-          229
-        ],
-        "zones": [
-          126,
-          155
-        ],
-        "mineralization.": [
-          129
-        ],
-        "Data": [
-          130
-        ],
-        "processed": [
-          132
-        ],
-        "inverted": [
-          134
-        ],
-        "generate": [
-          136
-        ],
-        "1D,": [
-          137
-        ],
-        "2D,": [
-          138
-        ],
-        "3D": [
-          140,
-          160
-        ],
-        "resistivity": [
-          141,
-          161
-        ],
-        "models,": [
-          142
-        ],
-        "providing": [
-          143
-        ],
-        "insights": [
-          145
-        ],
-        "into": [
-          146,
-          185
-        ],
-        "depth,": [
-          148
-        ],
-        "geometry,": [
-          149
-        ],
-        "continuity": [
-          151
-        ],
-        "mineralized": [
-          154
-        ],
-        "based": [
-          156
-        ],
-        "final": [
-          159
-        ],
-        "distribution.": [
-          162
-        ],
-        "results": [
-          164,
-          192
-        ],
-        "revealed": [
-          165
-        ],
-        "distinct": [
-          166
-        ],
-        "conductive": [
-          167
-        ],
-        "(very": [
-          168
-        ],
-        "low": [
-          169
-        ],
-        "resistivity)": [
-          170
-        ],
-        "anomalies,": [
-          171
-        ],
-        "correlating": [
-          172
-        ],
-        "known": [
-          174
-        ],
-        "surface": [
-          175
-        ],
-        "gossans": [
-          176
-        ],
-        "inferred": [
-          178
-        ],
-        "sulphide-rich": [
-          179
-        ],
-        "layers,": [
-          180
-        ],
-        "extended": [
-          182
-        ],
-        "these": [
-          183
-        ],
-        "features": [
-          184
-        ],
-        "subsurface.": [
-          187
-        ],
-        "integration": [
-          189
-        ],
-        "geochemical": [
-          196
-        ],
-        "data": [
-          197
-        ],
-        "highlights": [
-          198
-        ],
-        "effectiveness": [
-          200
-        ],
-        "this": [
-          202
-        ],
-        "approach": [
-          203
-        ],
-        "detecting": [
-          205
-        ],
-        "mapping": [
-          207
-        ],
-        "concealed": [
-          208
-        ],
-        "complex": [
-          212
-        ],
-        "environments.": [
-          214
-        ],
-        "advances": [
-          217
-        ],
-        "understanding": [
-          219
-        ],
-        "systems": [
-          222
-        ],
-        "demonstrates": [
-          227
-        ],
-        "as": [
-          233
-        ],
-        "key": [
-          235
-        ],
-        "tool": [
-          236
-        ],
-        "Shield.": [
-          243
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2025,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2025-11-06T03:46:38.306776",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -43842,9 +43842,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.800000011920929,
+          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "score": 0.800000011920929
         }
       ],
       "awards": [],
@@ -45267,9 +45267,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.6899999976158142,
+          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "score": 0.6899999976158142
         }
       ],
       "awards": [],
@@ -46118,9 +46118,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5,
+          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "score": 0.5
         }
       ],
       "awards": [],
@@ -46641,9 +46641,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6800000071525574,
+          "display_name": "Life in Land",
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land"
+          "score": 0.6800000071525574
         }
       ],
       "awards": [],
@@ -50257,9 +50257,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.550000011920929,
+          "display_name": "Sustainable cities and communities",
           "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities"
+          "score": 0.550000011920929
         }
       ],
       "awards": [],
@@ -51152,9 +51152,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8100000023841858,
+          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "score": 0.8100000023841858
         }
       ],
       "awards": [],
@@ -51998,9 +51998,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4300000071525574,
+          "display_name": "Zero hunger",
           "id": "https://metadata.un.org/sdg/2",
-          "display_name": "Zero hunger"
+          "score": 0.4300000071525574
         }
       ],
       "awards": [],
@@ -52427,9 +52427,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.6200000047683716,
+          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "score": 0.6200000047683716
         }
       ],
       "awards": [],
@@ -53343,9 +53343,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7599999904632568,
+          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "score": 0.7599999904632568
         }
       ],
       "awards": [],
@@ -55170,9 +55170,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.44999998807907104,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.44999998807907104
         }
       ],
       "awards": [],
@@ -55999,9 +55999,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.7900000214576721,
+          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "score": 0.7900000214576721
         }
       ],
       "awards": [],
@@ -59372,9 +59372,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8199999928474426,
+          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "score": 0.8199999928474426
         }
       ],
       "awards": [],
@@ -60004,9 +60004,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5099999904632568,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.5099999904632568
         }
       ],
       "awards": [],
@@ -62797,7 +62797,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.43588305,
+        "value": 0.39234397,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -62987,7 +62987,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2025-12-28T23:10:05.387466",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -71680,7 +71680,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.82065027,
+        "value": 0.81973516,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -71764,8 +71764,140 @@
           }
         }
       ],
-      "keywords": [],
-      "concepts": [],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/induced-polarization",
+          "display_name": "Induced polarization",
+          "score": 0.7130671739578247
+        },
+        {
+          "id": "https://openalex.org/keywords/sulfide",
+          "display_name": "Sulfide",
+          "score": 0.6546303033828735
+        },
+        {
+          "id": "https://openalex.org/keywords/polarization",
+          "display_name": "Polarization (electrochemistry)",
+          "score": 0.5383815765380859
+        },
+        {
+          "id": "https://openalex.org/keywords/transient",
+          "display_name": "Transient (computer programming)",
+          "score": 0.5038666725158691
+        },
+        {
+          "id": "https://openalex.org/keywords/transient-analysis",
+          "display_name": "Transient analysis",
+          "score": 0.38154956698417664
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C85292911",
+          "wikidata": "https://www.wikidata.org/wiki/Q4200946",
+          "display_name": "Induced polarization",
+          "level": 3,
+          "score": 0.7130671739578247
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.6842953562736511
+        },
+        {
+          "id": "https://openalex.org/C2780596425",
+          "wikidata": "https://www.wikidata.org/wiki/Q221205",
+          "display_name": "Sulfide",
+          "level": 2,
+          "score": 0.6546303033828735
+        },
+        {
+          "id": "https://openalex.org/C205049153",
+          "wikidata": "https://www.wikidata.org/wiki/Q2698605",
+          "display_name": "Polarization (electrochemistry)",
+          "level": 2,
+          "score": 0.5383815765380859
+        },
+        {
+          "id": "https://openalex.org/C2780799671",
+          "wikidata": "https://www.wikidata.org/wiki/Q17087362",
+          "display_name": "Transient (computer programming)",
+          "level": 2,
+          "score": 0.5038666725158691
+        },
+        {
+          "id": "https://openalex.org/C199289684",
+          "wikidata": "https://www.wikidata.org/wiki/Q83353",
+          "display_name": "Mineralogy",
+          "level": 1,
+          "score": 0.43150168657302856
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.42670300602912903
+        },
+        {
+          "id": "https://openalex.org/C165205528",
+          "wikidata": "https://www.wikidata.org/wiki/Q83371",
+          "display_name": "Seismology",
+          "level": 1,
+          "score": 0.39631420373916626
+        },
+        {
+          "id": "https://openalex.org/C2989121073",
+          "wikidata": "https://www.wikidata.org/wiki/Q1309019",
+          "display_name": "Transient analysis",
+          "level": 3,
+          "score": 0.38154956698417664
+        },
+        {
+          "id": "https://openalex.org/C8058405",
+          "wikidata": "https://www.wikidata.org/wiki/Q46255",
+          "display_name": "Geophysics",
+          "level": 1,
+          "score": 0.33049458265304565
+        },
+        {
+          "id": "https://openalex.org/C79766335",
+          "wikidata": "https://www.wikidata.org/wiki/Q7940083",
+          "display_name": "Volcanogenic massive sulfide ore deposit",
+          "level": 4,
+          "score": 0.3152649998664856
+        },
+        {
+          "id": "https://openalex.org/C14589660",
+          "wikidata": "https://www.wikidata.org/wiki/Q64122",
+          "display_name": "Electromagnetic pulse",
+          "level": 2,
+          "score": 0.28859463334083557
+        },
+        {
+          "id": "https://openalex.org/C5900021",
+          "wikidata": "https://www.wikidata.org/wiki/Q163082",
+          "display_name": "Petrology",
+          "level": 1,
+          "score": 0.25979262590408325
+        },
+        {
+          "id": "https://openalex.org/C112313211",
+          "wikidata": "https://www.wikidata.org/wiki/Q1413106",
+          "display_name": "Magnetotellurics",
+          "level": 3,
+          "score": 0.2587164044380188
+        },
+        {
+          "id": "https://openalex.org/C192562407",
+          "wikidata": "https://www.wikidata.org/wiki/Q228736",
+          "display_name": "Materials science",
+          "level": 0,
+          "score": 0.25724369287490845
+        }
+      ],
       "mesh": [],
       "locations_count": 1,
       "locations": [

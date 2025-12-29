@@ -39208,8 +39208,8 @@
           ],
           "type": "journal"
         },
-        "license": null,
-        "license_id": null,
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
         "version": "publishedVersion",
         "is_accepted": true,
         "is_published": true,
@@ -39271,15 +39271,15 @@
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Saudi Aramco",
-              "institution_ids": [
-                "https://openalex.org/I62856769"
-              ]
-            },
-            {
               "raw_affiliation_string": "EXPEC ARC, Saudi Aramco, 31311 Dhahran, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I4210143841"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Saudi Aramco",
+              "institution_ids": [
+                "https://openalex.org/I62856769"
               ]
             }
           ]
@@ -39371,10 +39371,8 @@
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, 31261 Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
+              "raw_affiliation_string": "Center for Integrative Petroleum Research",
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "King Fahd University of Petroleum & Minerals",
@@ -39383,8 +39381,10 @@
               ]
             },
             {
-              "raw_affiliation_string": "Center for Integrative Petroleum Research",
-              "institution_ids": []
+              "raw_affiliation_string": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, 31261 Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
             },
             {
               "raw_affiliation_string": "Center for Integrative Petroleum Research, King Fahd University of Petroleum & Minerals, 31261 Dhahran, Saudi Arabia",
@@ -39491,15 +39491,15 @@
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Saudi Aramco",
-              "institution_ids": [
-                "https://openalex.org/I62856769"
-              ]
-            },
-            {
               "raw_affiliation_string": "EXPEC ARC, Saudi Aramco, 31311 Dhahran, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I4210143841"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Saudi Aramco",
+              "institution_ids": [
+                "https://openalex.org/I62856769"
               ]
             }
           ]
@@ -39528,7 +39528,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.79590088,
+        "value": 0.78701612,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -39767,8 +39767,8 @@
             ],
             "type": "journal"
           },
-          "license": null,
-          "license_id": null,
+          "license": "cc-by-nc-nd",
+          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
           "version": "publishedVersion",
           "is_accepted": true,
           "is_published": true,
@@ -39886,8 +39886,8 @@
           ],
           "type": "journal"
         },
-        "license": null,
-        "license_id": null,
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
         "version": "publishedVersion",
         "is_accepted": true,
         "is_published": true,
@@ -40431,7 +40431,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2025-12-28T23:10:05.387466",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -41770,7 +41770,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.74964791,
+        "value": 0.74277576,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -42075,9 +42075,9 @@
         "https://openalex.org/W1980661532",
         "https://openalex.org/W4221003583",
         "https://openalex.org/W4253925719",
+        "https://openalex.org/W4387447357",
         "https://openalex.org/W2289259019",
-        "https://openalex.org/W4396702816",
-        "https://openalex.org/W4387447357"
+        "https://openalex.org/W4396702816"
       ],
       "related_works": [
         "https://openalex.org/W2518454850",
@@ -42098,7 +42098,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2025-12-28T23:10:05.387466",
       "created_date": "2025-10-10T00:00:00"
     },
     {

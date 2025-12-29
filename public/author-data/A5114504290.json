@@ -727,16 +727,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.41999998688697815,
           "display_name": "Industry, innovation and infrastructure",
-          "id": "https://metadata.un.org/sdg/9",
-          "score": 0.41999998688697815
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 15,
       "referenced_works": [
@@ -1846,8 +1846,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 39,
       "referenced_works": [
@@ -2722,8 +2722,8 @@
           ],
           "type": "journal"
         },
-        "license": null,
-        "license_id": null,
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
         "version": "publishedVersion",
         "is_accepted": true,
         "is_published": true,
@@ -2746,7 +2746,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5103792919",
-            "display_name": "Ahmed Abdullah Khalaf Al-Ghamdi",
+            "display_name": "Ahmed Abdullah Alghamdi",
             "orcid": null
           },
           "institutions": [],
@@ -2810,7 +2810,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.32539984,
+        "value": 0.28997424,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3011,8 +3011,8 @@
             ],
             "type": "journal"
           },
-          "license": null,
-          "license_id": null,
+          "license": "cc-by-nc-nd",
+          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
           "version": "publishedVersion",
           "is_accepted": true,
           "is_published": true,
@@ -3073,8 +3073,8 @@
           ],
           "type": "journal"
         },
-        "license": null,
-        "license_id": null,
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
         "version": "publishedVersion",
         "is_accepted": true,
         "is_published": true,
@@ -3083,21 +3083,21 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.44999998807907104,
           "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12",
-          "score": 0.44999998807907104
+          "id": "https://metadata.un.org/sdg/12"
         },
         {
+          "score": 0.4300000071525574,
           "display_name": "Industry, innovation and infrastructure",
-          "id": "https://metadata.un.org/sdg/9",
-          "score": 0.4300000071525574
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 48,
       "referenced_works": [
@@ -3141,14 +3141,14 @@
         "https://openalex.org/W4309484293",
         "https://openalex.org/W4401808405",
         "https://openalex.org/W4395683956",
+        "https://openalex.org/W4250379933",
+        "https://openalex.org/W4401871333",
+        "https://openalex.org/W4381663938",
+        "https://openalex.org/W4323362927",
         "https://openalex.org/W609968965",
         "https://openalex.org/W3021695002",
-        "https://openalex.org/W4381663938",
         "https://openalex.org/W2915586549",
-        "https://openalex.org/W4401871333",
-        "https://openalex.org/W4250379933",
-        "https://openalex.org/W2032335337",
-        "https://openalex.org/W4323362927"
+        "https://openalex.org/W2032335337"
       ],
       "related_works": [
         "https://openalex.org/W2096720932",
@@ -3693,7 +3693,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-11-06T23:17:08.748858",
+      "updated_date": "2025-12-28T23:10:05.387466",
       "created_date": "2025-10-10T00:00:00"
     }
   ]

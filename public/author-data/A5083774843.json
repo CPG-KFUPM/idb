@@ -3538,8 +3538,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "score": 0.8899999856948853,
+          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6"
         }
       ],
@@ -5952,8 +5952,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "score": 0.4099999964237213,
+          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6"
         }
       ],
@@ -8231,8 +8231,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8700000047683716,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -9835,8 +9835,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.6000000238418579,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -10736,8 +10736,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8600000143051147,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -13499,7 +13499,7 @@
       "has_fulltext": false,
       "cited_by_count": 20,
       "citation_normalized_percentile": {
-        "value": 0.96926691,
+        "value": 0.96920113,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -13910,8 +13910,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Industry, innovation and infrastructure",
           "score": 0.5,
+          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9"
         }
       ],
@@ -14776,7 +14776,7 @@
       "has_fulltext": false,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.90456134,
+        "value": 0.90446352,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -15188,8 +15188,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Responsible consumption and production",
           "score": 0.47999998927116394,
+          "display_name": "Responsible consumption and production",
           "id": "https://metadata.un.org/sdg/12"
         }
       ],
@@ -15262,9 +15262,9 @@
         "https://openalex.org/W6638305839",
         "https://openalex.org/W4287889751",
         "https://openalex.org/W2920324390",
-        "https://openalex.org/W1797533080",
         "https://openalex.org/W2910847776",
         "https://openalex.org/W4387630892",
+        "https://openalex.org/W1797533080",
         "https://openalex.org/W1750125886"
       ],
       "related_works": [
@@ -16280,8 +16280,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "score": 0.6700000166893005,
+          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6"
         }
       ],
@@ -17388,8 +17388,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "score": 0.4699999988079071,
+          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6"
         }
       ],
@@ -26082,8 +26082,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
           "score": 0.5799999833106995,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7"
         }
       ],
@@ -28362,8 +28362,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
           "score": 0.8899999856948853,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7"
         }
       ],
@@ -29141,8 +29141,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "score": 0.8500000238418579,
+          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6"
         }
       ],
@@ -30127,8 +30127,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Industry, innovation and infrastructure",
           "score": 0.4399999976158142,
+          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9"
         }
       ],
@@ -31350,8 +31350,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Industry, innovation and infrastructure",
           "score": 0.5,
+          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9"
         }
       ],
@@ -31590,7 +31590,7 @@
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.87253216,
+        "value": 0.87240996,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -32090,7 +32090,7 @@
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.82982958,
+        "value": 0.829684,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -32725,8 +32725,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8700000047683716,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -32770,9 +32770,9 @@
         "https://openalex.org/W4282965218",
         "https://openalex.org/W2063298933",
         "https://openalex.org/W3200504851",
-        "https://openalex.org/W2479860957",
+        "https://openalex.org/W2056765698",
         "https://openalex.org/W3011312093",
-        "https://openalex.org/W2056765698"
+        "https://openalex.org/W2479860957"
       ],
       "related_works": [
         "https://openalex.org/W2071100647",
@@ -34597,8 +34597,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Responsible consumption and production",
           "score": 0.44999998807907104,
+          "display_name": "Responsible consumption and production",
           "id": "https://metadata.un.org/sdg/12"
         }
       ],
@@ -34830,7 +34830,7 @@
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.8664346,
+        "value": 0.86631368,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -35145,18 +35145,18 @@
       "sustainable_development_goals": [],
       "awards": [
         {
-          "id": "https://openalex.org/G7753123200",
-          "display_name": null,
-          "funder_award_id": "BAS/1/1401-01-01",
-          "funder_id": "https://openalex.org/F4320334860",
-          "funder_display_name": "Global Collaborative Research, King Abdullah University of Science and Technology"
-        },
-        {
           "id": "https://openalex.org/G7557782408",
           "display_name": null,
           "funder_award_id": "SF21012",
           "funder_id": "https://openalex.org/F4320322323",
           "funder_display_name": "King Fahd University of Petroleum and Minerals"
+        },
+        {
+          "id": "https://openalex.org/G7753123200",
+          "display_name": null,
+          "funder_award_id": "BAS/1/1401-01-01",
+          "funder_id": "https://openalex.org/F4320334860",
+          "funder_display_name": "Global Collaborative Research, King Abdullah University of Science and Technology"
         }
       ],
       "funders": [
@@ -36360,7 +36360,7 @@
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.95746435,
+        "value": 0.95294458,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -36714,9 +36714,9 @@
         "https://openalex.org/W2925175044",
         "https://openalex.org/W2901717022",
         "https://openalex.org/W2098518300",
-        "https://openalex.org/W3042432484",
+        "https://openalex.org/W2081865357",
         "https://openalex.org/W4200018785",
-        "https://openalex.org/W2081865357"
+        "https://openalex.org/W3042432484"
       ],
       "related_works": [
         "https://openalex.org/W2071100647",
@@ -36737,7 +36737,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2025-12-28T23:10:05.387466",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -36925,7 +36925,7 @@
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.74825426,
+        "value": 0.7481357,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -37222,8 +37222,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
           "score": 0.5600000023841858,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7"
         }
       ],
@@ -37363,16 +37363,16 @@
         "https://openalex.org/W4366774956",
         "https://openalex.org/W4210632250",
         "https://openalex.org/W2606225505",
-        "https://openalex.org/W3167223353",
-        "https://openalex.org/W3165712862",
-        "https://openalex.org/W4378906148",
-        "https://openalex.org/W4312030356",
-        "https://openalex.org/W4289347414",
-        "https://openalex.org/W2611975763",
-        "https://openalex.org/W2075310780",
-        "https://openalex.org/W2041902442",
+        "https://openalex.org/W3034547604",
         "https://openalex.org/W195501871",
-        "https://openalex.org/W3034547604"
+        "https://openalex.org/W2075310780",
+        "https://openalex.org/W4312030356",
+        "https://openalex.org/W3165712862",
+        "https://openalex.org/W2611975763",
+        "https://openalex.org/W4289347414",
+        "https://openalex.org/W3167223353",
+        "https://openalex.org/W2041902442",
+        "https://openalex.org/W4378906148"
       ],
       "related_works": [
         "https://openalex.org/W2368603251",
@@ -37871,8 +37871,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "score": 0.7699999809265137,
+          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6"
         }
       ],
@@ -39611,8 +39611,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Responsible consumption and production",
           "score": 0.550000011920929,
+          "display_name": "Responsible consumption and production",
           "id": "https://metadata.un.org/sdg/12"
         }
       ],
@@ -42376,8 +42376,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "score": 0.5,
+          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6"
         }
       ],
@@ -43018,612 +43018,6 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W4407796077",
-      "doi": "https://doi.org/10.1016/j.desal.2025.118721",
-      "title": "Advanced surface-engineered fluorinated polyimide membranes for sustainable high-salinity water desalination",
-      "display_name": "Advanced surface-engineered fluorinated polyimide membranes for sustainable high-salinity water desalination",
-      "publication_year": 2025,
-      "publication_date": "2025-02-20",
-      "ids": {
-        "openalex": "https://openalex.org/W4407796077",
-        "doi": "https://doi.org/10.1016/j.desal.2025.118721"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/j.desal.2025.118721",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/j.desal.2025.118721",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S86512602",
-          "display_name": "Desalination",
-          "issn_l": "0011-9164",
-          "issn": [
-            "0011-9164",
-            "1873-4464"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Desalination",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5092717241",
-            "display_name": "Toheeb O. Obidara",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Toheeb O. Obidara",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5001982979",
-            "display_name": "Mohammed Abdul Azeem",
-            "orcid": "https://orcid.org/0000-0003-2630-702X"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Mohammed Abdul Azeem",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5040127132",
-            "display_name": "Dahiru U. Lawal",
-            "orcid": "https://orcid.org/0000-0002-2185-6575"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Dahiru Umar Lawal",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5083774843",
-            "display_name": "Mahmoud A. Abdulhamid",
-            "orcid": "https://orcid.org/0000-0002-6630-3958"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Mahmoud A. Abdulhamid",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5018752596",
-            "display_name": "Turki N. Baroud",
-            "orcid": "https://orcid.org/0000-0001-6430-9128"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Turki N. Baroud",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 5,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
-      "apc_list": {
-        "value": 4580,
-        "currency": "USD",
-        "value_usd": 4580
-      },
-      "apc_paid": null,
-      "fwci": 3.88835173,
-      "has_fulltext": false,
-      "cited_by_count": 2,
-      "citation_normalized_percentile": {
-        "value": 0.87042875,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 95,
-        "max": 97
-      },
-      "biblio": {
-        "volume": "605",
-        "issue": null,
-        "first_page": "118721",
-        "last_page": "118721"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10197",
-        "display_name": "Membrane Separation Technologies",
-        "score": 0.9998000264167786,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2312",
-          "display_name": "Water Science and Technology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/23",
-          "display_name": "Environmental Science"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10197",
-          "display_name": "Membrane Separation Technologies",
-          "score": 0.9998000264167786,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2312",
-            "display_name": "Water Science and Technology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10313",
-          "display_name": "Surface Modification and Superhydrophobicity",
-          "score": 0.9934999942779541,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2508",
-            "display_name": "Surfaces, Coatings and Films"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/25",
-            "display_name": "Materials Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T12008",
-          "display_name": "Solar-Powered Water Purification Methods",
-          "score": 0.9858999848365784,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2105",
-            "display_name": "Renewable Energy, Sustainability and the Environment"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/21",
-            "display_name": "Energy"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/desalination",
-          "display_name": "Desalination",
-          "score": 0.8756718039512634
-        },
-        {
-          "id": "https://openalex.org/keywords/polyimide",
-          "display_name": "Polyimide",
-          "score": 0.8460777401924133
-        },
-        {
-          "id": "https://openalex.org/keywords/membrane",
-          "display_name": "Membrane",
-          "score": 0.680433988571167
-        },
-        {
-          "id": "https://openalex.org/keywords/reverse-osmosis",
-          "display_name": "Reverse osmosis",
-          "score": 0.5466209053993225
-        },
-        {
-          "id": "https://openalex.org/keywords/salinity",
-          "display_name": "Salinity",
-          "score": 0.4947771430015564
-        },
-        {
-          "id": "https://openalex.org/keywords/water-treatment",
-          "display_name": "Water treatment",
-          "score": 0.4481047987937927
-        },
-        {
-          "id": "https://openalex.org/keywords/materials-science",
-          "display_name": "Materials science",
-          "score": 0.4395972192287445
-        },
-        {
-          "id": "https://openalex.org/keywords/chemical-engineering",
-          "display_name": "Chemical engineering",
-          "score": 0.42080992460250854
-        },
-        {
-          "id": "https://openalex.org/keywords/environmental-engineering",
-          "display_name": "Environmental engineering",
-          "score": 0.35738134384155273
-        },
-        {
-          "id": "https://openalex.org/keywords/environmental-science",
-          "display_name": "Environmental science",
-          "score": 0.31952476501464844
-        },
-        {
-          "id": "https://openalex.org/keywords/engineering",
-          "display_name": "Engineering",
-          "score": 0.27124398946762085
-        },
-        {
-          "id": "https://openalex.org/keywords/chemistry",
-          "display_name": "Chemistry",
-          "score": 0.2639331817626953
-        },
-        {
-          "id": "https://openalex.org/keywords/nanotechnology",
-          "display_name": "Nanotechnology",
-          "score": 0.22733613848686218
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.08146616816520691
-        },
-        {
-          "id": "https://openalex.org/keywords/layer",
-          "display_name": "Layer (electronics)",
-          "score": 0.05586355924606323
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C2776870568",
-          "wikidata": "https://www.wikidata.org/wiki/Q190873",
-          "display_name": "Desalination",
-          "level": 3,
-          "score": 0.8756718039512634
-        },
-        {
-          "id": "https://openalex.org/C2780965675",
-          "wikidata": "https://www.wikidata.org/wiki/Q145958",
-          "display_name": "Polyimide",
-          "level": 3,
-          "score": 0.8460777401924133
-        },
-        {
-          "id": "https://openalex.org/C41625074",
-          "wikidata": "https://www.wikidata.org/wiki/Q176088",
-          "display_name": "Membrane",
-          "level": 2,
-          "score": 0.680433988571167
-        },
-        {
-          "id": "https://openalex.org/C130797344",
-          "wikidata": "https://www.wikidata.org/wiki/Q272175",
-          "display_name": "Reverse osmosis",
-          "level": 3,
-          "score": 0.5466209053993225
-        },
-        {
-          "id": "https://openalex.org/C129513315",
-          "wikidata": "https://www.wikidata.org/wiki/Q179615",
-          "display_name": "Salinity",
-          "level": 2,
-          "score": 0.4947771430015564
-        },
-        {
-          "id": "https://openalex.org/C190960625",
-          "wikidata": "https://www.wikidata.org/wiki/Q1058719",
-          "display_name": "Water treatment",
-          "level": 2,
-          "score": 0.4481047987937927
-        },
-        {
-          "id": "https://openalex.org/C192562407",
-          "wikidata": "https://www.wikidata.org/wiki/Q228736",
-          "display_name": "Materials science",
-          "level": 0,
-          "score": 0.4395972192287445
-        },
-        {
-          "id": "https://openalex.org/C42360764",
-          "wikidata": "https://www.wikidata.org/wiki/Q83588",
-          "display_name": "Chemical engineering",
-          "level": 1,
-          "score": 0.42080992460250854
-        },
-        {
-          "id": "https://openalex.org/C87717796",
-          "wikidata": "https://www.wikidata.org/wiki/Q146326",
-          "display_name": "Environmental engineering",
-          "level": 1,
-          "score": 0.35738134384155273
-        },
-        {
-          "id": "https://openalex.org/C39432304",
-          "wikidata": "https://www.wikidata.org/wiki/Q188847",
-          "display_name": "Environmental science",
-          "level": 0,
-          "score": 0.31952476501464844
-        },
-        {
-          "id": "https://openalex.org/C127413603",
-          "wikidata": "https://www.wikidata.org/wiki/Q11023",
-          "display_name": "Engineering",
-          "level": 0,
-          "score": 0.27124398946762085
-        },
-        {
-          "id": "https://openalex.org/C185592680",
-          "wikidata": "https://www.wikidata.org/wiki/Q2329",
-          "display_name": "Chemistry",
-          "level": 0,
-          "score": 0.2639331817626953
-        },
-        {
-          "id": "https://openalex.org/C171250308",
-          "wikidata": "https://www.wikidata.org/wiki/Q11468",
-          "display_name": "Nanotechnology",
-          "level": 1,
-          "score": 0.22733613848686218
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.08146616816520691
-        },
-        {
-          "id": "https://openalex.org/C2779227376",
-          "wikidata": "https://www.wikidata.org/wiki/Q6505497",
-          "display_name": "Layer (electronics)",
-          "level": 2,
-          "score": 0.05586355924606323
-        },
-        {
-          "id": "https://openalex.org/C55493867",
-          "wikidata": "https://www.wikidata.org/wiki/Q7094",
-          "display_name": "Biochemistry",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C111368507",
-          "wikidata": "https://www.wikidata.org/wiki/Q43518",
-          "display_name": "Oceanography",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1016/j.desal.2025.118721",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/j.desal.2025.118721",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S86512602",
-            "display_name": "Desalination",
-            "issn_l": "0011-9164",
-            "issn": [
-              "0011-9164",
-              "1873-4464"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Desalination",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "display_name": "Responsible consumption and production",
-          "score": 0.4099999964237213,
-          "id": "https://metadata.un.org/sdg/12"
-        }
-      ],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "referenced_works_count": 101,
-      "referenced_works": [
-        "https://openalex.org/W2012270576",
-        "https://openalex.org/W6802268695",
-        "https://openalex.org/W6755025704",
-        "https://openalex.org/W2048661822",
-        "https://openalex.org/W6794428731",
-        "https://openalex.org/W6876114366",
-        "https://openalex.org/W2024552212",
-        "https://openalex.org/W6771675438",
-        "https://openalex.org/W2911232181",
-        "https://openalex.org/W2002900899",
-        "https://openalex.org/W6851642986",
-        "https://openalex.org/W2056229263",
-        "https://openalex.org/W4200222512",
-        "https://openalex.org/W2042759155",
-        "https://openalex.org/W6851614736",
-        "https://openalex.org/W6750271183",
-        "https://openalex.org/W2052784018",
-        "https://openalex.org/W6779589142",
-        "https://openalex.org/W3027199399",
-        "https://openalex.org/W6869429652",
-        "https://openalex.org/W2071053788",
-        "https://openalex.org/W2275413042",
-        "https://openalex.org/W6866147597",
-        "https://openalex.org/W6807771943",
-        "https://openalex.org/W6798875062",
-        "https://openalex.org/W6672829595",
-        "https://openalex.org/W6754151759",
-        "https://openalex.org/W6856599194",
-        "https://openalex.org/W6801129820",
-        "https://openalex.org/W6802392314",
-        "https://openalex.org/W2091266208",
-        "https://openalex.org/W2787228041",
-        "https://openalex.org/W2981099766",
-        "https://openalex.org/W6838823655",
-        "https://openalex.org/W2095479792",
-        "https://openalex.org/W4386283570",
-        "https://openalex.org/W2595054775",
-        "https://openalex.org/W6801037776",
-        "https://openalex.org/W6795019485",
-        "https://openalex.org/W6804581674",
-        "https://openalex.org/W2782963352",
-        "https://openalex.org/W6848245907",
-        "https://openalex.org/W6773676641",
-        "https://openalex.org/W6874363214",
-        "https://openalex.org/W6769531074",
-        "https://openalex.org/W6858408509",
-        "https://openalex.org/W6770027024",
-        "https://openalex.org/W2805459904",
-        "https://openalex.org/W6851945883",
-        "https://openalex.org/W2074856495",
-        "https://openalex.org/W6801588777",
-        "https://openalex.org/W6772872932",
-        "https://openalex.org/W2901717022",
-        "https://openalex.org/W2023568133",
-        "https://openalex.org/W6772487085",
-        "https://openalex.org/W6848887792",
-        "https://openalex.org/W3163210612",
-        "https://openalex.org/W2009607378",
-        "https://openalex.org/W2791087225",
-        "https://openalex.org/W6780450292",
-        "https://openalex.org/W2068489900",
-        "https://openalex.org/W4396867065",
-        "https://openalex.org/W1964941319",
-        "https://openalex.org/W6839083286",
-        "https://openalex.org/W6779134692",
-        "https://openalex.org/W4406651043",
-        "https://openalex.org/W3159015320",
-        "https://openalex.org/W3186768071",
-        "https://openalex.org/W3034686604",
-        "https://openalex.org/W4365505798",
-        "https://openalex.org/W4386171479",
-        "https://openalex.org/W4388668242",
-        "https://openalex.org/W3196715970",
-        "https://openalex.org/W2994409796",
-        "https://openalex.org/W4376506390",
-        "https://openalex.org/W4315647366",
-        "https://openalex.org/W3002100789",
-        "https://openalex.org/W3159336530",
-        "https://openalex.org/W3203696436",
-        "https://openalex.org/W3198468545",
-        "https://openalex.org/W4403667546",
-        "https://openalex.org/W3162092487",
-        "https://openalex.org/W3006637330",
-        "https://openalex.org/W2796237430",
-        "https://openalex.org/W2980814179",
-        "https://openalex.org/W4366274711",
-        "https://openalex.org/W2889341297",
-        "https://openalex.org/W4313345797",
-        "https://openalex.org/W3199395526",
-        "https://openalex.org/W4210417328",
-        "https://openalex.org/W2088436461",
-        "https://openalex.org/W3034452368",
-        "https://openalex.org/W3205419318",
-        "https://openalex.org/W2999456332",
-        "https://openalex.org/W2982675314",
-        "https://openalex.org/W3216448268",
-        "https://openalex.org/W4281746481",
-        "https://openalex.org/W4281784704",
-        "https://openalex.org/W3042432484",
-        "https://openalex.org/W2616329094",
-        "https://openalex.org/W4399207257"
-      ],
-      "related_works": [
-        "https://openalex.org/W1999362653",
-        "https://openalex.org/W3109340276",
-        "https://openalex.org/W3015742614",
-        "https://openalex.org/W3114553067",
-        "https://openalex.org/W2899462221",
-        "https://openalex.org/W2351387726",
-        "https://openalex.org/W1982300567",
-        "https://openalex.org/W2344970400",
-        "https://openalex.org/W2477396796",
-        "https://openalex.org/W4361284707"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2025,
-          "cited_by_count": 2
-        }
-      ],
-      "updated_date": "2025-11-06T03:46:38.306776",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W4405807879",
       "doi": "https://doi.org/10.1016/j.seppur.2024.131246",
       "title": "Surface engineering of electrospun polyvinyl chloride nanofibrous membranes with zeolitic imidazolate framework for effective oil spill removal",
@@ -43752,7 +43146,7 @@
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.6365987,
+        "value": 0.63641737,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -44140,9 +43534,9 @@
         "https://openalex.org/W2903870541",
         "https://openalex.org/W4379516146",
         "https://openalex.org/W4200033440",
-        "https://openalex.org/W4394617312",
+        "https://openalex.org/W3023510642",
         "https://openalex.org/W4286944819",
-        "https://openalex.org/W3023510642"
+        "https://openalex.org/W4394617312"
       ],
       "related_works": [
         "https://openalex.org/W2484026318",
@@ -44164,6 +43558,612 @@
         }
       ],
       "updated_date": "2025-12-27T23:08:20.325037",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4407796077",
+      "doi": "https://doi.org/10.1016/j.desal.2025.118721",
+      "title": "Advanced surface-engineered fluorinated polyimide membranes for sustainable high-salinity water desalination",
+      "display_name": "Advanced surface-engineered fluorinated polyimide membranes for sustainable high-salinity water desalination",
+      "publication_year": 2025,
+      "publication_date": "2025-02-20",
+      "ids": {
+        "openalex": "https://openalex.org/W4407796077",
+        "doi": "https://doi.org/10.1016/j.desal.2025.118721"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/j.desal.2025.118721",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/j.desal.2025.118721",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S86512602",
+          "display_name": "Desalination",
+          "issn_l": "0011-9164",
+          "issn": [
+            "0011-9164",
+            "1873-4464"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Desalination",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5092717241",
+            "display_name": "Toheeb O. Obidara",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Toheeb O. Obidara",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5001982979",
+            "display_name": "Mohammed Abdul Azeem",
+            "orcid": "https://orcid.org/0000-0003-2630-702X"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Mohammed Abdul Azeem",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5040127132",
+            "display_name": "Dahiru U. Lawal",
+            "orcid": "https://orcid.org/0000-0002-2185-6575"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Dahiru Umar Lawal",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5083774843",
+            "display_name": "Mahmoud A. Abdulhamid",
+            "orcid": "https://orcid.org/0000-0002-6630-3958"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Mahmoud A. Abdulhamid",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5018752596",
+            "display_name": "Turki N. Baroud",
+            "orcid": "https://orcid.org/0000-0001-6430-9128"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Turki N. Baroud",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 5,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": {
+        "value": 4580,
+        "currency": "USD",
+        "value_usd": 4580
+      },
+      "apc_paid": null,
+      "fwci": 3.88835173,
+      "has_fulltext": false,
+      "cited_by_count": 2,
+      "citation_normalized_percentile": {
+        "value": 0.86479632,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 95,
+        "max": 96
+      },
+      "biblio": {
+        "volume": "605",
+        "issue": null,
+        "first_page": "118721",
+        "last_page": "118721"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10197",
+        "display_name": "Membrane Separation Technologies",
+        "score": 0.9998000264167786,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2312",
+          "display_name": "Water Science and Technology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/23",
+          "display_name": "Environmental Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10197",
+          "display_name": "Membrane Separation Technologies",
+          "score": 0.9998000264167786,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2312",
+            "display_name": "Water Science and Technology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10313",
+          "display_name": "Surface Modification and Superhydrophobicity",
+          "score": 0.9934999942779541,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2508",
+            "display_name": "Surfaces, Coatings and Films"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/25",
+            "display_name": "Materials Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12008",
+          "display_name": "Solar-Powered Water Purification Methods",
+          "score": 0.9858999848365784,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2105",
+            "display_name": "Renewable Energy, Sustainability and the Environment"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/21",
+            "display_name": "Energy"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/desalination",
+          "display_name": "Desalination",
+          "score": 0.8756718039512634
+        },
+        {
+          "id": "https://openalex.org/keywords/polyimide",
+          "display_name": "Polyimide",
+          "score": 0.8460777401924133
+        },
+        {
+          "id": "https://openalex.org/keywords/membrane",
+          "display_name": "Membrane",
+          "score": 0.680433988571167
+        },
+        {
+          "id": "https://openalex.org/keywords/reverse-osmosis",
+          "display_name": "Reverse osmosis",
+          "score": 0.5466209053993225
+        },
+        {
+          "id": "https://openalex.org/keywords/salinity",
+          "display_name": "Salinity",
+          "score": 0.4947771430015564
+        },
+        {
+          "id": "https://openalex.org/keywords/water-treatment",
+          "display_name": "Water treatment",
+          "score": 0.4481047987937927
+        },
+        {
+          "id": "https://openalex.org/keywords/materials-science",
+          "display_name": "Materials science",
+          "score": 0.4395972192287445
+        },
+        {
+          "id": "https://openalex.org/keywords/chemical-engineering",
+          "display_name": "Chemical engineering",
+          "score": 0.42080992460250854
+        },
+        {
+          "id": "https://openalex.org/keywords/environmental-engineering",
+          "display_name": "Environmental engineering",
+          "score": 0.35738134384155273
+        },
+        {
+          "id": "https://openalex.org/keywords/environmental-science",
+          "display_name": "Environmental science",
+          "score": 0.31952476501464844
+        },
+        {
+          "id": "https://openalex.org/keywords/engineering",
+          "display_name": "Engineering",
+          "score": 0.27124398946762085
+        },
+        {
+          "id": "https://openalex.org/keywords/chemistry",
+          "display_name": "Chemistry",
+          "score": 0.2639331817626953
+        },
+        {
+          "id": "https://openalex.org/keywords/nanotechnology",
+          "display_name": "Nanotechnology",
+          "score": 0.22733613848686218
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.08146616816520691
+        },
+        {
+          "id": "https://openalex.org/keywords/layer",
+          "display_name": "Layer (electronics)",
+          "score": 0.05586355924606323
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2776870568",
+          "wikidata": "https://www.wikidata.org/wiki/Q190873",
+          "display_name": "Desalination",
+          "level": 3,
+          "score": 0.8756718039512634
+        },
+        {
+          "id": "https://openalex.org/C2780965675",
+          "wikidata": "https://www.wikidata.org/wiki/Q145958",
+          "display_name": "Polyimide",
+          "level": 3,
+          "score": 0.8460777401924133
+        },
+        {
+          "id": "https://openalex.org/C41625074",
+          "wikidata": "https://www.wikidata.org/wiki/Q176088",
+          "display_name": "Membrane",
+          "level": 2,
+          "score": 0.680433988571167
+        },
+        {
+          "id": "https://openalex.org/C130797344",
+          "wikidata": "https://www.wikidata.org/wiki/Q272175",
+          "display_name": "Reverse osmosis",
+          "level": 3,
+          "score": 0.5466209053993225
+        },
+        {
+          "id": "https://openalex.org/C129513315",
+          "wikidata": "https://www.wikidata.org/wiki/Q179615",
+          "display_name": "Salinity",
+          "level": 2,
+          "score": 0.4947771430015564
+        },
+        {
+          "id": "https://openalex.org/C190960625",
+          "wikidata": "https://www.wikidata.org/wiki/Q1058719",
+          "display_name": "Water treatment",
+          "level": 2,
+          "score": 0.4481047987937927
+        },
+        {
+          "id": "https://openalex.org/C192562407",
+          "wikidata": "https://www.wikidata.org/wiki/Q228736",
+          "display_name": "Materials science",
+          "level": 0,
+          "score": 0.4395972192287445
+        },
+        {
+          "id": "https://openalex.org/C42360764",
+          "wikidata": "https://www.wikidata.org/wiki/Q83588",
+          "display_name": "Chemical engineering",
+          "level": 1,
+          "score": 0.42080992460250854
+        },
+        {
+          "id": "https://openalex.org/C87717796",
+          "wikidata": "https://www.wikidata.org/wiki/Q146326",
+          "display_name": "Environmental engineering",
+          "level": 1,
+          "score": 0.35738134384155273
+        },
+        {
+          "id": "https://openalex.org/C39432304",
+          "wikidata": "https://www.wikidata.org/wiki/Q188847",
+          "display_name": "Environmental science",
+          "level": 0,
+          "score": 0.31952476501464844
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0.27124398946762085
+        },
+        {
+          "id": "https://openalex.org/C185592680",
+          "wikidata": "https://www.wikidata.org/wiki/Q2329",
+          "display_name": "Chemistry",
+          "level": 0,
+          "score": 0.2639331817626953
+        },
+        {
+          "id": "https://openalex.org/C171250308",
+          "wikidata": "https://www.wikidata.org/wiki/Q11468",
+          "display_name": "Nanotechnology",
+          "level": 1,
+          "score": 0.22733613848686218
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.08146616816520691
+        },
+        {
+          "id": "https://openalex.org/C2779227376",
+          "wikidata": "https://www.wikidata.org/wiki/Q6505497",
+          "display_name": "Layer (electronics)",
+          "level": 2,
+          "score": 0.05586355924606323
+        },
+        {
+          "id": "https://openalex.org/C55493867",
+          "wikidata": "https://www.wikidata.org/wiki/Q7094",
+          "display_name": "Biochemistry",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C111368507",
+          "wikidata": "https://www.wikidata.org/wiki/Q43518",
+          "display_name": "Oceanography",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.desal.2025.118721",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/j.desal.2025.118721",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S86512602",
+            "display_name": "Desalination",
+            "issn_l": "0011-9164",
+            "issn": [
+              "0011-9164",
+              "1873-4464"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Desalination",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "score": 0.4099999964237213,
+          "display_name": "Responsible consumption and production",
+          "id": "https://metadata.un.org/sdg/12"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "referenced_works_count": 101,
+      "referenced_works": [
+        "https://openalex.org/W2012270576",
+        "https://openalex.org/W6802268695",
+        "https://openalex.org/W6755025704",
+        "https://openalex.org/W2048661822",
+        "https://openalex.org/W6794428731",
+        "https://openalex.org/W6876114366",
+        "https://openalex.org/W2024552212",
+        "https://openalex.org/W6771675438",
+        "https://openalex.org/W2911232181",
+        "https://openalex.org/W2002900899",
+        "https://openalex.org/W6851642986",
+        "https://openalex.org/W2056229263",
+        "https://openalex.org/W4200222512",
+        "https://openalex.org/W2042759155",
+        "https://openalex.org/W6851614736",
+        "https://openalex.org/W6750271183",
+        "https://openalex.org/W2052784018",
+        "https://openalex.org/W6779589142",
+        "https://openalex.org/W3027199399",
+        "https://openalex.org/W6869429652",
+        "https://openalex.org/W2071053788",
+        "https://openalex.org/W2275413042",
+        "https://openalex.org/W6866147597",
+        "https://openalex.org/W6807771943",
+        "https://openalex.org/W6798875062",
+        "https://openalex.org/W6672829595",
+        "https://openalex.org/W6754151759",
+        "https://openalex.org/W6856599194",
+        "https://openalex.org/W6801129820",
+        "https://openalex.org/W6802392314",
+        "https://openalex.org/W2091266208",
+        "https://openalex.org/W2787228041",
+        "https://openalex.org/W2981099766",
+        "https://openalex.org/W6838823655",
+        "https://openalex.org/W2095479792",
+        "https://openalex.org/W4386283570",
+        "https://openalex.org/W2595054775",
+        "https://openalex.org/W6801037776",
+        "https://openalex.org/W6795019485",
+        "https://openalex.org/W6804581674",
+        "https://openalex.org/W2782963352",
+        "https://openalex.org/W6848245907",
+        "https://openalex.org/W6773676641",
+        "https://openalex.org/W6874363214",
+        "https://openalex.org/W6769531074",
+        "https://openalex.org/W6858408509",
+        "https://openalex.org/W6770027024",
+        "https://openalex.org/W2805459904",
+        "https://openalex.org/W6851945883",
+        "https://openalex.org/W2074856495",
+        "https://openalex.org/W6801588777",
+        "https://openalex.org/W6772872932",
+        "https://openalex.org/W2901717022",
+        "https://openalex.org/W2023568133",
+        "https://openalex.org/W6772487085",
+        "https://openalex.org/W6848887792",
+        "https://openalex.org/W3163210612",
+        "https://openalex.org/W2009607378",
+        "https://openalex.org/W2791087225",
+        "https://openalex.org/W6780450292",
+        "https://openalex.org/W2068489900",
+        "https://openalex.org/W4396867065",
+        "https://openalex.org/W1964941319",
+        "https://openalex.org/W6839083286",
+        "https://openalex.org/W6779134692",
+        "https://openalex.org/W2616329094",
+        "https://openalex.org/W4403667546",
+        "https://openalex.org/W2980814179",
+        "https://openalex.org/W3002100789",
+        "https://openalex.org/W4376506390",
+        "https://openalex.org/W4365505798",
+        "https://openalex.org/W2994409796",
+        "https://openalex.org/W3199395526",
+        "https://openalex.org/W2796237430",
+        "https://openalex.org/W3034452368",
+        "https://openalex.org/W3205419318",
+        "https://openalex.org/W3159015320",
+        "https://openalex.org/W4399207257",
+        "https://openalex.org/W2999456332",
+        "https://openalex.org/W3203696436",
+        "https://openalex.org/W2889341297",
+        "https://openalex.org/W4366274711",
+        "https://openalex.org/W3034686604",
+        "https://openalex.org/W2088436461",
+        "https://openalex.org/W4386171479",
+        "https://openalex.org/W4388668242",
+        "https://openalex.org/W3186768071",
+        "https://openalex.org/W4281784704",
+        "https://openalex.org/W4313345797",
+        "https://openalex.org/W4210417328",
+        "https://openalex.org/W3159336530",
+        "https://openalex.org/W4406651043",
+        "https://openalex.org/W3162092487",
+        "https://openalex.org/W3198468545",
+        "https://openalex.org/W3216448268",
+        "https://openalex.org/W3042432484",
+        "https://openalex.org/W4315647366",
+        "https://openalex.org/W3006637330",
+        "https://openalex.org/W4281746481",
+        "https://openalex.org/W2982675314",
+        "https://openalex.org/W3196715970"
+      ],
+      "related_works": [
+        "https://openalex.org/W1999362653",
+        "https://openalex.org/W3109340276",
+        "https://openalex.org/W3015742614",
+        "https://openalex.org/W3114553067",
+        "https://openalex.org/W2899462221",
+        "https://openalex.org/W2351387726",
+        "https://openalex.org/W1982300567",
+        "https://openalex.org/W2344970400",
+        "https://openalex.org/W2477396796",
+        "https://openalex.org/W4361284707"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2025-12-28T23:10:05.387466",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -47814,8 +47814,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "score": 0.5699999928474426,
+          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6"
         }
       ],
@@ -49594,8 +49594,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "score": 0.8299999833106995,
+          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6"
         }
       ],
@@ -55021,8 +55021,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "score": 0.550000011920929,
+          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6"
         }
       ],
@@ -55776,8 +55776,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
           "score": 0.46000000834465027,
+          "display_name": "Sustainable cities and communities",
           "id": "https://metadata.un.org/sdg/11"
         }
       ],
@@ -57229,8 +57229,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Industry, innovation and infrastructure",
           "score": 0.4099999964237213,
+          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9"
         }
       ],

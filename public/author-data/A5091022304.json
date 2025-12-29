@@ -930,8 +930,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 114,
       "referenced_works": [
@@ -1631,16 +1631,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.7099999785423279,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 43,
       "referenced_works": [
@@ -2392,16 +2392,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
+          "display_name": "Sustainable cities and communities",
           "score": 0.550000011920929,
-          "display_name": "Sustainable cities and communities"
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "referenced_works_count": 33,
       "referenced_works": [
@@ -3171,8 +3171,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "referenced_works_count": 52,
       "referenced_works": [
@@ -4513,8 +4513,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "referenced_works_count": 144,
       "referenced_works": [
@@ -5837,8 +5837,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "referenced_works_count": 47,
       "referenced_works": [
@@ -7273,16 +7273,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/9",
+          "display_name": "Industry, innovation and infrastructure",
           "score": 0.5400000214576721,
-          "display_name": "Industry, innovation and infrastructure"
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "referenced_works_count": 60,
       "referenced_works": [
@@ -8533,16 +8533,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.5,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -9347,8 +9347,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "referenced_works_count": 46,
       "referenced_works": [
@@ -10362,16 +10362,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/9",
+          "display_name": "Industry, innovation and infrastructure",
           "score": 0.47999998927116394,
-          "display_name": "Industry, innovation and infrastructure"
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 41,
       "referenced_works": [
@@ -11097,8 +11097,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 34,
       "referenced_works": [
@@ -12461,16 +12461,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/12",
+          "display_name": "Responsible consumption and production",
           "score": 0.41999998688697815,
-          "display_name": "Responsible consumption and production"
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "referenced_works_count": 31,
       "referenced_works": [
@@ -13726,8 +13726,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 16,
       "referenced_works": [
@@ -15068,8 +15068,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "referenced_works_count": 23,
       "referenced_works": [
@@ -16442,8 +16442,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "referenced_works_count": 44,
       "referenced_works": [
@@ -17737,16 +17737,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
+          "display_name": "Life in Land",
           "score": 0.6800000071525574,
-          "display_name": "Life in Land"
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 30,
       "referenced_works": [
@@ -18957,8 +18957,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 43,
       "referenced_works": [
@@ -20510,16 +20510,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
+          "display_name": "Sustainable cities and communities",
           "score": 0.47999998927116394,
-          "display_name": "Sustainable cities and communities"
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 58,
       "referenced_works": [
@@ -21194,8 +21194,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 47,
       "referenced_works": [
@@ -22682,8 +22682,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "referenced_works_count": 41,
       "referenced_works": [
@@ -23983,16 +23983,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/9",
+          "display_name": "Industry, innovation and infrastructure",
           "score": 0.5899999737739563,
-          "display_name": "Industry, innovation and infrastructure"
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 37,
       "referenced_works": [
@@ -24654,8 +24654,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "referenced_works_count": 36,
       "referenced_works": [
@@ -25803,8 +25803,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 38,
       "referenced_works": [
@@ -26242,8 +26242,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 23,
       "referenced_works": [
@@ -26765,1280 +26765,6 @@
         ],
         "initiatives.": [
           199
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2025,
-          "cited_by_count": 2
-        }
-      ],
-      "updated_date": "2025-11-06T03:46:38.306776",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W4408313171",
-      "doi": "https://doi.org/10.1021/acsomega.4c09603",
-      "title": "Optimized Gradient Boosting Models for Adaptive Prediction of Uniaxial Compressive Strength in Carbonate Rocks Using Drilling Data",
-      "display_name": "Optimized Gradient Boosting Models for Adaptive Prediction of Uniaxial Compressive Strength in Carbonate Rocks Using Drilling Data",
-      "publication_year": 2025,
-      "publication_date": "2025-03-11",
-      "ids": {
-        "openalex": "https://openalex.org/W4408313171",
-        "doi": "https://doi.org/10.1021/acsomega.4c09603",
-        "pmid": "https://pubmed.ncbi.nlm.nih.gov/40160726"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1021/acsomega.4c09603",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1021/acsomega.4c09603",
-        "pdf_url": "https://pubs.acs.org/doi/pdf/10.1021/acsomega.4c09603?ref=article_openPDF",
-        "source": {
-          "id": "https://openalex.org/S4210239500",
-          "display_name": "ACS Omega",
-          "issn_l": "2470-1343",
-          "issn": [
-            "2470-1343"
-          ],
-          "is_oa": true,
-          "is_in_doaj": true,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320006",
-          "host_organization_name": "American Chemical Society",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320006"
-          ],
-          "host_organization_lineage_names": [
-            "American Chemical Society"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "ACS Omega",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref",
-        "doaj",
-        "pubmed"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "gold",
-        "oa_url": "https://pubs.acs.org/doi/pdf/10.1021/acsomega.4c09603?ref=article_openPDF",
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5038738092",
-            "display_name": "Stephen Adjei",
-            "orcid": "https://orcid.org/0000-0001-7478-7895"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I28046988",
-              "display_name": "Kwame Nkrumah University of Science and Technology",
-              "ror": "https://ror.org/00cb23x68",
-              "country_code": "GH",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I28046988"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210132509",
-              "display_name": "Kwame Nkrumah University",
-              "ror": "https://ror.org/02ykdz073",
-              "country_code": "ZM",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210132509"
-              ]
-            }
-          ],
-          "countries": [
-            "GH",
-            "ZM"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Stephen Adjei",
-          "raw_affiliation_strings": [
-            "Department of Petroleum Engineering, Kwame Nkrumah University of Science and Technology, Kumasi 378466289, Ghana",
-            "Kwame Nkrumah University of Science and Technology"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Kwame Nkrumah University of Science and Technology",
-              "institution_ids": [
-                "https://openalex.org/I28046988",
-                "https://openalex.org/I4210132509"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Petroleum Engineering, Kwame Nkrumah University of Science and Technology, Kumasi 378466289, Ghana",
-              "institution_ids": [
-                "https://openalex.org/I28046988"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5091022304",
-            "display_name": "Ahmed Gowida",
-            "orcid": "https://orcid.org/0000-0003-1469-1650"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Ahmed Gowida",
-          "raw_affiliation_strings": [
-            "Department of Petroleum Engineering, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
-            "King Fahd University of Petroleum and Minerals"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Petroleum Engineering, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5046818830",
-            "display_name": "Salaheldin Elkatatny",
-            "orcid": "https://orcid.org/0000-0002-7209-3715"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Salaheldin Elkatatny",
-          "raw_affiliation_strings": [
-            "Department of Petroleum Engineering, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
-            "King Fahd University of Petroleum and Minerals"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Petroleum Engineering, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5116581676",
-            "display_name": "John Ojuu Oleka",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I28046988",
-              "display_name": "Kwame Nkrumah University of Science and Technology",
-              "ror": "https://ror.org/00cb23x68",
-              "country_code": "GH",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I28046988"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210132509",
-              "display_name": "Kwame Nkrumah University",
-              "ror": "https://ror.org/02ykdz073",
-              "country_code": "ZM",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210132509"
-              ]
-            }
-          ],
-          "countries": [
-            "GH",
-            "ZM"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "John Ojuu Oleka",
-          "raw_affiliation_strings": [
-            "Department of Petroleum Engineering, Kwame Nkrumah University of Science and Technology, Kumasi 378466289, Ghana",
-            "Kwame Nkrumah University of Science and Technology"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Kwame Nkrumah University of Science and Technology",
-              "institution_ids": [
-                "https://openalex.org/I28046988",
-                "https://openalex.org/I4210132509"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Petroleum Engineering, Kwame Nkrumah University of Science and Technology, Kumasi 378466289, Ghana",
-              "institution_ids": [
-                "https://openalex.org/I28046988"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 3,
-      "institutions_distinct_count": 4,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5046818830"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I134085113"
-      ],
-      "apc_list": {
-        "value": 1685,
-        "currency": "USD",
-        "value_usd": 1685
-      },
-      "apc_paid": {
-        "value": 1685,
-        "currency": "USD",
-        "value_usd": 1685
-      },
-      "fwci": 6.12655659,
-      "has_fulltext": false,
-      "cited_by_count": 2,
-      "citation_normalized_percentile": {
-        "value": 0.90602346,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 95,
-        "max": 97
-      },
-      "biblio": {
-        "volume": "10",
-        "issue": "11",
-        "first_page": "11016",
-        "last_page": "11026"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10892",
-        "display_name": "Drilling and Well Engineering",
-        "score": 0.9998000264167786,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2212",
-          "display_name": "Ocean Engineering"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10892",
-          "display_name": "Drilling and Well Engineering",
-          "score": 0.9998000264167786,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2212",
-            "display_name": "Ocean Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10635",
-          "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-          "score": 0.9994999766349792,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2210",
-            "display_name": "Mechanical Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9950000047683716,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/boosting",
-          "display_name": "Boosting (machine learning)",
-          "score": 0.6310937404632568
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.593205451965332
-        },
-        {
-          "id": "https://openalex.org/keywords/compressive-strength",
-          "display_name": "Compressive strength",
-          "score": 0.5675977468490601
-        },
-        {
-          "id": "https://openalex.org/keywords/carbonate-rock",
-          "display_name": "Carbonate rock",
-          "score": 0.5237914323806763
-        },
-        {
-          "id": "https://openalex.org/keywords/drilling",
-          "display_name": "Drilling",
-          "score": 0.5231136679649353
-        },
-        {
-          "id": "https://openalex.org/keywords/gradient-boosting",
-          "display_name": "Gradient boosting",
-          "score": 0.5037550330162048
-        },
-        {
-          "id": "https://openalex.org/keywords/carbonate",
-          "display_name": "Carbonate",
-          "score": 0.4484071731567383
-        },
-        {
-          "id": "https://openalex.org/keywords/materials-science",
-          "display_name": "Materials science",
-          "score": 0.3128671944141388
-        },
-        {
-          "id": "https://openalex.org/keywords/computer-science",
-          "display_name": "Computer science",
-          "score": 0.27582353353500366
-        },
-        {
-          "id": "https://openalex.org/keywords/artificial-intelligence",
-          "display_name": "Artificial intelligence",
-          "score": 0.24471095204353333
-        },
-        {
-          "id": "https://openalex.org/keywords/composite-material",
-          "display_name": "Composite material",
-          "score": 0.22551336884498596
-        },
-        {
-          "id": "https://openalex.org/keywords/geochemistry",
-          "display_name": "Geochemistry",
-          "score": 0.1137467622756958
-        },
-        {
-          "id": "https://openalex.org/keywords/sedimentary-rock",
-          "display_name": "Sedimentary rock",
-          "score": 0.08663183450698853
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C46686674",
-          "wikidata": "https://www.wikidata.org/wiki/Q466303",
-          "display_name": "Boosting (machine learning)",
-          "level": 2,
-          "score": 0.6310937404632568
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.593205451965332
-        },
-        {
-          "id": "https://openalex.org/C30407753",
-          "wikidata": "https://www.wikidata.org/wiki/Q186191",
-          "display_name": "Compressive strength",
-          "level": 2,
-          "score": 0.5675977468490601
-        },
-        {
-          "id": "https://openalex.org/C19320362",
-          "wikidata": "https://www.wikidata.org/wiki/Q777913",
-          "display_name": "Carbonate rock",
-          "level": 3,
-          "score": 0.5237914323806763
-        },
-        {
-          "id": "https://openalex.org/C25197100",
-          "wikidata": "https://www.wikidata.org/wiki/Q890886",
-          "display_name": "Drilling",
-          "level": 2,
-          "score": 0.5231136679649353
-        },
-        {
-          "id": "https://openalex.org/C70153297",
-          "wikidata": "https://www.wikidata.org/wiki/Q5591907",
-          "display_name": "Gradient boosting",
-          "level": 3,
-          "score": 0.5037550330162048
-        },
-        {
-          "id": "https://openalex.org/C2780659211",
-          "wikidata": "https://www.wikidata.org/wiki/Q181699",
-          "display_name": "Carbonate",
-          "level": 2,
-          "score": 0.4484071731567383
-        },
-        {
-          "id": "https://openalex.org/C192562407",
-          "wikidata": "https://www.wikidata.org/wiki/Q228736",
-          "display_name": "Materials science",
-          "level": 0,
-          "score": 0.3128671944141388
-        },
-        {
-          "id": "https://openalex.org/C41008148",
-          "wikidata": "https://www.wikidata.org/wiki/Q21198",
-          "display_name": "Computer science",
-          "level": 0,
-          "score": 0.27582353353500366
-        },
-        {
-          "id": "https://openalex.org/C154945302",
-          "wikidata": "https://www.wikidata.org/wiki/Q11660",
-          "display_name": "Artificial intelligence",
-          "level": 1,
-          "score": 0.24471095204353333
-        },
-        {
-          "id": "https://openalex.org/C159985019",
-          "wikidata": "https://www.wikidata.org/wiki/Q181790",
-          "display_name": "Composite material",
-          "level": 1,
-          "score": 0.22551336884498596
-        },
-        {
-          "id": "https://openalex.org/C17409809",
-          "wikidata": "https://www.wikidata.org/wiki/Q161764",
-          "display_name": "Geochemistry",
-          "level": 1,
-          "score": 0.1137467622756958
-        },
-        {
-          "id": "https://openalex.org/C6494504",
-          "wikidata": "https://www.wikidata.org/wiki/Q82480",
-          "display_name": "Sedimentary rock",
-          "level": 2,
-          "score": 0.08663183450698853
-        },
-        {
-          "id": "https://openalex.org/C191897082",
-          "wikidata": "https://www.wikidata.org/wiki/Q11467",
-          "display_name": "Metallurgy",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C169258074",
-          "wikidata": "https://www.wikidata.org/wiki/Q245748",
-          "display_name": "Random forest",
-          "level": 2,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 4,
-      "locations": [
-        {
-          "id": "doi:10.1021/acsomega.4c09603",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.1021/acsomega.4c09603",
-          "pdf_url": "https://pubs.acs.org/doi/pdf/10.1021/acsomega.4c09603?ref=article_openPDF",
-          "source": {
-            "id": "https://openalex.org/S4210239500",
-            "display_name": "ACS Omega",
-            "issn_l": "2470-1343",
-            "issn": [
-              "2470-1343"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310320006",
-            "host_organization_name": "American Chemical Society",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320006"
-            ],
-            "host_organization_lineage_names": [
-              "American Chemical Society"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "ACS Omega",
-          "raw_type": "journal-article"
-        },
-        {
-          "id": "pmid:40160726",
-          "is_oa": false,
-          "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/40160726",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306525036",
-            "display_name": "PubMed",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I1299303238",
-            "host_organization_name": "National Institutes of Health",
-            "host_organization_lineage": [
-              "https://openalex.org/I1299303238"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "ACS omega",
-          "raw_type": null
-        },
-        {
-          "id": "pmh:oai:doaj.org/article:002abfd19c664c3493bf268923c53973",
-          "is_oa": false,
-          "landing_page_url": "https://doaj.org/article/002abfd19c664c3493bf268923c53973",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306401280",
-            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "ACS Omega, Vol 10, Iss 11, Pp 11016-11026 (2025)",
-          "raw_type": "article"
-        },
-        {
-          "id": "pmh:oai:europepmc.org:10759748",
-          "is_oa": false,
-          "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/11948144",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306400806",
-            "display_name": "Europe PMC (PubMed Central)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I1303153112",
-            "host_organization_name": "European Bioinformatics Institute",
-            "host_organization_lineage": [
-              "https://openalex.org/I1303153112"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": null,
-          "raw_type": "Text"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.1021/acsomega.4c09603",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1021/acsomega.4c09603",
-        "pdf_url": "https://pubs.acs.org/doi/pdf/10.1021/acsomega.4c09603?ref=article_openPDF",
-        "source": {
-          "id": "https://openalex.org/S4210239500",
-          "display_name": "ACS Omega",
-          "issn_l": "2470-1343",
-          "issn": [
-            "2470-1343"
-          ],
-          "is_oa": true,
-          "is_in_doaj": true,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320006",
-          "host_organization_name": "American Chemical Society",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320006"
-          ],
-          "host_organization_lineage_names": [
-            "American Chemical Society"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "ACS Omega",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": true
-      },
-      "referenced_works_count": 30,
-      "referenced_works": [
-        "https://openalex.org/W2680155385",
-        "https://openalex.org/W3091784847",
-        "https://openalex.org/W2068830369",
-        "https://openalex.org/W2061521732",
-        "https://openalex.org/W2051068668",
-        "https://openalex.org/W4303710178",
-        "https://openalex.org/W3014004226",
-        "https://openalex.org/W4376614612",
-        "https://openalex.org/W3120523795",
-        "https://openalex.org/W4230737036",
-        "https://openalex.org/W1537066827",
-        "https://openalex.org/W1983479840",
-        "https://openalex.org/W2744556021",
-        "https://openalex.org/W2945020349",
-        "https://openalex.org/W2071986643",
-        "https://openalex.org/W2338714606",
-        "https://openalex.org/W2090294555",
-        "https://openalex.org/W1678356000",
-        "https://openalex.org/W3007888137",
-        "https://openalex.org/W2934304630",
-        "https://openalex.org/W4281696066",
-        "https://openalex.org/W3212135906",
-        "https://openalex.org/W4211116959",
-        "https://openalex.org/W1985082033",
-        "https://openalex.org/W2297152540",
-        "https://openalex.org/W3214840804",
-        "https://openalex.org/W2070493638",
-        "https://openalex.org/W2102148524",
-        "https://openalex.org/W4256361765",
-        "https://openalex.org/W4212863985"
-      ],
-      "related_works": [
-        "https://openalex.org/W2967733078",
-        "https://openalex.org/W3204430031",
-        "https://openalex.org/W3137904399",
-        "https://openalex.org/W4310492845",
-        "https://openalex.org/W2885778889",
-        "https://openalex.org/W4310224730",
-        "https://openalex.org/W2766514146",
-        "https://openalex.org/W4289703016",
-        "https://openalex.org/W2885516856",
-        "https://openalex.org/W3094138326"
-      ],
-      "abstract_inverted_index": {
-        "870": [
-          158
-        ],
-        "2056": [
-          125
-        ],
-        "Uniaxial": [
-          0
-        ],
-        "compressive": [
-          1
-        ],
-        "strength": [
-          2
-        ],
-        "(UCS)": [
-          3
-        ],
-        "is": [
-          4,
-          116
-        ],
-        "a": [
-          5,
-          39
-        ],
-        "critical": [
-          6
-        ],
-        "geo-mechanical": [
-          7
-        ],
-        "property": [
-          8
-        ],
-        "used": [
-          9,
-          100
-        ],
-        "to": [
-          10
-        ],
-        "assess": [
-          11
-        ],
-        "the": [
-          12,
-          19,
-          52,
-          164,
-          174,
-          179
-        ],
-        "mechanical": [
-          13
-        ],
-        "properties": [
-          14
-        ],
-        "of": [
-          15,
-          55,
-          58,
-          131,
-          157
-        ],
-        "subsurface": [
-          16
-        ],
-        "formations.": [
-          17
-        ],
-        "While": [
-          18
-        ],
-        "traditional": [
-          20
-        ],
-        "laboratory": [
-          21
-        ],
-        "tests": [
-          22
-        ],
-        "for": [
-          23,
-          43,
-          74,
-          105,
-          190
-        ],
-        "UCS": [
-          24,
-          44,
-          75,
-          193
-        ],
-        "estimation": [
-          25
-        ],
-        "are": [
-          26,
-          29
-        ],
-        "accurate,": [
-          27
-        ],
-        "they": [
-          28
-        ],
-        "time-consuming": [
-          30
-        ],
-        "and": [
-          31,
-          69,
-          109,
-          146,
-          181
-        ],
-        "costly.": [
-          32
-        ],
-        "The": [
-          33,
-          121
-        ],
-        "advancements": [
-          34
-        ],
-        "in": [
-          35,
-          118,
-          195
-        ],
-        "machine": [
-          36,
-          79
-        ],
-        "learning": [
-          37,
-          80
-        ],
-        "offer": [
-          38
-        ],
-        "more": [
-          40
-        ],
-        "efficient": [
-          41
-        ],
-        "option": [
-          42
-        ],
-        "prediction": [
-          45,
-          111,
-          165
-        ],
-        "using": [
-          46
-        ],
-        "real-time": [
-          47,
-          192
-        ],
-        "data.": [
-          48
-        ],
-        "This": [
-          49,
-          185
-        ],
-        "work": [
-          50
-        ],
-        "investigates": [
-          51
-        ],
-        "predictive": [
-          53
-        ],
-        "ability": [
-          54
-        ],
-        "three": [
-          56
-        ],
-        "types": [
-          57
-        ],
-        "Gradient": [
-          59,
-          64,
-          67,
-          71
-        ],
-        "Boosting": [
-          60,
-          72
-        ],
-        "Machines": [
-          61
-        ],
-        "(GBMs):": [
-          62
-        ],
-        "Standard": [
-          63
-        ],
-        "Boosting,": [
-          65,
-          68
-        ],
-        "Stochastic": [
-          66
-        ],
-        "eXtreme": [
-          70
-        ],
-        "(XGBoost)": [
-          73
-        ],
-        "prediction.": [
-          76
-        ],
-        "Unlike": [
-          77
-        ],
-        "conventional": [
-          78
-        ],
-        "approaches,": [
-          81
-        ],
-        "which": [
-          82
-        ],
-        "depend": [
-          83
-        ],
-        "on": [
-          84,
-          148
-        ],
-        "static": [
-          85
-        ],
-        "model": [
-          86,
-          107
-        ],
-        "inputs,": [
-          87
-        ],
-        "lagging": [
-          88
-        ],
-        "techniques": [
-          89
-        ],
-        "were": [
-          90,
-          99
-        ],
-        "applied": [
-          91
-        ],
-        "where": [
-          92
-        ],
-        "drilling": [
-          93,
-          126,
-          199
-        ],
-        "depth": [
-          94
-        ],
-        "data": [
-          95,
-          115,
-          122,
-          127,
-          155,
-          183
-        ],
-        "from": [
-          96
-        ],
-        "earlier": [
-          97
-        ],
-        "depths": [
-          98
-        ],
-        "as": [
-          101,
-          113,
-          205
-        ],
-        "input": [
-          102
-        ],
-        "features,": [
-          103
-        ],
-        "allowing": [
-          104
-        ],
-        "dynamic": [
-          106
-        ],
-        "changes": [
-          108
-        ],
-        "enhanced": [
-          110
-        ],
-        "accuracy": [
-          112
-        ],
-        "new": [
-          114
-        ],
-        "acquired": [
-          117
-        ],
-        "real": [
-          119
-        ],
-        "time.": [
-          120
-        ],
-        "set": [
-          123,
-          156
-        ],
-        "included": [
-          124
-        ],
-        "points,": [
-          128
-        ],
-        "comprising": [
-          129
-        ],
-        "rate": [
-          130,
-          136
-        ],
-        "penetration": [
-          132
-        ],
-        "(ROP),": [
-          133
-        ],
-        "mud": [
-          134
-        ],
-        "pumping": [
-          135
-        ],
-        "(GPM),": [
-          137
-        ],
-        "standpipe": [
-          138
-        ],
-        "pressure": [
-          139
-        ],
-        "(SPP),": [
-          140
-        ],
-        "rotary": [
-          141
-        ],
-        "speed": [
-          142
-        ],
-        "(RPM),": [
-          143
-        ],
-        "torque": [
-          144
-        ],
-        "(T),": [
-          145
-        ],
-        "weight": [
-          147
-        ],
-        "bit": [
-          149
-        ],
-        "(WOB),": [
-          150
-        ],
-        "with": [
-          151,
-          167
-        ],
-        "an": [
-          152
-        ],
-        "unseen": [
-          153
-        ],
-        "validation": [
-          154,
-          182
-        ],
-        "points.": [
-          159
-        ],
-        "Hyperparameter": [
-          160
-        ],
-        "optimization": [
-          161
-        ],
-        "significantly": [
-          162
-        ],
-        "improved": [
-          163
-        ],
-        "performance": [
-          166
-        ],
-        "XGBoost": [
-          168
-        ],
-        "achieving": [
-          169
-        ],
-        "superior": [
-          170
-        ],
-        "accuracy,": [
-          171
-        ],
-        "shown": [
-          172
-        ],
-        "by": [
-          173
-        ],
-        "lowest": [
-          175
-        ],
-        "error": [
-          176
-        ],
-        "metrics": [
-          177
-        ],
-        "across": [
-          178
-        ],
-        "test": [
-          180
-        ],
-        "set.": [
-          184
-        ],
-        "technique": [
-          186
-        ],
-        "offers": [
-          187
-        ],
-        "significant": [
-          188
-        ],
-        "potential": [
-          189
-        ],
-        "improving": [
-          191
-        ],
-        "predictions": [
-          194
-        ],
-        "carbonate": [
-          196
-        ],
-        "formations,": [
-          197
-        ],
-        "enhancing": [
-          198
-        ],
-        "efficiency": [
-          200
-        ],
-        "while": [
-          201
-        ],
-        "reducing": [
-          202
-        ],
-        "risks": [
-          203
-        ],
-        "such": [
-          204
-        ],
-        "wellbore": [
-          206
-        ],
-        "instability.": [
-          207
         ]
       },
       "counts_by_year": [
@@ -28622,8 +27348,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 25,
       "referenced_works": [
@@ -29721,8 +28447,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -30821,16 +29547,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/7",
+          "display_name": "Affordable and clean energy",
           "score": 0.5099999904632568,
-          "display_name": "Affordable and clean energy"
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 43,
       "referenced_works": [
@@ -31807,8 +30533,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 30,
       "referenced_works": [
@@ -32338,6 +31064,1280 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
+      "id": "https://openalex.org/W4408313171",
+      "doi": "https://doi.org/10.1021/acsomega.4c09603",
+      "title": "Optimized Gradient Boosting Models for Adaptive Prediction of Uniaxial Compressive Strength in Carbonate Rocks Using Drilling Data",
+      "display_name": "Optimized Gradient Boosting Models for Adaptive Prediction of Uniaxial Compressive Strength in Carbonate Rocks Using Drilling Data",
+      "publication_year": 2025,
+      "publication_date": "2025-03-11",
+      "ids": {
+        "openalex": "https://openalex.org/W4408313171",
+        "doi": "https://doi.org/10.1021/acsomega.4c09603",
+        "pmid": "https://pubmed.ncbi.nlm.nih.gov/40160726"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1021/acsomega.4c09603",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1021/acsomega.4c09603",
+        "pdf_url": "https://pubs.acs.org/doi/pdf/10.1021/acsomega.4c09603?ref=article_openPDF",
+        "source": {
+          "id": "https://openalex.org/S4210239500",
+          "display_name": "ACS Omega",
+          "issn_l": "2470-1343",
+          "issn": [
+            "2470-1343"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320006",
+          "host_organization_name": "American Chemical Society",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320006"
+          ],
+          "host_organization_lineage_names": [
+            "American Chemical Society"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "ACS Omega",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref",
+        "doaj",
+        "pubmed"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://pubs.acs.org/doi/pdf/10.1021/acsomega.4c09603?ref=article_openPDF",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5038738092",
+            "display_name": "Stephen Adjei",
+            "orcid": "https://orcid.org/0000-0001-7478-7895"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I28046988",
+              "display_name": "Kwame Nkrumah University of Science and Technology",
+              "ror": "https://ror.org/00cb23x68",
+              "country_code": "GH",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I28046988"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210132509",
+              "display_name": "Kwame Nkrumah University",
+              "ror": "https://ror.org/02ykdz073",
+              "country_code": "ZM",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210132509"
+              ]
+            }
+          ],
+          "countries": [
+            "GH",
+            "ZM"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Stephen Adjei",
+          "raw_affiliation_strings": [
+            "Department of Petroleum Engineering, Kwame Nkrumah University of Science and Technology, Kumasi 378466289, Ghana",
+            "Kwame Nkrumah University of Science and Technology"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Kwame Nkrumah University of Science and Technology",
+              "institution_ids": [
+                "https://openalex.org/I28046988",
+                "https://openalex.org/I4210132509"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Petroleum Engineering, Kwame Nkrumah University of Science and Technology, Kumasi 378466289, Ghana",
+              "institution_ids": [
+                "https://openalex.org/I28046988"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5091022304",
+            "display_name": "Ahmed Gowida",
+            "orcid": "https://orcid.org/0000-0003-1469-1650"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ahmed Gowida",
+          "raw_affiliation_strings": [
+            "Department of Petroleum Engineering, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
+            "King Fahd University of Petroleum and Minerals"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Petroleum Engineering, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5046818830",
+            "display_name": "Salaheldin Elkatatny",
+            "orcid": "https://orcid.org/0000-0002-7209-3715"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Salaheldin Elkatatny",
+          "raw_affiliation_strings": [
+            "Department of Petroleum Engineering, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
+            "King Fahd University of Petroleum and Minerals"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Petroleum Engineering, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5116581676",
+            "display_name": "John Ojuu Oleka",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I28046988",
+              "display_name": "Kwame Nkrumah University of Science and Technology",
+              "ror": "https://ror.org/00cb23x68",
+              "country_code": "GH",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I28046988"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210132509",
+              "display_name": "Kwame Nkrumah University",
+              "ror": "https://ror.org/02ykdz073",
+              "country_code": "ZM",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210132509"
+              ]
+            }
+          ],
+          "countries": [
+            "GH",
+            "ZM"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "John Ojuu Oleka",
+          "raw_affiliation_strings": [
+            "Department of Petroleum Engineering, Kwame Nkrumah University of Science and Technology, Kumasi 378466289, Ghana",
+            "Kwame Nkrumah University of Science and Technology"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Petroleum Engineering, Kwame Nkrumah University of Science and Technology, Kumasi 378466289, Ghana",
+              "institution_ids": [
+                "https://openalex.org/I28046988"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Kwame Nkrumah University of Science and Technology",
+              "institution_ids": [
+                "https://openalex.org/I28046988",
+                "https://openalex.org/I4210132509"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 3,
+      "institutions_distinct_count": 4,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5046818830"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I134085113"
+      ],
+      "apc_list": {
+        "value": 1685,
+        "currency": "USD",
+        "value_usd": 1685
+      },
+      "apc_paid": {
+        "value": 1685,
+        "currency": "USD",
+        "value_usd": 1685
+      },
+      "fwci": 6.12655659,
+      "has_fulltext": false,
+      "cited_by_count": 2,
+      "citation_normalized_percentile": {
+        "value": 0.89816505,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 95,
+        "max": 96
+      },
+      "biblio": {
+        "volume": "10",
+        "issue": "11",
+        "first_page": "11016",
+        "last_page": "11026"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10892",
+        "display_name": "Drilling and Well Engineering",
+        "score": 0.9998000264167786,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2212",
+          "display_name": "Ocean Engineering"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10892",
+          "display_name": "Drilling and Well Engineering",
+          "score": 0.9998000264167786,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2212",
+            "display_name": "Ocean Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10635",
+          "display_name": "Hydraulic Fracturing and Reservoir Analysis",
+          "score": 0.9994999766349792,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2210",
+            "display_name": "Mechanical Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.9950000047683716,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/boosting",
+          "display_name": "Boosting (machine learning)",
+          "score": 0.6310937404632568
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.593205451965332
+        },
+        {
+          "id": "https://openalex.org/keywords/compressive-strength",
+          "display_name": "Compressive strength",
+          "score": 0.5675977468490601
+        },
+        {
+          "id": "https://openalex.org/keywords/carbonate-rock",
+          "display_name": "Carbonate rock",
+          "score": 0.5237914323806763
+        },
+        {
+          "id": "https://openalex.org/keywords/drilling",
+          "display_name": "Drilling",
+          "score": 0.5231136679649353
+        },
+        {
+          "id": "https://openalex.org/keywords/gradient-boosting",
+          "display_name": "Gradient boosting",
+          "score": 0.5037550330162048
+        },
+        {
+          "id": "https://openalex.org/keywords/carbonate",
+          "display_name": "Carbonate",
+          "score": 0.4484071731567383
+        },
+        {
+          "id": "https://openalex.org/keywords/materials-science",
+          "display_name": "Materials science",
+          "score": 0.3128671944141388
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.27582353353500366
+        },
+        {
+          "id": "https://openalex.org/keywords/artificial-intelligence",
+          "display_name": "Artificial intelligence",
+          "score": 0.24471095204353333
+        },
+        {
+          "id": "https://openalex.org/keywords/composite-material",
+          "display_name": "Composite material",
+          "score": 0.22551336884498596
+        },
+        {
+          "id": "https://openalex.org/keywords/geochemistry",
+          "display_name": "Geochemistry",
+          "score": 0.1137467622756958
+        },
+        {
+          "id": "https://openalex.org/keywords/sedimentary-rock",
+          "display_name": "Sedimentary rock",
+          "score": 0.08663183450698853
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C46686674",
+          "wikidata": "https://www.wikidata.org/wiki/Q466303",
+          "display_name": "Boosting (machine learning)",
+          "level": 2,
+          "score": 0.6310937404632568
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.593205451965332
+        },
+        {
+          "id": "https://openalex.org/C30407753",
+          "wikidata": "https://www.wikidata.org/wiki/Q186191",
+          "display_name": "Compressive strength",
+          "level": 2,
+          "score": 0.5675977468490601
+        },
+        {
+          "id": "https://openalex.org/C19320362",
+          "wikidata": "https://www.wikidata.org/wiki/Q777913",
+          "display_name": "Carbonate rock",
+          "level": 3,
+          "score": 0.5237914323806763
+        },
+        {
+          "id": "https://openalex.org/C25197100",
+          "wikidata": "https://www.wikidata.org/wiki/Q890886",
+          "display_name": "Drilling",
+          "level": 2,
+          "score": 0.5231136679649353
+        },
+        {
+          "id": "https://openalex.org/C70153297",
+          "wikidata": "https://www.wikidata.org/wiki/Q5591907",
+          "display_name": "Gradient boosting",
+          "level": 3,
+          "score": 0.5037550330162048
+        },
+        {
+          "id": "https://openalex.org/C2780659211",
+          "wikidata": "https://www.wikidata.org/wiki/Q181699",
+          "display_name": "Carbonate",
+          "level": 2,
+          "score": 0.4484071731567383
+        },
+        {
+          "id": "https://openalex.org/C192562407",
+          "wikidata": "https://www.wikidata.org/wiki/Q228736",
+          "display_name": "Materials science",
+          "level": 0,
+          "score": 0.3128671944141388
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.27582353353500366
+        },
+        {
+          "id": "https://openalex.org/C154945302",
+          "wikidata": "https://www.wikidata.org/wiki/Q11660",
+          "display_name": "Artificial intelligence",
+          "level": 1,
+          "score": 0.24471095204353333
+        },
+        {
+          "id": "https://openalex.org/C159985019",
+          "wikidata": "https://www.wikidata.org/wiki/Q181790",
+          "display_name": "Composite material",
+          "level": 1,
+          "score": 0.22551336884498596
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.1137467622756958
+        },
+        {
+          "id": "https://openalex.org/C6494504",
+          "wikidata": "https://www.wikidata.org/wiki/Q82480",
+          "display_name": "Sedimentary rock",
+          "level": 2,
+          "score": 0.08663183450698853
+        },
+        {
+          "id": "https://openalex.org/C191897082",
+          "wikidata": "https://www.wikidata.org/wiki/Q11467",
+          "display_name": "Metallurgy",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C169258074",
+          "wikidata": "https://www.wikidata.org/wiki/Q245748",
+          "display_name": "Random forest",
+          "level": 2,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 4,
+      "locations": [
+        {
+          "id": "doi:10.1021/acsomega.4c09603",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1021/acsomega.4c09603",
+          "pdf_url": "https://pubs.acs.org/doi/pdf/10.1021/acsomega.4c09603?ref=article_openPDF",
+          "source": {
+            "id": "https://openalex.org/S4210239500",
+            "display_name": "ACS Omega",
+            "issn_l": "2470-1343",
+            "issn": [
+              "2470-1343"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320006",
+            "host_organization_name": "American Chemical Society",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320006"
+            ],
+            "host_organization_lineage_names": [
+              "American Chemical Society"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by-nc-nd",
+          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "ACS Omega",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmid:40160726",
+          "is_oa": false,
+          "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/40160726",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306525036",
+            "display_name": "PubMed",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "ACS omega",
+          "raw_type": null
+        },
+        {
+          "id": "pmh:oai:doaj.org/article:002abfd19c664c3493bf268923c53973",
+          "is_oa": false,
+          "landing_page_url": "https://doaj.org/article/002abfd19c664c3493bf268923c53973",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "ACS Omega, Vol 10, Iss 11, Pp 11016-11026 (2025)",
+          "raw_type": "article"
+        },
+        {
+          "id": "pmh:oai:europepmc.org:10759748",
+          "is_oa": false,
+          "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/11948144",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400806",
+            "display_name": "Europe PMC (PubMed Central)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I1303153112",
+            "host_organization_name": "European Bioinformatics Institute",
+            "host_organization_lineage": [
+              "https://openalex.org/I1303153112"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "Text"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1021/acsomega.4c09603",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1021/acsomega.4c09603",
+        "pdf_url": "https://pubs.acs.org/doi/pdf/10.1021/acsomega.4c09603?ref=article_openPDF",
+        "source": {
+          "id": "https://openalex.org/S4210239500",
+          "display_name": "ACS Omega",
+          "issn_l": "2470-1343",
+          "issn": [
+            "2470-1343"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320006",
+          "host_organization_name": "American Chemical Society",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320006"
+          ],
+          "host_organization_lineage_names": [
+            "American Chemical Society"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "ACS Omega",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": true,
+        "grobid_xml": false
+      },
+      "referenced_works_count": 30,
+      "referenced_works": [
+        "https://openalex.org/W2680155385",
+        "https://openalex.org/W3091784847",
+        "https://openalex.org/W2068830369",
+        "https://openalex.org/W2061521732",
+        "https://openalex.org/W2051068668",
+        "https://openalex.org/W4303710178",
+        "https://openalex.org/W3014004226",
+        "https://openalex.org/W4376614612",
+        "https://openalex.org/W3120523795",
+        "https://openalex.org/W4230737036",
+        "https://openalex.org/W1537066827",
+        "https://openalex.org/W1983479840",
+        "https://openalex.org/W2744556021",
+        "https://openalex.org/W2945020349",
+        "https://openalex.org/W2071986643",
+        "https://openalex.org/W2338714606",
+        "https://openalex.org/W2090294555",
+        "https://openalex.org/W1678356000",
+        "https://openalex.org/W3007888137",
+        "https://openalex.org/W2934304630",
+        "https://openalex.org/W4281696066",
+        "https://openalex.org/W3212135906",
+        "https://openalex.org/W4211116959",
+        "https://openalex.org/W1985082033",
+        "https://openalex.org/W2297152540",
+        "https://openalex.org/W3214840804",
+        "https://openalex.org/W2070493638",
+        "https://openalex.org/W2102148524",
+        "https://openalex.org/W4256361765",
+        "https://openalex.org/W4212863985"
+      ],
+      "related_works": [
+        "https://openalex.org/W2967733078",
+        "https://openalex.org/W3204430031",
+        "https://openalex.org/W3137904399",
+        "https://openalex.org/W4310492845",
+        "https://openalex.org/W2885778889",
+        "https://openalex.org/W4310224730",
+        "https://openalex.org/W2766514146",
+        "https://openalex.org/W4289703016",
+        "https://openalex.org/W2885516856",
+        "https://openalex.org/W3094138326"
+      ],
+      "abstract_inverted_index": {
+        "870": [
+          158
+        ],
+        "2056": [
+          125
+        ],
+        "Uniaxial": [
+          0
+        ],
+        "compressive": [
+          1
+        ],
+        "strength": [
+          2
+        ],
+        "(UCS)": [
+          3
+        ],
+        "is": [
+          4,
+          116
+        ],
+        "a": [
+          5,
+          39
+        ],
+        "critical": [
+          6
+        ],
+        "geo-mechanical": [
+          7
+        ],
+        "property": [
+          8
+        ],
+        "used": [
+          9,
+          100
+        ],
+        "to": [
+          10
+        ],
+        "assess": [
+          11
+        ],
+        "the": [
+          12,
+          19,
+          52,
+          164,
+          174,
+          179
+        ],
+        "mechanical": [
+          13
+        ],
+        "properties": [
+          14
+        ],
+        "of": [
+          15,
+          55,
+          58,
+          131,
+          157
+        ],
+        "subsurface": [
+          16
+        ],
+        "formations.": [
+          17
+        ],
+        "While": [
+          18
+        ],
+        "traditional": [
+          20
+        ],
+        "laboratory": [
+          21
+        ],
+        "tests": [
+          22
+        ],
+        "for": [
+          23,
+          43,
+          74,
+          105,
+          190
+        ],
+        "UCS": [
+          24,
+          44,
+          75,
+          193
+        ],
+        "estimation": [
+          25
+        ],
+        "are": [
+          26,
+          29
+        ],
+        "accurate,": [
+          27
+        ],
+        "they": [
+          28
+        ],
+        "time-consuming": [
+          30
+        ],
+        "and": [
+          31,
+          69,
+          109,
+          146,
+          181
+        ],
+        "costly.": [
+          32
+        ],
+        "The": [
+          33,
+          121
+        ],
+        "advancements": [
+          34
+        ],
+        "in": [
+          35,
+          118,
+          195
+        ],
+        "machine": [
+          36,
+          79
+        ],
+        "learning": [
+          37,
+          80
+        ],
+        "offer": [
+          38
+        ],
+        "more": [
+          40
+        ],
+        "efficient": [
+          41
+        ],
+        "option": [
+          42
+        ],
+        "prediction": [
+          45,
+          111,
+          165
+        ],
+        "using": [
+          46
+        ],
+        "real-time": [
+          47,
+          192
+        ],
+        "data.": [
+          48
+        ],
+        "This": [
+          49,
+          185
+        ],
+        "work": [
+          50
+        ],
+        "investigates": [
+          51
+        ],
+        "predictive": [
+          53
+        ],
+        "ability": [
+          54
+        ],
+        "three": [
+          56
+        ],
+        "types": [
+          57
+        ],
+        "Gradient": [
+          59,
+          64,
+          67,
+          71
+        ],
+        "Boosting": [
+          60,
+          72
+        ],
+        "Machines": [
+          61
+        ],
+        "(GBMs):": [
+          62
+        ],
+        "Standard": [
+          63
+        ],
+        "Boosting,": [
+          65,
+          68
+        ],
+        "Stochastic": [
+          66
+        ],
+        "eXtreme": [
+          70
+        ],
+        "(XGBoost)": [
+          73
+        ],
+        "prediction.": [
+          76
+        ],
+        "Unlike": [
+          77
+        ],
+        "conventional": [
+          78
+        ],
+        "approaches,": [
+          81
+        ],
+        "which": [
+          82
+        ],
+        "depend": [
+          83
+        ],
+        "on": [
+          84,
+          148
+        ],
+        "static": [
+          85
+        ],
+        "model": [
+          86,
+          107
+        ],
+        "inputs,": [
+          87
+        ],
+        "lagging": [
+          88
+        ],
+        "techniques": [
+          89
+        ],
+        "were": [
+          90,
+          99
+        ],
+        "applied": [
+          91
+        ],
+        "where": [
+          92
+        ],
+        "drilling": [
+          93,
+          126,
+          199
+        ],
+        "depth": [
+          94
+        ],
+        "data": [
+          95,
+          115,
+          122,
+          127,
+          155,
+          183
+        ],
+        "from": [
+          96
+        ],
+        "earlier": [
+          97
+        ],
+        "depths": [
+          98
+        ],
+        "as": [
+          101,
+          113,
+          205
+        ],
+        "input": [
+          102
+        ],
+        "features,": [
+          103
+        ],
+        "allowing": [
+          104
+        ],
+        "dynamic": [
+          106
+        ],
+        "changes": [
+          108
+        ],
+        "enhanced": [
+          110
+        ],
+        "accuracy": [
+          112
+        ],
+        "new": [
+          114
+        ],
+        "acquired": [
+          117
+        ],
+        "real": [
+          119
+        ],
+        "time.": [
+          120
+        ],
+        "set": [
+          123,
+          156
+        ],
+        "included": [
+          124
+        ],
+        "points,": [
+          128
+        ],
+        "comprising": [
+          129
+        ],
+        "rate": [
+          130,
+          136
+        ],
+        "penetration": [
+          132
+        ],
+        "(ROP),": [
+          133
+        ],
+        "mud": [
+          134
+        ],
+        "pumping": [
+          135
+        ],
+        "(GPM),": [
+          137
+        ],
+        "standpipe": [
+          138
+        ],
+        "pressure": [
+          139
+        ],
+        "(SPP),": [
+          140
+        ],
+        "rotary": [
+          141
+        ],
+        "speed": [
+          142
+        ],
+        "(RPM),": [
+          143
+        ],
+        "torque": [
+          144
+        ],
+        "(T),": [
+          145
+        ],
+        "weight": [
+          147
+        ],
+        "bit": [
+          149
+        ],
+        "(WOB),": [
+          150
+        ],
+        "with": [
+          151,
+          167
+        ],
+        "an": [
+          152
+        ],
+        "unseen": [
+          153
+        ],
+        "validation": [
+          154,
+          182
+        ],
+        "points.": [
+          159
+        ],
+        "Hyperparameter": [
+          160
+        ],
+        "optimization": [
+          161
+        ],
+        "significantly": [
+          162
+        ],
+        "improved": [
+          163
+        ],
+        "performance": [
+          166
+        ],
+        "XGBoost": [
+          168
+        ],
+        "achieving": [
+          169
+        ],
+        "superior": [
+          170
+        ],
+        "accuracy,": [
+          171
+        ],
+        "shown": [
+          172
+        ],
+        "by": [
+          173
+        ],
+        "lowest": [
+          175
+        ],
+        "error": [
+          176
+        ],
+        "metrics": [
+          177
+        ],
+        "across": [
+          178
+        ],
+        "test": [
+          180
+        ],
+        "set.": [
+          184
+        ],
+        "technique": [
+          186
+        ],
+        "offers": [
+          187
+        ],
+        "significant": [
+          188
+        ],
+        "potential": [
+          189
+        ],
+        "improving": [
+          191
+        ],
+        "predictions": [
+          194
+        ],
+        "carbonate": [
+          196
+        ],
+        "formations,": [
+          197
+        ],
+        "enhancing": [
+          198
+        ],
+        "efficiency": [
+          200
+        ],
+        "while": [
+          201
+        ],
+        "reducing": [
+          202
+        ],
+        "risks": [
+          203
+        ],
+        "such": [
+          204
+        ],
+        "wellbore": [
+          206
+        ],
+        "instability.": [
+          207
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2025-12-28T23:10:05.387466",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W4387230170",
       "doi": "https://doi.org/10.2118/216123-ms",
       "title": "Machine Learning Advisory System for Mitigating Downhole Vibrations for Horizontal Sections",
@@ -32838,16 +32838,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/9",
+          "display_name": "Industry, innovation and infrastructure",
           "score": 0.47999998927116394,
-          "display_name": "Industry, innovation and infrastructure"
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 37,
       "referenced_works": [
@@ -34093,16 +34093,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
+          "display_name": "Clean water and sanitation",
           "score": 0.75,
-          "display_name": "Clean water and sanitation"
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 53,
       "referenced_works": [
@@ -35279,16 +35279,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/9",
+          "display_name": "Industry, innovation and infrastructure",
           "score": 0.5400000214576721,
-          "display_name": "Industry, innovation and infrastructure"
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 37,
       "referenced_works": [
@@ -36667,8 +36667,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "referenced_works_count": 33,
       "referenced_works": [
@@ -37097,8 +37097,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 14,
       "referenced_works": [
@@ -38700,16 +38700,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
+          "display_name": "Life in Land",
           "score": 0.4300000071525574,
-          "display_name": "Life in Land"
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 82,
       "referenced_works": [
@@ -39957,16 +39957,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
+          "display_name": "Sustainable cities and communities",
           "score": 0.46000000834465027,
-          "display_name": "Sustainable cities and communities"
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "referenced_works_count": 41,
       "referenced_works": [
@@ -41166,16 +41166,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.4099999964237213,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -41622,8 +41622,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 21,
       "referenced_works": [
@@ -42844,8 +42844,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 35,
       "referenced_works": [
@@ -43853,8 +43853,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 1,
       "referenced_works": [
@@ -44207,8 +44207,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "referenced_works_count": 1,
       "referenced_works": [

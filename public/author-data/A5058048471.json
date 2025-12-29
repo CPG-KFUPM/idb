@@ -809,8 +809,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9",
+          "display_name": "Industry, innovation and infrastructure",
           "score": 0.4099999964237213
         }
       ],
@@ -1443,8 +1443,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9",
+          "display_name": "Industry, innovation and infrastructure",
           "score": 0.47999998927116394
         }
       ],
@@ -3718,8 +3718,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9",
+          "display_name": "Industry, innovation and infrastructure",
           "score": 0.5299999713897705
         }
       ],
@@ -4338,8 +4338,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
+          "display_name": "Affordable and clean energy",
           "score": 0.8199999928474426
         }
       ],
@@ -5303,8 +5303,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Reduced inequalities",
           "id": "https://metadata.un.org/sdg/10",
+          "display_name": "Reduced inequalities",
           "score": 0.6100000143051147
         }
       ],
@@ -6643,8 +6643,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9",
+          "display_name": "Industry, innovation and infrastructure",
           "score": 0.5699999928474426
         }
       ],
@@ -13791,8 +13791,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9",
+          "display_name": "Industry, innovation and infrastructure",
           "score": 0.47999998927116394
         }
       ],
@@ -14914,8 +14914,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9",
+          "display_name": "Industry, innovation and infrastructure",
           "score": 0.5199999809265137
         }
       ],
@@ -18032,8 +18032,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Responsible consumption and production",
           "id": "https://metadata.un.org/sdg/12",
+          "display_name": "Responsible consumption and production",
           "score": 0.4099999964237213
         }
       ],
@@ -19106,7 +19106,7 @@
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.65634819,
+        "value": 0.65618794,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19435,8 +19435,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
+          "display_name": "Affordable and clean energy",
           "score": 0.8199999928474426
         }
       ],
@@ -21361,8 +21361,8 @@
           ],
           "type": "journal"
         },
-        "license": null,
-        "license_id": null,
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
         "version": "publishedVersion",
         "is_accepted": true,
         "is_published": true,
@@ -21454,18 +21454,18 @@
           ],
           "affiliations": [
             {
+              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
               "raw_affiliation_string": "Department of Petroleum Engineering",
               "institution_ids": []
             },
             {
               "raw_affiliation_string": "Center for Integrative Petroleum Research",
               "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
             }
           ]
         },
@@ -21500,18 +21500,18 @@
           ],
           "affiliations": [
             {
+              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
               "raw_affiliation_string": "Department of Petroleum Engineering",
               "institution_ids": []
             },
             {
               "raw_affiliation_string": "Center for Integrative Petroleum Research",
               "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
             }
           ]
         },
@@ -21550,14 +21550,14 @@
               "institution_ids": []
             },
             {
+              "raw_affiliation_string": "Department of Chemical Engineering",
+              "institution_ids": []
+            },
+            {
               "raw_affiliation_string": "King Fahd University of Petroleum and Minerals",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
-            },
-            {
-              "raw_affiliation_string": "Department of Chemical Engineering",
-              "institution_ids": []
             }
           ]
         },
@@ -21592,6 +21592,10 @@
           ],
           "affiliations": [
             {
+              "raw_affiliation_string": "Center for Integrative Petroleum Research",
+              "institution_ids": []
+            },
+            {
               "raw_affiliation_string": "Department of Mechanical Engineering",
               "institution_ids": []
             },
@@ -21600,10 +21604,6 @@
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
-            },
-            {
-              "raw_affiliation_string": "Center for Integrative Petroleum Research",
-              "institution_ids": []
             }
           ]
         },
@@ -21638,18 +21638,18 @@
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Department of Petroleum Engineering",
-              "institution_ids": []
+              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
             },
             {
               "raw_affiliation_string": "Center for Integrative Petroleum Research",
               "institution_ids": []
             },
             {
-              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
+              "raw_affiliation_string": "Department of Petroleum Engineering",
+              "institution_ids": []
             }
           ]
         }
@@ -21677,7 +21677,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.80125762,
+        "value": 0.79661912,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -21880,8 +21880,8 @@
             ],
             "type": "journal"
           },
-          "license": null,
-          "license_id": null,
+          "license": "cc-by-nc-nd",
+          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
           "version": "publishedVersion",
           "is_accepted": true,
           "is_published": true,
@@ -21999,8 +21999,8 @@
           ],
           "type": "journal"
         },
-        "license": null,
-        "license_id": null,
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
         "version": "publishedVersion",
         "is_accepted": true,
         "is_published": true,
@@ -22009,8 +22009,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Zero hunger",
           "id": "https://metadata.un.org/sdg/2",
+          "display_name": "Zero hunger",
           "score": 0.7599999904632568
         }
       ],
@@ -22604,7 +22604,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2025-12-28T23:10:05.387466",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -25136,8 +25136,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
+          "display_name": "Clean water and sanitation",
           "score": 0.44999998807907104
         }
       ],
@@ -25776,8 +25776,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
+          "display_name": "Affordable and clean energy",
           "score": 0.8199999928474426
         }
       ],
@@ -26339,7 +26339,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.2651998,
+        "value": 0.26519935,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -26665,8 +26665,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
+          "display_name": "Affordable and clean energy",
           "score": 0.8199999928474426
         }
       ],

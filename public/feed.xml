@@ -4,7 +4,7 @@
     <title>Integrative Dashboard - OpenAlex Feed</title>
     <link>https://digitalgeosciences.github.io/dashboard3.2/</link>
     <description>Recent publications with OpenAlex abstracts and topics.</description>
-    <lastBuildDate>Sun, 28 Dec 2025 20:26:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Dec 2025 20:27:23 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>A Review of Foamed CO &lt;sub&gt;2&lt;/sub&gt; Dynamics during Geo-Sequestration in Deep Saline Aquifers</title>
@@ -231,7 +231,12 @@
       <guid isPermaLink="false">https://openalex.org/W7117362764</guid>
       <dc:creator>Hesham El-Kaliouby, Juntao Lu, Panagiotis Kirmizakis, Abid Khogali, Tim Eatwell, Tomos Bryan, Pantelis Soupios</dc:creator>
       <dc:publisher>Journal of Applied Geophysics</dc:publisher>
-      <description>Venue: Journal of Applied Geophysics&#10;Year: 2025&#10;Citations: 0</description>
+      <category>Induced polarization</category>
+      <category>Geology</category>
+      <category>Sulfide</category>
+      <category>Polarization (electrochemistry)</category>
+      <category>Transient (computer programming)</category>
+      <description>Topics: Induced polarization, Geology, Sulfide, Polarization (electrochemistry), Transient (computer programming)&#10;Venue: Journal of Applied Geophysics&#10;Year: 2025&#10;Citations: 0</description>
     </item>
     <item>
       <title>Sedimentological and diagenetic controls on burrow fillings in the upper Jurassic Hanifa formation, central Saudi Arabia: Implications for porosity and pore system variations in bioturbated reservoirs</title>

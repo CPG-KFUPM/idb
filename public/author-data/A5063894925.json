@@ -2823,8 +2823,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12",
-          "score": 0.4099999964237213
+          "score": 0.4099999964237213,
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "awards": [],
@@ -3834,8 +3834,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12",
-          "score": 0.4099999964237213
+          "score": 0.4099999964237213,
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "awards": [],
@@ -5328,8 +5328,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.8700000047683716
+          "score": 0.8700000047683716,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -7723,8 +7723,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7",
-          "score": 0.8700000047683716
+          "score": 0.8700000047683716,
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "awards": [],
@@ -8679,8 +8679,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.7799999713897705
+          "score": 0.7799999713897705,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [
@@ -12684,8 +12684,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Industry, innovation and infrastructure",
-          "id": "https://metadata.un.org/sdg/9",
-          "score": 0.6000000238418579
+          "score": 0.6000000238418579,
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "awards": [],
@@ -13504,8 +13504,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12",
-          "score": 0.5
+          "score": 0.5,
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "awards": [],
@@ -15613,8 +15613,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.7599999904632568
+          "score": 0.7599999904632568,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -16606,8 +16606,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12",
-          "score": 0.5299999713897705
+          "score": 0.5299999713897705,
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "awards": [],
@@ -18032,8 +18032,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.800000011920929
+          "score": 0.800000011920929,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -18885,8 +18885,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12",
-          "score": 0.46000000834465027
+          "score": 0.46000000834465027,
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "awards": [],
@@ -20720,8 +20720,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12",
-          "score": 0.4099999964237213
+          "score": 0.4099999964237213,
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "awards": [],
@@ -22083,8 +22083,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7",
-          "score": 0.6499999761581421
+          "score": 0.6499999761581421,
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "awards": [],
@@ -23385,8 +23385,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Industry, innovation and infrastructure",
-          "id": "https://metadata.un.org/sdg/9",
-          "score": 0.4300000071525574
+          "score": 0.4300000071525574,
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "awards": [],
@@ -25700,6 +25700,571 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
+      "id": "https://openalex.org/W4408271326",
+      "doi": "https://doi.org/10.1016/j.rineng.2025.104608",
+      "title": "Data-driven modelling to predict interfacial tension of hydrogen–brine system: Implications for underground hydrogen storage",
+      "display_name": "Data-driven modelling to predict interfacial tension of hydrogen–brine system: Implications for underground hydrogen storage",
+      "publication_year": 2025,
+      "publication_date": "2025-03-09",
+      "ids": {
+        "openalex": "https://openalex.org/W4408271326",
+        "doi": "https://doi.org/10.1016/j.rineng.2025.104608"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/j.rineng.2025.104608",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.rineng.2025.104608",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210226253",
+          "display_name": "Results in Engineering",
+          "issn_l": "2590-1230",
+          "issn": [
+            "2590-1230"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Results in Engineering",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref",
+        "doaj"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://doi.org/10.1016/j.rineng.2025.104608",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5061549746",
+            "display_name": "Niyi B. Ishola",
+            "orcid": "https://orcid.org/0000-0001-8525-6539"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Niyi Ishola",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5044382284",
+            "display_name": "Afeez Gbadamosi",
+            "orcid": "https://orcid.org/0000-0002-8802-1804"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Afeez Gbadamosi",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5008302543",
+            "display_name": "Nasiru Salahu Muhammed",
+            "orcid": "https://orcid.org/0000-0002-3339-2093"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Nasiru S. Muhammed",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5060282826",
+            "display_name": "Emmanuel I. Epelle",
+            "orcid": "https://orcid.org/0000-0002-9494-746X"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Emmanuel Epelle",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5063894925",
+            "display_name": "Bashirul Haq",
+            "orcid": "https://orcid.org/0000-0003-1414-9976"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Bashirul Haq",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5005252413",
+            "display_name": "Shirish Patil",
+            "orcid": "https://orcid.org/0000-0002-0131-4912"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Shirish Patil",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5024608621",
+            "display_name": "Dhafer Al Shehri",
+            "orcid": "https://orcid.org/0000-0002-7032-5199"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Dhafer Al Shehri",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 7,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": {
+        "value": 850,
+        "currency": "USD",
+        "value_usd": 850
+      },
+      "apc_paid": {
+        "value": 850,
+        "currency": "USD",
+        "value_usd": 850
+      },
+      "fwci": 17.45914756,
+      "has_fulltext": false,
+      "cited_by_count": 6,
+      "citation_normalized_percentile": {
+        "value": 0.97470381,
+        "is_in_top_1_percent": true,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 98,
+        "max": 99
+      },
+      "biblio": {
+        "volume": "26",
+        "issue": null,
+        "first_page": "104608",
+        "last_page": "104608"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10995",
+        "display_name": "Methane Hydrates and Related Phenomena",
+        "score": 0.998199999332428,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2304",
+          "display_name": "Environmental Chemistry"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/23",
+          "display_name": "Environmental Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10995",
+          "display_name": "Methane Hydrates and Related Phenomena",
+          "score": 0.998199999332428,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2304",
+            "display_name": "Environmental Chemistry"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11302",
+          "display_name": "CO2 Sequestration and Geologic Interactions",
+          "score": 0.9965999722480774,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2305",
+            "display_name": "Environmental Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10635",
+          "display_name": "Hydraulic Fracturing and Reservoir Analysis",
+          "score": 0.9937999844551086,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2210",
+            "display_name": "Mechanical Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/brine",
+          "display_name": "Brine",
+          "score": 0.8494060039520264
+        },
+        {
+          "id": "https://openalex.org/keywords/hydrogen-storage",
+          "display_name": "Hydrogen storage",
+          "score": 0.6495108604431152
+        },
+        {
+          "id": "https://openalex.org/keywords/hydrogen",
+          "display_name": "Hydrogen",
+          "score": 0.488977313041687
+        },
+        {
+          "id": "https://openalex.org/keywords/surface-tension",
+          "display_name": "Surface tension",
+          "score": 0.4566532373428345
+        },
+        {
+          "id": "https://openalex.org/keywords/environmental-science",
+          "display_name": "Environmental science",
+          "score": 0.4045850932598114
+        },
+        {
+          "id": "https://openalex.org/keywords/thermodynamics",
+          "display_name": "Thermodynamics",
+          "score": 0.3563442826271057
+        },
+        {
+          "id": "https://openalex.org/keywords/materials-science",
+          "display_name": "Materials science",
+          "score": 0.3454948663711548
+        },
+        {
+          "id": "https://openalex.org/keywords/petroleum-engineering",
+          "display_name": "Petroleum engineering",
+          "score": 0.3201073110103607
+        },
+        {
+          "id": "https://openalex.org/keywords/chemistry",
+          "display_name": "Chemistry",
+          "score": 0.2864307761192322
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.222330242395401
+        },
+        {
+          "id": "https://openalex.org/keywords/physics",
+          "display_name": "Physics",
+          "score": 0.1292577087879181
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2776957854",
+          "wikidata": "https://www.wikidata.org/wiki/Q214403",
+          "display_name": "Brine",
+          "level": 2,
+          "score": 0.8494060039520264
+        },
+        {
+          "id": "https://openalex.org/C68044625",
+          "wikidata": "https://www.wikidata.org/wiki/Q1203442",
+          "display_name": "Hydrogen storage",
+          "level": 3,
+          "score": 0.6495108604431152
+        },
+        {
+          "id": "https://openalex.org/C512968161",
+          "wikidata": "https://www.wikidata.org/wiki/Q556",
+          "display_name": "Hydrogen",
+          "level": 2,
+          "score": 0.488977313041687
+        },
+        {
+          "id": "https://openalex.org/C8892853",
+          "wikidata": "https://www.wikidata.org/wiki/Q170749",
+          "display_name": "Surface tension",
+          "level": 2,
+          "score": 0.4566532373428345
+        },
+        {
+          "id": "https://openalex.org/C39432304",
+          "wikidata": "https://www.wikidata.org/wiki/Q188847",
+          "display_name": "Environmental science",
+          "level": 0,
+          "score": 0.4045850932598114
+        },
+        {
+          "id": "https://openalex.org/C97355855",
+          "wikidata": "https://www.wikidata.org/wiki/Q11473",
+          "display_name": "Thermodynamics",
+          "level": 1,
+          "score": 0.3563442826271057
+        },
+        {
+          "id": "https://openalex.org/C192562407",
+          "wikidata": "https://www.wikidata.org/wiki/Q228736",
+          "display_name": "Materials science",
+          "level": 0,
+          "score": 0.3454948663711548
+        },
+        {
+          "id": "https://openalex.org/C78762247",
+          "wikidata": "https://www.wikidata.org/wiki/Q1273174",
+          "display_name": "Petroleum engineering",
+          "level": 1,
+          "score": 0.3201073110103607
+        },
+        {
+          "id": "https://openalex.org/C185592680",
+          "wikidata": "https://www.wikidata.org/wiki/Q2329",
+          "display_name": "Chemistry",
+          "level": 0,
+          "score": 0.2864307761192322
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.222330242395401
+        },
+        {
+          "id": "https://openalex.org/C121332964",
+          "wikidata": "https://www.wikidata.org/wiki/Q413",
+          "display_name": "Physics",
+          "level": 0,
+          "score": 0.1292577087879181
+        },
+        {
+          "id": "https://openalex.org/C178790620",
+          "wikidata": "https://www.wikidata.org/wiki/Q11351",
+          "display_name": "Organic chemistry",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.rineng.2025.104608",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1016/j.rineng.2025.104608",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4210226253",
+            "display_name": "Results in Engineering",
+            "issn_l": "2590-1230",
+            "issn": [
+              "2590-1230"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by-nc-nd",
+          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Results in Engineering",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1016/j.rineng.2025.104608",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.rineng.2025.104608",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210226253",
+          "display_name": "Results in Engineering",
+          "issn_l": "2590-1230",
+          "issn": [
+            "2590-1230"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Results in Engineering",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "referenced_works_count": 58,
+      "referenced_works": [
+        "https://openalex.org/W2928283622",
+        "https://openalex.org/W2200409625",
+        "https://openalex.org/W4385370506",
+        "https://openalex.org/W3201994217",
+        "https://openalex.org/W6860306990",
+        "https://openalex.org/W4386959758",
+        "https://openalex.org/W4280563520",
+        "https://openalex.org/W3128474450",
+        "https://openalex.org/W4381742887",
+        "https://openalex.org/W4387686451",
+        "https://openalex.org/W4285310428",
+        "https://openalex.org/W4385439715",
+        "https://openalex.org/W4292509493",
+        "https://openalex.org/W4311255578",
+        "https://openalex.org/W4406133859",
+        "https://openalex.org/W6875977164",
+        "https://openalex.org/W4396571339",
+        "https://openalex.org/W4388439755",
+        "https://openalex.org/W4309629371",
+        "https://openalex.org/W4367550380",
+        "https://openalex.org/W4382654687",
+        "https://openalex.org/W4221124994",
+        "https://openalex.org/W4387125023",
+        "https://openalex.org/W4294741325",
+        "https://openalex.org/W2883284252",
+        "https://openalex.org/W2335257775",
+        "https://openalex.org/W2078231961",
+        "https://openalex.org/W4320351699",
+        "https://openalex.org/W4283317677",
+        "https://openalex.org/W4399679144",
+        "https://openalex.org/W4320719921",
+        "https://openalex.org/W6860100634",
+        "https://openalex.org/W4391226792",
+        "https://openalex.org/W4387342012",
+        "https://openalex.org/W4386750082",
+        "https://openalex.org/W4327714075",
+        "https://openalex.org/W2804084687",
+        "https://openalex.org/W4386932101",
+        "https://openalex.org/W4313368048",
+        "https://openalex.org/W339747411",
+        "https://openalex.org/W6721150412",
+        "https://openalex.org/W2618598738",
+        "https://openalex.org/W6766835993",
+        "https://openalex.org/W3164382478",
+        "https://openalex.org/W4280589739",
+        "https://openalex.org/W3136667979",
+        "https://openalex.org/W3093403940",
+        "https://openalex.org/W4388491192",
+        "https://openalex.org/W4390684417",
+        "https://openalex.org/W2171742183",
+        "https://openalex.org/W2801148280",
+        "https://openalex.org/W3160924512",
+        "https://openalex.org/W2967319187",
+        "https://openalex.org/W4390056837",
+        "https://openalex.org/W4390242419",
+        "https://openalex.org/W2474214365",
+        "https://openalex.org/W4242883949",
+        "https://openalex.org/W4406488473"
+      ],
+      "related_works": [
+        "https://openalex.org/W2368847095",
+        "https://openalex.org/W2392416149",
+        "https://openalex.org/W2369176790",
+        "https://openalex.org/W4294762420",
+        "https://openalex.org/W2961715276",
+        "https://openalex.org/W2393763481",
+        "https://openalex.org/W4244718299",
+        "https://openalex.org/W2386603745",
+        "https://openalex.org/W3127407325",
+        "https://openalex.org/W2951152269"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 6
+        }
+      ],
+      "updated_date": "2025-12-28T23:10:05.387466",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W2025580558",
       "doi": "https://doi.org/10.1007/s11242-010-9669-6",
       "title": "Interactions of Microbial-Enhanced Oil Recovery Processes",
@@ -26563,8 +27128,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.550000011920929
+          "score": 0.550000011920929,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -28020,8 +28585,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12",
-          "score": 0.5400000214576721
+          "score": 0.5400000214576721,
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "awards": [
@@ -30442,8 +31007,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.4399999976158142
+          "score": 0.4399999976158142,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -32649,571 +33214,6 @@
         {
           "year": 2024,
           "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2025-11-06T03:46:38.306776",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W4408271326",
-      "doi": "https://doi.org/10.1016/j.rineng.2025.104608",
-      "title": "Data-driven modelling to predict interfacial tension of hydrogen–brine system: Implications for underground hydrogen storage",
-      "display_name": "Data-driven modelling to predict interfacial tension of hydrogen–brine system: Implications for underground hydrogen storage",
-      "publication_year": 2025,
-      "publication_date": "2025-03-09",
-      "ids": {
-        "openalex": "https://openalex.org/W4408271326",
-        "doi": "https://doi.org/10.1016/j.rineng.2025.104608"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/j.rineng.2025.104608",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1016/j.rineng.2025.104608",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4210226253",
-          "display_name": "Results in Engineering",
-          "issn_l": "2590-1230",
-          "issn": [
-            "2590-1230"
-          ],
-          "is_oa": true,
-          "is_in_doaj": true,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Results in Engineering",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref",
-        "doaj"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "gold",
-        "oa_url": "https://doi.org/10.1016/j.rineng.2025.104608",
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5061549746",
-            "display_name": "Niyi B. Ishola",
-            "orcid": "https://orcid.org/0000-0001-8525-6539"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Niyi Ishola",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5044382284",
-            "display_name": "Afeez Gbadamosi",
-            "orcid": "https://orcid.org/0000-0002-8802-1804"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Afeez Gbadamosi",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5008302543",
-            "display_name": "Nasiru Salahu Muhammed",
-            "orcid": "https://orcid.org/0000-0002-3339-2093"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Nasiru S. Muhammed",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5060282826",
-            "display_name": "Emmanuel I. Epelle",
-            "orcid": "https://orcid.org/0000-0002-9494-746X"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Emmanuel Epelle",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5063894925",
-            "display_name": "Bashirul Haq",
-            "orcid": "https://orcid.org/0000-0003-1414-9976"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Bashirul Haq",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5005252413",
-            "display_name": "Shirish Patil",
-            "orcid": "https://orcid.org/0000-0002-0131-4912"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Shirish Patil",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5024608621",
-            "display_name": "Dhafer Al Shehri",
-            "orcid": "https://orcid.org/0000-0002-7032-5199"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Dhafer Al Shehri",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 7,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
-      "apc_list": {
-        "value": 850,
-        "currency": "USD",
-        "value_usd": 850
-      },
-      "apc_paid": {
-        "value": 850,
-        "currency": "USD",
-        "value_usd": 850
-      },
-      "fwci": 11.63943171,
-      "has_fulltext": false,
-      "cited_by_count": 4,
-      "citation_normalized_percentile": {
-        "value": 0.95350352,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 97,
-        "max": 98
-      },
-      "biblio": {
-        "volume": "26",
-        "issue": null,
-        "first_page": "104608",
-        "last_page": "104608"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10995",
-        "display_name": "Methane Hydrates and Related Phenomena",
-        "score": 0.998199999332428,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2304",
-          "display_name": "Environmental Chemistry"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/23",
-          "display_name": "Environmental Science"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10995",
-          "display_name": "Methane Hydrates and Related Phenomena",
-          "score": 0.998199999332428,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2304",
-            "display_name": "Environmental Chemistry"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11302",
-          "display_name": "CO2 Sequestration and Geologic Interactions",
-          "score": 0.9965999722480774,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2305",
-            "display_name": "Environmental Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10635",
-          "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-          "score": 0.9937999844551086,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2210",
-            "display_name": "Mechanical Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/brine",
-          "display_name": "Brine",
-          "score": 0.8494060039520264
-        },
-        {
-          "id": "https://openalex.org/keywords/hydrogen-storage",
-          "display_name": "Hydrogen storage",
-          "score": 0.6495108604431152
-        },
-        {
-          "id": "https://openalex.org/keywords/hydrogen",
-          "display_name": "Hydrogen",
-          "score": 0.488977313041687
-        },
-        {
-          "id": "https://openalex.org/keywords/surface-tension",
-          "display_name": "Surface tension",
-          "score": 0.4566532373428345
-        },
-        {
-          "id": "https://openalex.org/keywords/environmental-science",
-          "display_name": "Environmental science",
-          "score": 0.4045850932598114
-        },
-        {
-          "id": "https://openalex.org/keywords/thermodynamics",
-          "display_name": "Thermodynamics",
-          "score": 0.3563442826271057
-        },
-        {
-          "id": "https://openalex.org/keywords/materials-science",
-          "display_name": "Materials science",
-          "score": 0.3454948663711548
-        },
-        {
-          "id": "https://openalex.org/keywords/petroleum-engineering",
-          "display_name": "Petroleum engineering",
-          "score": 0.3201073110103607
-        },
-        {
-          "id": "https://openalex.org/keywords/chemistry",
-          "display_name": "Chemistry",
-          "score": 0.2864307761192322
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.222330242395401
-        },
-        {
-          "id": "https://openalex.org/keywords/physics",
-          "display_name": "Physics",
-          "score": 0.1292577087879181
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C2776957854",
-          "wikidata": "https://www.wikidata.org/wiki/Q214403",
-          "display_name": "Brine",
-          "level": 2,
-          "score": 0.8494060039520264
-        },
-        {
-          "id": "https://openalex.org/C68044625",
-          "wikidata": "https://www.wikidata.org/wiki/Q1203442",
-          "display_name": "Hydrogen storage",
-          "level": 3,
-          "score": 0.6495108604431152
-        },
-        {
-          "id": "https://openalex.org/C512968161",
-          "wikidata": "https://www.wikidata.org/wiki/Q556",
-          "display_name": "Hydrogen",
-          "level": 2,
-          "score": 0.488977313041687
-        },
-        {
-          "id": "https://openalex.org/C8892853",
-          "wikidata": "https://www.wikidata.org/wiki/Q170749",
-          "display_name": "Surface tension",
-          "level": 2,
-          "score": 0.4566532373428345
-        },
-        {
-          "id": "https://openalex.org/C39432304",
-          "wikidata": "https://www.wikidata.org/wiki/Q188847",
-          "display_name": "Environmental science",
-          "level": 0,
-          "score": 0.4045850932598114
-        },
-        {
-          "id": "https://openalex.org/C97355855",
-          "wikidata": "https://www.wikidata.org/wiki/Q11473",
-          "display_name": "Thermodynamics",
-          "level": 1,
-          "score": 0.3563442826271057
-        },
-        {
-          "id": "https://openalex.org/C192562407",
-          "wikidata": "https://www.wikidata.org/wiki/Q228736",
-          "display_name": "Materials science",
-          "level": 0,
-          "score": 0.3454948663711548
-        },
-        {
-          "id": "https://openalex.org/C78762247",
-          "wikidata": "https://www.wikidata.org/wiki/Q1273174",
-          "display_name": "Petroleum engineering",
-          "level": 1,
-          "score": 0.3201073110103607
-        },
-        {
-          "id": "https://openalex.org/C185592680",
-          "wikidata": "https://www.wikidata.org/wiki/Q2329",
-          "display_name": "Chemistry",
-          "level": 0,
-          "score": 0.2864307761192322
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.222330242395401
-        },
-        {
-          "id": "https://openalex.org/C121332964",
-          "wikidata": "https://www.wikidata.org/wiki/Q413",
-          "display_name": "Physics",
-          "level": 0,
-          "score": 0.1292577087879181
-        },
-        {
-          "id": "https://openalex.org/C178790620",
-          "wikidata": "https://www.wikidata.org/wiki/Q11351",
-          "display_name": "Organic chemistry",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1016/j.rineng.2025.104608",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.1016/j.rineng.2025.104608",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4210226253",
-            "display_name": "Results in Engineering",
-            "issn_l": "2590-1230",
-            "issn": [
-              "2590-1230"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Results in Engineering",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.1016/j.rineng.2025.104608",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1016/j.rineng.2025.104608",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4210226253",
-          "display_name": "Results in Engineering",
-          "issn_l": "2590-1230",
-          "issn": [
-            "2590-1230"
-          ],
-          "is_oa": true,
-          "is_in_doaj": true,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Results in Engineering",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "referenced_works_count": 58,
-      "referenced_works": [
-        "https://openalex.org/W2928283622",
-        "https://openalex.org/W2200409625",
-        "https://openalex.org/W4385370506",
-        "https://openalex.org/W3201994217",
-        "https://openalex.org/W6860306990",
-        "https://openalex.org/W4386959758",
-        "https://openalex.org/W4280563520",
-        "https://openalex.org/W3128474450",
-        "https://openalex.org/W4381742887",
-        "https://openalex.org/W4387686451",
-        "https://openalex.org/W4285310428",
-        "https://openalex.org/W4385439715",
-        "https://openalex.org/W4292509493",
-        "https://openalex.org/W4311255578",
-        "https://openalex.org/W4406133859",
-        "https://openalex.org/W6875977164",
-        "https://openalex.org/W4396571339",
-        "https://openalex.org/W4388439755",
-        "https://openalex.org/W4309629371",
-        "https://openalex.org/W4367550380",
-        "https://openalex.org/W4382654687",
-        "https://openalex.org/W4221124994",
-        "https://openalex.org/W4387125023",
-        "https://openalex.org/W4294741325",
-        "https://openalex.org/W2883284252",
-        "https://openalex.org/W2335257775",
-        "https://openalex.org/W2078231961",
-        "https://openalex.org/W4320351699",
-        "https://openalex.org/W4283317677",
-        "https://openalex.org/W4399679144",
-        "https://openalex.org/W4320719921",
-        "https://openalex.org/W6860100634",
-        "https://openalex.org/W4391226792",
-        "https://openalex.org/W4387342012",
-        "https://openalex.org/W4386750082",
-        "https://openalex.org/W4327714075",
-        "https://openalex.org/W2804084687",
-        "https://openalex.org/W4386932101",
-        "https://openalex.org/W4313368048",
-        "https://openalex.org/W339747411",
-        "https://openalex.org/W6721150412",
-        "https://openalex.org/W2618598738",
-        "https://openalex.org/W6766835993",
-        "https://openalex.org/W3164382478",
-        "https://openalex.org/W4280589739",
-        "https://openalex.org/W3136667979",
-        "https://openalex.org/W3093403940",
-        "https://openalex.org/W4388491192",
-        "https://openalex.org/W4390684417",
-        "https://openalex.org/W2171742183",
-        "https://openalex.org/W2801148280",
-        "https://openalex.org/W3160924512",
-        "https://openalex.org/W2967319187",
-        "https://openalex.org/W4390056837",
-        "https://openalex.org/W2474214365",
-        "https://openalex.org/W4242883949",
-        "https://openalex.org/W4390242419",
-        "https://openalex.org/W4406488473"
-      ],
-      "related_works": [
-        "https://openalex.org/W2368847095",
-        "https://openalex.org/W2392416149",
-        "https://openalex.org/W2369176790",
-        "https://openalex.org/W4294762420",
-        "https://openalex.org/W2961715276",
-        "https://openalex.org/W2393763481",
-        "https://openalex.org/W4244718299",
-        "https://openalex.org/W2386603745",
-        "https://openalex.org/W3127407325",
-        "https://openalex.org/W2951152269"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2025,
-          "cited_by_count": 4
         }
       ],
       "updated_date": "2025-11-06T03:46:38.306776",
@@ -37198,8 +37198,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.75
+          "score": 0.75,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -43354,8 +43354,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12",
-          "score": 0.4399999976158142
+          "score": 0.4399999976158142,
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "awards": [],
@@ -45197,8 +45197,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.5600000023841858
+          "score": 0.5600000023841858,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -47099,7 +47099,7 @@
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.67560088,
+        "value": 0.67556876,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -47511,13 +47511,13 @@
         "https://openalex.org/W4221085977",
         "https://openalex.org/W4280589739",
         "https://openalex.org/W4386913250",
-        "https://openalex.org/W4388491192",
-        "https://openalex.org/W4387343254",
-        "https://openalex.org/W2162498574",
-        "https://openalex.org/W2089421104",
-        "https://openalex.org/W3113047742",
         "https://openalex.org/W4223902125",
-        "https://openalex.org/W4361026200"
+        "https://openalex.org/W4388491192",
+        "https://openalex.org/W2162498574",
+        "https://openalex.org/W3113047742",
+        "https://openalex.org/W4387343254",
+        "https://openalex.org/W4361026200",
+        "https://openalex.org/W2089421104"
       ],
       "related_works": [
         "https://openalex.org/W3032506809",
@@ -48107,8 +48107,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7",
-          "score": 0.8700000047683716
+          "score": 0.8700000047683716,
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "awards": [],
@@ -49388,8 +49388,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15",
-          "score": 0.46000000834465027
+          "score": 0.46000000834465027,
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
@@ -50518,8 +50518,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12",
-          "score": 0.44999998807907104
+          "score": 0.44999998807907104,
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "awards": [],
@@ -59978,8 +59978,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7",
-          "score": 0.4300000071525574
+          "score": 0.4300000071525574,
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "awards": [],
@@ -61397,8 +61397,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Industry, innovation and infrastructure",
-          "id": "https://metadata.un.org/sdg/9",
-          "score": 0.41999998688697815
+          "score": 0.41999998688697815,
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "awards": [],
@@ -66390,8 +66390,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Reduced inequalities",
-          "id": "https://metadata.un.org/sdg/10",
-          "score": 0.75
+          "score": 0.75,
+          "id": "https://metadata.un.org/sdg/10"
         }
       ],
       "awards": [],
@@ -66799,8 +66799,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.49000000953674316
+          "score": 0.49000000953674316,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -68010,8 +68010,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.49000000953674316
+          "score": 0.49000000953674316,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],

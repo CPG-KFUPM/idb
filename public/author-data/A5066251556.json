@@ -1716,8 +1716,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "score": 0.5299999713897705,
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation"
         }
       ],
@@ -2727,8 +2727,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/9",
           "score": 0.41999998688697815,
+          "id": "https://metadata.un.org/sdg/9",
           "display_name": "Industry, innovation and infrastructure"
         }
       ],
@@ -3760,8 +3760,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "score": 0.8600000143051147,
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation"
         }
       ],
@@ -4771,8 +4771,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/12",
           "score": 0.41999998688697815,
+          "id": "https://metadata.un.org/sdg/12",
           "display_name": "Responsible consumption and production"
         }
       ],
@@ -6275,8 +6275,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "score": 0.8399999737739563,
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation"
         }
       ],
@@ -7439,8 +7439,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "score": 0.7900000214576721,
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation"
         }
       ],
@@ -8240,8 +8240,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8500000238418579,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -9055,7 +9055,7 @@
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.95188708,
+        "value": 0.94927585,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -9447,14 +9447,542 @@
         "https://openalex.org/W2951332247",
         "https://openalex.org/W4404561996"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "300": [
+          114
+        ],
+        "The": [
+          0,
+          64,
+          178
+        ],
+        "structural": [
+          1,
+          197
+        ],
+        "properties": [
+          2
+        ],
+        "of": [
+          3,
+          55,
+          183,
+          199
+        ],
+        "surfactants": [
+          4,
+          29,
+          70,
+          137,
+          201
+        ],
+        "are": [
+          5,
+          221
+        ],
+        "essential": [
+          6
+        ],
+        "for": [
+          7,
+          119,
+          174,
+          188,
+          202,
+          206
+        ],
+        "understanding": [
+          8
+        ],
+        "their": [
+          9,
+          117
+        ],
+        "behavior": [
+          10
+        ],
+        "and": [
+          11,
+          20,
+          33,
+          39,
+          45,
+          61,
+          82,
+          88,
+          129,
+          145,
+          211,
+          218
+        ],
+        "sustainability": [
+          12
+        ],
+        "under": [
+          13
+        ],
+        "extreme": [
+          14
+        ],
+        "conditions,": [
+          15
+        ],
+        "such": [
+          16
+        ],
+        "as": [
+          17
+        ],
+        "high": [
+          18,
+          106
+        ],
+        "temperatures": [
+          19,
+          90,
+          111
+        ],
+        "varying": [
+          21
+        ],
+        "salinities.": [
+          22
+        ],
+        "In": [
+          23
+        ],
+        "this": [
+          24
+        ],
+        "study,": [
+          25
+        ],
+        "four": [
+          26,
+          69
+        ],
+        "pyridinium-based": [
+          27
+        ],
+        "dicationic": [
+          28,
+          157,
+          200
+        ],
+        "with": [
+          30,
+          93,
+          109,
+          124,
+          138,
+          152,
+          159
+        ],
+        "different": [
+          31
+        ],
+        "hydrophilic": [
+          32,
+          139
+        ],
+        "hydrophobic": [
+          34,
+          153
+        ],
+        "spacer": [
+          35,
+          56,
+          162
+        ],
+        "groups": [
+          36,
+          57
+        ],
+        "were": [
+          37,
+          49
+        ],
+        "synthesized": [
+          38
+        ],
+        "structurally": [
+          40
+        ],
+        "characterized.": [
+          41
+        ],
+        "Thermogravimetric": [
+          42
+        ],
+        "analysis": [
+          43
+        ],
+        "(TGA)": [
+          44
+        ],
+        "surface": [
+          46,
+          62,
+          143,
+          180
+        ],
+        "tension": [
+          47,
+          128,
+          144,
+          181
+        ],
+        "measurements": [
+          48,
+          134
+        ],
+        "conducted": [
+          50
+        ],
+        "to": [
+          51,
+          113
+        ],
+        "investigate": [
+          52
+        ],
+        "the": [
+          53,
+          156,
+          164,
+          196
+        ],
+        "influence": [
+          54
+        ],
+        "on": [
+          58
+        ],
+        "thermal": [
+          59,
+          107,
+          216
+        ],
+        "stability": [
+          60
+        ],
+        "properties.": [
+          63
+        ],
+        "results": [
+          65,
+          104
+        ],
+        "demonstrated": [
+          66,
+          71
+        ],
+        "that": [
+          67,
+          136
+        ],
+        "all": [
+          68
+        ],
+        "remarkable": [
+          72
+        ],
+        "solubility": [
+          73
+        ],
+        "in": [
+          74
+        ],
+        "various": [
+          75
+        ],
+        "aqueous": [
+          76
+        ],
+        "environments-seawater": [
+          77
+        ],
+        "(SW),": [
+          78
+        ],
+        "deionized": [
+          79
+        ],
+        "water": [
+          80,
+          84
+        ],
+        "(DW),": [
+          81
+        ],
+        "formation": [
+          83,
+          149
+        ],
+        "(FW)-at": [
+          85
+        ],
+        "both": [
+          86
+        ],
+        "ambient": [
+          87
+        ],
+        "elevated": [
+          89
+        ],
+        "(90": [
+          91
+        ],
+        "°C),": [
+          92
+        ],
+        "no": [
+          94
+        ],
+        "phase": [
+          95
+        ],
+        "separation": [
+          96
+        ],
+        "or": [
+          97
+        ],
+        "cloudiness": [
+          98
+        ],
+        "observed": [
+          99
+        ],
+        "after": [
+          100
+        ],
+        "three": [
+          101
+        ],
+        "weeks.": [
+          102
+        ],
+        "TGA": [
+          103
+        ],
+        "revealed": [
+          105
+        ],
+        "stability,": [
+          108
+        ],
+        "decomposition": [
+          110
+        ],
+        "close": [
+          112
+        ],
+        "°C,": [
+          115
+        ],
+        "highlighting": [
+          116
+        ],
+        "robustness": [
+          118
+        ],
+        "applications": [
+          120,
+          207
+        ],
+        "requiring": [
+          121
+        ],
+        "sustainable": [
+          122,
+          203
+        ],
+        "materials": [
+          123
+        ],
+        "extended": [
+          125
+        ],
+        "lifespans.": [
+          126
+        ],
+        "Surface": [
+          127
+        ],
+        "critical": [
+          130
+        ],
+        "micelle": [
+          131,
+          148,
+          171
+        ],
+        "concentration": [
+          132
+        ],
+        "(CMC)": [
+          133
+        ],
+        "showed": [
+          135
+        ],
+        "spacers": [
+          140
+        ],
+        "achieved": [
+          141
+        ],
+        "lower": [
+          142
+        ],
+        "more": [
+          146
+        ],
+        "efficient": [
+          147,
+          175
+        ],
+        "than": [
+          150
+        ],
+        "those": [
+          151
+        ],
+        "spacers.": [
+          154
+        ],
+        "Notably,": [
+          155
+        ],
+        "surfactant": [
+          158
+        ],
+        "a": [
+          160,
+          168
+        ],
+        "hydroxy": [
+          161
+        ],
+        "exhibited": [
+          163
+        ],
+        "lowest": [
+          165,
+          179
+        ],
+        "CMC,": [
+          166
+        ],
+        "indicating": [
+          167
+        ],
+        "tightly": [
+          169
+        ],
+        "packed": [
+          170
+        ],
+        "structure,": [
+          172
+        ],
+        "advantageous": [
+          173
+        ],
+        "resource": [
+          176
+        ],
+        "utilization.": [
+          177
+        ],
+        "value": [
+          182
+        ],
+        "31.790": [
+          184
+        ],
+        "mNm<sup>-1</sup>": [
+          185
+        ],
+        "was": [
+          186
+        ],
+        "obtained": [
+          187
+        ],
+        "<b>GS-NH.</b>": [
+          189
+        ],
+        "These": [
+          190
+        ],
+        "findings": [
+          191
+        ],
+        "provide": [
+          192
+        ],
+        "valuable": [
+          193
+        ],
+        "insights": [
+          194
+        ],
+        "into": [
+          195
+        ],
+        "design": [
+          198
+        ],
+        "engineering,": [
+          204
+        ],
+        "particularly": [
+          205
+        ],
+        "like": [
+          208
+        ],
+        "CO<sub>2</sub>": [
+          209
+        ],
+        "storage": [
+          210
+        ],
+        "enhanced": [
+          212
+        ],
+        "oil": [
+          213
+        ],
+        "recovery,": [
+          214
+        ],
+        "where": [
+          215
+        ],
+        "resilience": [
+          217
+        ],
+        "salt": [
+          219
+        ],
+        "tolerance": [
+          220
+        ],
+        "critical.": [
+          222
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2025,
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2025-12-28T23:10:05.387466",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -10115,8 +10643,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "score": 0.6399999856948853,
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation"
         }
       ],
@@ -11183,8 +11711,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "score": 0.5099999904632568,
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation"
         }
       ],
@@ -13097,8 +13625,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "score": 0.5,
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation"
         }
       ],
@@ -14430,8 +14958,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8700000047683716,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -15480,8 +16008,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "score": 0.47999998927116394,
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation"
         }
       ],
@@ -17208,8 +17736,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "score": 0.5099999904632568,
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation"
         }
       ],
@@ -18582,8 +19110,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/9",
           "score": 0.47999998927116394,
+          "id": "https://metadata.un.org/sdg/9",
           "display_name": "Industry, innovation and infrastructure"
         }
       ],
@@ -19719,8 +20247,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "score": 0.75,
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation"
         }
       ],
@@ -22668,8 +23196,8 @@
       "countries_distinct_count": 1,
       "institutions_distinct_count": 6,
       "corresponding_author_ids": [
-        "https://openalex.org/A5022552999",
-        "https://openalex.org/A5084940954"
+        "https://openalex.org/A5084940954",
+        "https://openalex.org/A5022552999"
       ],
       "corresponding_institution_ids": [
         "https://openalex.org/I134085113"
@@ -22688,7 +23216,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.79827336,
+        "value": 0.78927499,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -23170,8 +23698,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.44999998807907104,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -23775,7 +24303,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T06:51:31.235846",
+      "updated_date": "2025-12-28T23:10:05.387466",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -23946,7 +24474,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.83079826,
+        "value": 0.81885034,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -24363,20 +24891,20 @@
         "https://openalex.org/W2090583759",
         "https://openalex.org/W2041667010",
         "https://openalex.org/W1983110613",
-        "https://openalex.org/W4401759048",
-        "https://openalex.org/W3145566755",
-        "https://openalex.org/W1967232262",
-        "https://openalex.org/W4401598971",
-        "https://openalex.org/W3096053405",
         "https://openalex.org/W3023742596",
-        "https://openalex.org/W4391403775",
-        "https://openalex.org/W4402327116",
-        "https://openalex.org/W4394846625",
-        "https://openalex.org/W4309680568",
-        "https://openalex.org/W2084291435",
         "https://openalex.org/W3114883492",
-        "https://openalex.org/W2002786121",
+        "https://openalex.org/W4391403775",
+        "https://openalex.org/W3145566755",
+        "https://openalex.org/W4401759048",
+        "https://openalex.org/W1967232262",
         "https://openalex.org/W4254942932",
+        "https://openalex.org/W2084291435",
+        "https://openalex.org/W4309680568",
+        "https://openalex.org/W2002786121",
+        "https://openalex.org/W3096053405",
+        "https://openalex.org/W4401598971",
+        "https://openalex.org/W4394846625",
+        "https://openalex.org/W4402327116",
         "https://openalex.org/W2106562658"
       ],
       "related_works": [
@@ -24964,7 +25492,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T23:17:08.748858",
+      "updated_date": "2025-12-28T23:10:05.387466",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -25430,8 +25958,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "score": 0.550000011920929,
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation"
         }
       ],
@@ -26611,8 +27139,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "score": 0.7400000095367432,
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation"
         }
       ],
@@ -27648,8 +28176,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6000000238418579,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],

@@ -20,37 +20,37 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10635",
     "name": "Hydraulic Fracturing and Reservoir Analysis",
     "publications": 1674,
-    "citations": 31587
+    "citations": 31592
   },
   {
     "id": "https://openalex.org/T10892",
     "name": "Drilling and Well Engineering",
     "publications": 1150,
-    "citations": 17083
+    "citations": 17086
   },
   {
     "id": "https://openalex.org/T10399",
     "name": "Hydrocarbon exploration and reservoir analysis",
     "publications": 1134,
-    "citations": 21309
+    "citations": 21310
   },
   {
     "id": "https://openalex.org/T10491",
     "name": "Enhanced Oil Recovery Techniques",
     "publications": 934,
-    "citations": 20952
+    "citations": 20954
   },
   {
     "id": "https://openalex.org/T10271",
     "name": "Seismic Imaging and Inversion Techniques",
     "publications": 691,
-    "citations": 6960
+    "citations": 6962
   },
   {
     "id": "https://openalex.org/T11801",
     "name": "Reservoir Engineering and Simulation Methods",
     "publications": 680,
-    "citations": 9486
+    "citations": 9488
   },
   {
     "id": "https://openalex.org/T11757",
@@ -62,13 +62,13 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10995",
     "name": "Methane Hydrates and Related Phenomena",
     "publications": 390,
-    "citations": 10271
+    "citations": 10273
   },
   {
     "id": "https://openalex.org/T11302",
     "name": "CO2 Sequestration and Geologic Interactions",
     "publications": 385,
-    "citations": 12566
+    "citations": 12569
   },
   {
     "id": "https://openalex.org/T10017",
@@ -80,7 +80,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T11630",
     "name": "Petroleum Processing and Analysis",
     "publications": 368,
-    "citations": 8063
+    "citations": 8064
   },
   {
     "id": "https://openalex.org/T10001",
@@ -104,7 +104,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T12157",
     "name": "Geochemistry and Geologic Mapping",
     "publications": 265,
-    "citations": 4373
+    "citations": 4375
   },
   {
     "id": "https://openalex.org/T10109",
@@ -146,13 +146,13 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10572",
     "name": "Geophysical and Geoelectrical Methods",
     "publications": 144,
-    "citations": 1042
+    "citations": 1044
   },
   {
     "id": "https://openalex.org/T11609",
     "name": "Geophysical Methods and Applications",
     "publications": 143,
-    "citations": 1201
+    "citations": 1203
   },
   {
     "id": "https://openalex.org/T10413",
@@ -410,7 +410,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T11434",
     "name": "Electrochemical Analysis and Applications",
     "publications": 35,
-    "citations": 683
+    "citations": 684
   },
   {
     "id": "https://openalex.org/T11401",
@@ -458,7 +458,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10716",
     "name": "Soil and Unsaturated Flow",
     "publications": 32,
-    "citations": 701
+    "citations": 702
   },
   {
     "id": "https://openalex.org/T10311",
@@ -500,7 +500,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T11852",
     "name": "Clay minerals and soil interactions",
     "publications": 30,
-    "citations": 610
+    "citations": 611
   },
   {
     "id": "https://openalex.org/T11698",
@@ -836,7 +836,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10324",
     "name": "Microbial bioremediation and biosurfactants",
     "publications": 17,
-    "citations": 225
+    "citations": 226
   },
   {
     "id": "https://openalex.org/T10180",
@@ -914,7 +914,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10210",
     "name": "Advanced oxidation water treatment",
     "publications": 15,
-    "citations": 305
+    "citations": 306
   },
   {
     "id": "https://openalex.org/T12893",
@@ -1814,7 +1814,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T11231",
     "name": "Microbial Fuel Cells and Bioremediation",
     "publications": 7,
-    "citations": 30
+    "citations": 31
   },
   {
     "id": "https://openalex.org/T10522",
@@ -8435,7 +8435,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I134085113",
     "name": "King Fahd University of Petroleum and Minerals",
     "publications": 3204,
-    "citations": 55515
+    "citations": 55521
   },
   {
     "id": "https://openalex.org/I71920554",
