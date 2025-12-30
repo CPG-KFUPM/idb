@@ -727,9 +727,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.41999998688697815,
+          "id": "https://metadata.un.org/sdg/9",
           "display_name": "Industry, innovation and infrastructure",
-          "id": "https://metadata.un.org/sdg/9"
+          "score": 0.41999998688697815
         }
       ],
       "awards": [],
@@ -2810,7 +2810,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.28997424,
+        "value": 0.28780098,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3083,14 +3083,14 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.44999998807907104,
+          "id": "https://metadata.un.org/sdg/12",
           "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12"
+          "score": 0.44999998807907104
         },
         {
-          "score": 0.4300000071525574,
+          "id": "https://metadata.un.org/sdg/9",
           "display_name": "Industry, innovation and infrastructure",
-          "id": "https://metadata.un.org/sdg/9"
+          "score": 0.4300000071525574
         }
       ],
       "awards": [],
@@ -3141,14 +3141,14 @@
         "https://openalex.org/W4309484293",
         "https://openalex.org/W4401808405",
         "https://openalex.org/W4395683956",
-        "https://openalex.org/W4250379933",
+        "https://openalex.org/W2032335337",
+        "https://openalex.org/W3021695002",
+        "https://openalex.org/W4323362927",
+        "https://openalex.org/W2915586549",
         "https://openalex.org/W4401871333",
         "https://openalex.org/W4381663938",
-        "https://openalex.org/W4323362927",
         "https://openalex.org/W609968965",
-        "https://openalex.org/W3021695002",
-        "https://openalex.org/W2915586549",
-        "https://openalex.org/W2032335337"
+        "https://openalex.org/W4250379933"
       ],
       "related_works": [
         "https://openalex.org/W2096720932",

@@ -5891,7 +5891,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.74277576,
+        "value": 0.74244063,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6196,8 +6196,8 @@
         "https://openalex.org/W1980661532",
         "https://openalex.org/W4221003583",
         "https://openalex.org/W4253925719",
-        "https://openalex.org/W4387447357",
         "https://openalex.org/W2289259019",
+        "https://openalex.org/W4387447357",
         "https://openalex.org/W4396702816"
       ],
       "related_works": [

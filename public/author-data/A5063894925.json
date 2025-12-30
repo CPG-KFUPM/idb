@@ -25874,7 +25874,7 @@
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.97470381,
+        "value": 0.97454294,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -26235,12 +26235,12 @@
         "https://openalex.org/W2171742183",
         "https://openalex.org/W2801148280",
         "https://openalex.org/W3160924512",
-        "https://openalex.org/W2967319187",
         "https://openalex.org/W4390056837",
-        "https://openalex.org/W4390242419",
+        "https://openalex.org/W2967319187",
         "https://openalex.org/W2474214365",
         "https://openalex.org/W4242883949",
-        "https://openalex.org/W4406488473"
+        "https://openalex.org/W4406488473",
+        "https://openalex.org/W4390242419"
       ],
       "related_works": [
         "https://openalex.org/W2368847095",
@@ -65006,10 +65006,10 @@
     {
       "id": "https://openalex.org/W2745611548",
       "doi": "https://doi.org/10.1071/aj10107",
-      "title": "Evaluation of ionic effect of green surfactants on interfacial tension reduction under reservoir conditions for enhanced oil recovery",
-      "display_name": "Evaluation of ionic effect of green surfactants on interfacial tension reduction under reservoir conditions for enhanced oil recovery",
+      "title": "Evaluation of ionic effect of green surfactants on interfacial tension reduction under reservoir conditions for enhanced oil recovery*",
+      "display_name": "Evaluation of ionic effect of green surfactants on interfacial tension reduction under reservoir conditions for enhanced oil recovery*",
       "publication_year": 2011,
-      "publication_date": "2011-01-01",
+      "publication_date": "2011-06-30",
       "ids": {
         "openalex": "https://openalex.org/W2745611548",
         "doi": "https://doi.org/10.1071/aj10107",
@@ -65022,22 +65022,22 @@
         "landing_page_url": "https://doi.org/10.1071/aj10107",
         "pdf_url": null,
         "source": {
-          "id": "https://openalex.org/S4210195767",
+          "id": "https://openalex.org/S2764486497",
           "display_name": "The APPEA Journal",
-          "issn_l": "1326-4966",
+          "issn_l": "2206-8996",
           "issn": [
-            "1326-4966"
+            "2206-8996"
           ],
           "is_oa": false,
           "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320302",
-          "host_organization_name": "CSIRO Publishing",
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4310316082",
+          "host_organization_name": "American Association of Petroleum Geologists",
           "host_organization_lineage": [
-            "https://openalex.org/P4310320302"
+            "https://openalex.org/P4310316082"
           ],
           "host_organization_lineage_names": [
-            "CSIRO Publishing"
+            "American Association of Petroleum Geologists"
           ],
           "type": "journal"
         },
@@ -65114,7 +65114,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.53303949,
+        "value": 0.53252927,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -65366,22 +65366,22 @@
           "landing_page_url": "https://doi.org/10.1071/aj10107",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4210195767",
+            "id": "https://openalex.org/S2764486497",
             "display_name": "The APPEA Journal",
-            "issn_l": "1326-4966",
+            "issn_l": "2206-8996",
             "issn": [
-              "1326-4966"
+              "2206-8996"
             ],
             "is_oa": false,
             "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310320302",
-            "host_organization_name": "CSIRO Publishing",
+            "is_core": false,
+            "host_organization": "https://openalex.org/P4310316082",
+            "host_organization_name": "American Association of Petroleum Geologists",
             "host_organization_lineage": [
-              "https://openalex.org/P4310320302"
+              "https://openalex.org/P4310316082"
             ],
             "host_organization_lineage_names": [
-              "CSIRO Publishing"
+              "American Association of Petroleum Geologists"
             ],
             "type": "journal"
           },
@@ -65418,11 +65418,25 @@
       ],
       "abstract_inverted_index": {
         "10": [
-          229
+          236
+        ],
+        "12": [
+          167,
+          180,
+          203
+        ],
+        "15": [
+          245
         ],
         "40": [
-          170,
-          193
+          172,
+          198
+        ],
+        "120": [
+          247
+        ],
+        "1000": [
+          191
         ],
         "8166": [
           162
@@ -65436,7 +65450,7 @@
         "a": [
           2,
           107,
-          181
+          185
         ],
         "vital": [
           3
@@ -65446,7 +65460,7 @@
         ],
         "in": [
           5,
-          222
+          229
         ],
         "surfactant": [
           6
@@ -65460,9 +65474,9 @@
           46,
           51,
           58,
-          184,
-          214,
-          237
+          188,
+          221,
+          244
         ],
         "EOR.": [
           9,
@@ -65531,8 +65545,8 @@
           131,
           146,
           152,
-          176,
-          186
+          178,
+          190
         ],
         "environmental": [
           26
@@ -65543,7 +65557,7 @@
         "have": [
           29,
           157,
-          208
+          215
         ],
         "great": [
           30
@@ -65591,11 +65605,11 @@
           83,
           115,
           123,
-          190,
-          201,
-          212,
-          223,
-          233
+          195,
+          208,
+          219,
+          230,
+          240
         ],
         "determination": [
           45
@@ -65617,15 +65631,15 @@
         ],
         "combined": [
           56,
-          231
+          238
         ],
         "effect": [
           57,
-          210
+          217
         ],
         "with": [
           62,
-          232
+          239
         ],
         "alcohols": [
           63
@@ -65633,14 +65647,14 @@
         "on": [
           64,
           150,
-          211
+          218
         ],
         "IFT": [
           65,
           165,
-          196,
-          213,
-          224
+          201,
+          220,
+          231
         ],
         "micro": [
           67
@@ -65660,7 +65674,7 @@
         "laboratory": [
           75,
           155,
-          173
+          175
         ],
         "experiments.": [
           76
@@ -65686,8 +65700,8 @@
           96,
           114,
           166,
-          177,
-          197
+          179,
+          202
         ],
         "group,": [
           85
@@ -65717,8 +65731,8 @@
           124,
           134,
           160,
-          215,
-          227
+          222,
+          234
         ],
         "produced": [
           95,
@@ -65745,7 +65759,7 @@
         "residues.": [
           103
         ],
-        "Bio-surfactants": [
+        "Biosurfactants": [
           104
         ],
         "by": [
@@ -65836,122 +65850,125 @@
         "reduce": [
           164
         ],
-        "12–3.16": [
-          167
+        "to": [
+          168,
+          181,
+          204,
+          214
+        ],
+        "3.16": [
+          169
         ],
         "dyne/cm": [
-          168,
-          179,
-          199
-        ],
-        "at": [
-          169,
-          180,
-          192,
-          200,
-          228,
-          235
-        ],
-        "ppm": [
-          171,
-          194,
-          230
-        ],
-        "under": [
-          172
-        ],
-        "ambient": [
-          174
-        ],
-        "condition": [
-          175,
-          183
-        ],
-        "12–4.32": [
-          178
-        ],
-        "reservoir": [
-          182,
-          203
-        ],
-        "50oC": [
-          185
-        ],
-        "1000psi.": [
-          187
-        ],
-        "In": [
-          188
-        ],
-        "contrast,": [
-          189
-        ],
-        "bio-surfactant": [
-          191
-        ],
-        "decreased": [
-          195
-        ],
-        "12–4.14": [
-          198
-        ],
-        "same": [
-          202
-        ],
-        "condition.": [
-          204
-        ],
-        "Temperature": [
-          205
-        ],
-        "appears": [
+          170,
+          183,
           206
         ],
-        "to": [
-          207
+        "at": [
+          171,
+          184,
+          197,
+          207,
+          235,
+          242
         ],
-        "little": [
+        "ppm": [
+          173,
+          199,
+          237
+        ],
+        "under": [
+          174
+        ],
+        "ambient": [
+          176
+        ],
+        "condition": [
+          177,
+          187
+        ],
+        "4.32": [
+          182
+        ],
+        "reservoir": [
+          186,
+          210
+        ],
+        "50°C": [
+          189
+        ],
+        "psi.": [
+          192
+        ],
+        "In": [
+          193
+        ],
+        "contrast,": [
+          194
+        ],
+        "biosurfactant": [
+          196
+        ],
+        "decreased": [
+          200
+        ],
+        "4.14": [
+          205
+        ],
+        "same": [
           209
         ],
-        "surfactants.": [
+        "condition.": [
+          211
+        ],
+        "Temperature": [
+          212
+        ],
+        "appears": [
+          213
+        ],
+        "little": [
           216
         ],
+        "surfactants.": [
+          223
+        ],
         "There": [
-          217
+          224
         ],
         "is": [
-          218
-        ],
-        "no": [
-          219
-        ],
-        "significant": [
-          220
-        ],
-        "reduction": [
-          221
-        ],
-        "values": [
           225
         ],
-        "when": [
+        "no": [
           226
         ],
+        "significant": [
+          227
+        ],
+        "reduction": [
+          228
+        ],
+        "values": [
+          232
+        ],
+        "when": [
+          233
+        ],
         "pentanol": [
-          234
+          241
         ],
         "concentrations": [
-          236
+          243
         ],
-        "15–120": [
-          238
+        "–": [
+          246
         ],
         "ppm.": [
-          239
+          248
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2025-12-29T23:06:16.900395",
       "created_date": "2025-10-10T00:00:00"
     },
     {

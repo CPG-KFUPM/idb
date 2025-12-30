@@ -86572,7 +86572,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.81885034,
+        "value": 0.81849791,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -86989,21 +86989,21 @@
         "https://openalex.org/W2090583759",
         "https://openalex.org/W2041667010",
         "https://openalex.org/W1983110613",
-        "https://openalex.org/W3023742596",
-        "https://openalex.org/W3114883492",
-        "https://openalex.org/W4391403775",
-        "https://openalex.org/W3145566755",
-        "https://openalex.org/W4401759048",
-        "https://openalex.org/W1967232262",
-        "https://openalex.org/W4254942932",
-        "https://openalex.org/W2084291435",
-        "https://openalex.org/W4309680568",
-        "https://openalex.org/W2002786121",
-        "https://openalex.org/W3096053405",
-        "https://openalex.org/W4401598971",
-        "https://openalex.org/W4394846625",
         "https://openalex.org/W4402327116",
-        "https://openalex.org/W2106562658"
+        "https://openalex.org/W4254942932",
+        "https://openalex.org/W2002786121",
+        "https://openalex.org/W3145566755",
+        "https://openalex.org/W1967232262",
+        "https://openalex.org/W4401598971",
+        "https://openalex.org/W4309680568",
+        "https://openalex.org/W4401759048",
+        "https://openalex.org/W4394846625",
+        "https://openalex.org/W2084291435",
+        "https://openalex.org/W3023742596",
+        "https://openalex.org/W2106562658",
+        "https://openalex.org/W3114883492",
+        "https://openalex.org/W3096053405",
+        "https://openalex.org/W4391403775"
       ],
       "related_works": [
         "https://openalex.org/W2591851389",
@@ -105762,7 +105762,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.36696581,
+        "value": 0.36419004,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },

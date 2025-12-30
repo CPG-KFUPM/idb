@@ -2122,9 +2122,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land",
-          "score": 0.5400000214576721
+          "score": 0.5400000214576721,
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
@@ -8110,9 +8110,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land",
-          "score": 0.41999998688697815
+          "score": 0.41999998688697815,
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [
@@ -9432,9 +9432,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.4300000071525574
+          "score": 0.4300000071525574,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -10260,9 +10260,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/1",
           "display_name": "No poverty",
-          "score": 0.5600000023841858
+          "score": 0.5600000023841858,
+          "id": "https://metadata.un.org/sdg/1"
         }
       ],
       "awards": [],
@@ -12373,9 +12373,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.6200000047683716
+          "score": 0.6200000047683716,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -13625,9 +13625,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.49000000953674316
+          "score": 0.49000000953674316,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -22321,9 +22321,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities",
-          "score": 0.5600000023841858
+          "score": 0.5600000023841858,
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [],
@@ -23156,9 +23156,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/12",
           "display_name": "Responsible consumption and production",
-          "score": 0.41999998688697815
+          "score": 0.41999998688697815,
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "awards": [],
@@ -26573,9 +26573,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/9",
           "display_name": "Industry, innovation and infrastructure",
-          "score": 0.550000011920929
+          "score": 0.550000011920929,
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "awards": [],
@@ -32675,9 +32675,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities",
-          "score": 0.7599999904632568
+          "score": 0.7599999904632568,
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [],
@@ -33807,9 +33807,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/12",
           "display_name": "Responsible consumption and production",
-          "score": 0.5299999713897705
+          "score": 0.5299999713897705,
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "awards": [],
@@ -37976,9 +37976,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/9",
           "display_name": "Industry, innovation and infrastructure",
-          "score": 0.4099999964237213
+          "score": 0.4099999964237213,
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "awards": [],
@@ -42023,9 +42023,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.5
+          "score": 0.5,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -42264,7 +42264,7 @@
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.59322466,
+        "value": 0.59302721,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -42539,44 +42539,44 @@
       },
       "referenced_works_count": 38,
       "referenced_works": [
-        "https://openalex.org/W2043440240",
-        "https://openalex.org/W4285719527",
-        "https://openalex.org/W2084027116",
+        "https://openalex.org/W2616210439",
+        "https://openalex.org/W1985084088",
+        "https://openalex.org/W1933924238",
         "https://openalex.org/W2046733428",
-        "https://openalex.org/W2135574610",
-        "https://openalex.org/W4234448846",
-        "https://openalex.org/W1975339580",
-        "https://openalex.org/W1979331672",
-        "https://openalex.org/W2094383051",
-        "https://openalex.org/W2644457855",
-        "https://openalex.org/W3000162625",
         "https://openalex.org/W1989145070",
-        "https://openalex.org/W2799969456",
-        "https://openalex.org/W1995986889",
-        "https://openalex.org/W2013510773",
+        "https://openalex.org/W2482820254",
+        "https://openalex.org/W1979331672",
+        "https://openalex.org/W2080467136",
+        "https://openalex.org/W948389944",
+        "https://openalex.org/W4285719527",
         "https://openalex.org/W2073209875",
         "https://openalex.org/W760252917",
-        "https://openalex.org/W14422249",
-        "https://openalex.org/W2121271961",
-        "https://openalex.org/W2616210439",
-        "https://openalex.org/W2050029530",
-        "https://openalex.org/W1418234140",
-        "https://openalex.org/W3153429621",
-        "https://openalex.org/W2085567282",
-        "https://openalex.org/W1749355002",
-        "https://openalex.org/W1933924238",
-        "https://openalex.org/W2060193643",
-        "https://openalex.org/W948389944",
-        "https://openalex.org/W2080467136",
+        "https://openalex.org/W2013510773",
+        "https://openalex.org/W2799969456",
+        "https://openalex.org/W3000162625",
         "https://openalex.org/W2037742039",
+        "https://openalex.org/W2084027116",
+        "https://openalex.org/W2060193643",
+        "https://openalex.org/W2121271961",
+        "https://openalex.org/W2644457855",
         "https://openalex.org/W2033288115",
-        "https://openalex.org/W2022752101",
-        "https://openalex.org/W2008076986",
+        "https://openalex.org/W14422249",
+        "https://openalex.org/W2043440240",
+        "https://openalex.org/W2071974418",
         "https://openalex.org/W2165684310",
         "https://openalex.org/W2598476320",
-        "https://openalex.org/W1985084088",
-        "https://openalex.org/W2482820254",
-        "https://openalex.org/W2071974418"
+        "https://openalex.org/W2008076986",
+        "https://openalex.org/W1975339580",
+        "https://openalex.org/W1418234140",
+        "https://openalex.org/W2135574610",
+        "https://openalex.org/W4234448846",
+        "https://openalex.org/W2022752101",
+        "https://openalex.org/W1995986889",
+        "https://openalex.org/W2094383051",
+        "https://openalex.org/W3153429621",
+        "https://openalex.org/W2050029530",
+        "https://openalex.org/W2085567282",
+        "https://openalex.org/W1749355002"
       ],
       "related_works": [
         "https://openalex.org/W2362690000",
@@ -44946,9 +44946,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/12",
           "display_name": "Responsible consumption and production",
-          "score": 0.6000000238418579
+          "score": 0.6000000238418579,
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "awards": [],
@@ -48759,9 +48759,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities",
-          "score": 0.5299999713897705
+          "score": 0.5299999713897705,
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [],
@@ -49297,9 +49297,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.46000000834465027
+          "score": 0.46000000834465027,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -53261,9 +53261,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/9",
           "display_name": "Industry, innovation and infrastructure",
-          "score": 0.4699999988079071
+          "score": 0.4699999988079071,
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "awards": [],
@@ -54178,9 +54178,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities",
-          "score": 0.7099999785423279
+          "score": 0.7099999785423279,
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [],
@@ -57200,9 +57200,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities",
-          "score": 0.6299999952316284
+          "score": 0.6299999952316284,
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [],
@@ -59775,9 +59775,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/9",
           "display_name": "Industry, innovation and infrastructure",
-          "score": 0.47999998927116394
+          "score": 0.47999998927116394,
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "awards": [],
@@ -60910,9 +60910,9 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1134/s1062739124060255",
-        "is_oa": false,
+        "is_oa": true,
         "landing_page_url": "https://doi.org/10.1134/s1062739124060255",
-        "pdf_url": null,
+        "pdf_url": "https://link.springer.com/content/pdf/10.1134/S1062739124060255.pdf",
         "source": {
           "id": "https://openalex.org/S206834481",
           "display_name": "Journal of Mining Science",
@@ -60949,9 +60949,9 @@
         "crossref"
       ],
       "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://link.springer.com/content/pdf/10.1134/S1062739124060255.pdf",
         "any_repository_has_fulltext": false
       },
       "authorships": [
@@ -61023,7 +61023,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.37626521,
+        "value": 0.37574069,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -61176,9 +61176,9 @@
       "locations": [
         {
           "id": "doi:10.1134/s1062739124060255",
-          "is_oa": false,
+          "is_oa": true,
           "landing_page_url": "https://doi.org/10.1134/s1062739124060255",
-          "pdf_url": null,
+          "pdf_url": "https://link.springer.com/content/pdf/10.1134/S1062739124060255.pdf",
           "source": {
             "id": "https://openalex.org/S206834481",
             "display_name": "Journal of Mining Science",
@@ -61211,13 +61211,48 @@
           "raw_type": "journal-article"
         }
       ],
-      "best_oa_location": null,
+      "best_oa_location": {
+        "id": "doi:10.1134/s1062739124060255",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1134/s1062739124060255",
+        "pdf_url": "https://link.springer.com/content/pdf/10.1134/S1062739124060255.pdf",
+        "source": {
+          "id": "https://openalex.org/S206834481",
+          "display_name": "Journal of Mining Science",
+          "issn_l": "1062-7391",
+          "issn": [
+            "1062-7391",
+            "1573-8736"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320267",
+          "host_organization_name": "Pleiades Publishing",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320267",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Pleiades Publishing",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Mining Science",
+        "raw_type": "journal-article"
+      },
       "sustainable_development_goals": [],
       "awards": [],
       "funders": [],
       "has_content": {
         "grobid_xml": false,
-        "pdf": false
+        "pdf": true
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -61235,7 +61270,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2025-12-28T23:10:05.387466",
+      "updated_date": "2025-12-29T23:06:16.900395",
       "created_date": "2025-10-10T00:00:00"
     },
     {
