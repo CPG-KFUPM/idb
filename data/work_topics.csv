@@ -1869,6 +1869,9 @@ https://openalex.org/W2332743863,https://openalex.org/T10480,Ionic liquids prope
 https://openalex.org/W4313499638,https://openalex.org/T10491,Enhanced Oil Recovery Techniques
 https://openalex.org/W4313499638,https://openalex.org/T10096,Metal-Organic Frameworks: Synthesis and Applications
 https://openalex.org/W4313499638,https://openalex.org/T11630,Petroleum Processing and Analysis
+https://openalex.org/W4376959656,https://openalex.org/T10491,Enhanced Oil Recovery Techniques
+https://openalex.org/W4376959656,https://openalex.org/T10399,Hydrocarbon exploration and reservoir analysis
+https://openalex.org/W4376959656,https://openalex.org/T11915,Pickering emulsions and particle stabilization
 https://openalex.org/W4381510972,https://openalex.org/T10491,Enhanced Oil Recovery Techniques
 https://openalex.org/W4381510972,https://openalex.org/T10399,Hydrocarbon exploration and reservoir analysis
 https://openalex.org/W4381510972,https://openalex.org/T11302,CO2 Sequestration and Geologic Interactions
@@ -1881,9 +1884,6 @@ https://openalex.org/W4409768904,https://openalex.org/T11630,Petroleum Processin
 https://openalex.org/W3182467488,https://openalex.org/T11630,Petroleum Processing and Analysis
 https://openalex.org/W3182467488,https://openalex.org/T10491,Enhanced Oil Recovery Techniques
 https://openalex.org/W3182467488,https://openalex.org/T10480,Ionic liquids properties and applications
-https://openalex.org/W4376959656,https://openalex.org/T10491,Enhanced Oil Recovery Techniques
-https://openalex.org/W4376959656,https://openalex.org/T10399,Hydrocarbon exploration and reservoir analysis
-https://openalex.org/W4376959656,https://openalex.org/T11915,Pickering emulsions and particle stabilization
 https://openalex.org/W2315283902,https://openalex.org/T10480,Ionic liquids properties and applications
 https://openalex.org/W2315283902,https://openalex.org/T11630,Petroleum Processing and Analysis
 https://openalex.org/W2315283902,https://openalex.org/T10491,Enhanced Oil Recovery Techniques
@@ -3771,6 +3771,217 @@ https://openalex.org/W4414232446,https://openalex.org/T11630,Petroleum Processin
 https://openalex.org/W4415552441,https://openalex.org/T10104,Nanofluid Flow and Heat Transfer
 https://openalex.org/W4415552441,https://openalex.org/T11945,Heat Transfer Mechanisms
 https://openalex.org/W4415552441,https://openalex.org/T11254,Fluid Dynamics and Vibration Analysis
+https://openalex.org/W3142449123,https://openalex.org/T12852,Chemical Thermodynamics and Molecular Structure
+https://openalex.org/W3142449123,https://openalex.org/T12358,Thermal and Kinetic Analysis
+https://openalex.org/W3142449123,https://openalex.org/T11242,Nuclear Materials and Properties
+https://openalex.org/W4388632688,https://openalex.org/T11948,Machine Learning in Materials Science
+https://openalex.org/W4388632688,https://openalex.org/T10386,Microstructure and Mechanical Properties of Steels
+https://openalex.org/W4388632688,https://openalex.org/T10736,Hydrogen embrittlement and corrosion behaviors in metals
+https://openalex.org/W3018966027,https://openalex.org/T12588,Electronic and Structural Properties of Oxides
+https://openalex.org/W3018966027,https://openalex.org/T10083,Graphene research and applications
+https://openalex.org/W3018966027,https://openalex.org/T12046,MXene and MAX Phase Materials
+https://openalex.org/W4230203047,https://openalex.org/T11242,Nuclear Materials and Properties
+https://openalex.org/W4230203047,https://openalex.org/T12852,Chemical Thermodynamics and Molecular Structure
+https://openalex.org/W4230203047,https://openalex.org/T10973,Radioactive element chemistry and processing
+https://openalex.org/W3138870935,https://openalex.org/T10083,Graphene research and applications
+https://openalex.org/W3138870935,https://openalex.org/T10657,Topological Materials and Phenomena
+https://openalex.org/W3138870935,https://openalex.org/T11449,Mechanical and Optical Resonators
+https://openalex.org/W3043540094,https://openalex.org/T12099,Advanced materials and composites
+https://openalex.org/W3043540094,https://openalex.org/T11341,Boron and Carbon Nanomaterials Research
+https://openalex.org/W3043540094,https://openalex.org/T11100,Intermetallics and Advanced Alloy Properties
+https://openalex.org/W4224261077,https://openalex.org/T10413,High-pressure geophysics and materials
+https://openalex.org/W4224261077,https://openalex.org/T11965,"Quantum, superfluid, helium dynamics"
+https://openalex.org/W4224261077,https://openalex.org/T10811,Hydrogen Storage and Materials
+https://openalex.org/W3021669255,https://openalex.org/T10798,Crystallography and molecular interactions
+https://openalex.org/W3021669255,https://openalex.org/T10002,Advanced Chemical Physics Studies
+https://openalex.org/W3021669255,https://openalex.org/T10402,Phase Equilibria and Thermodynamics
+https://openalex.org/W4327681308,https://openalex.org/T10478,Diamond and Carbon-based Materials Research
+https://openalex.org/W4327681308,https://openalex.org/T10083,Graphene research and applications
+https://openalex.org/W4327681308,https://openalex.org/T11341,Boron and Carbon Nanomaterials Research
+https://openalex.org/W4391347866,https://openalex.org/T10413,High-pressure geophysics and materials
+https://openalex.org/W4391347866,https://openalex.org/T10002,Advanced Chemical Physics Studies
+https://openalex.org/W4391347866,https://openalex.org/T12491,Superconductivity in MgB2 and Alloys
+https://openalex.org/W4404518844,https://openalex.org/T11143,High Entropy Alloys Studies
+https://openalex.org/W4404518844,https://openalex.org/T11242,Nuclear Materials and Properties
+https://openalex.org/W4404518844,https://openalex.org/T12099,Advanced materials and composites
+https://openalex.org/W4401362622,https://openalex.org/T11948,Machine Learning in Materials Science
+https://openalex.org/W4401362622,https://openalex.org/T12613,X-ray Diffraction in Crystallography
+https://openalex.org/W4401362622,https://openalex.org/T11341,Boron and Carbon Nanomaterials Research
+https://openalex.org/W4396913258,https://openalex.org/T11948,Machine Learning in Materials Science
+https://openalex.org/W4396913258,https://openalex.org/T10049,Magnetic properties of thin films
+https://openalex.org/W4396913258,https://openalex.org/T11222,Magnetic Properties and Applications
+https://openalex.org/W2913449499,https://openalex.org/T10798,Crystallography and molecular interactions
+https://openalex.org/W2913449499,https://openalex.org/T12327,Various Chemistry Research Topics
+https://openalex.org/W2913449499,https://openalex.org/T12852,Chemical Thermodynamics and Molecular Structure
+https://openalex.org/W4295757104,https://openalex.org/T10607,Magnetic and transport properties of perovskites and related materials
+https://openalex.org/W4295757104,https://openalex.org/T11682,Advanced Condensed Matter Physics
+https://openalex.org/W4295757104,https://openalex.org/T10037,Physics of Superconductivity and Magnetism
+https://openalex.org/W2559147521,https://openalex.org/T10798,Crystallography and molecular interactions
+https://openalex.org/W2559147521,https://openalex.org/T10464,Crystal structures of chemical compounds
+https://openalex.org/W2559147521,https://openalex.org/T11881,Crystallization and Solubility Studies
+https://openalex.org/W2560327832,https://openalex.org/T10798,Crystallography and molecular interactions
+https://openalex.org/W2560327832,https://openalex.org/T12852,Chemical Thermodynamics and Molecular Structure
+https://openalex.org/W2560327832,https://openalex.org/T12410,Structural and Chemical Analysis of Organic and Inorganic Compounds
+https://openalex.org/W2791651590,https://openalex.org/T10607,Magnetic and transport properties of perovskites and related materials
+https://openalex.org/W2791651590,https://openalex.org/T11682,Advanced Condensed Matter Physics
+https://openalex.org/W2791651590,https://openalex.org/T10886,Multiferroics and related materials
+https://openalex.org/W4283760088,https://openalex.org/T10413,High-pressure geophysics and materials
+https://openalex.org/W4283760088,https://openalex.org/T12852,Chemical Thermodynamics and Molecular Structure
+https://openalex.org/W4283760088,https://openalex.org/T12646,Inorganic Fluorides and Related Compounds
+https://openalex.org/W4205590289,https://openalex.org/T10247,Perovskite Materials and Applications
+https://openalex.org/W4205590289,https://openalex.org/T10321,Quantum Dots Synthesis And Properties
+https://openalex.org/W4205590289,https://openalex.org/T10590,Chalcogenide Semiconductor Thin Films
+https://openalex.org/W4229369860,https://openalex.org/T11809,Advanced NMR Techniques and Applications
+https://openalex.org/W4229369860,https://openalex.org/T11878,Solid-state spectroscopy and crystallography
+https://openalex.org/W4229369860,https://openalex.org/T12762,Crystallography and Radiation Phenomena
+https://openalex.org/W4387328584,https://openalex.org/T11948,Machine Learning in Materials Science
+https://openalex.org/W4387328584,https://openalex.org/T10099,GaN-based semiconductor devices and materials
+https://openalex.org/W4387328584,https://openalex.org/T10377,Metal and Thin Film Mechanics
+https://openalex.org/W4408904985,https://openalex.org/T11341,Boron and Carbon Nanomaterials Research
+https://openalex.org/W4408904985,https://openalex.org/T11948,Machine Learning in Materials Science
+https://openalex.org/W4408904985,https://openalex.org/T10377,Metal and Thin Film Mechanics
+https://openalex.org/W2937105349,https://openalex.org/T10798,Crystallography and molecular interactions
+https://openalex.org/W2937105349,https://openalex.org/T10464,Crystal structures of chemical compounds
+https://openalex.org/W2937105349,https://openalex.org/T12748,Molecular spectroscopy and chirality
+https://openalex.org/W2957377973,https://openalex.org/T14459,Synthesis and Reactions of Organic Compounds
+https://openalex.org/W2957377973,https://openalex.org/T13876,Chemical synthesis and pharmacological studies
+https://openalex.org/W2957377973,https://openalex.org/T12136,Vanadium and Halogenation Chemistry
+https://openalex.org/W2883590378,https://openalex.org/T10798,Crystallography and molecular interactions
+https://openalex.org/W2883590378,https://openalex.org/T10464,Crystal structures of chemical compounds
+https://openalex.org/W2883590378,https://openalex.org/T13454,Phenothiazines and Benzothiazines Synthesis and Activities
+https://openalex.org/W2759768026,https://openalex.org/T10002,Advanced Chemical Physics Studies
+https://openalex.org/W2759768026,https://openalex.org/T11965,"Quantum, superfluid, helium dynamics"
+https://openalex.org/W2759768026,https://openalex.org/T11520,Advanced Thermodynamics and Statistical Mechanics
+https://openalex.org/W2465049487,https://openalex.org/T10002,Advanced Chemical Physics Studies
+https://openalex.org/W2465049487,https://openalex.org/T11177,Spectroscopy and Quantum Chemical Studies
+https://openalex.org/W2465049487,https://openalex.org/T10798,Crystallography and molecular interactions
+https://openalex.org/W3209009111,https://openalex.org/T10099,GaN-based semiconductor devices and materials
+https://openalex.org/W3209009111,https://openalex.org/T10022,Semiconductor Quantum Structures and Devices
+https://openalex.org/W3209009111,https://openalex.org/T12529,Ga2O3 and related materials
+https://openalex.org/W3165459731,https://openalex.org/T11242,Nuclear Materials and Properties
+https://openalex.org/W3165459731,https://openalex.org/T12852,Chemical Thermodynamics and Molecular Structure
+https://openalex.org/W3165459731,https://openalex.org/T10973,Radioactive element chemistry and processing
+https://openalex.org/W4388451495,https://openalex.org/T12613,X-ray Diffraction in Crystallography
+https://openalex.org/W4388451495,https://openalex.org/T10939,Crystal Structures and Properties
+https://openalex.org/W4388451495,https://openalex.org/T10413,High-pressure geophysics and materials
+https://openalex.org/W4390489100,https://openalex.org/T11809,Advanced NMR Techniques and Applications
+https://openalex.org/W4390489100,https://openalex.org/T10612,Magnetism in coordination complexes
+https://openalex.org/W4390489100,https://openalex.org/T10096,Metal-Organic Frameworks: Synthesis and Applications
+https://openalex.org/W2808022478,https://openalex.org/T11520,Advanced Thermodynamics and Statistical Mechanics
+https://openalex.org/W2808022478,https://openalex.org/T10002,Advanced Chemical Physics Studies
+https://openalex.org/W2808022478,https://openalex.org/T11965,"Quantum, superfluid, helium dynamics"
+https://openalex.org/W4390603323,https://openalex.org/T10002,Advanced Chemical Physics Studies
+https://openalex.org/W4390603323,https://openalex.org/T12613,X-ray Diffraction in Crystallography
+https://openalex.org/W4390603323,https://openalex.org/T10792,Matrix Theory and Algorithms
+https://openalex.org/W4312196519,https://openalex.org/T10113,Dental materials and restorations
+https://openalex.org/W4312196519,https://openalex.org/T10356,Orthodontics and Dentofacial Orthopedics
+https://openalex.org/W4312196519,https://openalex.org/T10359,Dental Implant Techniques and Outcomes
+https://openalex.org/W4391835302,https://openalex.org/T13126,Scientific Research and Discoveries
+https://openalex.org/W4391835302,https://openalex.org/T13650,Computational Physics and Python Applications
+https://openalex.org/W4391835302,https://openalex.org/T10995,Methane Hydrates and Related Phenomena
+https://openalex.org/W4400949897,https://openalex.org/T10413,High-pressure geophysics and materials
+https://openalex.org/W4400949897,https://openalex.org/T10681,Rare-earth and actinide compounds
+https://openalex.org/W4400949897,https://openalex.org/T11878,Solid-state spectroscopy and crystallography
+https://openalex.org/W4403976474,https://openalex.org/T11682,Advanced Condensed Matter Physics
+https://openalex.org/W4403976474,https://openalex.org/T10037,Physics of Superconductivity and Magnetism
+https://openalex.org/W4403976474,https://openalex.org/T10607,Magnetic and transport properties of perovskites and related materials
+https://openalex.org/W4405800933,https://openalex.org/T10425,Cold Atom Physics and Bose-Einstein Condensates
+https://openalex.org/W4405800933,https://openalex.org/T13552,Advanced Materials Characterization Techniques
+https://openalex.org/W4405800933,https://openalex.org/T10523,Atomic and Molecular Physics
+https://openalex.org/W4408887003,https://openalex.org/T10247,Perovskite Materials and Applications
+https://openalex.org/W4408887003,https://openalex.org/T10590,Chalcogenide Semiconductor Thin Films
+https://openalex.org/W4408887003,https://openalex.org/T11948,Machine Learning in Materials Science
+https://openalex.org/W4390961488,https://openalex.org/T11160,Acoustic Wave Resonator Technologies
+https://openalex.org/W4390961488,https://openalex.org/T11878,Solid-state spectroscopy and crystallography
+https://openalex.org/W4390961488,https://openalex.org/T11050,Photorefractive and Nonlinear Optics
+https://openalex.org/W2902112137,https://openalex.org/T12748,Molecular spectroscopy and chirality
+https://openalex.org/W2902112137,https://openalex.org/T10211,Computational Drug Discovery Methods
+https://openalex.org/W2902112137,https://openalex.org/T10252,Microbial Natural Products and Biosynthesis
+https://openalex.org/W3209426453,https://openalex.org/T10413,High-pressure geophysics and materials
+https://openalex.org/W3209426453,https://openalex.org/T11242,Nuclear Materials and Properties
+https://openalex.org/W3209426453,https://openalex.org/T11948,Machine Learning in Materials Science
+https://openalex.org/W4210973954,https://openalex.org/T13876,Chemical synthesis and pharmacological studies
+https://openalex.org/W4210973954,https://openalex.org/T14459,Synthesis and Reactions of Organic Compounds
+https://openalex.org/W4210973954,https://openalex.org/T12136,Vanadium and Halogenation Chemistry
+https://openalex.org/W4367060991,https://openalex.org/T12111,Industrial Vision Systems and Defect Detection
+https://openalex.org/W4367060991,https://openalex.org/T10320,Neural Networks and Applications
+https://openalex.org/W4367060991,https://openalex.org/T14339,Image Processing and 3D Reconstruction
+https://openalex.org/W4376126392,https://openalex.org/T11050,Photorefractive and Nonlinear Optics
+https://openalex.org/W4376126392,https://openalex.org/T10662,Ultrasonics and Acoustic Wave Propagation
+https://openalex.org/W4376126392,https://openalex.org/T11160,Acoustic Wave Resonator Technologies
+https://openalex.org/W4378647067,https://openalex.org/T11809,Advanced NMR Techniques and Applications
+https://openalex.org/W4378647067,https://openalex.org/T12646,Inorganic Fluorides and Related Compounds
+https://openalex.org/W4378647067,https://openalex.org/T12613,X-ray Diffraction in Crystallography
+https://openalex.org/W4386555998,https://openalex.org/T12613,X-ray Diffraction in Crystallography
+https://openalex.org/W4386555998,https://openalex.org/T13645,Thermodynamic and Structural Properties of Metals and Alloys
+https://openalex.org/W4386555998,https://openalex.org/T10002,Advanced Chemical Physics Studies
+https://openalex.org/W4386706238,https://openalex.org/T10597,Nuclear reactor physics and engineering
+https://openalex.org/W4386706238,https://openalex.org/T11242,Nuclear Materials and Properties
+https://openalex.org/W4386706238,https://openalex.org/T11949,Nuclear Physics and Applications
+https://openalex.org/W4387210692,https://openalex.org/T11809,Advanced NMR Techniques and Applications
+https://openalex.org/W4387210692,https://openalex.org/T10612,Magnetism in coordination complexes
+https://openalex.org/W4387210692,https://openalex.org/T10096,Metal-Organic Frameworks: Synthesis and Applications
+https://openalex.org/W4387210939,https://openalex.org/T11160,Acoustic Wave Resonator Technologies
+https://openalex.org/W4387210939,https://openalex.org/T11878,Solid-state spectroscopy and crystallography
+https://openalex.org/W4387210939,https://openalex.org/T11449,Mechanical and Optical Resonators
+https://openalex.org/W4387356314,https://openalex.org/T10792,Matrix Theory and Algorithms
+https://openalex.org/W4387356314,https://openalex.org/T12613,X-ray Diffraction in Crystallography
+https://openalex.org/W4387356314,https://openalex.org/T10928,Probabilistic and Robust Engineering Design
+https://openalex.org/W4388514127,https://openalex.org/T12762,Crystallography and Radiation Phenomena
+https://openalex.org/W4388514127,https://openalex.org/T11262,Quantum Mechanics and Non-Hermitian Physics
+https://openalex.org/W4388514127,https://openalex.org/T10002,Advanced Chemical Physics Studies
+https://openalex.org/W4388758860,https://openalex.org/T11809,Advanced NMR Techniques and Applications
+https://openalex.org/W4388758860,https://openalex.org/T12646,Inorganic Fluorides and Related Compounds
+https://openalex.org/W4388758860,https://openalex.org/T10002,Advanced Chemical Physics Studies
+https://openalex.org/W4396821382,https://openalex.org/T10037,Physics of Superconductivity and Magnetism
+https://openalex.org/W4396821382,https://openalex.org/T11808,Superconducting Materials and Applications
+https://openalex.org/W4397367124,https://openalex.org/T11881,Crystallization and Solubility Studies
+https://openalex.org/W4397367124,https://openalex.org/T12613,X-ray Diffraction in Crystallography
+https://openalex.org/W4397414733,https://openalex.org/T11881,Crystallization and Solubility Studies
+https://openalex.org/W4397414733,https://openalex.org/T12613,X-ray Diffraction in Crystallography
+https://openalex.org/W4397446792,https://openalex.org/T11881,Crystallization and Solubility Studies
+https://openalex.org/W4397446792,https://openalex.org/T12613,X-ray Diffraction in Crystallography
+https://openalex.org/W4397474735,https://openalex.org/T11881,Crystallization and Solubility Studies
+https://openalex.org/W4397474735,https://openalex.org/T12613,X-ray Diffraction in Crystallography
+https://openalex.org/W4397639816,https://openalex.org/T11881,Crystallization and Solubility Studies
+https://openalex.org/W4397639816,https://openalex.org/T12613,X-ray Diffraction in Crystallography
+https://openalex.org/W4397771385,https://openalex.org/T11881,Crystallization and Solubility Studies
+https://openalex.org/W4397771385,https://openalex.org/T12613,X-ray Diffraction in Crystallography
+https://openalex.org/W4397797577,https://openalex.org/T11881,Crystallization and Solubility Studies
+https://openalex.org/W4397797577,https://openalex.org/T12613,X-ray Diffraction in Crystallography
+https://openalex.org/W4397882541,https://openalex.org/T11881,Crystallization and Solubility Studies
+https://openalex.org/W4397882541,https://openalex.org/T12613,X-ray Diffraction in Crystallography
+https://openalex.org/W4397974278,https://openalex.org/T11881,Crystallization and Solubility Studies
+https://openalex.org/W4397974278,https://openalex.org/T12613,X-ray Diffraction in Crystallography
+https://openalex.org/W4405955846,https://openalex.org/T11341,Boron and Carbon Nanomaterials Research
+https://openalex.org/W4405955846,https://openalex.org/T10377,Metal and Thin Film Mechanics
+https://openalex.org/W4405955846,https://openalex.org/T10478,Diamond and Carbon-based Materials Research
+https://openalex.org/W4407954820,https://openalex.org/T10247,Perovskite Materials and Applications
+https://openalex.org/W4407954820,https://openalex.org/T11878,Solid-state spectroscopy and crystallography
+https://openalex.org/W4407954820,https://openalex.org/T10590,Chalcogenide Semiconductor Thin Films
+https://openalex.org/W4410493587,https://openalex.org/T10247,Perovskite Materials and Applications
+https://openalex.org/W4410493587,https://openalex.org/T11878,Solid-state spectroscopy and crystallography
+https://openalex.org/W4410493587,https://openalex.org/T10275,2D Materials and Applications
+https://openalex.org/W4410504155,https://openalex.org/T11856,Thermography and Photoacoustic Techniques
+https://openalex.org/W4410504155,https://openalex.org/T11637,Advanced Semiconductor Detectors and Materials
+https://openalex.org/W4410504155,https://openalex.org/T11881,Crystallization and Solubility Studies
+https://openalex.org/W4411896385,https://openalex.org/T10607,Magnetic and transport properties of perovskites and related materials
+https://openalex.org/W4411896385,https://openalex.org/T12875,Thermal Expansion and Ionic Conductivity
+https://openalex.org/W4412489463,https://openalex.org/T10247,Perovskite Materials and Applications
+https://openalex.org/W4412489463,https://openalex.org/T10275,2D Materials and Applications
+https://openalex.org/W4412489463,https://openalex.org/T11682,Advanced Condensed Matter Physics
+https://openalex.org/W4414285596,https://openalex.org/T10607,Magnetic and transport properties of perovskites and related materials
+https://openalex.org/W4414285596,https://openalex.org/T12875,Thermal Expansion and Ionic Conductivity
+https://openalex.org/W4414285596,https://openalex.org/T11782,Magnetic Properties of Alloys
+https://openalex.org/W4414593125,https://openalex.org/T10037,Physics of Superconductivity and Magnetism
+https://openalex.org/W4414593125,https://openalex.org/T12491,Superconductivity in MgB2 and Alloys
+https://openalex.org/W4414593125,https://openalex.org/T11965,"Quantum, superfluid, helium dynamics"
+https://openalex.org/W7117255705,https://openalex.org/T10275,2D Materials and Applications
+https://openalex.org/W7117255705,https://openalex.org/T12612,Strong Light-Matter Interactions
+https://openalex.org/W7117255705,https://openalex.org/T12285,Surface Chemistry and Catalysis
+https://openalex.org/W7117277276,https://openalex.org/T10275,2D Materials and Applications
+https://openalex.org/W7117277276,https://openalex.org/T12612,Strong Light-Matter Interactions
+https://openalex.org/W7117277276,https://openalex.org/T12285,Surface Chemistry and Catalysis
 https://openalex.org/W2034944362,https://openalex.org/T10535,Landslides and related hazards
 https://openalex.org/W2034944362,https://openalex.org/T10716,Soil and Unsaturated Flow
 https://openalex.org/W2034944362,https://openalex.org/T12293,Dam Engineering and Safety
@@ -5723,6 +5934,186 @@ https://openalex.org/W4407858137,https://openalex.org/T10109,Paleontology and St
 https://openalex.org/W4413162530,https://openalex.org/T10399,Hydrocarbon exploration and reservoir analysis
 https://openalex.org/W4413162530,https://openalex.org/T10965,Geological formations and processes
 https://openalex.org/W4413162530,https://openalex.org/T10635,Hydraulic Fracturing and Reservoir Analysis
+https://openalex.org/W4380894080,https://openalex.org/T11969,Fluoride Effects and Removal
+https://openalex.org/W4380894080,https://openalex.org/T10398,Groundwater and Isotope Geochemistry
+https://openalex.org/W4281850339,https://openalex.org/T11490,Hydrological Forecasting Using AI
+https://openalex.org/W4281850339,https://openalex.org/T11634,Water Quality and Pollution Assessment
+https://openalex.org/W4281850339,https://openalex.org/T12697,Water Quality Monitoring Technologies
+https://openalex.org/W4308105876,https://openalex.org/T10930,Flood Risk Assessment and Management
+https://openalex.org/W4308105876,https://openalex.org/T11186,Hydrology and Drought Analysis
+https://openalex.org/W4308105876,https://openalex.org/T10330,Hydrology and Watershed Management Studies
+https://openalex.org/W4367189127,https://openalex.org/T12697,Water Quality Monitoring Technologies
+https://openalex.org/W4367189127,https://openalex.org/T10313,Surface Modification and Superhydrophobicity
+https://openalex.org/W4367189127,https://openalex.org/T10197,Membrane Separation Technologies
+https://openalex.org/W4385076512,https://openalex.org/T10197,Membrane Separation Technologies
+https://openalex.org/W4385076512,https://openalex.org/T12697,Water Quality Monitoring Technologies
+https://openalex.org/W4385076512,https://openalex.org/T12074,Membrane-based Ion Separation Techniques
+https://openalex.org/W4286265175,https://openalex.org/T11490,Hydrological Forecasting Using AI
+https://openalex.org/W4286265175,https://openalex.org/T10894,Groundwater flow and contamination studies
+https://openalex.org/W4286265175,https://openalex.org/T10572,Geophysical and Geoelectrical Methods
+https://openalex.org/W4308152638,https://openalex.org/T11490,Hydrological Forecasting Using AI
+https://openalex.org/W4308152638,https://openalex.org/T12543,Groundwater and Watershed Analysis
+https://openalex.org/W4308152638,https://openalex.org/T10398,Groundwater and Isotope Geochemistry
+https://openalex.org/W4304806286,https://openalex.org/T10398,Groundwater and Isotope Geochemistry
+https://openalex.org/W4304806286,https://openalex.org/T10894,Groundwater flow and contamination studies
+https://openalex.org/W4304806286,https://openalex.org/T10995,Methane Hydrates and Related Phenomena
+https://openalex.org/W4367704575,https://openalex.org/T10930,Flood Risk Assessment and Management
+https://openalex.org/W4367704575,https://openalex.org/T10330,Hydrology and Watershed Management Studies
+https://openalex.org/W4367704575,https://openalex.org/T11186,Hydrology and Drought Analysis
+https://openalex.org/W4382136343,https://openalex.org/T12543,Groundwater and Watershed Analysis
+https://openalex.org/W4382136343,https://openalex.org/T10930,Flood Risk Assessment and Management
+https://openalex.org/W4382136343,https://openalex.org/T13282,Automated Road and Building Extraction
+https://openalex.org/W4289597232,https://openalex.org/T11490,Hydrological Forecasting Using AI
+https://openalex.org/W4289597232,https://openalex.org/T10894,Groundwater flow and contamination studies
+https://openalex.org/W4289597232,https://openalex.org/T10572,Geophysical and Geoelectrical Methods
+https://openalex.org/W4386774596,https://openalex.org/T10197,Membrane Separation Technologies
+https://openalex.org/W4386774596,https://openalex.org/T12697,Water Quality Monitoring Technologies
+https://openalex.org/W4386774596,https://openalex.org/T12676,Machine Learning and ELM
+https://openalex.org/W4394837151,https://openalex.org/T11781,Wastewater Treatment and Reuse
+https://openalex.org/W4394837151,https://openalex.org/T10398,Groundwater and Isotope Geochemistry
+https://openalex.org/W4394837151,https://openalex.org/T10969,Water resources management and optimization
+https://openalex.org/W4399208527,https://openalex.org/T11869,Per- and polyfluoroalkyl substances research
+https://openalex.org/W4399208527,https://openalex.org/T10122,Toxic Organic Pollutants Impact
+https://openalex.org/W4399208527,https://openalex.org/T10075,Atmospheric chemistry and aerosols
+https://openalex.org/W4212839989,https://openalex.org/T11490,Hydrological Forecasting Using AI
+https://openalex.org/W4212839989,https://openalex.org/T12543,Groundwater and Watershed Analysis
+https://openalex.org/W4212839989,https://openalex.org/T11634,Water Quality and Pollution Assessment
+https://openalex.org/W591341838,https://openalex.org/T12383,Aeolian processes and effects
+https://openalex.org/W591341838,https://openalex.org/T10965,Geological formations and processes
+https://openalex.org/W591341838,https://openalex.org/T10017,Geology and Paleoclimatology Research
+https://openalex.org/W4316669266,https://openalex.org/T12008,Solar-Powered Water Purification Methods
+https://openalex.org/W4316669266,https://openalex.org/T11490,Hydrological Forecasting Using AI
+https://openalex.org/W4316669266,https://openalex.org/T13038,Internet of Things and AI
+https://openalex.org/W3179531231,https://openalex.org/T10398,Groundwater and Isotope Geochemistry
+https://openalex.org/W3179531231,https://openalex.org/T11740,Geochemistry and Elemental Analysis
+https://openalex.org/W3179531231,https://openalex.org/T10894,Groundwater flow and contamination studies
+https://openalex.org/W4213328516,https://openalex.org/T12157,Geochemistry and Geologic Mapping
+https://openalex.org/W4213328516,https://openalex.org/T10139,Heavy metals in environment
+https://openalex.org/W4213328516,https://openalex.org/T11634,Water Quality and Pollution Assessment
+https://openalex.org/W4362580681,https://openalex.org/T10398,Groundwater and Isotope Geochemistry
+https://openalex.org/W4362580681,https://openalex.org/T10894,Groundwater flow and contamination studies
+https://openalex.org/W4362580681,https://openalex.org/T10572,Geophysical and Geoelectrical Methods
+https://openalex.org/W4386932101,https://openalex.org/T10197,Membrane Separation Technologies
+https://openalex.org/W4386932101,https://openalex.org/T11472,Analytical Chemistry and Sensors
+https://openalex.org/W4386932101,https://openalex.org/T12697,Water Quality Monitoring Technologies
+https://openalex.org/W3035979779,https://openalex.org/T11757,Seismic Waves and Analysis
+https://openalex.org/W3035979779,https://openalex.org/T10271,Seismic Imaging and Inversion Techniques
+https://openalex.org/W3035979779,https://openalex.org/T12233,Geotechnical Engineering and Underground Structures
+https://openalex.org/W4399584810,https://openalex.org/T10930,Flood Risk Assessment and Management
+https://openalex.org/W4399584810,https://openalex.org/T11512,Anomaly Detection Techniques and Applications
+https://openalex.org/W4399584810,https://openalex.org/T11490,Hydrological Forecasting Using AI
+https://openalex.org/W4386365539,https://openalex.org/T10398,Groundwater and Isotope Geochemistry
+https://openalex.org/W4386365539,https://openalex.org/T12543,Groundwater and Watershed Analysis
+https://openalex.org/W4386365539,https://openalex.org/T11634,Water Quality and Pollution Assessment
+https://openalex.org/W4379878424,https://openalex.org/T10398,Groundwater and Isotope Geochemistry
+https://openalex.org/W4379878424,https://openalex.org/T10995,Methane Hydrates and Related Phenomena
+https://openalex.org/W4379878424,https://openalex.org/T11405,Geophysics and Gravity Measurements
+https://openalex.org/W4401046387,https://openalex.org/T11490,Hydrological Forecasting Using AI
+https://openalex.org/W4401046387,https://openalex.org/T10398,Groundwater and Isotope Geochemistry
+https://openalex.org/W4401046387,https://openalex.org/T10330,Hydrology and Watershed Management Studies
+https://openalex.org/W4402547214,https://openalex.org/T10078,Advanced Photocatalysis Techniques
+https://openalex.org/W4402547214,https://openalex.org/T12038,Covalent Organic Framework Applications
+https://openalex.org/W4402547214,https://openalex.org/T11907,Copper-based nanomaterials and applications
+https://openalex.org/W4283746594,https://openalex.org/T12157,Geochemistry and Geologic Mapping
+https://openalex.org/W4283746594,https://openalex.org/T10770,Soil Geostatistics and Mapping
+https://openalex.org/W2789499036,https://openalex.org/T10399,Hydrocarbon exploration and reservoir analysis
+https://openalex.org/W2789499036,https://openalex.org/T10161,Rock Mechanics and Modeling
+https://openalex.org/W2789499036,https://openalex.org/T10995,Methane Hydrates and Related Phenomena
+https://openalex.org/W4399386927,https://openalex.org/T10398,Groundwater and Isotope Geochemistry
+https://openalex.org/W4399386927,https://openalex.org/T11634,Water Quality and Pollution Assessment
+https://openalex.org/W4399386927,https://openalex.org/T12157,Geochemistry and Geologic Mapping
+https://openalex.org/W2592077334,https://openalex.org/T12543,Groundwater and Watershed Analysis
+https://openalex.org/W2592077334,https://openalex.org/T10399,Hydrocarbon exploration and reservoir analysis
+https://openalex.org/W2592077334,https://openalex.org/T12157,Geochemistry and Geologic Mapping
+https://openalex.org/W2903751254,https://openalex.org/T10399,Hydrocarbon exploration and reservoir analysis
+https://openalex.org/W2903751254,https://openalex.org/T10635,Hydraulic Fracturing and Reservoir Analysis
+https://openalex.org/W2903751254,https://openalex.org/T10110,earthquake and tectonic studies
+https://openalex.org/W4396568962,https://openalex.org/T11490,Hydrological Forecasting Using AI
+https://openalex.org/W4396568962,https://openalex.org/T12543,Groundwater and Watershed Analysis
+https://openalex.org/W4396568962,https://openalex.org/T10894,Groundwater flow and contamination studies
+https://openalex.org/W4388764005,https://openalex.org/T10398,Groundwater and Isotope Geochemistry
+https://openalex.org/W4388764005,https://openalex.org/T12543,Groundwater and Watershed Analysis
+https://openalex.org/W4388764005,https://openalex.org/T11405,Geophysics and Gravity Measurements
+https://openalex.org/W4401767308,https://openalex.org/T12543,Groundwater and Watershed Analysis
+https://openalex.org/W4401767308,https://openalex.org/T10398,Groundwater and Isotope Geochemistry
+https://openalex.org/W4401767308,https://openalex.org/T10330,Hydrology and Watershed Management Studies
+https://openalex.org/W4405386656,https://openalex.org/T10398,Groundwater and Isotope Geochemistry
+https://openalex.org/W4405386656,https://openalex.org/T12543,Groundwater and Watershed Analysis
+https://openalex.org/W4405386656,https://openalex.org/T12157,Geochemistry and Geologic Mapping
+https://openalex.org/W4407686865,https://openalex.org/T11634,Water Quality and Pollution Assessment
+https://openalex.org/W4407686865,https://openalex.org/T10139,Heavy metals in environment
+https://openalex.org/W4407686865,https://openalex.org/T10398,Groundwater and Isotope Geochemistry
+https://openalex.org/W4403209601,https://openalex.org/T10078,Advanced Photocatalysis Techniques
+https://openalex.org/W4403209601,https://openalex.org/T11907,Copper-based nanomaterials and applications
+https://openalex.org/W4403209601,https://openalex.org/T12038,Covalent Organic Framework Applications
+https://openalex.org/W2167330935,https://openalex.org/T10399,Hydrocarbon exploration and reservoir analysis
+https://openalex.org/W2167330935,https://openalex.org/T10635,Hydraulic Fracturing and Reservoir Analysis
+https://openalex.org/W2167330935,https://openalex.org/T10965,Geological formations and processes
+https://openalex.org/W3009319440,https://openalex.org/T10572,Geophysical and Geoelectrical Methods
+https://openalex.org/W3009319440,https://openalex.org/T11609,Geophysical Methods and Applications
+https://openalex.org/W3009319440,https://openalex.org/T10965,Geological formations and processes
+https://openalex.org/W4396922243,https://openalex.org/T10572,Geophysical and Geoelectrical Methods
+https://openalex.org/W4405873965,https://openalex.org/T10398,Groundwater and Isotope Geochemistry
+https://openalex.org/W4405873965,https://openalex.org/T11490,Hydrological Forecasting Using AI
+https://openalex.org/W4405873965,https://openalex.org/T12543,Groundwater and Watershed Analysis
+https://openalex.org/W4407294064,https://openalex.org/T10398,Groundwater and Isotope Geochemistry
+https://openalex.org/W4407294064,https://openalex.org/T10894,Groundwater flow and contamination studies
+https://openalex.org/W4408806439,https://openalex.org/T10078,Advanced Photocatalysis Techniques
+https://openalex.org/W4408806439,https://openalex.org/T11907,Copper-based nanomaterials and applications
+https://openalex.org/W4408806439,https://openalex.org/T12302,Advanced Nanomaterials in Catalysis
+https://openalex.org/W4410077348,https://openalex.org/T10264,Asphalt Pavement Performance Evaluation
+https://openalex.org/W4410077348,https://openalex.org/T11606,Infrastructure Maintenance and Monitoring
+https://openalex.org/W4410077348,https://openalex.org/T14304,Transport Systems and Technology
+https://openalex.org/W2472217501,https://openalex.org/T10399,Hydrocarbon exploration and reservoir analysis
+https://openalex.org/W2472217501,https://openalex.org/T10965,Geological formations and processes
+https://openalex.org/W2472217501,https://openalex.org/T10635,Hydraulic Fracturing and Reservoir Analysis
+https://openalex.org/W3123310825,https://openalex.org/T11757,Seismic Waves and Analysis
+https://openalex.org/W3123310825,https://openalex.org/T10555,Fire effects on ecosystems
+https://openalex.org/W3123310825,https://openalex.org/T10577,Hydrology and Sediment Transport Processes
+https://openalex.org/W3178314061,https://openalex.org/T12383,Aeolian processes and effects
+https://openalex.org/W3178314061,https://openalex.org/T10965,Geological formations and processes
+https://openalex.org/W3178314061,https://openalex.org/T10889,Soil erosion and sediment transport
+https://openalex.org/W2539001916,https://openalex.org/T10892,Drilling and Well Engineering
+https://openalex.org/W2539001916,https://openalex.org/T10635,Hydraulic Fracturing and Reservoir Analysis
+https://openalex.org/W2539001916,https://openalex.org/T10161,Rock Mechanics and Modeling
+https://openalex.org/W2896628306,https://openalex.org/T10892,Drilling and Well Engineering
+https://openalex.org/W2896628306,https://openalex.org/T10635,Hydraulic Fracturing and Reservoir Analysis
+https://openalex.org/W2896628306,https://openalex.org/T10399,Hydrocarbon exploration and reservoir analysis
+https://openalex.org/W2921427238,https://openalex.org/T10635,Hydraulic Fracturing and Reservoir Analysis
+https://openalex.org/W2921427238,https://openalex.org/T10892,Drilling and Well Engineering
+https://openalex.org/W2921427238,https://openalex.org/T10399,Hydrocarbon exploration and reservoir analysis
+https://openalex.org/W3028085658,https://openalex.org/T10399,Hydrocarbon exploration and reservoir analysis
+https://openalex.org/W3028085658,https://openalex.org/T10271,Seismic Imaging and Inversion Techniques
+https://openalex.org/W3028085658,https://openalex.org/T13177,Geological and Geophysical Studies
+https://openalex.org/W3043618361,https://openalex.org/T10399,Hydrocarbon exploration and reservoir analysis
+https://openalex.org/W3043618361,https://openalex.org/T10635,Hydraulic Fracturing and Reservoir Analysis
+https://openalex.org/W3043618361,https://openalex.org/T10271,Seismic Imaging and Inversion Techniques
+https://openalex.org/W3089162765,https://openalex.org/T11405,Geophysics and Gravity Measurements
+https://openalex.org/W3089162765,https://openalex.org/T10655,GNSS positioning and interference
+https://openalex.org/W3089162765,https://openalex.org/T12157,Geochemistry and Geologic Mapping
+https://openalex.org/W4220969770,https://openalex.org/T12157,Geochemistry and Geologic Mapping
+https://openalex.org/W4220969770,https://openalex.org/T10139,Heavy metals in environment
+https://openalex.org/W4220969770,https://openalex.org/T10770,Soil Geostatistics and Mapping
+https://openalex.org/W4287854759,https://openalex.org/T11801,Reservoir Engineering and Simulation Methods
+https://openalex.org/W4287854759,https://openalex.org/T11490,Hydrological Forecasting Using AI
+https://openalex.org/W4321501874,https://openalex.org/T10572,Geophysical and Geoelectrical Methods
+https://openalex.org/W4321501874,https://openalex.org/T10398,Groundwater and Isotope Geochemistry
+https://openalex.org/W4392585963,https://openalex.org/T11869,Per- and polyfluoroalkyl substances research
+https://openalex.org/W4392599262,https://openalex.org/T12543,Groundwater and Watershed Analysis
+https://openalex.org/W4405443624,https://openalex.org/T10398,Groundwater and Isotope Geochemistry
+https://openalex.org/W4405443624,https://openalex.org/T12543,Groundwater and Watershed Analysis
+https://openalex.org/W4405443624,https://openalex.org/T12157,Geochemistry and Geologic Mapping
+https://openalex.org/W4408444630,https://openalex.org/T11634,Water Quality and Pollution Assessment
+https://openalex.org/W4409994417,https://openalex.org/T12074,Membrane-based Ion Separation Techniques
+https://openalex.org/W4411711243,https://openalex.org/T12074,Membrane-based Ion Separation Techniques
+https://openalex.org/W4411711243,https://openalex.org/T11690,Advanced battery technologies research
+https://openalex.org/W4411711243,https://openalex.org/T10018,Advancements in Battery Materials
+https://openalex.org/W4414227001,https://openalex.org/T10398,Groundwater and Isotope Geochemistry
+https://openalex.org/W4414227001,https://openalex.org/T12157,Geochemistry and Geologic Mapping
+https://openalex.org/W4414227001,https://openalex.org/T10399,Hydrocarbon exploration and reservoir analysis
+https://openalex.org/W7117488147,https://openalex.org/T12543,Groundwater and Watershed Analysis
+https://openalex.org/W7117488147,https://openalex.org/T10398,Groundwater and Isotope Geochemistry
+https://openalex.org/W7117488147,https://openalex.org/T11404,Irrigation Practices and Water Management
 https://openalex.org/W2531414044,https://openalex.org/T10399,Hydrocarbon exploration and reservoir analysis
 https://openalex.org/W2531414044,https://openalex.org/T10109,Paleontology and Stratigraphy of Fossils
 https://openalex.org/W2531414044,https://openalex.org/T12157,Geochemistry and Geologic Mapping
@@ -11044,6 +11435,9 @@ https://openalex.org/W4412999940,https://openalex.org/T10188,Advanced machining 
 https://openalex.org/W4415363470,https://openalex.org/T10161,Rock Mechanics and Modeling
 https://openalex.org/W4415363470,https://openalex.org/T13772,Geomechanics and Mining Engineering
 https://openalex.org/W4415363470,https://openalex.org/T14392,Geoscience and Mining Technology
+https://openalex.org/W7117566586,https://openalex.org/T12157,Geochemistry and Geologic Mapping
+https://openalex.org/W7117566586,https://openalex.org/T12282,Mineral Processing and Grinding
+https://openalex.org/W7117566586,https://openalex.org/T10770,Soil Geostatistics and Mapping
 https://openalex.org/W2766319640,https://openalex.org/T11801,Reservoir Engineering and Simulation Methods
 https://openalex.org/W2766319640,https://openalex.org/T10635,Hydraulic Fracturing and Reservoir Analysis
 https://openalex.org/W2766319640,https://openalex.org/T10892,Drilling and Well Engineering
@@ -11609,9 +12003,6 @@ https://openalex.org/W4297149413,https://openalex.org/T10647,Coastal and Marine 
 https://openalex.org/W4361214918,https://openalex.org/T10965,Geological formations and processes
 https://openalex.org/W4361214918,https://openalex.org/T13177,Geological and Geophysical Studies
 https://openalex.org/W4361214918,https://openalex.org/T10399,Hydrocarbon exploration and reservoir analysis
-https://openalex.org/W3035979779,https://openalex.org/T11757,Seismic Waves and Analysis
-https://openalex.org/W3035979779,https://openalex.org/T10271,Seismic Imaging and Inversion Techniques
-https://openalex.org/W3035979779,https://openalex.org/T12233,Geotechnical Engineering and Underground Structures
 https://openalex.org/W2811175459,https://openalex.org/T10635,Hydraulic Fracturing and Reservoir Analysis
 https://openalex.org/W2811175459,https://openalex.org/T11302,CO2 Sequestration and Geologic Interactions
 https://openalex.org/W2811175459,https://openalex.org/T10892,Drilling and Well Engineering
@@ -11690,9 +12081,6 @@ https://openalex.org/W2521291098,https://openalex.org/T10572,Geophysical and Geo
 https://openalex.org/W1987442082,https://openalex.org/T11757,Seismic Waves and Analysis
 https://openalex.org/W1987442082,https://openalex.org/T10271,Seismic Imaging and Inversion Techniques
 https://openalex.org/W1987442082,https://openalex.org/T13018,Seismology and Earthquake Studies
-https://openalex.org/W3009319440,https://openalex.org/T10572,Geophysical and Geoelectrical Methods
-https://openalex.org/W3009319440,https://openalex.org/T11609,Geophysical Methods and Applications
-https://openalex.org/W3009319440,https://openalex.org/T10965,Geological formations and processes
 https://openalex.org/W4213291957,https://openalex.org/T10572,Geophysical and Geoelectrical Methods
 https://openalex.org/W4213291957,https://openalex.org/T10271,Seismic Imaging and Inversion Techniques
 https://openalex.org/W4213291957,https://openalex.org/T11757,Seismic Waves and Analysis
@@ -11777,9 +12165,6 @@ https://openalex.org/W2985484151,https://openalex.org/T10688,Image and Signal De
 https://openalex.org/W3023899021,https://openalex.org/T10271,Seismic Imaging and Inversion Techniques
 https://openalex.org/W3023899021,https://openalex.org/T11757,Seismic Waves and Analysis
 https://openalex.org/W3023899021,https://openalex.org/T10892,Drilling and Well Engineering
-https://openalex.org/W3123310825,https://openalex.org/T11757,Seismic Waves and Analysis
-https://openalex.org/W3123310825,https://openalex.org/T10555,Fire effects on ecosystems
-https://openalex.org/W3123310825,https://openalex.org/T10577,Hydrology and Sediment Transport Processes
 https://openalex.org/W4229028604,https://openalex.org/T10271,Seismic Imaging and Inversion Techniques
 https://openalex.org/W4229028604,https://openalex.org/T10635,Hydraulic Fracturing and Reservoir Analysis
 https://openalex.org/W4229028604,https://openalex.org/T10892,Drilling and Well Engineering
@@ -14056,6 +14441,9 @@ https://openalex.org/W4411732803,https://openalex.org/T11725,Immunodeficiency an
 https://openalex.org/W4411733316,https://openalex.org/T13597,Medicine and Dermatology Studies History
 https://openalex.org/W4411733423,https://openalex.org/T11868,Cancer and Skin Lesions
 https://openalex.org/W4411733423,https://openalex.org/T12009,Hedgehog Signaling Pathway Studies
+https://openalex.org/W7117545063,https://openalex.org/T10324,Microbial bioremediation and biosurfactants
+https://openalex.org/W7117545063,https://openalex.org/T10491,Enhanced Oil Recovery Techniques
+https://openalex.org/W7117545063,https://openalex.org/T10894,Groundwater flow and contamination studies
 https://openalex.org/W2215060042,https://openalex.org/T10271,Seismic Imaging and Inversion Techniques
 https://openalex.org/W2215060042,https://openalex.org/T11757,Seismic Waves and Analysis
 https://openalex.org/W2215060042,https://openalex.org/T10995,Methane Hydrates and Related Phenomena
@@ -14178,9 +14566,6 @@ https://openalex.org/W3092446550,https://openalex.org/T10016,Adsorption and bios
 https://openalex.org/W3092446550,https://openalex.org/T10753,Microplastics and Plastic Pollution
 https://openalex.org/W2999724275,https://openalex.org/T10016,Adsorption and biosorption for pollutant removal
 https://openalex.org/W2999724275,https://openalex.org/T10139,Heavy metals in environment
-https://openalex.org/W4399386927,https://openalex.org/T10398,Groundwater and Isotope Geochemistry
-https://openalex.org/W4399386927,https://openalex.org/T11634,Water Quality and Pollution Assessment
-https://openalex.org/W4399386927,https://openalex.org/T12157,Geochemistry and Geologic Mapping
 https://openalex.org/W2787144041,https://openalex.org/T10016,Adsorption and biosorption for pollutant removal
 https://openalex.org/W2787144041,https://openalex.org/T10179,Supercapacitor Materials and Fabrication
 https://openalex.org/W2787144041,https://openalex.org/T10353,Zeolite Catalysis and Synthesis
@@ -14197,9 +14582,6 @@ https://openalex.org/W4400012922,https://openalex.org/T12017,Recycling and Waste
 https://openalex.org/W4414226798,https://openalex.org/T11091,Extraction and Separation Processes
 https://openalex.org/W4414226798,https://openalex.org/T10210,Advanced oxidation water treatment
 https://openalex.org/W4414226798,https://openalex.org/T10197,Membrane Separation Technologies
-https://openalex.org/W4414227001,https://openalex.org/T10398,Groundwater and Isotope Geochemistry
-https://openalex.org/W4414227001,https://openalex.org/T12157,Geochemistry and Geologic Mapping
-https://openalex.org/W4414227001,https://openalex.org/T10399,Hydrocarbon exploration and reservoir analysis
 https://openalex.org/W2472982373,https://openalex.org/T11302,CO2 Sequestration and Geologic Interactions
 https://openalex.org/W2472982373,https://openalex.org/T10491,Enhanced Oil Recovery Techniques
 https://openalex.org/W2472982373,https://openalex.org/T10995,Methane Hydrates and Related Phenomena
@@ -14813,18 +15195,9 @@ https://openalex.org/W2623477242,https://openalex.org/T12017,Recycling and Waste
 https://openalex.org/W3158356721,https://openalex.org/T10710,Arsenic contamination and mitigation
 https://openalex.org/W3158356721,https://openalex.org/T12078,Environmental remediation with nanomaterials
 https://openalex.org/W3158356721,https://openalex.org/T10790,Heavy Metal Exposure and Toxicity
-https://openalex.org/W4308152638,https://openalex.org/T11490,Hydrological Forecasting Using AI
-https://openalex.org/W4308152638,https://openalex.org/T12543,Groundwater and Watershed Analysis
-https://openalex.org/W4308152638,https://openalex.org/T10398,Groundwater and Isotope Geochemistry
-https://openalex.org/W4304806286,https://openalex.org/T10398,Groundwater and Isotope Geochemistry
-https://openalex.org/W4304806286,https://openalex.org/T10894,Groundwater flow and contamination studies
-https://openalex.org/W4304806286,https://openalex.org/T10995,Methane Hydrates and Related Phenomena
 https://openalex.org/W4391914276,https://openalex.org/T11490,Hydrological Forecasting Using AI
 https://openalex.org/W4391914276,https://openalex.org/T10398,Groundwater and Isotope Geochemistry
 https://openalex.org/W4391914276,https://openalex.org/T10330,Hydrology and Watershed Management Studies
-https://openalex.org/W4394837151,https://openalex.org/T11781,Wastewater Treatment and Reuse
-https://openalex.org/W4394837151,https://openalex.org/T10398,Groundwater and Isotope Geochemistry
-https://openalex.org/W4394837151,https://openalex.org/T10969,Water resources management and optimization
 https://openalex.org/W2035194386,https://openalex.org/T10016,Adsorption and biosorption for pollutant removal
 https://openalex.org/W2035194386,https://openalex.org/T11582,Nanopore and Nanochannel Transport Studies
 https://openalex.org/W2089485146,https://openalex.org/T10710,Arsenic contamination and mitigation
@@ -14854,18 +15227,12 @@ https://openalex.org/W3037520114,https://openalex.org/T11493,Water Treatment and
 https://openalex.org/W3158243328,https://openalex.org/T10398,Groundwater and Isotope Geochemistry
 https://openalex.org/W3158243328,https://openalex.org/T12543,Groundwater and Watershed Analysis
 https://openalex.org/W3158243328,https://openalex.org/T10930,Flood Risk Assessment and Management
-https://openalex.org/W4213328516,https://openalex.org/T12157,Geochemistry and Geologic Mapping
-https://openalex.org/W4213328516,https://openalex.org/T10139,Heavy metals in environment
-https://openalex.org/W4213328516,https://openalex.org/T11634,Water Quality and Pollution Assessment
 https://openalex.org/W1983804293,https://openalex.org/T10210,Advanced oxidation water treatment
 https://openalex.org/W1983804293,https://openalex.org/T11493,Water Treatment and Disinfection
 https://openalex.org/W1983804293,https://openalex.org/T12078,Environmental remediation with nanomaterials
 https://openalex.org/W2908493854,https://openalex.org/T12071,Marine Biology and Environmental Chemistry
 https://openalex.org/W2908493854,https://openalex.org/T10447,Environmental Toxicology and Ecotoxicology
 https://openalex.org/W2908493854,https://openalex.org/T12213,Marine Ecology and Invasive Species
-https://openalex.org/W4386365539,https://openalex.org/T10398,Groundwater and Isotope Geochemistry
-https://openalex.org/W4386365539,https://openalex.org/T12543,Groundwater and Watershed Analysis
-https://openalex.org/W4386365539,https://openalex.org/T11634,Water Quality and Pollution Assessment
 https://openalex.org/W4400896951,https://openalex.org/T10930,Flood Risk Assessment and Management
 https://openalex.org/W4400896951,https://openalex.org/T12543,Groundwater and Watershed Analysis
 https://openalex.org/W4400896951,https://openalex.org/T10330,Hydrology and Watershed Management Studies
@@ -14884,8 +15251,6 @@ https://openalex.org/W3007163973,https://openalex.org/T12627,Graphene and Nanoma
 https://openalex.org/W3167868482,https://openalex.org/T10016,Adsorption and biosorption for pollutant removal
 https://openalex.org/W3167868482,https://openalex.org/T12240,Nanomaterials for catalytic reactions
 https://openalex.org/W3167868482,https://openalex.org/T10083,Graphene research and applications
-https://openalex.org/W4283746594,https://openalex.org/T12157,Geochemistry and Geologic Mapping
-https://openalex.org/W4283746594,https://openalex.org/T10770,Soil Geostatistics and Mapping
 https://openalex.org/W3027475076,https://openalex.org/T10398,Groundwater and Isotope Geochemistry
 https://openalex.org/W3027475076,https://openalex.org/T10894,Groundwater flow and contamination studies
 https://openalex.org/W3027475076,https://openalex.org/T10330,Hydrology and Watershed Management Studies
@@ -14933,12 +15298,6 @@ https://openalex.org/W4312870375,https://openalex.org/T10139,Heavy metals in env
 https://openalex.org/W4213065667,https://openalex.org/T10564,Wastewater Treatment and Nitrogen Removal
 https://openalex.org/W4213065667,https://openalex.org/T11624,Constructed Wetlands for Wastewater Treatment
 https://openalex.org/W4213065667,https://openalex.org/T10284,Anaerobic Digestion and Biogas Production
-https://openalex.org/W4405386656,https://openalex.org/T10398,Groundwater and Isotope Geochemistry
-https://openalex.org/W4405386656,https://openalex.org/T12543,Groundwater and Watershed Analysis
-https://openalex.org/W4405386656,https://openalex.org/T12157,Geochemistry and Geologic Mapping
-https://openalex.org/W4407686865,https://openalex.org/T11634,Water Quality and Pollution Assessment
-https://openalex.org/W4407686865,https://openalex.org/T10139,Heavy metals in environment
-https://openalex.org/W4407686865,https://openalex.org/T10398,Groundwater and Isotope Geochemistry
 https://openalex.org/W2099721442,https://openalex.org/T14249,Water Quality Monitoring and Analysis
 https://openalex.org/W2099721442,https://openalex.org/T13325,Dye analysis and toxicity
 https://openalex.org/W2099721442,https://openalex.org/T12697,Water Quality Monitoring Technologies
@@ -15002,21 +15361,12 @@ https://openalex.org/W3183694600,https://openalex.org/T11963,Impact of Light on 
 https://openalex.org/W3195714778,https://openalex.org/T10016,Adsorption and biosorption for pollutant removal
 https://openalex.org/W3195714778,https://openalex.org/T11923,Mine drainage and remediation techniques
 https://openalex.org/W3195714778,https://openalex.org/T10197,Membrane Separation Technologies
-https://openalex.org/W4220969770,https://openalex.org/T12157,Geochemistry and Geologic Mapping
-https://openalex.org/W4220969770,https://openalex.org/T10139,Heavy metals in environment
-https://openalex.org/W4220969770,https://openalex.org/T10770,Soil Geostatistics and Mapping
-https://openalex.org/W4287854759,https://openalex.org/T11801,Reservoir Engineering and Simulation Methods
-https://openalex.org/W4287854759,https://openalex.org/T11490,Hydrological Forecasting Using AI
 https://openalex.org/W4312914920,https://openalex.org/T10338,Advanced Sensor and Energy Harvesting Materials
 https://openalex.org/W4312914920,https://openalex.org/T10660,Conducting polymers and applications
 https://openalex.org/W4312914920,https://openalex.org/T10461,Gas Sensing Nanomaterials and Sensors
-https://openalex.org/W4392585963,https://openalex.org/T11869,Per- and polyfluoroalkyl substances research
 https://openalex.org/W4392598180,https://openalex.org/T12120,Air Quality Monitoring and Forecasting
 https://openalex.org/W4392599153,https://openalex.org/T10139,Heavy metals in environment
 https://openalex.org/W4392599153,https://openalex.org/T11108,Municipal Solid Waste Management
-https://openalex.org/W4405443624,https://openalex.org/T10398,Groundwater and Isotope Geochemistry
-https://openalex.org/W4405443624,https://openalex.org/T12543,Groundwater and Watershed Analysis
-https://openalex.org/W4405443624,https://openalex.org/T12157,Geochemistry and Geologic Mapping
 https://openalex.org/W4413992265,https://openalex.org/T12017,Recycling and Waste Management Techniques
 https://openalex.org/W4413992265,https://openalex.org/T13465,"Graphite, nuclear technology, radiation studies"
 https://openalex.org/W4413992265,https://openalex.org/T11091,Extraction and Separation Processes
@@ -15343,7 +15693,6 @@ https://openalex.org/W2323876553,https://openalex.org/T11609,Geophysical Methods
 https://openalex.org/W2508898808,https://openalex.org/T11757,Seismic Waves and Analysis
 https://openalex.org/W2508898808,https://openalex.org/T10271,Seismic Imaging and Inversion Techniques
 https://openalex.org/W2508898808,https://openalex.org/T10413,High-pressure geophysics and materials
-https://openalex.org/W4396922243,https://openalex.org/T10572,Geophysical and Geoelectrical Methods
 https://openalex.org/W4399571934,https://openalex.org/T10271,Seismic Imaging and Inversion Techniques
 https://openalex.org/W4399571934,https://openalex.org/T11757,Seismic Waves and Analysis
 https://openalex.org/W4399571934,https://openalex.org/T11609,Geophysical Methods and Applications
@@ -16545,12 +16894,6 @@ https://openalex.org/W592453176,https://openalex.org/T10321,Quantum Dots Synthes
 https://openalex.org/W605136686,https://openalex.org/T12021,Social and Educational Sciences
 https://openalex.org/W606471962,https://openalex.org/T10164,Quality and Supply Management
 https://openalex.org/W637320392,https://openalex.org/T12021,Social and Educational Sciences
-https://openalex.org/W7117255705,https://openalex.org/T10275,2D Materials and Applications
-https://openalex.org/W7117255705,https://openalex.org/T12612,Strong Light-Matter Interactions
-https://openalex.org/W7117255705,https://openalex.org/T12285,Surface Chemistry and Catalysis
-https://openalex.org/W7117277276,https://openalex.org/T10275,2D Materials and Applications
-https://openalex.org/W7117277276,https://openalex.org/T12612,Strong Light-Matter Interactions
-https://openalex.org/W7117277276,https://openalex.org/T12285,Surface Chemistry and Catalysis
 https://openalex.org/W7425214,https://openalex.org/T13065,Mining Techniques and Economics
 https://openalex.org/W7425214,https://openalex.org/T12282,Mineral Processing and Grinding
 https://openalex.org/W767057887,https://openalex.org/T10002,Advanced Chemical Physics Studies

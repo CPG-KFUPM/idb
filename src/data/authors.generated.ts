@@ -1818,5 +1818,41 @@ export const authors: AuthorRecord[] = [
     "totalPublications": 65,
     "totalCitations": 717,
     "hIndex": 14
+  },
+  {
+    "authorId": "idb0100-tantardini-christian",
+    "openAlexId": "A5022893471",
+    "openAlexIds": [
+      "A5022893471"
+    ],
+    "name": "Christian Tantardini",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "",
+    "orcid": "",
+    "totalPublications": 75,
+    "totalCitations": 856,
+    "hIndex": 15
+  },
+  {
+    "authorId": "idb0101-benaafi-mohammed",
+    "openAlexId": "A5034568196",
+    "openAlexIds": [
+      "A5034568196"
+    ],
+    "name": "Mohammed Benaafi",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "",
+    "orcid": "",
+    "totalPublications": 71,
+    "totalCitations": 894,
+    "hIndex": 19
   }
 ];

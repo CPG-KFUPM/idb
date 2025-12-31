@@ -2533,9 +2533,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Clean water and sanitation",
           "score": 0.8299999833106995,
-          "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -3735,9 +3735,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Affordable and clean energy",
           "score": 0.8700000047683716,
-          "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "awards": [],
@@ -4926,9 +4926,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Affordable and clean energy",
           "score": 0.75,
-          "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "awards": [
@@ -7040,9 +7040,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Clean water and sanitation",
           "score": 0.4699999988079071,
-          "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -9380,9 +9380,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Clean water and sanitation",
           "score": 0.6600000262260437,
-          "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -10583,9 +10583,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Affordable and clean energy",
           "score": 0.8700000047683716,
-          "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "awards": [],
@@ -13980,9 +13980,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Clean water and sanitation",
           "score": 0.6700000166893005,
-          "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -14579,9 +14579,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Clean water and sanitation",
           "score": 0.7400000095367432,
-          "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -15800,9 +15800,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Zero hunger",
           "score": 0.5799999833106995,
-          "id": "https://metadata.un.org/sdg/2",
-          "display_name": "Zero hunger"
+          "id": "https://metadata.un.org/sdg/2"
         }
       ],
       "awards": [],
@@ -17732,7 +17732,7 @@
         "id": "doi:10.3390/molecules30183712",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.3390/molecules30183712",
-        "pdf_url": null,
+        "pdf_url": "https://www.mdpi.com/1420-3049/30/18/3712/pdf?version=1757930415",
         "source": {
           "id": "https://openalex.org/S108911230",
           "display_name": "Molecules",
@@ -17771,7 +17771,7 @@
       "open_access": {
         "is_oa": true,
         "oa_status": "gold",
-        "oa_url": "https://doi.org/10.3390/molecules30183712",
+        "oa_url": "https://www.mdpi.com/1420-3049/30/18/3712/pdf?version=1757930415",
         "any_repository_has_fulltext": false
       },
       "authorships": [
@@ -17943,7 +17943,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.33599714,
+        "value": 0.33381672,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18163,7 +18163,7 @@
           "id": "doi:10.3390/molecules30183712",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.3390/molecules30183712",
-          "pdf_url": null,
+          "pdf_url": "https://www.mdpi.com/1420-3049/30/18/3712/pdf?version=1757930415",
           "source": {
             "id": "https://openalex.org/S108911230",
             "display_name": "Molecules",
@@ -18312,7 +18312,7 @@
         "id": "doi:10.3390/molecules30183712",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.3390/molecules30183712",
-        "pdf_url": null,
+        "pdf_url": "https://www.mdpi.com/1420-3049/30/18/3712/pdf?version=1757930415",
         "source": {
           "id": "https://openalex.org/S108911230",
           "display_name": "Molecules",
@@ -18346,7 +18346,7 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
+        "pdf": true,
         "grobid_xml": false
       },
       "referenced_works_count": 173,
@@ -18522,8 +18522,8 @@
         "https://openalex.org/W2943675828",
         "https://openalex.org/W3149871039",
         "https://openalex.org/W3146152867",
-        "https://openalex.org/W3037802142",
-        "https://openalex.org/W3158495239"
+        "https://openalex.org/W3158495239",
+        "https://openalex.org/W3037802142"
       ],
       "related_works": [],
       "abstract_inverted_index": {
@@ -19107,7 +19107,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-12-28T23:10:05.387466",
+      "updated_date": "2025-12-30T23:08:21.542490",
       "created_date": "2025-10-10T00:00:00"
     }
   ]

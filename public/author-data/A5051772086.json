@@ -2122,9 +2122,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
+          "id": "https://metadata.un.org/sdg/15",
           "score": 0.5400000214576721,
-          "id": "https://metadata.un.org/sdg/15"
+          "display_name": "Life in Land"
         }
       ],
       "awards": [],
@@ -8110,9 +8110,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
+          "id": "https://metadata.un.org/sdg/15",
           "score": 0.41999998688697815,
-          "id": "https://metadata.un.org/sdg/15"
+          "display_name": "Life in Land"
         }
       ],
       "awards": [
@@ -9432,9 +9432,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6",
           "score": 0.4300000071525574,
-          "id": "https://metadata.un.org/sdg/6"
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -10260,9 +10260,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "No poverty",
+          "id": "https://metadata.un.org/sdg/1",
           "score": 0.5600000023841858,
-          "id": "https://metadata.un.org/sdg/1"
+          "display_name": "No poverty"
         }
       ],
       "awards": [],
@@ -12373,9 +12373,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.6200000047683716,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -13625,9 +13625,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6",
           "score": 0.49000000953674316,
-          "id": "https://metadata.un.org/sdg/6"
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -22321,9 +22321,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11",
           "score": 0.5600000023841858,
-          "id": "https://metadata.un.org/sdg/11"
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
@@ -23156,9 +23156,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Responsible consumption and production",
+          "id": "https://metadata.un.org/sdg/12",
           "score": 0.41999998688697815,
-          "id": "https://metadata.un.org/sdg/12"
+          "display_name": "Responsible consumption and production"
         }
       ],
       "awards": [],
@@ -26573,9 +26573,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Industry, innovation and infrastructure",
+          "id": "https://metadata.un.org/sdg/9",
           "score": 0.550000011920929,
-          "id": "https://metadata.un.org/sdg/9"
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [],
@@ -32675,9 +32675,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11",
           "score": 0.7599999904632568,
-          "id": "https://metadata.un.org/sdg/11"
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
@@ -33807,9 +33807,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Responsible consumption and production",
+          "id": "https://metadata.un.org/sdg/12",
           "score": 0.5299999713897705,
-          "id": "https://metadata.un.org/sdg/12"
+          "display_name": "Responsible consumption and production"
         }
       ],
       "awards": [],
@@ -37976,9 +37976,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Industry, innovation and infrastructure",
+          "id": "https://metadata.un.org/sdg/9",
           "score": 0.4099999964237213,
-          "id": "https://metadata.un.org/sdg/9"
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [],
@@ -42023,9 +42023,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.5,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -44946,9 +44946,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Responsible consumption and production",
+          "id": "https://metadata.un.org/sdg/12",
           "score": 0.6000000238418579,
-          "id": "https://metadata.un.org/sdg/12"
+          "display_name": "Responsible consumption and production"
         }
       ],
       "awards": [],
@@ -48759,9 +48759,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11",
           "score": 0.5299999713897705,
-          "id": "https://metadata.un.org/sdg/11"
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
@@ -49297,9 +49297,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.46000000834465027,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -53261,9 +53261,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Industry, innovation and infrastructure",
+          "id": "https://metadata.un.org/sdg/9",
           "score": 0.4699999988079071,
-          "id": "https://metadata.un.org/sdg/9"
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [],
@@ -54178,9 +54178,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11",
           "score": 0.7099999785423279,
-          "id": "https://metadata.un.org/sdg/11"
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
@@ -57200,9 +57200,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11",
           "score": 0.6299999952316284,
-          "id": "https://metadata.un.org/sdg/11"
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
@@ -59775,9 +59775,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Industry, innovation and infrastructure",
+          "id": "https://metadata.un.org/sdg/9",
           "score": 0.47999998927116394,
-          "id": "https://metadata.un.org/sdg/9"
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [],
@@ -61023,7 +61023,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.37574069,
+        "value": 0.37522055,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -64680,6 +64680,808 @@
       "counts_by_year": [],
       "updated_date": "2025-12-21T01:58:51.020947",
       "created_date": "2025-12-19T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W7117566586",
+      "doi": "https://doi.org/10.33271/mining19.04.053",
+      "title": "Advanced CNN-based remote sensing for mineral mapping of porphyry systems in the Gilgit region",
+      "display_name": "Advanced CNN-based remote sensing for mineral mapping of porphyry systems in the Gilgit region",
+      "publication_year": 2025,
+      "publication_date": "2025-12-30",
+      "ids": {
+        "openalex": "https://openalex.org/W7117566586",
+        "doi": "https://doi.org/10.33271/mining19.04.053"
+      },
+      "language": null,
+      "primary_location": {
+        "id": "doi:10.33271/mining19.04.053",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.33271/mining19.04.053",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S2764734164",
+          "display_name": "Mining of Mineral Deposits",
+          "issn_l": "2415-3435",
+          "issn": [
+            "2415-3435",
+            "2415-3443"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Mining of Mineral Deposits",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5121578526",
+            "display_name": "Muhammad Munzareen",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Muhammad Munzareen",
+          "raw_affiliation_strings": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5121558843",
+            "display_name": "Feroz Bibi",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Feroz Bibi",
+          "raw_affiliation_strings": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5000819363",
+            "display_name": "Salman Ihsan",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Salman Ihsan",
+          "raw_affiliation_strings": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5102980079",
+            "display_name": "Kausar Sultan Shah",
+            "orcid": "https://orcid.org/0000-0002-5016-4578"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Kausar Sultan Shah",
+          "raw_affiliation_strings": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5051772086",
+            "display_name": "Muhammad Zaka Emad",
+            "orcid": "https://orcid.org/0000-0001-8537-8026"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Muhammad Zaka Emad",
+          "raw_affiliation_strings": null,
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 5,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0,
+      "has_fulltext": false,
+      "cited_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.91332819,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": "19",
+        "issue": "4",
+        "first_page": "53",
+        "last_page": "62"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T12157",
+        "display_name": "Geochemistry and Geologic Mapping",
+        "score": 0.9563613533973694,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1702",
+          "display_name": "Artificial Intelligence"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T12157",
+          "display_name": "Geochemistry and Geologic Mapping",
+          "score": 0.9563613533973694,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12282",
+          "display_name": "Mineral Processing and Grinding",
+          "score": 0.026782657951116562,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2210",
+            "display_name": "Mechanical Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10770",
+          "display_name": "Soil Geostatistics and Mapping",
+          "score": 0.004374209325760603,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2305",
+            "display_name": "Environmental Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [],
+      "concepts": [],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.33271/mining19.04.053",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.33271/mining19.04.053",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S2764734164",
+            "display_name": "Mining of Mineral Deposits",
+            "issn_l": "2415-3435",
+            "issn": [
+              "2415-3435",
+              "2415-3443"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Mining of Mineral Deposits",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [],
+      "abstract_inverted_index": {
+        "1": [
+          38
+        ],
+        "2": [
+          36
+        ],
+        "8": [
+          34
+        ],
+        "Purpose.": [
+          0
+        ],
+        "This": [
+          1,
+          137,
+          155
+        ],
+        "study": [
+          2,
+          156
+        ],
+        "aims": [
+          3
+        ],
+        "to": [
+          4,
+          60,
+          93,
+          176
+        ],
+        "improve": [
+          5
+        ],
+        "mineral": [
+          6,
+          98,
+          170,
+          199
+        ],
+        "identification": [
+          7
+        ],
+        "in": [
+          8,
+          14,
+          110,
+          141,
+          184,
+          202,
+          214
+        ],
+        "porphyry": [
+          9,
+          112
+        ],
+        "hydrothermal": [
+          10
+        ],
+        "alteration": [
+          11,
+          62
+        ],
+        "zones,": [
+          12
+        ],
+        "particularly": [
+          13,
+          201
+        ],
+        "the": [
+          15,
+          19,
+          41,
+          158,
+          178,
+          215
+        ],
+        "challenging": [
+          16,
+          142,
+          185
+        ],
+        "terrain": [
+          17
+        ],
+        "of": [
+          18,
+          97,
+          161,
+          180
+        ],
+        "Gilgit": [
+          20,
+          216
+        ],
+        "area,": [
+          21
+        ],
+        "by": [
+          22
+        ],
+        "combining": [
+          23
+        ],
+        "remote": [
+          24,
+          103,
+          162,
+          198
+        ],
+        "sensing": [
+          25,
+          104,
+          163
+        ],
+        "data": [
+          26,
+          164
+        ],
+        "with": [
+          27,
+          165,
+          204
+        ],
+        "Convolutional": [
+          28
+        ],
+        "Neural": [
+          29
+        ],
+        "Networks": [
+          30
+        ],
+        "(CNNs).": [
+          31
+        ],
+        "Methods.": [
+          32
+        ],
+        "Landsat": [
+          33
+        ],
+        "Collection": [
+          35
+        ],
+        "Level": [
+          37
+        ],
+        "imagery": [
+          39
+        ],
+        "from": [
+          40
+        ],
+        "United": [
+          42
+        ],
+        "States": [
+          43
+        ],
+        "Geological": [
+          44
+        ],
+        "Survey": [
+          45
+        ],
+        "(USGS)": [
+          46
+        ],
+        "was": [
+          47,
+          58,
+          66,
+          91
+        ],
+        "processed": [
+          48
+        ],
+        "using": [
+          49
+        ],
+        "ENVI": [
+          50
+        ],
+        "5.3": [
+          51
+        ],
+        "software.": [
+          52
+        ],
+        "Spectral": [
+          53
+        ],
+        "Angle": [
+          54
+        ],
+        "Mapping": [
+          55
+        ],
+        "(SAM)": [
+          56
+        ],
+        "classification": [
+          57,
+          96,
+          120
+        ],
+        "applied": [
+          59
+        ],
+        "identify": [
+          61
+        ],
+        "minerals.": [
+          63
+        ],
+        "The": [
+          64,
+          114,
+          189
+        ],
+        "dataset": [
+          65
+        ],
+        "then": [
+          67
+        ],
+        "augmented,": [
+          68
+        ],
+        "normalized,": [
+          69
+        ],
+        "and": [
+          70,
+          77,
+          87,
+          126,
+          133,
+          152,
+          194,
+          210
+        ],
+        "split": [
+          71
+        ],
+        "into": [
+          72
+        ],
+        "training": [
+          73
+        ],
+        "(75%),": [
+          74
+        ],
+        "validation": [
+          75
+        ],
+        "(15%),": [
+          76
+        ],
+        "testing": [
+          78
+        ],
+        "(15%)": [
+          79
+        ],
+        "sets.": [
+          80
+        ],
+        "A": [
+          81
+        ],
+        "CNN": [
+          82,
+          115
+        ],
+        "model": [
+          83,
+          116
+        ],
+        "incorporating": [
+          84
+        ],
+        "convolutional,": [
+          85
+        ],
+        "pooling,": [
+          86
+        ],
+        "fully": [
+          88
+        ],
+        "connected": [
+          89
+        ],
+        "layers": [
+          90
+        ],
+        "developed": [
+          92
+        ],
+        "perform": [
+          94
+        ],
+        "binary": [
+          95
+        ],
+        "compositions.": [
+          99
+        ],
+        "Findings.": [
+          100
+        ],
+        "Advanced": [
+          101
+        ],
+        "CNN-based": [
+          102,
+          166
+        ],
+        "techniques": [
+          105
+        ],
+        "have": [
+          106
+        ],
+        "demonstrated": [
+          107
+        ],
+        "significant": [
+          108
+        ],
+        "potential": [
+          109
+        ],
+        "mapping": [
+          111
+        ],
+        "systems.": [
+          113
+        ],
+        "achieved": [
+          117
+        ],
+        "over": [
+          118
+        ],
+        "90%": [
+          119
+        ],
+        "accuracy": [
+          121
+        ],
+        "for": [
+          122,
+          168,
+          197
+        ],
+        "minerals": [
+          123
+        ],
+        "like": [
+          124,
+          144
+        ],
+        "feldspar": [
+          125
+        ],
+        "chalcocite,": [
+          127
+        ],
+        "based": [
+          128
+        ],
+        "on": [
+          129
+        ],
+        "their": [
+          130
+        ],
+        "spectral": [
+          131
+        ],
+        "properties": [
+          132
+        ],
+        "dominant": [
+          134
+        ],
+        "color": [
+          135
+        ],
+        "features.": [
+          136
+        ],
+        "approach": [
+          138,
+          175,
+          190
+        ],
+        "is": [
+          139
+        ],
+        "beneficial": [
+          140
+        ],
+        "terrains": [
+          143
+        ],
+        "Gilgit,": [
+          145
+        ],
+        "where": [
+          146
+        ],
+        "traditio-nal": [
+          147
+        ],
+        "methods": [
+          148,
+          183
+        ],
+        "can": [
+          149
+        ],
+        "be": [
+          150
+        ],
+        "difficult": [
+          151
+        ],
+        "expensive.": [
+          153
+        ],
+        "Originality.": [
+          154
+        ],
+        "demonstrates": [
+          157
+        ],
+        "successful": [
+          159
+        ],
+        "integration": [
+          160
+        ],
+        "algorithms": [
+          167
+        ],
+        "accurate": [
+          169,
+          209
+        ],
+        "classification,": [
+          171
+        ],
+        "providing": [
+          172
+        ],
+        "a": [
+          173,
+          192
+        ],
+        "novel": [
+          174
+        ],
+        "overcoming": [
+          177
+        ],
+        "limitations": [
+          179
+        ],
+        "conventional": [
+          181
+        ],
+        "field-based": [
+          182
+        ],
+        "terrains.": [
+          186
+        ],
+        "Practical": [
+          187
+        ],
+        "implications.": [
+          188
+        ],
+        "provides": [
+          191
+        ],
+        "practical": [
+          193
+        ],
+        "efficient": [
+          195
+        ],
+        "solution": [
+          196
+        ],
+        "exploration,": [
+          200
+        ],
+        "regions": [
+          203
+        ],
+        "limited": [
+          205
+        ],
+        "accessibility,": [
+          206
+        ],
+        "supporting": [
+          207
+        ],
+        "more": [
+          208
+        ],
+        "faster": [
+          211
+        ],
+        "geological": [
+          212
+        ],
+        "assessments": [
+          213
+        ],
+        "area.": [
+          217
+        ]
+      },
+      "counts_by_year": [],
+      "updated_date": "2025-12-30T23:12:23.022851",
+      "created_date": "2025-12-30T00:00:00"
     }
   ]
 }

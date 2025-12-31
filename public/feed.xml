@@ -4,8 +4,45 @@
     <title>Integrative Dashboard - OpenAlex Feed</title>
     <link>https://digitalgeosciences.github.io/dashboard3.2/</link>
     <description>Recent publications with OpenAlex abstracts and topics.</description>
-    <lastBuildDate>Tue, 30 Dec 2025 20:27:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Dec 2025 20:26:05 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Advanced CNN-based remote sensing for mineral mapping of porphyry systems in the Gilgit region</title>
+      <link>https://doi.org/10.33271/mining19.04.053</link>
+      <pubDate>Tue, 30 Dec 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W7117566586</guid>
+      <dc:creator>Muhammad Munzareen, Feroz Bibi, Salman Ihsan, Kausar Sultan Shah, Muhammad Zaka Emad</dc:creator>
+      <dc:publisher>Mining of Mineral Deposits</dc:publisher>
+      <description>Abstract: Purpose. This study aims to improve mineral identification in porphyry hydrothermal alteration zones, particularly in the challenging terrain of the Gilgit area, by combining remote sensing data with Convolutional Neural Networks (CNNs). Methods. Landsat 8 Collection 2 Level 1 imagery from the United States Geological Survey (USGS) was processed using ENVI 5.3 software. Spectral Angle Mapping (SAM) classification was applied to identify alteration minerals. The dataset was then augmented, normalized, and split into training (75%), validation (15%), and testing (15%) sets. A CNN model incorporating convolutional, pooling, and fully connected layers was developed to perform binary classification of mineral compositions. Findings. Advanced CNN-based remote sensing techniques have demonstrated significant potential in mapping porphyry systems. The CNN model achieved over 90% classification accuracy for minerals like feldspar and chalcocite, based on their spectral properties and dominant color features. This approach is beneficial in challenging terrains like Gilgit, where traditio-nal methods can be difficult and expensive. Originality. This study demonstrates the successful integration of remote sensing data with CNN-based algorithms for accurate mineral classification, providing a novel approach to overcoming the limitations of conventional field-based methods in challenging terrains. Practical implications. The approach provides a practical and efficient solution for remote m…&#10;Venue: Mining of Mineral Deposits&#10;Year: 2025&#10;Citations: 0</description>
+    </item>
+    <item>
+      <title>Test FraCSPy</title>
+      <link>https://doi.org/10.5281/zenodo.18086589</link>
+      <pubDate>Mon, 29 Dec 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W7117536541</guid>
+      <dc:creator>Denis Anikiev</dc:creator>
+      <dc:publisher>Zenodo (CERN European Organization for Nuclear Research)</dc:publisher>
+      <category>Test (biology)</category>
+      <category>Mathematics</category>
+      <category>Computer science</category>
+      <category>Artificial intelligence</category>
+      <category>Relation (database)</category>
+      <description>Abstract: Test release for FraCSPy.&#10;Topics: Test (biology), Mathematics, Computer science, Artificial intelligence, Relation (database)&#10;Venue: Zenodo (CERN European Organization for Nuclear Research)&#10;Year: 2025&#10;Citations: 0</description>
+    </item>
+    <item>
+      <title>Characterization of aquifer hydraulics and pumping well yield for supplemental paddy crop irrigation using pumping tests in Perak, Malaysia</title>
+      <link>https://doi.org/10.1007/s10333-025-01055-2</link>
+      <pubDate>Mon, 29 Dec 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W7117488147</guid>
+      <dc:creator>Naseem Akhtar, Muhammad Syakir, Syahidah Akmal Muhammad, Aznan Fazli Ismail, Mohamad Shaiful Md Yusuff, Leila Bouida, Hamza Mohamed Flafel, Pahmi Husain, Mohammed Benaafi, Taskin Ahmed, Mohammad Muqtada Ali Khan</dc:creator>
+      <dc:publisher>Paddy and Water Environment</dc:publisher>
+      <category>Environmental science</category>
+      <category>Irrigation</category>
+      <category>Aquifer</category>
+      <category>Hydrogeology</category>
+      <category>Yield (engineering)</category>
+      <description>Topics: Environmental science, Irrigation, Aquifer, Hydrogeology, Yield (engineering)&#10;Venue: Paddy and Water Environment&#10;Year: 2025&#10;Citations: 0</description>
+    </item>
     <item>
       <title>A Review of Foamed CO &lt;sub&gt;2&lt;/sub&gt; Dynamics during Geo-Sequestration in Deep Saline Aquifers</title>
       <link>https://doi.org/10.1021/acs.energyfuels.5c04033</link>
@@ -19,20 +56,6 @@
       <category>Petroleum engineering</category>
       <category>Groundwater</category>
       <description>Topics: Aquifer, Geology, Environmental science, Petroleum engineering, Groundwater&#10;Venue: Energy &amp; Fuels&#10;Year: 2025&#10;Citations: 0</description>
-    </item>
-    <item>
-      <title>Integrative Dashboard (IDB)</title>
-      <link>https://doi.org/10.5281/zenodo.18027324</link>
-      <pubDate>Tue, 23 Dec 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W7117128083</guid>
-      <dc:creator>Abdullah Alqubalee</dc:creator>
-      <dc:publisher>Zenodo (CERN European Organization for Nuclear Research)</dc:publisher>
-      <category>Dashboard</category>
-      <category>Computer science</category>
-      <category>World Wide Web</category>
-      <category>Analytics</category>
-      <category>Restructuring</category>
-      <description>Abstract: An offline, data-driven research analytics app that uses locally cached OpenAlex data to keep navigation fast and accessible without relying on live API calls. It helps you explore publications and citations by topic, institution, and member over the years, inspect co-author networks and follow links to publication DOIs or URLs, and filter instantly with precomputed tables—no waiting for remote queries. The latest updates include: Enhancements to the user interface. Restructuring of files for improved organization Repairing broken links Resolving mojibake issues in CSV exports.&#10;Topics: Dashboard, Computer science, World Wide Web, Analytics, Restructuring&#10;Venue: Zenodo (CERN European Organization for Nuclear Research)&#10;Year: 2025&#10;Citations: 0</description>
     </item>
     <item>
       <title>Gauge-Invariant Long-Wavelength TDDFT Without Empty States: From Polarizability to Kubo Conductivity Across Heterogeneous Materials</title>
@@ -61,6 +84,20 @@
       <category>Polarizability</category>
       <category>Polarization (electrochemistry)</category>
       <description>Abstract: Electromagnetic response is commonly computed in two languages: length-gauge molecular polarizabilities and velocity-gauge (Kubo) conductivities for periodic solids. We introduce a compact, gauge-invariant bridge that carries the same microscopic inputs-transition dipoles and interaction kernels-from molecules to crystals and heterogeneous media, with explicit SI prefactors and fine-structure scaling via $(α_{\rm fs})$. The long-wavelength limit is handled through a reduced dielectric matrix that retains local-field mixing, interfaces and 2D layers are treated with sheet boundary conditions (rather than naïve ultrathin films), and length-velocity equivalence is enforced in practice by including the equal-time (diamagnetic/contact) term alongside the paramagnetic current. Finite temperature is addressed on the Matsubara axis with numerically stable real-axis evaluation (complex polarization propagator), preserving unit consistency end-to-end. The framework enables predictive, unit-faithful observables from radio frequency to ultraviolet-RF/microwave heating and penetration depth, dielectric-logging contrast, interfacial optics of thin films and 2D sheets, and adsorption metrics via imaginary-axis polarizabilities. Numerical checks (gauge overlay and optical $(f)$-sum saturation) validate the implementation. Immediate priorities include compact, temperature- and salinity-aware kernels with quantified uncertainties and \emph{operando} interfacial diagnostics for integration into…&#10;Topics: Dielectric, Kubo formula, Materials science, Polarizability, Polarization (electrochemistry)&#10;Venue: arXiv (Cornell University)&#10;Year: 2025&#10;Citations: 0</description>
+    </item>
+    <item>
+      <title>Integrative Dashboard (IDB)</title>
+      <link>https://doi.org/10.5281/zenodo.18027324</link>
+      <pubDate>Tue, 23 Dec 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W7117128083</guid>
+      <dc:creator>Abdullah Alqubalee</dc:creator>
+      <dc:publisher>Zenodo (CERN European Organization for Nuclear Research)</dc:publisher>
+      <category>Dashboard</category>
+      <category>Computer science</category>
+      <category>World Wide Web</category>
+      <category>Analytics</category>
+      <category>Restructuring</category>
+      <description>Abstract: An offline, data-driven research analytics app that uses locally cached OpenAlex data to keep navigation fast and accessible without relying on live API calls. It helps you explore publications and citations by topic, institution, and member over the years, inspect co-author networks and follow links to publication DOIs or URLs, and filter instantly with precomputed tables—no waiting for remote queries. The latest updates include: Enhancements to the user interface. Restructuring of files for improved organization Repairing broken links Resolving mojibake issues in CSV exports.&#10;Topics: Dashboard, Computer science, World Wide Web, Analytics, Restructuring&#10;Venue: Zenodo (CERN European Organization for Nuclear Research)&#10;Year: 2025&#10;Citations: 0</description>
     </item>
     <item>
       <title>Kaolinite Illitization Under Hydrothermal Conditions: Experimental Insight into Transformation Pathways</title>
@@ -142,6 +179,15 @@
       <dc:creator>Khaled Al-Azani, Mohamed Gamal Rezk, Ahmed Farid Ibrahim</dc:creator>
       <dc:publisher>Scientific Reports</dc:publisher>
       <description>Venue: Scientific Reports&#10;Year: 2025&#10;Citations: 0</description>
+    </item>
+    <item>
+      <title>Low-temperature behavior of density-functional theory for metals based on density-functional perturbation theory and Sommerfeld expansion</title>
+      <link>https://doi.org/10.48550/arxiv.2512.14438</link>
+      <pubDate>Tue, 16 Dec 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4417469600</guid>
+      <dc:creator>Xavier Gonze, Christian Tantardini, Antoine Levitt</dc:creator>
+      <dc:publisher>arXiv (Cornell University)</dc:publisher>
+      <description>Abstract: The temperature dependence of most solid-state properties is dominated by lattice vibrations, but metals display notable purely electronic effects at low temperature, such as the linear specific heat and the linear entropy, that were derived by Sommerfeld for the non-interacting electron gas via the low-temperature expansion of Fermi-Dirac integrals. Here we treat temperature as a perturbation within density-functional perturbation theory (DFPT). For finite temperature, we show how self-consistency screens the bare, temperature-induced density change obtained in the non-interacting picture: the inverse transpose of the electronic dielectric operator, that includes Adler-Wiser and a term related to the shift in Fermi level, links the self-consistent density response to the bare thermal density change. This approach is implemented in DFTK, and demonstrated by the computation of the second-order derivative of the free energy, and the first-order derivative of entropy for aluminum. Then, we examine the $T\!\to\!0$ limit. The finite temperature formalism contains divergences, that we cure using the Sommerfeld expansion to analyze metallic systems at 0 K. The electronic free energy is quadratic in $T$ provided the Fermi level is not at a Van Hove singularity of the density of states. If the latter happens, another temperature behavior might appear, depending on the type of Van Hove singularity, that we analyze. Our formulation applies to systems periodic in one, two, or three dimen…&#10;Venue: arXiv (Cornell University)&#10;Year: 2025&#10;Citations: 0</description>
     </item>
     <item>
       <title>Comparison Between the Impact of Mineralogy and Pore Geometry on Acoustic Velocity in Carbonates: Insights from Global Dataset and Rock-Physics Modeling</title>
@@ -248,6 +294,15 @@
       <description>Venue: International Journal of Sediment Research&#10;Year: 2025&#10;Citations: 0</description>
     </item>
     <item>
+      <title>Groundwater science in the age of AI: emerging paradigms and challenges</title>
+      <link>https://doi.org/10.1016/j.asr.2025.11.099</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4416868394</guid>
+      <dc:creator>Md Anuwer Hossain, Mohammed Benaafi, Isam H. Aljundi</dc:creator>
+      <dc:publisher>Advances in Space Research</dc:publisher>
+      <description>Venue: Advances in Space Research&#10;Year: 2025&#10;Citations: 0</description>
+    </item>
+    <item>
       <title>Influence of salinity on gas-water capillary pressure behavior in carbonate reservoirs: Implications of underground gas storage</title>
       <link>https://doi.org/10.1016/j.ees.2025.11.005</link>
       <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
@@ -255,6 +310,15 @@
       <dc:creator>R. B. Fahim, Shabeeb Alajmei, Ahmed Al‐Yaseri</dc:creator>
       <dc:publisher>Earth energy science.</dc:publisher>
       <description>Venue: Earth energy science.&#10;Year: 2025&#10;Citations: 0</description>
+    </item>
+    <item>
+      <title>Machine Learning and Kinetic Insights into Biomass and Biosurfactant Production for Enhanced Oil Recovery Applications</title>
+      <link>https://doi.org/10.2118/231828-pa</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W7117545063</guid>
+      <dc:creator>Maysoon Awadh, S. M. Zakir Hossain, Shaker Haji, Israa Mohammed AlHammar, Elias Ahmed Alsaei, Hussain A. Safar, Nahid Sultana, Nasiru Salahu Muhammed, Bashirul Haq</dc:creator>
+      <dc:publisher>SPE Journal</dc:publisher>
+      <description>Abstract: Summary Enhanced oil recovery (EOR) using biosurfactants has gained significant attention due to its cost-effectiveness and environmental compatibility. In this study, we introduce a hybrid modeling approach that combines the Bayesian optimization algorithm (BOA) with support vector regression (SVR) to predict rhamnolipid production by Pseudomonas aeruginosa MYSAG. In addition, we assess the produced biosurfactant for its potential application in microbial EOR (MEOR) using experimental data for model development, and benchmark the predictive performance of the hybrid BOA-SVR model against the conventional response surface methodology (RSM) using multiple statistical indicators. Compared with the RSM model, the proposed hybrid model exhibits superior predictive accuracy, achieving more than a 95% improvement in mean absolute percentage error (MAPE), along with lower mean absolute error (MAE), relative error (RE), and root mean square error (RMSE), as well as a higher coefficient of determination (R2 = 0.9833). We use additional simulated data to validate the hybrid BOA-SVR model’s generalization ability, and analyze the kinetics of bacterial growth and biosurfactant production using the logistic and Luedeking-Piret (LP) models, revealing a growth-associated production pattern. We further evaluate the efficacy of the produced biosurfactants in MEOR through interfacial tension (IFT) and zeta potential measurements. At a concentration of 0.27 wt%, the IFT decreases significantly …&#10;Venue: SPE Journal&#10;Year: 2025&#10;Citations: 0</description>
     </item>
     <item>
       <title>Gradual deletion of diacritics from reading text for learners of Arabic for non-native speakers at the advanced level: &quot; experimental study &quot;</title>
@@ -279,7 +343,7 @@
       <link>https://doi.org/10.1038/s41598-025-29863-w</link>
       <pubDate>Thu, 27 Nov 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">https://openalex.org/W4416764301</guid>
-      <dc:creator>Mohammed Y. Ali, Fateh Bouchaala, Ammar El‐Husseiny, Abdullatif Al‐Shuhail, Sherif M. Hanafy, Jun Matsushima</dc:creator>
+      <dc:creator>Ahmed Eleslambouly, Mohammed Y. Ali, Fateh Bouchaala, Ammar El‐Husseiny, Abdullatif Al‐Shuhail, Sherif M. Hanafy, Jun Matsushima</dc:creator>
       <dc:publisher>Scientific Reports</dc:publisher>
       <description>Venue: Scientific Reports&#10;Year: 2025&#10;Citations: 0</description>
     </item>
@@ -336,6 +400,15 @@
       <dc:creator>Moaz Salih, Hassan A. Eltom, Korhan Ayrancı</dc:creator>
       <dc:publisher>Arabian Journal for Science and Engineering</dc:publisher>
       <description>Venue: Arabian Journal for Science and Engineering&#10;Year: 2025&#10;Citations: 0</description>
+    </item>
+    <item>
+      <title>Urban expansion and warming jointly amplify drought and surface heat island effects</title>
+      <link>https://doi.org/10.1080/10106049.2025.2586775</link>
+      <pubDate>Sun, 23 Nov 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4416556497</guid>
+      <dc:creator>Mahfuzur Rahman, Hyeong-Soo Kim, Md Anuwer Hossain, Mohammed Benaafi, Isam H. Aljundi</dc:creator>
+      <dc:publisher>Geocarto International</dc:publisher>
+      <description>Abstract: Urbanization and climate change are intensifying the co-occurrence of drought and surface urban heat island (SUHI) effects, yet their combined dynamics remain poorly understood at high spatial resolution. This study evaluates the compound risk of drought and UHI in South Korea&apos;s Saemangeum region using a hybrid KNN–LSTM model, alongside three comparative approaches (KNN, CNN, CNN–LSTM), incorporating CMIP6 climate projections and satellite-derived land metrics. The KNN–LSTM model demonstrated superior performance (R² = 0.94; MSE = 0.0053), accurately capturing an increasing drought–SUHI association, which rose from 0.84 (1991–2020) to 1.00 by 2100 under the SSP585 scenario. High-risk zones predominantly overlap with built-up and cropland areas, where UHI indices exceed 4.0 and drought probabilities surpass 0.9. Although land use explains over 80% of drought variability under baseline conditions, its predictive power diminishes under future warming, highlighting the growing role of climate feedbacks. These findings emphasize the emergence of synchronized thermal and hydrological stressors in urbanizing coastal regions and underscore the need for integrated land-climate adaptation strategies supported by machine learning-based early warning systems.&#10;Venue: Geocarto International&#10;Year: 2025&#10;Citations: 0</description>
     </item>
     <item>
       <title>Efficient Charge Dynamics in Carbon Nanodot-Methyl Viologen Systems: Ultrafast Electron Transfer and Suppressed Recombination</title>
@@ -572,12 +645,30 @@
       <description>Abstract: The uppermost 2 meters of the Maastrichtian Scaglia Rossa Fm. (Gubbio, Italy) record a notable change in the proportions of morphogroups of deep-water agglutinated foraminifera beginning about 1.4 m below the boundary, where we observe a gradual decrease in the abundance of the morphotype M4 (infauna) and a concurrent increase in the morphotype M1 (suspension feeders). This trend suggests a reduction in the flux of organic matter to the sea floor began approximately 114 k.y. before the boundary event. The abundance of M4 shows an abrupt decline from around 13% below the Cretaceous/Paleogene boundary, to a minimum of 7% in the beds directly above the boundary. This trend suggests a modest, but temporary reduction in organic matter flux to the sea floor following the Cretaceous/Paleogene boundary event, though not in the category of a “Strangelove Ocean”. Morphotype M1 shows a marked decrease across the boundary, with values decreasing from &amp;gt;70% to around 11%. The lower Paleocene displays strong fluctuations in the M4 morphogroup. In the same interval we observe a rise in Morphotype M2 (epifaunal detritivores) from values below 10% in the Maastrichtian to over 50% in the basal Paleocene, and a short-lived maximum in Morphotype M3, indicating a decline in particulate organic matter input from suspension and a concurrent increase in bacterial-derived organic matter in the early recovery phase of the Paleocene. The deep-marine ecosystem as witnessed by deep-water agglutinated f…&#10;Venue: Acta Palaeontologica Polonica&#10;Year: 2025&#10;Citations: 0</description>
     </item>
     <item>
+      <title>Machine Learning Models for Groundwater Level Prediction and Uncertainty Analysis in Ruataniwha Basin, New Zealand</title>
+      <link>https://doi.org/10.3390/hydrology12110282</link>
+      <pubDate>Wed, 29 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4415680432</guid>
+      <dc:creator>Dawit Kanito, Mohammed Benaafi, Husam Musa Baalousha</dc:creator>
+      <dc:publisher>Hydrology</dc:publisher>
+      <description>Abstract: Groundwater level predictive monitoring is necessary to address accelerated aquifer depletion and ensure sustainable management under increasing climatic and anthropogenic pressures. This study uses machine learning approaches to model groundwater level (GWL) dynamics in six observation wells in the Ruataniwha Basin, New Zealand. These models are enhanced with seasonal decomposition techniques. This study uses both static properties and dynamic variables to capture hydrogeological heterogeneity. Random Forest (RF) and Support Vector Machine (SVM), with seasonal decomposition preprocessing, were developed for GWL modelling. The models were trained on 80% of the dataset and tested using the remaining 20% of the data. Model accuracy was assessed using five statistical metrics: mean absolute error (MAE), root mean square error (RMSE), the coefficient of determination (R2), mean absolute percent error (MAPE), and percent bias (PBIAS). Model uncertainty was analyzed using Bayesian Model Averaging combined with the p-factor and d-factor at the 95% confidence level. The results demonstrate that both models delivered strong predictive performance across training, testing, and full period evaluations. However, the RF model demonstrated a marginally superior predictive accuracy by achieving lower errors (MAE: 0.013–0.174; RMSE: 0.04–0.283), better bias control (PBIAS ≈ 0%), and slightly tighter error bounds in most wells. Uncertainty quantification revealed that models provided a minimu…&#10;Venue: Hydrology&#10;Year: 2025&#10;Citations: 0</description>
+    </item>
+    <item>
       <title>Residual-Enhanced YOLO with Motion-Blur Augmentation for UAV-Based Weed Detection</title>
       <link>https://doi.org/10.1109/aict67988.2025.11268618</link>
       <pubDate>Wed, 29 Oct 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">https://openalex.org/W4417131419</guid>
       <dc:creator>Jamil Ahmad, Sara Mahmoud, Mohamed Mahmoud</dc:creator>
       <description>Year: 2025&#10;Citations: 0</description>
+    </item>
+    <item>
+      <title>Abinit 2025: New capabilities for the predictive modeling of solids and nanomaterials</title>
+      <link>https://doi.org/10.1063/5.0288278</link>
+      <pubDate>Tue, 28 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4415659058</guid>
+      <dc:creator>Matthieu J. Verstraete, João Abreu, Guillaume E. Allemand, Bernard Amadon, Gabriel Antonius, Maryam Azizi, Lucas Baguet, Clémentine Barat, Louis Bastogne, Romuald Béjaud, Jean-Michel Beuken, Jordan Bieder, Augustin Blanchet, François Bottin, J. Bouchet, Julien Bouquiaux, Éric Bousquet, James Boust, Fabien Brieuc, Véronique Brousseau-Couture, Nils Brouwer, Fabien Bruneval, Aloïs Castellano, Emmanuel Castiel, Jean-Baptiste Charraud, Jean Clérouin, Michel Côté, Clément Duval, Alejandro Gallo, Frédéric Gendron, Grégory Geneste, Philippe Ghosez, Matteo Giantomassi, Olivier Gingras, Fernando Gómez‐Ortiz, Xavier Gonze, Félix Antoine Goudreault, Andreas Grüneis, Raveena Gupta, Bogdan Guster, D. R. Hamann, Xu He, Olle Hellman, N. A. W. Holzwarth, F. Jollet, Pierre Kestener, Ioanna-Maria Lygatsika, Olivier Nadeau, Lórien MacEnulty, Enrico Marazzi, Maxime Mignolet, David D. O’Regan, Robinson Outerovitch, Charles Paillard, Guido Petretto, Samuel Poncé, Francesco Ricci, Gian‐Marco Rignanese, Mauricio Rodríguez‐Mayorga, A. Romero, Samare Rostami, Miquel Royo, Marc Sarraute, Alireza Sasani, François Soubiran, Massimiliano Stengel, Christian Tantardini, Marc Torrent, Victor Trinquet, Vasilii Vasilchenko, David Waroquiers, Asier Zabalo, Austin Zadoks, Huazhang Zhang, Josef W. Zwanziger</dc:creator>
+      <dc:publisher>The Journal of Chemical Physics</dc:publisher>
+      <description>Abstract: Abinit is a widely used scientific software package implementing density functional theory and many related functionalities for excited states and response properties. This paper presents the novel features and capabilities, both technical and scientific, which have been implemented over the past 5 years. This evolution occurred in the context of evolving hardware platforms, high-throughput calculation campaigns, and the growing use of machine learning to predict properties based on databases of first-principle results. We present new methodologies for ground states with constrained charge, spin, or temperature; for density functional perturbation theory extensions to flexoelectricity and polarons; and for excited states in many-body frameworks including GW, dynamical mean field theory, and coupled cluster. Technical advances have extended Abinit high-performance execution to graphical processing units and intensive parallelism. Second-principles methods build effective models on top of first-principle results to scale up in length and time scales. Finally, workflows have been developed in different community frameworks to automate Abinit calculations and enable users to simulate hundreds or thousands of materials in controlled and reproducible conditions.&#10;Venue: The Journal of Chemical Physics&#10;Year: 2025&#10;Citations: 1</description>
     </item>
     <item>
       <title>Estimation of storage capacity coefficients: Porthos GCS project case study</title>
@@ -834,86 +925,6 @@
       <dc:creator>Mohamed Mahmoud, Rashed Mohamed Rashed, Alaa El Arshal</dc:creator>
       <dc:publisher>International Journal of Medical Arts</dc:publisher>
       <description>Venue: International Journal of Medical Arts&#10;Year: 2025&#10;Citations: 0</description>
-    </item>
-    <item>
-      <title>Explainable NLP Approach for Detection of Comorbidities in Chronic Kidney Disease Patients</title>
-      <link>https://doi.org/10.1109/icidca66325.2025.11280449</link>
-      <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4417404451</guid>
-      <dc:creator>Haroon Arif, Arshad Raza, Aashesh Kumar, Ahmed S. Ali, Bickey Kumar Shah</dc:creator>
-      <description>Year: 2025&#10;Citations: 0</description>
-    </item>
-    <item>
-      <title>Seismic first-arrival traveltime simulation based on reciprocity-constrained PINN</title>
-      <link>https://doi.org/10.1016/j.jappgeo.2025.105967</link>
-      <pubDate>Sat, 04 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4414807955</guid>
-      <dc:creator>Hang Geng, Chao Song, Umair bin Waheed, Cai Liu</dc:creator>
-      <dc:publisher>Journal of Applied Geophysics</dc:publisher>
-      <description>Venue: Journal of Applied Geophysics&#10;Year: 2025&#10;Citations: 0</description>
-    </item>
-    <item>
-      <title>Scale Inhibition Efficiency of Chelating Agents Under High Temperature and Salinity</title>
-      <link>https://doi.org/10.1007/s13369-025-10640-w</link>
-      <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4414713796</guid>
-      <dc:creator>Ose Budiman, Shabeeb Alajmei, Murtada Saleh Aljawad, Mohamed Mahmoud, Muhammad Shahzad Kamal, Mobeen Murtaza, Prasad Karadkar, Fahd Alghunaimi</dc:creator>
-      <dc:publisher>Arabian Journal for Science and Engineering</dc:publisher>
-      <description>Venue: Arabian Journal for Science and Engineering&#10;Year: 2025&#10;Citations: 0</description>
-    </item>
-    <item>
-      <title>Consistency Between the Slip History Implied by in Situ &lt;sup&gt;36&lt;/sup&gt; Cl Exposure Dating on an Active Normal Fault and the Timing of Holocene Coastal Notch Formation, Central Greece</title>
-      <link>https://doi.org/10.1029/2024jb030293</link>
-      <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4414736258</guid>
-      <dc:creator>Jennifer Robertson, Claudia Sgambato, Gerald Roberts, Zoë Mildon, Joanna Faure Walker, Francesco Iezzi, Sam Mitchell, Athanassios Ganas, Ioannis Papanikolaou, Elias J. Rugen, Varvara Tsironi, Joakim Beck, Silke Mechernich, Georgios Deligiannakis, Steve Binnie, Tibor J. Dunai, Klaus Reicherter</dc:creator>
-      <dc:publisher>Journal of Geophysical Research Solid Earth</dc:publisher>
-      <description>Abstract: Abstract We report agreement between the timing of slip on an active normal fault recovered from in situ 36 Cl cosmogenic fault scarp dating with independently 14 C dated Holocene coastal notches deformed along the strike of the fault, reinforcing the validity of slip‐rate timing and magnitude fluctuations implied by 36 Cl fault scarp dating. The 36 Cl‐dated Pisia fault, central Greece, shows slip‐rate fluctuations but the timing of slip derived from this cosmogenic isotope have not been confirmed with an independent dating approach. However, Holocene coastal notches dated with 14 C on fossils occupying the notches exist around the Pisia fault, these can only form when the interplay between eustatic sea‐level and tectonics result in stable relative sea‐level. The 36 Cl site close to the center of the Pisia fault records ongoing slip from ∼9.6 to 5.2 (±0.5) ka and 2.0 ± 0.5 ka to the present day which was interrupted by a low slip‐rate period. Holocene sea‐level stabilized close to its current elevation after 7.0–6.5 ka, so the combination of low slip‐rate and stable sea‐level allowed notch formation. During this time, notches were uplifted by slip on the offshore Strava fault, indicated by elastic half‐space modeling. Toward the center of the Pisia‐Skinos fault, these notches were then submerged during the high slip period from 2.0 ± 0.5 ka. Our findings reveal that spatial patterns of deformed radiocarbon‐dated Holocene notches agree with the timing of high slip earthquake c…&#10;Venue: Journal of Geophysical Research Solid Earth&#10;Year: 2025&#10;Citations: 0</description>
-    </item>
-    <item>
-      <title>Stable carbon and oxygen isotopes of benthic and planktonic foraminifera as palaeoenvironmental and palaeoclimatic proxies for the Bartonian–Priabonian in northwestern Saudi Arabia</title>
-      <link>https://doi.org/10.7306/gq.1799</link>
-      <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4415698517</guid>
-      <dc:creator>S. Allam, Asmaa Korin, Adhipa Herlambang, John Humphrey, Mohammed I. Alnajjar, Ahmed A. Bahameem, Abdullah Memesh, Iyad S. Zalmout, Michael A. Kaminski</dc:creator>
-      <dc:publisher>Geological Quarterly</dc:publisher>
-      <description>Abstract: The Eocene epoch is known for its fluctuations in climate patterns and the dominance of global greenhouse climate. The Rashrashiyah Formation represents the middle to upper Eocene (biozones E13–E14) marine deposits of claystone to limestone in Saudi Arabia and contains well- to poorly-preserved planktonic and benthic foraminifera. Four different genera were selected for isotopic analysis (Acarinina spp., Subbotina spp., Cibicidoides spp., and Uvigerina spp.). Foraminiferal calcite was used to define the depth of habitat for each genus and mode of life. Four equations were used to infer palaeotemperatures from foraminiferal calcite; three equations are applicable for estimation of sea-surface temperatures (SST) from planktonic foraminifera data, while the fourth equation is applicable estimation of bottom-water temperatures using benthic foraminifera data. The mean SST derived from Acarinina spp. is ~38°C, while the mean bottom water temperature based on Uvigerina spp. is 26°C. Palaeotemperatures derived from this study are notably higher than those reported from this area in the existing literature. This discrepancy may be due to the unique palaeoclimatic and palaeogeographic conditions prevalent in the study area. The stable isotope curve is used to infer the transition between the Bartonian and Priabonian and the general cooling trend during this period.&#10;Venue: Geological Quarterly&#10;Year: 2025&#10;Citations: 0</description>
-    </item>
-    <item>
-      <title>Generation and Evaluation of Synthetic Low‐Magnitude Earthquake Data Using Auxiliary Classifier GAN</title>
-      <link>https://doi.org/10.1029/2024ea004064</link>
-      <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4414847594</guid>
-      <dc:creator>Amjad Alsulami, Basem Al‐Qadasi, Muhammad Usman, Umair bin Waheed</dc:creator>
-      <dc:publisher>Earth and Space Science</dc:publisher>
-      <description>Abstract: Abstract Low‐magnitude earthquakes occur far more frequently than major quakes and often go unnoticed by the public. These tremors rarely cause any damage, yet they play an important role in advancing our understanding of Earth&apos;s seismicity. Accurate detection of low‐magnitude earthquakes is crucial to develop complete earthquake catalogs and improve seismic hazard forecasting models. However, conventional detection algorithms such as the short‐time‐average/long‐time‐average (STA/LTA) method struggle to identify these events because of their inherently low signal‐to‐noise ratio (SNR). Additionally, lack of labeled waveforms for low‐magnitude earthquakes further complicates the training of effective deep‐learning models. In this study, we use an Auxiliary Classifier Generative Adversarial Network (AC‐GAN) to produce synthetic yet realistic three‐component waveforms of low‐magnitude earthquakes. The AC‐GAN is trained on fixed‐length (60‐s) waveform segments conditioned by predefined SNR classes. All selected events have magnitudes lower than 3 and are categorized into 10 distinct SNR classes. Our results indicate that the AC‐GAN model generates realistic three‐component waveforms that effectively capture essential characteristics of real seismic signals. To evaluate the quality of these synthetic waveforms, we employ both quantitative and qualitative assessments. Quantitative analysis using Pearson&apos;s correlation coefficient yield relatively low correlations (ranging from 0.01 t…&#10;Venue: Earth and Space Science&#10;Year: 2025&#10;Citations: 0</description>
-    </item>
-    <item>
-      <title>Comprehensive permeability-transform solutions for shale and sandstones using data sets from around the globe</title>
-      <link>https://doi.org/10.1016/j.ptlrs.2025.08.006</link>
-      <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4414804359</guid>
-      <dc:creator>Ruud Weijermars</dc:creator>
-      <dc:publisher>Petroleum Research</dc:publisher>
-      <description>Venue: Petroleum Research&#10;Year: 2025&#10;Citations: 0</description>
-    </item>
-    <item>
-      <title>Chitosan-Based Flocculant Heavy Metal Removal Prediction Using Machine Learning Models</title>
-      <link>https://doi.org/10.1021/acsomega.5c04000</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4414602501</guid>
-      <dc:creator>Zaher Mundher Yaseen‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬, Ziaul Haq Doost, Rauf Khan, Abdulazeez Abdulraheem, Sajjad Firas Abdulameer, Mayadah W. Falah, Aitazaz A. Farooque</dc:creator>
-      <dc:publisher>ACS Omega</dc:publisher>
-      <description>Abstract: The expanding impact of heavy metals (HMs) on environmental and public health necessitates the development of advanced predictive models that enhance the precision and efficiency of monitoring and remediation strategies. This study aimed to evaluate newly developed machine learning (ML) models for predicting the removal of HMs such as cadmium (Cd&lt;sup&gt;2+&lt;/sup&gt;), copper (Cu&lt;sup&gt;2+&lt;/sup&gt;), nickel (Ni&lt;sup&gt;2+&lt;/sup&gt;), lead (Pb&lt;sup&gt;2+&lt;/sup&gt;), and zinc (Zn&lt;sup&gt;2+&lt;/sup&gt;) using chitosan-based flocculants (CBFs) from wastewater. A gradient boosting regressor (GBR), Hist gradient boosting regressor (HGBR), random forest regressor (RFR), and extreme gradient boosting regressor (XGBR) were developed, with a cluster label generated by K-means clustering included as an additional feature to enhance model learning. The ML models were built using experimental data sets of HM ion removal across 484 sets of flocculation experiments involving various ions of HMs such as Cu&lt;sup&gt;2+&lt;/sup&gt;, Pb&lt;sup&gt;2+&lt;/sup&gt;, Cd&lt;sup&gt;2+&lt;/sup&gt;, Zn&lt;sup&gt;2+&lt;/sup&gt;, and Ni&lt;sup&gt;2+&lt;/sup&gt;. Results indicated that the HGBR model revealed higher performance in combined HM removal scenarios, achieving a determination coefficient (&lt;i&gt;R&lt;/i&gt; &lt;sup&gt;2&lt;/sup&gt; = 0.94/0.97 for the testing/training phases. For individual metals, all models achieved excellent accuracies, especially for nickel (Ni&lt;sup&gt;2+&lt;/sup&gt;), with the GBR model obtaining the lowest error rate in the testing. The results signified a robust capability of the HGBR model for gene…&#10;Venue: ACS Omega&#10;Year: 2025&#10;Citations: 0</description>
-    </item>
-    <item>
-      <title>Multivariate and Correlation Analysis of Soil Quality Parameters in Traffic-Impacted and Control Sites in Ilorin Metropolis</title>
-      <link>https://doi.org/10.64290/bima.v9i3a.1340</link>
-      <pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4415060409</guid>
-      <dc:creator>Mariam Abiola Akanbi-Gada, Haroon Olamilekan Abdullahi, Abdulazeez Abdulraheem, Ridwan Onituwo Abdulganiyu, Abdulrasheed Adio, Najeemdeen Bolaji Abiodun, Omolara Faith Amubieya, A.T. Agboola</dc:creator>
-      <dc:publisher>BIMA JOURNAL OF SCIENCE AND TECHNOLOGY GOMBE</dc:publisher>
-      <description>Abstract: Vehicular emissions are a major source of urban pollution, releasing heavy metals and other toxicants that impair soil quality and threaten food safety. This study evaluated the impact of traffic-derived pollutants on soil physicochemical properties, heavy metal accumulation, and non-enzymatic antioxidant responses of Celosia argentea, a common leafy vegetable in Nigeria. Soil and plant samples were collected from three roadside stations with varying traffic densities and a rural control site in Ilorin, North-Central Nigeria. Soil pH, electrical conductivity (EC), organic carbon, nitrogen, phosphorus, exchangeable cations, and heavy metals were determined using standard procedures, while non-enzymatic antioxidants (ascorbic acid, phenolics, flavonoids, and carotenoids) were quantified spectrophotometrically. Results revealed significant spatial variation (p ≤ 0.05) in soil quality and heavy metal content. Station 1 (high traffic) recorded the lowest pH (6.08 ± 0.02), highest EC (275.67± 18.09 dS/m), and elevated Pb (3.01 ± 0.01 mg/kg), Cd (0.49 ± 0.01 mg/kg), Cu (2.73 ± 0.02 mg/kg), and Zn (3.60 ± 0.02 mg/kg), relative to other sites. C. argentea from polluted stations accumulated higher levels of these metals, accompanied by increased non-enzymatic antioxidant activities, suggesting an adaptive response to vehicular stress. Interestingly, carotenoid levels remained stable across all sites, highlighting their inherent resilience and essential role in photosynthetic protection…&#10;Venue: BIMA JOURNAL OF SCIENCE AND TECHNOLOGY GOMBE&#10;Year: 2025&#10;Citations: 0</description>
     </item>
   </channel>
 </rss>
