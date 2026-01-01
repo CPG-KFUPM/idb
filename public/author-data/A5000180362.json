@@ -1053,8 +1053,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 317,
       "referenced_works": [
@@ -2190,8 +2190,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5400000214576721,
           "id": "https://metadata.un.org/sdg/6",
+          "score": 0.5400000214576721,
           "display_name": "Clean water and sanitation"
         }
       ],
@@ -2212,8 +2212,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 40,
       "referenced_works": [
@@ -3275,16 +3275,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.800000011920929,
           "id": "https://metadata.un.org/sdg/6",
+          "score": 0.800000011920929,
           "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 24,
       "referenced_works": [
@@ -4357,7 +4357,7 @@
       "has_fulltext": true,
       "cited_by_count": 16,
       "citation_normalized_percentile": {
-        "value": 0.9738853,
+        "value": 0.97372552,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4626,8 +4626,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "referenced_works_count": 39,
       "referenced_works": [
@@ -4651,25 +4651,25 @@
         "https://openalex.org/W4380080731",
         "https://openalex.org/W1974970274",
         "https://openalex.org/W4323308459",
-        "https://openalex.org/W4286243855",
-        "https://openalex.org/W2020828556",
-        "https://openalex.org/W4385557559",
-        "https://openalex.org/W2523742622",
-        "https://openalex.org/W4254195423",
-        "https://openalex.org/W3034105836",
-        "https://openalex.org/W4253271431",
+        "https://openalex.org/W1805520082",
         "https://openalex.org/W2765530271",
         "https://openalex.org/W2068722859",
-        "https://openalex.org/W1977923897",
-        "https://openalex.org/W2899361853",
-        "https://openalex.org/W2750145376",
         "https://openalex.org/W4252455759",
+        "https://openalex.org/W2020828556",
         "https://openalex.org/W2074249712",
-        "https://openalex.org/W2013474130",
+        "https://openalex.org/W2750145376",
         "https://openalex.org/W2324335264",
+        "https://openalex.org/W4253271431",
+        "https://openalex.org/W2013474130",
         "https://openalex.org/W3042744836",
+        "https://openalex.org/W2523742622",
+        "https://openalex.org/W4254195423",
+        "https://openalex.org/W4286243855",
+        "https://openalex.org/W2899361853",
+        "https://openalex.org/W1977923897",
         "https://openalex.org/W2082198444",
-        "https://openalex.org/W1805520082"
+        "https://openalex.org/W3034105836",
+        "https://openalex.org/W4385557559"
       ],
       "related_works": [
         "https://openalex.org/W2324615561",
@@ -6000,8 +6000,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "referenced_works_count": 109,
       "referenced_works": [
@@ -7331,8 +7331,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 110,
       "referenced_works": [
@@ -8491,16 +8491,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8700000047683716,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8700000047683716,
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 41,
       "referenced_works": [
@@ -9688,16 +9688,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7099999785423279,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.7099999785423279,
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 44,
       "referenced_works": [
@@ -11197,16 +11197,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8299999833106995,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8299999833106995,
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 46,
       "referenced_works": [
@@ -12701,16 +12701,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7099999785423279,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.7099999785423279,
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 69,
       "referenced_works": [
@@ -14296,16 +14296,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.75,
           "id": "https://metadata.un.org/sdg/6",
+          "score": 0.75,
           "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 53,
       "referenced_works": [
@@ -15582,16 +15582,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.800000011920929,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.800000011920929,
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -16579,8 +16579,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -17683,8 +17683,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 20,
       "referenced_works": [

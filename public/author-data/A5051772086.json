@@ -1051,8 +1051,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 48,
       "referenced_works": [
@@ -2122,16 +2122,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
           "score": 0.5400000214576721,
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "referenced_works_count": 70,
       "referenced_works": [
@@ -3284,8 +3284,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 12,
       "referenced_works": [
@@ -3759,8 +3759,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 9,
       "referenced_works": [
@@ -4777,8 +4777,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "referenced_works_count": 36,
       "referenced_works": [
@@ -5820,8 +5820,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "referenced_works_count": 35,
       "referenced_works": [
@@ -6982,8 +6982,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 192,
       "referenced_works": [
@@ -8110,9 +8110,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
           "score": 0.41999998688697815,
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [
@@ -8132,8 +8132,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "referenced_works_count": 82,
       "referenced_works": [
@@ -9432,9 +9432,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "score": 0.4300000071525574,
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -9456,8 +9456,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 42,
       "referenced_works": [
@@ -10260,16 +10260,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/1",
           "score": 0.5600000023841858,
-          "display_name": "No poverty"
+          "display_name": "No poverty",
+          "id": "https://metadata.un.org/sdg/1"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 20,
       "referenced_works": [
@@ -10937,8 +10937,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "referenced_works_count": 30,
       "referenced_works": [
@@ -11543,7 +11543,7 @@
         "id": "doi:10.1007/s43939-024-00144-z",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.1007/s43939-024-00144-z",
-        "pdf_url": null,
+        "pdf_url": "https://link.springer.com/content/pdf/10.1007/s43939-024-00144-z.pdf",
         "source": {
           "id": "https://openalex.org/S4210203817",
           "display_name": "Discover Materials",
@@ -11580,7 +11580,7 @@
       "open_access": {
         "is_oa": true,
         "oa_status": "gold",
-        "oa_url": "https://doi.org/10.1007/s43939-024-00144-z",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s43939-024-00144-z.pdf",
         "any_repository_has_fulltext": false
       },
       "authorships": [
@@ -12036,11 +12036,11 @@
         "currency": "EUR",
         "value_usd": 1067
       },
-      "fwci": 3.99864202,
+      "fwci": 4.49847227,
       "has_fulltext": false,
-      "cited_by_count": 8,
+      "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.90829232,
+        "value": 0.92128968,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -12281,7 +12281,7 @@
           "id": "doi:10.1007/s43939-024-00144-z",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.1007/s43939-024-00144-z",
-          "pdf_url": null,
+          "pdf_url": "https://link.springer.com/content/pdf/10.1007/s43939-024-00144-z.pdf",
           "source": {
             "id": "https://openalex.org/S4210203817",
             "display_name": "Discover Materials",
@@ -12342,7 +12342,7 @@
         "id": "doi:10.1007/s43939-024-00144-z",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.1007/s43939-024-00144-z",
-        "pdf_url": null,
+        "pdf_url": "https://link.springer.com/content/pdf/10.1007/s43939-024-00144-z.pdf",
         "source": {
           "id": "https://openalex.org/S4210203817",
           "display_name": "Discover Materials",
@@ -12373,16 +12373,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.6200000047683716,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": true,
+        "grobid_xml": false
       },
       "referenced_works_count": 49,
       "referenced_works": [
@@ -12755,10 +12755,10 @@
       "counts_by_year": [
         {
           "year": 2025,
-          "cited_by_count": 8
+          "cited_by_count": 9
         }
       ],
-      "updated_date": "2025-12-27T23:08:20.325037",
+      "updated_date": "2025-12-31T23:11:33.660297",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -13625,16 +13625,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "score": 0.49000000953674316,
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "referenced_works_count": 83,
       "referenced_works": [
@@ -14987,8 +14987,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 6,
       "referenced_works": [
@@ -15832,8 +15832,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 9,
       "referenced_works": [
@@ -16897,8 +16897,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "referenced_works_count": 37,
       "referenced_works": [
@@ -18294,8 +18294,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "referenced_works_count": 84,
       "referenced_works": [
@@ -19689,8 +19689,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "referenced_works_count": 36,
       "referenced_works": [
@@ -21115,8 +21115,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "referenced_works_count": 83,
       "referenced_works": [
@@ -22321,16 +22321,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
           "score": 0.5600000023841858,
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 24,
       "referenced_works": [
@@ -23156,16 +23156,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/12",
           "score": 0.41999998688697815,
-          "display_name": "Responsible consumption and production"
+          "display_name": "Responsible consumption and production",
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "referenced_works_count": 90,
       "referenced_works": [
@@ -23909,8 +23909,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "referenced_works_count": 27,
       "referenced_works": [
@@ -25080,8 +25080,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 4,
       "referenced_works": [
@@ -26573,16 +26573,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/9",
           "score": 0.550000011920929,
-          "display_name": "Industry, innovation and infrastructure"
+          "display_name": "Industry, innovation and infrastructure",
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 10,
       "referenced_works": [
@@ -27016,8 +27016,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 9,
       "referenced_works": [
@@ -27484,8 +27484,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 15,
       "referenced_works": [
@@ -28323,8 +28323,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 18,
       "referenced_works": [
@@ -29766,8 +29766,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 39,
       "referenced_works": [
@@ -30735,8 +30735,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 5,
       "referenced_works": [
@@ -31603,8 +31603,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 30,
       "referenced_works": [
@@ -32675,16 +32675,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
           "score": 0.7599999904632568,
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "referenced_works_count": 13,
       "referenced_works": [
@@ -33807,16 +33807,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/12",
           "score": 0.5299999713897705,
-          "display_name": "Responsible consumption and production"
+          "display_name": "Responsible consumption and production",
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "referenced_works_count": 43,
       "referenced_works": [
@@ -35521,8 +35521,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "referenced_works_count": 31,
       "referenced_works": [
@@ -36852,8 +36852,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 4,
       "referenced_works": [
@@ -37976,16 +37976,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/9",
           "score": 0.4099999964237213,
-          "display_name": "Industry, innovation and infrastructure"
+          "display_name": "Industry, innovation and infrastructure",
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "referenced_works_count": 13,
       "referenced_works": [
@@ -38940,8 +38940,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 81,
       "referenced_works": [
@@ -39440,8 +39440,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -40022,8 +40022,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "referenced_works_count": 45,
       "referenced_works": [
@@ -41194,8 +41194,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "referenced_works_count": 24,
       "referenced_works": [
@@ -42023,16 +42023,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.5,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 27,
       "referenced_works": [
@@ -42534,8 +42534,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "referenced_works_count": 38,
       "referenced_works": [
@@ -43387,8 +43387,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 2,
       "referenced_works": [
@@ -43959,8 +43959,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 12,
       "referenced_works": [
@@ -44946,16 +44946,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/12",
           "score": 0.6000000238418579,
-          "display_name": "Responsible consumption and production"
+          "display_name": "Responsible consumption and production",
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 10,
       "referenced_works": [
@@ -46070,8 +46070,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -47709,8 +47709,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "referenced_works_count": 12,
       "referenced_works": [
@@ -48759,16 +48759,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
           "score": 0.5299999713897705,
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 26,
       "referenced_works": [
@@ -49297,16 +49297,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.46000000834465027,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -50445,8 +50445,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 23,
       "referenced_works": [
@@ -50919,8 +50919,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -51893,8 +51893,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "referenced_works_count": 14,
       "referenced_works": [
@@ -52686,8 +52686,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -53261,16 +53261,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/9",
           "score": 0.4699999988079071,
-          "display_name": "Industry, innovation and infrastructure"
+          "display_name": "Industry, innovation and infrastructure",
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "referenced_works_count": 18,
       "referenced_works": [
@@ -54178,16 +54178,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
           "score": 0.7099999785423279,
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -55548,8 +55548,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -56062,8 +56062,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -57200,16 +57200,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
           "score": 0.6299999952316284,
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -58590,8 +58590,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -59775,16 +59775,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/9",
           "score": 0.47999998927116394,
-          "display_name": "Industry, innovation and infrastructure"
+          "display_name": "Industry, innovation and infrastructure",
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -60851,8 +60851,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 22,
       "referenced_works": [
@@ -61251,8 +61251,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -61671,8 +61671,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "referenced_works_count": 24,
       "referenced_works": [
@@ -62695,8 +62695,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -63608,8 +63608,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -64366,8 +64366,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 17,
       "referenced_works": [
@@ -64595,8 +64595,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 74,
       "referenced_works": [
@@ -64695,9 +64695,9 @@
       "language": null,
       "primary_location": {
         "id": "doi:10.33271/mining19.04.053",
-        "is_oa": false,
+        "is_oa": true,
         "landing_page_url": "https://doi.org/10.33271/mining19.04.053",
-        "pdf_url": null,
+        "pdf_url": "http://mining.in.ua/articles/volume19_4/06.pdf",
         "source": {
           "id": "https://openalex.org/S2764734164",
           "display_name": "Mining of Mineral Deposits",
@@ -64715,8 +64715,8 @@
           "host_organization_lineage_names": [],
           "type": "journal"
         },
-        "license": null,
-        "license_id": null,
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
         "version": "publishedVersion",
         "is_accepted": true,
         "is_published": true,
@@ -64728,9 +64728,9 @@
         "crossref"
       ],
       "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "http://mining.in.ua/articles/volume19_4/06.pdf",
         "any_repository_has_fulltext": false
       },
       "authorships": [
@@ -64816,7 +64816,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.91332819,
+        "value": 0.90962829,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -64900,16 +64900,193 @@
           }
         }
       ],
-      "keywords": [],
-      "concepts": [],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/terrain",
+          "display_name": "Terrain",
+          "score": 0.5961365699768066
+        },
+        {
+          "id": "https://openalex.org/keywords/identification",
+          "display_name": "Identification (biology)",
+          "score": 0.49820345640182495
+        },
+        {
+          "id": "https://openalex.org/keywords/mineral-exploration",
+          "display_name": "Mineral exploration",
+          "score": 0.47963079810142517
+        },
+        {
+          "id": "https://openalex.org/keywords/convolutional-neural-network",
+          "display_name": "Convolutional neural network",
+          "score": 0.40346211194992065
+        },
+        {
+          "id": "https://openalex.org/keywords/hyperspectral-imaging",
+          "display_name": "Hyperspectral imaging",
+          "score": 0.3740951716899872
+        },
+        {
+          "id": "https://openalex.org/keywords/hydrothermal-circulation",
+          "display_name": "Hydrothermal circulation",
+          "score": 0.3347892463207245
+        },
+        {
+          "id": "https://openalex.org/keywords/spectral-signature",
+          "display_name": "Spectral signature",
+          "score": 0.3266793191432953
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C62649853",
+          "wikidata": "https://www.wikidata.org/wiki/Q199687",
+          "display_name": "Remote sensing",
+          "level": 1,
+          "score": 0.7342119216918945
+        },
+        {
+          "id": "https://openalex.org/C161840515",
+          "wikidata": "https://www.wikidata.org/wiki/Q186131",
+          "display_name": "Terrain",
+          "level": 2,
+          "score": 0.5961365699768066
+        },
+        {
+          "id": "https://openalex.org/C116834253",
+          "wikidata": "https://www.wikidata.org/wiki/Q2039217",
+          "display_name": "Identification (biology)",
+          "level": 2,
+          "score": 0.49820345640182495
+        },
+        {
+          "id": "https://openalex.org/C66264921",
+          "wikidata": "https://www.wikidata.org/wiki/Q1370637",
+          "display_name": "Mineral exploration",
+          "level": 2,
+          "score": 0.47963079810142517
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.43527987599372864
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.4214092493057251
+        },
+        {
+          "id": "https://openalex.org/C81363708",
+          "wikidata": "https://www.wikidata.org/wiki/Q17084460",
+          "display_name": "Convolutional neural network",
+          "level": 2,
+          "score": 0.40346211194992065
+        },
+        {
+          "id": "https://openalex.org/C159078339",
+          "wikidata": "https://www.wikidata.org/wiki/Q959005",
+          "display_name": "Hyperspectral imaging",
+          "level": 2,
+          "score": 0.3740951716899872
+        },
+        {
+          "id": "https://openalex.org/C156622251",
+          "wikidata": "https://www.wikidata.org/wiki/Q1036221",
+          "display_name": "Hydrothermal circulation",
+          "level": 2,
+          "score": 0.3347892463207245
+        },
+        {
+          "id": "https://openalex.org/C176641082",
+          "wikidata": "https://www.wikidata.org/wiki/Q2446767",
+          "display_name": "Spectral signature",
+          "level": 2,
+          "score": 0.3266793191432953
+        },
+        {
+          "id": "https://openalex.org/C2776432453",
+          "wikidata": "https://www.wikidata.org/wiki/Q7946",
+          "display_name": "Mineral",
+          "level": 2,
+          "score": 0.32277223467826843
+        },
+        {
+          "id": "https://openalex.org/C72634772",
+          "wikidata": "https://www.wikidata.org/wiki/Q386824",
+          "display_name": "Data integration",
+          "level": 2,
+          "score": 0.28919050097465515
+        },
+        {
+          "id": "https://openalex.org/C175181221",
+          "wikidata": "https://www.wikidata.org/wiki/Q1650350",
+          "display_name": "Prospecting",
+          "level": 2,
+          "score": 0.27379611134529114
+        },
+        {
+          "id": "https://openalex.org/C2778520076",
+          "wikidata": "https://www.wikidata.org/wiki/Q170258",
+          "display_name": "Feldspar",
+          "level": 3,
+          "score": 0.26757633686065674
+        },
+        {
+          "id": "https://openalex.org/C124101348",
+          "wikidata": "https://www.wikidata.org/wiki/Q172491",
+          "display_name": "Data mining",
+          "level": 1,
+          "score": 0.2650277018547058
+        },
+        {
+          "id": "https://openalex.org/C108583219",
+          "wikidata": "https://www.wikidata.org/wiki/Q197536",
+          "display_name": "Deep learning",
+          "level": 2,
+          "score": 0.2650134563446045
+        },
+        {
+          "id": "https://openalex.org/C133462117",
+          "wikidata": "https://www.wikidata.org/wiki/Q4929239",
+          "display_name": "Data collection",
+          "level": 2,
+          "score": 0.2650018632411957
+        },
+        {
+          "id": "https://openalex.org/C2781113848",
+          "wikidata": "https://www.wikidata.org/wiki/Q2915366",
+          "display_name": "Geological survey",
+          "level": 2,
+          "score": 0.2592199146747589
+        },
+        {
+          "id": "https://openalex.org/C154945302",
+          "wikidata": "https://www.wikidata.org/wiki/Q11660",
+          "display_name": "Artificial intelligence",
+          "level": 1,
+          "score": 0.25804227590560913
+        },
+        {
+          "id": "https://openalex.org/C48372109",
+          "wikidata": "https://www.wikidata.org/wiki/Q3913",
+          "display_name": "Binary number",
+          "level": 2,
+          "score": 0.2515726387500763
+        }
+      ],
       "mesh": [],
       "locations_count": 1,
       "locations": [
         {
           "id": "doi:10.33271/mining19.04.053",
-          "is_oa": false,
+          "is_oa": true,
           "landing_page_url": "https://doi.org/10.33271/mining19.04.053",
-          "pdf_url": null,
+          "pdf_url": "http://mining.in.ua/articles/volume19_4/06.pdf",
           "source": {
             "id": "https://openalex.org/S2764734164",
             "display_name": "Mining of Mineral Deposits",
@@ -64927,8 +65104,8 @@
             "host_organization_lineage_names": [],
             "type": "journal"
           },
-          "license": null,
-          "license_id": null,
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
           "version": "publishedVersion",
           "is_accepted": true,
           "is_published": true,
@@ -64936,13 +65113,42 @@
           "raw_type": "journal-article"
         }
       ],
-      "best_oa_location": null,
+      "best_oa_location": {
+        "id": "doi:10.33271/mining19.04.053",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.33271/mining19.04.053",
+        "pdf_url": "http://mining.in.ua/articles/volume19_4/06.pdf",
+        "source": {
+          "id": "https://openalex.org/S2764734164",
+          "display_name": "Mining of Mineral Deposits",
+          "issn_l": "2415-3435",
+          "issn": [
+            "2415-3435",
+            "2415-3443"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Mining of Mineral Deposits",
+        "raw_type": "journal-article"
+      },
       "sustainable_development_goals": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": true,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -65480,7 +65686,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-12-30T23:12:23.022851",
+      "updated_date": "2025-12-31T23:11:33.660297",
       "created_date": "2025-12-30T00:00:00"
     }
   ]

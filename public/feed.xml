@@ -4,8 +4,54 @@
     <title>Integrative Dashboard - OpenAlex Feed</title>
     <link>https://digitalgeosciences.github.io/dashboard3.2/</link>
     <description>Recent publications with OpenAlex abstracts and topics.</description>
-    <lastBuildDate>Wed, 31 Dec 2025 20:26:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 2026 20:26:33 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Test FraCSPy</title>
+      <link>https://doi.org/10.5281/zenodo.18093151</link>
+      <pubDate>Tue, 30 Dec 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W7117664858</guid>
+      <dc:creator>Denis Anikiev</dc:creator>
+      <dc:publisher>Zenodo (CERN European Organization for Nuclear Research)</dc:publisher>
+      <category>Test (biology)</category>
+      <category>Mathematics</category>
+      <category>Computer science</category>
+      <category>Artificial intelligence</category>
+      <category>Relation (database)</category>
+      <description>Abstract: Test release for FraCSPy.&#10;Topics: Test (biology), Mathematics, Computer science, Artificial intelligence, Relation (database)&#10;Venue: Zenodo (CERN European Organization for Nuclear Research)&#10;Year: 2025&#10;Citations: 0</description>
+    </item>
+    <item>
+      <title>Test FraCSPy</title>
+      <link>https://doi.org/10.5281/zenodo.18093142</link>
+      <pubDate>Tue, 30 Dec 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W7117669897</guid>
+      <dc:creator>Denis Anikiev</dc:creator>
+      <dc:publisher>Zenodo (CERN European Organization for Nuclear Research)</dc:publisher>
+      <category>Test (biology)</category>
+      <category>Mathematics</category>
+      <category>Computer science</category>
+      <category>Artificial intelligence</category>
+      <category>Relation (database)</category>
+      <description>Abstract: Test release for FraCSPy.&#10;Topics: Test (biology), Mathematics, Computer science, Artificial intelligence, Relation (database)&#10;Venue: Zenodo (CERN European Organization for Nuclear Research)&#10;Year: 2025&#10;Citations: 0</description>
+    </item>
+    <item>
+      <title>GeoSIRR: Geological Section Interpretation, Reconstruction &amp; Refinement</title>
+      <link>https://doi.org/10.5281/zenodo.18097053</link>
+      <pubDate>Tue, 30 Dec 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W7117703134</guid>
+      <dc:creator>Denis Anikiev, Juan Esteban Mosquera</dc:creator>
+      <dc:publisher>Zenodo (CERN European Organization for Nuclear Research)</dc:publisher>
+      <description>Abstract: GeoSIRR (Geological Section Interpretation, Reconstruction &amp; Refinement) is an open-source Python Framework that leverages large language models (LLMs) to translate free-form geological narratives into structured, coordinate-based cross-section geometries.&#10;Venue: Zenodo (CERN European Organization for Nuclear Research)&#10;Year: 2025&#10;Citations: 0</description>
+    </item>
+    <item>
+      <title>GeoSIRR: Geological Section Interpretation, Reconstruction &amp; Refinement</title>
+      <link>https://doi.org/10.5281/zenodo.18097054</link>
+      <pubDate>Tue, 30 Dec 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W7117771395</guid>
+      <dc:creator>Denis Anikiev, Juan Esteban Mosquera</dc:creator>
+      <dc:publisher>Zenodo (CERN European Organization for Nuclear Research)</dc:publisher>
+      <description>Abstract: GeoSIRR (Geological Section Interpretation, Reconstruction &amp; Refinement) is an open-source Python Framework that leverages large language models (LLMs) to translate free-form geological narratives into structured, coordinate-based cross-section geometries.&#10;Venue: Zenodo (CERN European Organization for Nuclear Research)&#10;Year: 2025&#10;Citations: 0</description>
+    </item>
     <item>
       <title>Advanced CNN-based remote sensing for mineral mapping of porphyry systems in the Gilgit region</title>
       <link>https://doi.org/10.33271/mining19.04.053</link>
@@ -13,7 +59,12 @@
       <guid isPermaLink="false">https://openalex.org/W7117566586</guid>
       <dc:creator>Muhammad Munzareen, Feroz Bibi, Salman Ihsan, Kausar Sultan Shah, Muhammad Zaka Emad</dc:creator>
       <dc:publisher>Mining of Mineral Deposits</dc:publisher>
-      <description>Abstract: Purpose. This study aims to improve mineral identification in porphyry hydrothermal alteration zones, particularly in the challenging terrain of the Gilgit area, by combining remote sensing data with Convolutional Neural Networks (CNNs). Methods. Landsat 8 Collection 2 Level 1 imagery from the United States Geological Survey (USGS) was processed using ENVI 5.3 software. Spectral Angle Mapping (SAM) classification was applied to identify alteration minerals. The dataset was then augmented, normalized, and split into training (75%), validation (15%), and testing (15%) sets. A CNN model incorporating convolutional, pooling, and fully connected layers was developed to perform binary classification of mineral compositions. Findings. Advanced CNN-based remote sensing techniques have demonstrated significant potential in mapping porphyry systems. The CNN model achieved over 90% classification accuracy for minerals like feldspar and chalcocite, based on their spectral properties and dominant color features. This approach is beneficial in challenging terrains like Gilgit, where traditio-nal methods can be difficult and expensive. Originality. This study demonstrates the successful integration of remote sensing data with CNN-based algorithms for accurate mineral classification, providing a novel approach to overcoming the limitations of conventional field-based methods in challenging terrains. Practical implications. The approach provides a practical and efficient solution for remote m…&#10;Venue: Mining of Mineral Deposits&#10;Year: 2025&#10;Citations: 0</description>
+      <category>Remote sensing</category>
+      <category>Terrain</category>
+      <category>Identification (biology)</category>
+      <category>Mineral exploration</category>
+      <category>Computer science</category>
+      <description>Abstract: Purpose. This study aims to improve mineral identification in porphyry hydrothermal alteration zones, particularly in the challenging terrain of the Gilgit area, by combining remote sensing data with Convolutional Neural Networks (CNNs). Methods. Landsat 8 Collection 2 Level 1 imagery from the United States Geological Survey (USGS) was processed using ENVI 5.3 software. Spectral Angle Mapping (SAM) classification was applied to identify alteration minerals. The dataset was then augmented, normalized, and split into training (75%), validation (15%), and testing (15%) sets. A CNN model incorporating convolutional, pooling, and fully connected layers was developed to perform binary classification of mineral compositions. Findings. Advanced CNN-based remote sensing techniques have demonstrated significant potential in mapping porphyry systems. The CNN model achieved over 90% classification accuracy for minerals like feldspar and chalcocite, based on their spectral properties and dominant color features. This approach is beneficial in challenging terrains like Gilgit, where traditio-nal methods can be difficult and expensive. Originality. This study demonstrates the successful integration of remote sensing data with CNN-based algorithms for accurate mineral classification, providing a novel approach to overcoming the limitations of conventional field-based methods in challenging terrains. Practical implications. The approach provides a practical and efficient solution for remote m…&#10;Topics: Remote sensing, Terrain, Identification (biology), Mineral exploration, Computer science&#10;Venue: Mining of Mineral Deposits&#10;Year: 2025&#10;Citations: 0</description>
     </item>
     <item>
       <title>Test FraCSPy</title>
@@ -285,6 +336,15 @@
       <description>Topics: Induced polarization, Geology, Sulfide, Polarization (electrochemistry), Transient (computer programming)&#10;Venue: Journal of Applied Geophysics&#10;Year: 2025&#10;Citations: 0</description>
     </item>
     <item>
+      <title>Enhanced anomaly detection in well log data through the application of ensemble GANs</title>
+      <link>https://doi.org/10.1016/j.acags.2025.100316</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W7117782240</guid>
+      <dc:creator>Abdulrahman Al‐Fakih, Ardiansyah Koeshidayatullah, Mukerji T., SanLinn I. Kaka</dc:creator>
+      <dc:publisher>Applied Computing and Geosciences</dc:publisher>
+      <description>Venue: Applied Computing and Geosciences&#10;Year: 2025&#10;Citations: 0</description>
+    </item>
+    <item>
       <title>Sedimentological and diagenetic controls on burrow fillings in the upper Jurassic Hanifa formation, central Saudi Arabia: Implications for porosity and pore system variations in bioturbated reservoirs</title>
       <link>https://doi.org/10.1016/j.ijsrc.2025.11.007</link>
       <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
@@ -318,7 +378,12 @@
       <guid isPermaLink="false">https://openalex.org/W7117545063</guid>
       <dc:creator>Maysoon Awadh, S. M. Zakir Hossain, Shaker Haji, Israa Mohammed AlHammar, Elias Ahmed Alsaei, Hussain A. Safar, Nahid Sultana, Nasiru Salahu Muhammed, Bashirul Haq</dc:creator>
       <dc:publisher>SPE Journal</dc:publisher>
-      <description>Abstract: Summary Enhanced oil recovery (EOR) using biosurfactants has gained significant attention due to its cost-effectiveness and environmental compatibility. In this study, we introduce a hybrid modeling approach that combines the Bayesian optimization algorithm (BOA) with support vector regression (SVR) to predict rhamnolipid production by Pseudomonas aeruginosa MYSAG. In addition, we assess the produced biosurfactant for its potential application in microbial EOR (MEOR) using experimental data for model development, and benchmark the predictive performance of the hybrid BOA-SVR model against the conventional response surface methodology (RSM) using multiple statistical indicators. Compared with the RSM model, the proposed hybrid model exhibits superior predictive accuracy, achieving more than a 95% improvement in mean absolute percentage error (MAPE), along with lower mean absolute error (MAE), relative error (RE), and root mean square error (RMSE), as well as a higher coefficient of determination (R2 = 0.9833). We use additional simulated data to validate the hybrid BOA-SVR model’s generalization ability, and analyze the kinetics of bacterial growth and biosurfactant production using the logistic and Luedeking-Piret (LP) models, revealing a growth-associated production pattern. We further evaluate the efficacy of the produced biosurfactants in MEOR through interfacial tension (IFT) and zeta potential measurements. At a concentration of 0.27 wt%, the IFT decreases significantly …&#10;Venue: SPE Journal&#10;Year: 2025&#10;Citations: 0</description>
+      <category>Enhanced oil recovery</category>
+      <category>Support vector machine</category>
+      <category>Coefficient of determination</category>
+      <category>Biomass (ecology)</category>
+      <category>Benchmark (surveying)</category>
+      <description>Abstract: Summary Enhanced oil recovery (EOR) using biosurfactants has gained significant attention due to its cost-effectiveness and environmental compatibility. In this study, we introduce a hybrid modeling approach that combines the Bayesian optimization algorithm (BOA) with support vector regression (SVR) to predict rhamnolipid production by Pseudomonas aeruginosa MYSAG. In addition, we assess the produced biosurfactant for its potential application in microbial EOR (MEOR) using experimental data for model development, and benchmark the predictive performance of the hybrid BOA-SVR model against the conventional response surface methodology (RSM) using multiple statistical indicators. Compared with the RSM model, the proposed hybrid model exhibits superior predictive accuracy, achieving more than a 95% improvement in mean absolute percentage error (MAPE), along with lower mean absolute error (MAE), relative error (RE), and root mean square error (RMSE), as well as a higher coefficient of determination (R2 = 0.9833). We use additional simulated data to validate the hybrid BOA-SVR model’s generalization ability, and analyze the kinetics of bacterial growth and biosurfactant production using the logistic and Luedeking-Piret (LP) models, revealing a growth-associated production pattern. We further evaluate the efficacy of the produced biosurfactants in MEOR through interfacial tension (IFT) and zeta potential measurements. At a concentration of 0.27 wt%, the IFT decreases significantly …&#10;Topics: Enhanced oil recovery, Support vector machine, Coefficient of determination, Biomass (ecology), Benchmark (surveying)&#10;Venue: SPE Journal&#10;Year: 2025&#10;Citations: 0</description>
     </item>
     <item>
       <title>Gradual deletion of diacritics from reading text for learners of Arabic for non-native speakers at the advanced level: &quot; experimental study &quot;</title>
@@ -880,51 +945,6 @@
       <dc:creator>Nabila Dewi Saidhah, Yuda Prima Hardianto, Abdulmajid A. Mirghni, Ananda Sholeh Rifky Hakim, Syed Shaheen Shah, Ade Siyanti Nurul Hidayah, Abduljamiu O. Amao, Markus Diantoro, Md. Abdul Aziz</dc:creator>
       <dc:publisher>Biomass and Bioenergy</dc:publisher>
       <description>Venue: Biomass and Bioenergy&#10;Year: 2025&#10;Citations: 0</description>
-    </item>
-    <item>
-      <title>Optimizing drilling fluid rheology: The role of particle size distribution and advanced rheological modelling</title>
-      <link>https://doi.org/10.1002/cjce.70107</link>
-      <pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4414920070</guid>
-      <dc:creator>Jaber Al Jaberi, Badr Bageri</dc:creator>
-      <dc:publisher>The Canadian Journal of Chemical Engineering</dc:publisher>
-      <description>Abstract: Abstract This study presents the first integrated evaluation of how particle size distribution (PSD) of weighting materials affects both the rheological behaviour of water‐based drilling fluids and the predictive accuracy of advanced rheological models. The originality lies in using complete mud formulations with multiple weighting materials, baryte, haematite, ilmenite, and Micromax, in both raw and milled forms, which enables a broader assessment than previously reported. Practically, the findings offer a pathway to optimize drilling fluid design for better viscosity control, improved wellbore stability, and reduced formation damage. Experimentally, reducing the D50 of baryte from 17.78 to 3.13 μm and haematite from 12.49 to 3.60 μm led to an approximate 50% increase in plastic viscosity and over 70% increase in yield point at a density of 16 ppg. Rheological models including Newtonian, Bingham Plastic, Power Law, Herschel–Bulkley, and Cross were applied, with Herschel–Bulkley and Cross models yielding R 2 values near 1.0 and RMSE as low as 0.23. Notably, finer particle sizes were better captured by advanced models, with Herschel–Bulkley and Cross outperforming simpler models, particularly at higher mud densities. These results demonstrate the critical role of PSD not only in fluid behaviour but also in selecting accurate rheological models for better prediction and formulation strategies. These results demonstrate the critical role of PSD not only in fluid behaviour but al…&#10;Venue: The Canadian Journal of Chemical Engineering&#10;Year: 2025&#10;Citations: 0</description>
-    </item>
-    <item>
-      <title>Accurate velocity estimation from surface-consistent residual statics</title>
-      <link>https://doi.org/10.1038/s41598-025-18730-3</link>
-      <pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4414913886</guid>
-      <dc:creator>Ahmad Mazli Muhammad, Paul Edigbue, Sherif M. Hanafy, Umair bin Waheed, Abdullatif Al‐Shuhail</dc:creator>
-      <dc:publisher>Scientific Reports</dc:publisher>
-      <description>Venue: Scientific Reports&#10;Year: 2025&#10;Citations: 0</description>
-    </item>
-    <item>
-      <title>Carbon Capture Mechanisms for Industries</title>
-      <link>https://doi.org/10.1201/9781003492733-10</link>
-      <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4414863866</guid>
-      <dc:creator>Amanullah Adeel, Mohammad Chasrun Hasani, Shirish Patil, Pawar Pratiksha Shivaji, Abdulahad Ahadi</dc:creator>
-      <dc:publisher>Climate Change and Sustainable Development</dc:publisher>
-      <description>Venue: Climate Change and Sustainable Development&#10;Year: 2025&#10;Citations: 0</description>
-    </item>
-    <item>
-      <title>In-situ hydrogen production from natural gas reservoirs and gas separation by graphite packing: Process simulation and experimental study</title>
-      <link>https://doi.org/10.46690/ager.2025.11.06</link>
-      <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4416555930</guid>
-      <dc:creator>Bennet Nii Tackie-Otoo, Mohamed Mahmoud, Shirish Patil, Muhammad Shahzad Kamal</dc:creator>
-      <dc:publisher>ADVANCES IN GEO-ENERGY RESEARCH</dc:publisher>
-      <description>Venue: ADVANCES IN GEO-ENERGY RESEARCH&#10;Year: 2025&#10;Citations: 0</description>
-    </item>
-    <item>
-      <title>Predictive value of CA-125 in the outcome of cases of threatened abortion</title>
-      <link>https://doi.org/10.21608/ijma.2025.404836.2217</link>
-      <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4414885733</guid>
-      <dc:creator>Mohamed Mahmoud, Rashed Mohamed Rashed, Alaa El Arshal</dc:creator>
-      <dc:publisher>International Journal of Medical Arts</dc:publisher>
-      <description>Venue: International Journal of Medical Arts&#10;Year: 2025&#10;Citations: 0</description>
     </item>
   </channel>
 </rss>

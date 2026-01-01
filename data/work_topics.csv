@@ -4424,15 +4424,15 @@ https://openalex.org/W3202068555,https://openalex.org/T10635,Hydraulic Fracturin
 https://openalex.org/W4403357004,https://openalex.org/T10635,Hydraulic Fracturing and Reservoir Analysis
 https://openalex.org/W4403357004,https://openalex.org/T10892,Drilling and Well Engineering
 https://openalex.org/W4403357004,https://openalex.org/T10271,Seismic Imaging and Inversion Techniques
-https://openalex.org/W4404487339,https://openalex.org/T10635,Hydraulic Fracturing and Reservoir Analysis
-https://openalex.org/W4404487339,https://openalex.org/T10892,Drilling and Well Engineering
-https://openalex.org/W4404487339,https://openalex.org/T10271,Seismic Imaging and Inversion Techniques
 https://openalex.org/W4410334639,https://openalex.org/T10399,Hydrocarbon exploration and reservoir analysis
 https://openalex.org/W4410334639,https://openalex.org/T11630,Petroleum Processing and Analysis
 https://openalex.org/W4410334639,https://openalex.org/T10635,Hydraulic Fracturing and Reservoir Analysis
 https://openalex.org/W3133703502,https://openalex.org/T10635,Hydraulic Fracturing and Reservoir Analysis
 https://openalex.org/W3133703502,https://openalex.org/T11801,Reservoir Engineering and Simulation Methods
 https://openalex.org/W3133703502,https://openalex.org/T10892,Drilling and Well Engineering
+https://openalex.org/W4404487339,https://openalex.org/T10635,Hydraulic Fracturing and Reservoir Analysis
+https://openalex.org/W4404487339,https://openalex.org/T10892,Drilling and Well Engineering
+https://openalex.org/W4404487339,https://openalex.org/T10271,Seismic Imaging and Inversion Techniques
 https://openalex.org/W4224239963,https://openalex.org/T13050,Oil and Gas Production Techniques
 https://openalex.org/W4224239963,https://openalex.org/T11801,Reservoir Engineering and Simulation Methods
 https://openalex.org/W4224239963,https://openalex.org/T10892,Drilling and Well Engineering
@@ -4731,6 +4731,9 @@ https://openalex.org/W4410904763,https://openalex.org/T10635,Hydraulic Fracturin
 https://openalex.org/W4414227379,https://openalex.org/T10271,Seismic Imaging and Inversion Techniques
 https://openalex.org/W4414227379,https://openalex.org/T10635,Hydraulic Fracturing and Reservoir Analysis
 https://openalex.org/W4414227379,https://openalex.org/T10892,Drilling and Well Engineering
+https://openalex.org/W7117782240,https://openalex.org/T11512,Anomaly Detection Techniques and Applications
+https://openalex.org/W7117782240,https://openalex.org/T12127,Software System Performance and Reliability
+https://openalex.org/W7117782240,https://openalex.org/T11303,Bayesian Modeling and Causal Inference
 https://openalex.org/W4200344755,https://openalex.org/T11302,CO2 Sequestration and Geologic Interactions
 https://openalex.org/W4200344755,https://openalex.org/T11007,Hybrid Renewable Energy Systems
 https://openalex.org/W4200344755,https://openalex.org/T10995,Methane Hydrates and Related Phenomena
@@ -15642,9 +15645,6 @@ https://openalex.org/W4387587528,https://openalex.org/T13018,Seismology and Eart
 https://openalex.org/W4389766582,https://openalex.org/T11757,Seismic Waves and Analysis
 https://openalex.org/W4389766582,https://openalex.org/T10271,Seismic Imaging and Inversion Techniques
 https://openalex.org/W4389766582,https://openalex.org/T11609,Geophysical Methods and Applications
-https://openalex.org/W4390885792,https://openalex.org/T10271,Seismic Imaging and Inversion Techniques
-https://openalex.org/W4390885792,https://openalex.org/T11757,Seismic Waves and Analysis
-https://openalex.org/W4390885792,https://openalex.org/T13018,Seismology and Earthquake Studies
 https://openalex.org/W2019889479,https://openalex.org/T11757,Seismic Waves and Analysis
 https://openalex.org/W2019889479,https://openalex.org/T10110,earthquake and tectonic studies
 https://openalex.org/W2019889479,https://openalex.org/T10271,Seismic Imaging and Inversion Techniques
@@ -15693,6 +15693,9 @@ https://openalex.org/W2323876553,https://openalex.org/T11609,Geophysical Methods
 https://openalex.org/W2508898808,https://openalex.org/T11757,Seismic Waves and Analysis
 https://openalex.org/W2508898808,https://openalex.org/T10271,Seismic Imaging and Inversion Techniques
 https://openalex.org/W2508898808,https://openalex.org/T10413,High-pressure geophysics and materials
+https://openalex.org/W4390885792,https://openalex.org/T10271,Seismic Imaging and Inversion Techniques
+https://openalex.org/W4390885792,https://openalex.org/T11757,Seismic Waves and Analysis
+https://openalex.org/W4390885792,https://openalex.org/T13018,Seismology and Earthquake Studies
 https://openalex.org/W4399571934,https://openalex.org/T10271,Seismic Imaging and Inversion Techniques
 https://openalex.org/W4399571934,https://openalex.org/T11757,Seismic Waves and Analysis
 https://openalex.org/W4399571934,https://openalex.org/T11609,Geophysical Methods and Applications
@@ -17801,12 +17804,12 @@ https://openalex.org/W4389289230,https://openalex.org/T10083,Graphene research a
 https://openalex.org/W4391064168,https://openalex.org/T10197,Membrane Separation Technologies
 https://openalex.org/W4391064168,https://openalex.org/T11362,Membrane Separation and Gas Transport
 https://openalex.org/W4391064168,https://openalex.org/T12074,Membrane-based Ion Separation Techniques
-https://openalex.org/W4400054415,https://openalex.org/T12074,Membrane-based Ion Separation Techniques
-https://openalex.org/W4400054415,https://openalex.org/T10409,Fuel Cells and Related Materials
-https://openalex.org/W4400054415,https://openalex.org/T11690,Advanced battery technologies research
 https://openalex.org/W4406203514,https://openalex.org/T10313,Surface Modification and Superhydrophobicity
 https://openalex.org/W4406203514,https://openalex.org/T10729,Electrospun Nanofibers in Biomedical Applications
 https://openalex.org/W4406203514,https://openalex.org/T12776,Electrohydrodynamics and Fluid Dynamics
+https://openalex.org/W4400054415,https://openalex.org/T12074,Membrane-based Ion Separation Techniques
+https://openalex.org/W4400054415,https://openalex.org/T10409,Fuel Cells and Related Materials
+https://openalex.org/W4400054415,https://openalex.org/T11690,Advanced battery technologies research
 https://openalex.org/W4405807879,https://openalex.org/T10729,Electrospun Nanofibers in Biomedical Applications
 https://openalex.org/W4405807879,https://openalex.org/T12776,Electrohydrodynamics and Fluid Dynamics
 https://openalex.org/W4405807879,https://openalex.org/T10313,Surface Modification and Superhydrophobicity

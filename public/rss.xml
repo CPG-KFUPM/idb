@@ -4,8 +4,44 @@
     <title>Integrative Dashboard - Publications</title>
     <link>https://digitalgeosciences.github.io/dashboard3.2/</link>
     <description>Recent publications from the Integrative Geosciences dashboard.</description>
-    <lastBuildDate>Wed, 31 Dec 2025 20:26:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 2026 20:26:32 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Test FraCSPy</title>
+      <link>https://doi.org/10.5281/zenodo.18093151</link>
+      <pubDate>Tue, 30 Dec 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W7117664858</guid>
+      <dc:creator>Denis Anikiev</dc:creator>
+      <dc:publisher>Zenodo (CERN European Organization for Nuclear Research)</dc:publisher>
+      <description>Authors: Denis Anikiev | Venue: Zenodo (CERN European Organization for Nuclear Research) | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.5281/zenodo.18093151 | OpenAlex: https://openalex.org/W7117664858</description>
+    </item>
+    <item>
+      <title>Test FraCSPy</title>
+      <link>https://doi.org/10.5281/zenodo.18093142</link>
+      <pubDate>Tue, 30 Dec 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W7117669897</guid>
+      <dc:creator>Denis Anikiev</dc:creator>
+      <dc:publisher>Zenodo (CERN European Organization for Nuclear Research)</dc:publisher>
+      <description>Authors: Denis Anikiev | Venue: Zenodo (CERN European Organization for Nuclear Research) | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.5281/zenodo.18093142 | OpenAlex: https://openalex.org/W7117669897</description>
+    </item>
+    <item>
+      <title>GeoSIRR: Geological Section Interpretation, Reconstruction &amp; Refinement</title>
+      <link>https://doi.org/10.5281/zenodo.18097053</link>
+      <pubDate>Tue, 30 Dec 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W7117703134</guid>
+      <dc:creator>Denis Anikiev; Juan Esteban Mosquera</dc:creator>
+      <dc:publisher>Zenodo (CERN European Organization for Nuclear Research)</dc:publisher>
+      <description>Authors: Denis Anikiev; Juan Esteban Mosquera | Venue: Zenodo (CERN European Organization for Nuclear Research) | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.5281/zenodo.18097053 | OpenAlex: https://openalex.org/W7117703134</description>
+    </item>
+    <item>
+      <title>GeoSIRR: Geological Section Interpretation, Reconstruction &amp; Refinement</title>
+      <link>https://doi.org/10.5281/zenodo.18097054</link>
+      <pubDate>Tue, 30 Dec 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W7117771395</guid>
+      <dc:creator>Denis Anikiev; Juan Esteban Mosquera</dc:creator>
+      <dc:publisher>Zenodo (CERN European Organization for Nuclear Research)</dc:publisher>
+      <description>Authors: Denis Anikiev; Juan Esteban Mosquera | Venue: Zenodo (CERN European Organization for Nuclear Research) | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.5281/zenodo.18097054 | OpenAlex: https://openalex.org/W7117771395</description>
+    </item>
     <item>
       <title>Advanced CNN-based remote sensing for mineral mapping of porphyry systems in the Gilgit region</title>
       <link>https://doi.org/10.33271/mining19.04.053</link>
@@ -248,6 +284,15 @@
       <dc:creator>Hesham El-Kaliouby; Juntao Lu; Panagiotis Kirmizakis; Abid Khogali; Tim Eatwell; Tomos Bryan; Pantelis Soupios</dc:creator>
       <dc:publisher>Journal of Applied Geophysics</dc:publisher>
       <description>Authors: Hesham El-Kaliouby; Juntao Lu; Panagiotis Kirmizakis; Abid Khogali; Tim Eatwell; Tomos Bryan; Pantelis Soupios | Venue: Journal of Applied Geophysics | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1016/j.jappgeo.2025.106084 | OpenAlex: https://openalex.org/W7117362764</description>
+    </item>
+    <item>
+      <title>Enhanced anomaly detection in well log data through the application of ensemble GANs</title>
+      <link>https://doi.org/10.1016/j.acags.2025.100316</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W7117782240</guid>
+      <dc:creator>Abdulrahman Al‐Fakih; Ardiansyah Koeshidayatullah; Mukerji T.; SanLinn I. Kaka</dc:creator>
+      <dc:publisher>Applied Computing and Geosciences</dc:publisher>
+      <description>Authors: Abdulrahman Al‐Fakih; Ardiansyah Koeshidayatullah; Mukerji T.; SanLinn I. Kaka | Venue: Applied Computing and Geosciences | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1016/j.acags.2025.100316 | OpenAlex: https://openalex.org/W7117782240</description>
     </item>
     <item>
       <title>Sedimentological and diagenetic controls on burrow fillings in the upper Jurassic Hanifa formation, central Saudi Arabia: Implications for porosity and pore system variations in bioturbated reservoirs</title>
@@ -845,51 +890,6 @@
       <dc:creator>Nabila Dewi Saidhah; Yuda Prima Hardianto; Abdulmajid A. Mirghni; Ananda Sholeh Rifky Hakim; Syed Shaheen Shah; Ade Siyanti Nurul Hidayah; Abduljamiu O. Amao; Markus Diantoro; Md. Abdul Aziz</dc:creator>
       <dc:publisher>Biomass and Bioenergy</dc:publisher>
       <description>Authors: Nabila Dewi Saidhah; Yuda Prima Hardianto; Abdulmajid A. Mirghni; Ananda Sholeh Rifky Hakim; Syed Shaheen Shah; Ade Siyanti Nurul Hidayah; Abduljamiu O. Amao; Markus Diantoro; Md. Abdul Aziz | Venue: Biomass and Bioenergy | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1016/j.biombioe.2025.108450 | OpenAlex: https://openalex.org/W4415000454</description>
-    </item>
-    <item>
-      <title>Optimizing drilling fluid rheology: The role of particle size distribution and advanced rheological modelling</title>
-      <link>https://doi.org/10.1002/cjce.70107</link>
-      <pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4414920070</guid>
-      <dc:creator>Jaber Al Jaberi; Badr Bageri</dc:creator>
-      <dc:publisher>The Canadian Journal of Chemical Engineering</dc:publisher>
-      <description>Authors: Jaber Al Jaberi; Badr Bageri | Venue: The Canadian Journal of Chemical Engineering | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1002/cjce.70107 | OpenAlex: https://openalex.org/W4414920070</description>
-    </item>
-    <item>
-      <title>Accurate velocity estimation from surface-consistent residual statics</title>
-      <link>https://doi.org/10.1038/s41598-025-18730-3</link>
-      <pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4414913886</guid>
-      <dc:creator>Ahmad Mazli Muhammad; Paul Edigbue; Sherif M. Hanafy; Umair bin Waheed; Abdullatif Al‐Shuhail</dc:creator>
-      <dc:publisher>Scientific Reports</dc:publisher>
-      <description>Authors: Ahmad Mazli Muhammad; Paul Edigbue; Sherif M. Hanafy; Umair bin Waheed; Abdullatif Al‐Shuhail | Venue: Scientific Reports | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1038/s41598-025-18730-3 | OpenAlex: https://openalex.org/W4414913886</description>
-    </item>
-    <item>
-      <title>Carbon Capture Mechanisms for Industries</title>
-      <link>https://doi.org/10.1201/9781003492733-10</link>
-      <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4414863866</guid>
-      <dc:creator>Amanullah Adeel; Mohammad Chasrun Hasani; Shirish Patil; Pawar Pratiksha Shivaji; Abdulahad Ahadi</dc:creator>
-      <dc:publisher>Climate Change and Sustainable Development</dc:publisher>
-      <description>Authors: Amanullah Adeel; Mohammad Chasrun Hasani; Shirish Patil; Pawar Pratiksha Shivaji; Abdulahad Ahadi | Venue: Climate Change and Sustainable Development | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1201/9781003492733-10 | OpenAlex: https://openalex.org/W4414863866</description>
-    </item>
-    <item>
-      <title>In-situ hydrogen production from natural gas reservoirs and gas separation by graphite packing: Process simulation and experimental study</title>
-      <link>https://doi.org/10.46690/ager.2025.11.06</link>
-      <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4416555930</guid>
-      <dc:creator>Bennet Nii Tackie-Otoo; Mohamed Mahmoud; Shirish Patil; Muhammad Shahzad Kamal</dc:creator>
-      <dc:publisher>ADVANCES IN GEO-ENERGY RESEARCH</dc:publisher>
-      <description>Authors: Bennet Nii Tackie-Otoo; Mohamed Mahmoud; Shirish Patil; Muhammad Shahzad Kamal | Venue: ADVANCES IN GEO-ENERGY RESEARCH | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.46690/ager.2025.11.06 | OpenAlex: https://openalex.org/W4416555930</description>
-    </item>
-    <item>
-      <title>Predictive value of CA-125 in the outcome of cases of threatened abortion</title>
-      <link>https://doi.org/10.21608/ijma.2025.404836.2217</link>
-      <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4414885733</guid>
-      <dc:creator>Mohamed Mahmoud; Rashed Mohamed Rashed; Alaa El Arshal</dc:creator>
-      <dc:publisher>International Journal of Medical Arts</dc:publisher>
-      <description>Authors: Mohamed Mahmoud; Rashed Mohamed Rashed; Alaa El Arshal | Venue: International Journal of Medical Arts | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.21608/ijma.2025.404836.2217 | OpenAlex: https://openalex.org/W4414885733</description>
     </item>
   </channel>
 </rss>

@@ -134,7 +134,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10161",
     "name": "Rock Mechanics and Modeling",
     "publications": 174,
-    "citations": 3085
+    "citations": 3086
   },
   {
     "id": "https://openalex.org/T13018",
@@ -470,7 +470,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10313",
     "name": "Surface Modification and Superhydrophobicity",
     "publications": 32,
-    "citations": 594
+    "citations": 595
   },
   {
     "id": "https://openalex.org/T10311",
@@ -482,7 +482,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T12233",
     "name": "Geotechnical Engineering and Underground Structures",
     "publications": 32,
-    "citations": 221
+    "citations": 222
   },
   {
     "id": "https://openalex.org/T10687",
@@ -944,7 +944,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T12776",
     "name": "Electrohydrodynamics and Fluid Dynamics",
     "publications": 15,
-    "citations": 361
+    "citations": 362
   },
   {
     "id": "https://openalex.org/T10210",
@@ -1004,7 +1004,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10729",
     "name": "Electrospun Nanofibers in Biomedical Applications",
     "publications": 14,
-    "citations": 509
+    "citations": 510
   },
   {
     "id": "https://openalex.org/T12240",
@@ -1034,7 +1034,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T11046",
     "name": "Geotechnical Engineering and Analysis",
     "publications": 14,
-    "citations": 233
+    "citations": 234
   },
   {
     "id": "https://openalex.org/T12383",
@@ -1493,6 +1493,12 @@ export const topicStats: TopicStats[] = [
     "citations": 70
   },
   {
+    "id": "https://openalex.org/T11512",
+    "name": "Anomaly Detection Techniques and Applications",
+    "publications": 9,
+    "citations": 51
+  },
+  {
     "id": "https://openalex.org/T10661",
     "name": "biodegradable polymer synthesis and properties",
     "publications": 9,
@@ -1629,12 +1635,6 @@ export const topicStats: TopicStats[] = [
     "name": "Asymmetric Hydrogenation and Catalysis",
     "publications": 8,
     "citations": 57
-  },
-  {
-    "id": "https://openalex.org/T11512",
-    "name": "Anomaly Detection Techniques and Applications",
-    "publications": 8,
-    "citations": 51
   },
   {
     "id": "https://openalex.org/T10288",
@@ -4853,6 +4853,12 @@ export const topicStats: TopicStats[] = [
     "citations": 1
   },
   {
+    "id": "https://openalex.org/T12127",
+    "name": "Software System Performance and Reliability",
+    "publications": 2,
+    "citations": 0
+  },
+  {
     "id": "https://openalex.org/T12389",
     "name": "Infrared Target Detection Methodologies",
     "publications": 2,
@@ -4915,6 +4921,12 @@ export const topicStats: TopicStats[] = [
   {
     "id": "https://openalex.org/T10787",
     "name": "Lightning and Electromagnetic Phenomena",
+    "publications": 2,
+    "citations": 0
+  },
+  {
+    "id": "https://openalex.org/T11303",
+    "name": "Bayesian Modeling and Causal Inference",
     "publications": 2,
     "citations": 0
   },
@@ -7079,12 +7091,6 @@ export const topicStats: TopicStats[] = [
     "citations": 0
   },
   {
-    "id": "https://openalex.org/T12127",
-    "name": "Software System Performance and Reliability",
-    "publications": 1,
-    "citations": 0
-  },
-  {
     "id": "https://openalex.org/T10260",
     "name": "Software Engineering Research",
     "publications": 1,
@@ -8111,12 +8117,6 @@ export const topicStats: TopicStats[] = [
     "citations": 0
   },
   {
-    "id": "https://openalex.org/T11303",
-    "name": "Bayesian Modeling and Causal Inference",
-    "publications": 1,
-    "citations": 0
-  },
-  {
     "id": "https://openalex.org/T14173",
     "name": "Education, Healthcare and Sociology Research",
     "publications": 1,
@@ -8548,7 +8548,7 @@ export const institutionStats: InstitutionStats[] = [
   {
     "id": "https://openalex.org/I134085113",
     "name": "King Fahd University of Petroleum and Minerals",
-    "publications": 3243,
+    "publications": 3245,
     "citations": 56152
   },
   {
@@ -8609,7 +8609,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I142732210",
     "name": "University of Engineering and Technology Lahore",
     "publications": 94,
-    "citations": 1959
+    "citations": 1960
   },
   {
     "id": "https://openalex.org/I12079687",
@@ -9149,7 +9149,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I185163786",
     "name": "King Abdulaziz University",
     "publications": 14,
-    "citations": 264
+    "citations": 265
   },
   {
     "id": "https://openalex.org/I686019",
@@ -9566,6 +9566,12 @@ export const institutionStats: InstitutionStats[] = [
     "citations": 209
   },
   {
+    "id": "https://openalex.org/I36243813",
+    "name": "Universidad Nacional de Colombia",
+    "publications": 9,
+    "citations": 206
+  },
+  {
     "id": "https://openalex.org/I4210135511",
     "name": "AlbaNova",
     "publications": 9,
@@ -9894,12 +9900,6 @@ export const institutionStats: InstitutionStats[] = [
     "name": "University of Kerbala",
     "publications": 7,
     "citations": 217
-  },
-  {
-    "id": "https://openalex.org/I36243813",
-    "name": "Universidad Nacional de Colombia",
-    "publications": 7,
-    "citations": 206
   },
   {
     "id": "https://openalex.org/I75951250",
@@ -10796,6 +10796,12 @@ export const institutionStats: InstitutionStats[] = [
     "citations": 44
   },
   {
+    "id": "https://openalex.org/I180664298",
+    "name": "Federal University of Technology",
+    "publications": 5,
+    "citations": 44
+  },
+  {
     "id": "https://openalex.org/I162868743",
     "name": "Tianjin University",
     "publications": 5,
@@ -10806,12 +10812,6 @@ export const institutionStats: InstitutionStats[] = [
     "name": "National University of Defense Technology",
     "publications": 5,
     "citations": 44
-  },
-  {
-    "id": "https://openalex.org/I180664298",
-    "name": "Federal University of Technology",
-    "publications": 5,
-    "citations": 43
   },
   {
     "id": "https://openalex.org/I134635517",
@@ -11945,7 +11945,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I10660446",
     "name": "Kunming University of Science and Technology",
     "publications": 3,
-    "citations": 20
+    "citations": 21
   },
   {
     "id": "https://openalex.org/I49324905",
@@ -13292,6 +13292,12 @@ export const institutionStats: InstitutionStats[] = [
     "citations": 11
   },
   {
+    "id": "https://openalex.org/I78545622",
+    "name": "Aksum University",
+    "publications": 2,
+    "citations": 11
+  },
+  {
     "id": "https://openalex.org/I133999245",
     "name": "University of Nevada, Las Vegas",
     "publications": 2,
@@ -13336,12 +13342,6 @@ export const institutionStats: InstitutionStats[] = [
   {
     "id": "https://openalex.org/I4210156811",
     "name": "Schlumberger (Canada)",
-    "publications": 2,
-    "citations": 10
-  },
-  {
-    "id": "https://openalex.org/I78545622",
-    "name": "Aksum University",
     "publications": 2,
     "citations": 10
   },
@@ -16028,6 +16028,24 @@ export const institutionStats: InstitutionStats[] = [
     "citations": 9
   },
   {
+    "id": "https://openalex.org/I4210134386",
+    "name": "G Pulla Reddy Dental College & Hospital",
+    "publications": 1,
+    "citations": 9
+  },
+  {
+    "id": "https://openalex.org/I159219196",
+    "name": "Rajasthan Technical University",
+    "publications": 1,
+    "citations": 9
+  },
+  {
+    "id": "https://openalex.org/I1516879",
+    "name": "Tarbiat Modares University",
+    "publications": 1,
+    "citations": 9
+  },
+  {
     "id": "https://openalex.org/I188760350",
     "name": "Ollscoil na Gaillimhe – University of Galway",
     "publications": 1,
@@ -16132,24 +16150,6 @@ export const institutionStats: InstitutionStats[] = [
   {
     "id": "https://openalex.org/I139894009",
     "name": "University of Bradford",
-    "publications": 1,
-    "citations": 8
-  },
-  {
-    "id": "https://openalex.org/I4210134386",
-    "name": "G Pulla Reddy Dental College & Hospital",
-    "publications": 1,
-    "citations": 8
-  },
-  {
-    "id": "https://openalex.org/I159219196",
-    "name": "Rajasthan Technical University",
-    "publications": 1,
-    "citations": 8
-  },
-  {
-    "id": "https://openalex.org/I1516879",
-    "name": "Tarbiat Modares University",
     "publications": 1,
     "citations": 8
   },

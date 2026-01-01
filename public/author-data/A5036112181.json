@@ -851,9 +851,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/9",
           "display_name": "Industry, innovation and infrastructure",
-          "score": 0.6000000238418579,
-          "id": "https://metadata.un.org/sdg/9"
+          "score": 0.6000000238418579
         }
       ],
       "awards": [],
@@ -1890,9 +1890,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.75,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.75
         }
       ],
       "awards": [
@@ -7139,9 +7139,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.6200000047683716,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.6200000047683716
         }
       ],
       "awards": [],
@@ -7895,9 +7895,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.7200000286102295,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.7200000286102295
         }
       ],
       "awards": [],
@@ -8573,9 +8573,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.800000011920929,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.800000011920929
         }
       ],
       "awards": [],
@@ -11221,9 +11221,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/9",
           "display_name": "Industry, innovation and infrastructure",
-          "score": 0.5799999833106995,
-          "id": "https://metadata.un.org/sdg/9"
+          "score": 0.5799999833106995
         }
       ],
       "awards": [],
@@ -12814,9 +12814,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.7099999785423279,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.7099999785423279
         }
       ],
       "awards": [],
@@ -14103,9 +14103,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/12",
           "display_name": "Responsible consumption and production",
-          "score": 0.44999998807907104,
-          "id": "https://metadata.un.org/sdg/12"
+          "score": 0.44999998807907104
         }
       ],
       "awards": [],
@@ -14739,9 +14739,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/9",
           "display_name": "Industry, innovation and infrastructure",
-          "score": 0.44999998807907104,
-          "id": "https://metadata.un.org/sdg/9"
+          "score": 0.44999998807907104
         }
       ],
       "awards": [],
@@ -15705,9 +15705,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/12",
           "display_name": "Responsible consumption and production",
-          "score": 0.5199999809265137,
-          "id": "https://metadata.un.org/sdg/12"
+          "score": 0.5199999809265137
         }
       ],
       "awards": [],
