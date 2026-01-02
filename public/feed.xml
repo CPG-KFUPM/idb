@@ -4,7 +4,7 @@
     <title>Integrative Dashboard - OpenAlex Feed</title>
     <link>https://digitalgeosciences.github.io/dashboard3.2/</link>
     <description>Recent publications with OpenAlex abstracts and topics.</description>
-    <lastBuildDate>Thu, 01 Jan 2026 20:26:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jan 2026 20:25:17 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>Test FraCSPy</title>
@@ -41,7 +41,12 @@
       <guid isPermaLink="false">https://openalex.org/W7117703134</guid>
       <dc:creator>Denis Anikiev, Juan Esteban Mosquera</dc:creator>
       <dc:publisher>Zenodo (CERN European Organization for Nuclear Research)</dc:publisher>
-      <description>Abstract: GeoSIRR (Geological Section Interpretation, Reconstruction &amp; Refinement) is an open-source Python Framework that leverages large language models (LLMs) to translate free-form geological narratives into structured, coordinate-based cross-section geometries.&#10;Venue: Zenodo (CERN European Organization for Nuclear Research)&#10;Year: 2025&#10;Citations: 0</description>
+      <category>Geology</category>
+      <category>Section (typography)</category>
+      <category>Python (programming language)</category>
+      <category>Geologic map</category>
+      <category>Narrative</category>
+      <description>Abstract: GeoSIRR (Geological Section Interpretation, Reconstruction &amp; Refinement) is an open-source Python Framework that leverages large language models (LLMs) to translate free-form geological narratives into structured, coordinate-based cross-section geometries.&#10;Topics: Geology, Section (typography), Python (programming language), Geologic map, Narrative&#10;Venue: Zenodo (CERN European Organization for Nuclear Research)&#10;Year: 2025&#10;Citations: 0</description>
     </item>
     <item>
       <title>GeoSIRR: Geological Section Interpretation, Reconstruction &amp; Refinement</title>
@@ -50,7 +55,12 @@
       <guid isPermaLink="false">https://openalex.org/W7117771395</guid>
       <dc:creator>Denis Anikiev, Juan Esteban Mosquera</dc:creator>
       <dc:publisher>Zenodo (CERN European Organization for Nuclear Research)</dc:publisher>
-      <description>Abstract: GeoSIRR (Geological Section Interpretation, Reconstruction &amp; Refinement) is an open-source Python Framework that leverages large language models (LLMs) to translate free-form geological narratives into structured, coordinate-based cross-section geometries.&#10;Venue: Zenodo (CERN European Organization for Nuclear Research)&#10;Year: 2025&#10;Citations: 0</description>
+      <category>Geology</category>
+      <category>Section (typography)</category>
+      <category>Python (programming language)</category>
+      <category>Geologic map</category>
+      <category>Narrative</category>
+      <description>Abstract: GeoSIRR (Geological Section Interpretation, Reconstruction &amp; Refinement) is an open-source Python Framework that leverages large language models (LLMs) to translate free-form geological narratives into structured, coordinate-based cross-section geometries.&#10;Topics: Geology, Section (typography), Python (programming language), Geologic map, Narrative&#10;Venue: Zenodo (CERN European Organization for Nuclear Research)&#10;Year: 2025&#10;Citations: 0</description>
     </item>
     <item>
       <title>Advanced CNN-based remote sensing for mineral mapping of porphyry systems in the Gilgit region</title>
@@ -342,7 +352,21 @@
       <guid isPermaLink="false">https://openalex.org/W7117782240</guid>
       <dc:creator>Abdulrahman Al‐Fakih, Ardiansyah Koeshidayatullah, Mukerji T., SanLinn I. Kaka</dc:creator>
       <dc:publisher>Applied Computing and Geosciences</dc:publisher>
-      <description>Venue: Applied Computing and Geosciences&#10;Year: 2025&#10;Citations: 0</description>
+      <category>Computer science</category>
+      <category>Anomaly detection</category>
+      <category>Pattern recognition (psychology)</category>
+      <category>Artificial intelligence</category>
+      <category>Algorithm</category>
+      <description>Topics: Computer science, Anomaly detection, Pattern recognition (psychology), Artificial intelligence, Algorithm&#10;Venue: Applied Computing and Geosciences&#10;Year: 2025&#10;Citations: 0</description>
+    </item>
+    <item>
+      <title>Impact of Uncertainty in Utsira Formation Temperature and Salinity on CO2 Storage: A Field-Scale Reactive Transport Simulation Study</title>
+      <link>https://doi.org/10.1016/j.ccst.2025.100567</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W7117899486</guid>
+      <dc:creator>Mohamed Gamal Rezk, Ahmed Farid Ibrahim</dc:creator>
+      <dc:publisher>Carbon Capture Science &amp; Technology</dc:publisher>
+      <description>Venue: Carbon Capture Science &amp; Technology&#10;Year: 2025&#10;Citations: 0</description>
     </item>
     <item>
       <title>Sedimentological and diagenetic controls on burrow fillings in the upper Jurassic Hanifa formation, central Saudi Arabia: Implications for porosity and pore system variations in bioturbated reservoirs</title>
@@ -936,15 +960,6 @@
       <dc:creator>Aneeq Nasir Janjua, Muhammad Ali, Muhammad Shahzad Kamal, Shirish Patil, Hussein Hoteit, Arshad Raza, Mohamed Mahmoud</dc:creator>
       <dc:publisher>Journal of Energy Storage</dc:publisher>
       <description>Venue: Journal of Energy Storage&#10;Year: 2025&#10;Citations: 0</description>
-    </item>
-    <item>
-      <title>Sustainable hierarchical porous carbon from sugarcane bagasse for high-performance zinc-ion hybrid supercapacitors</title>
-      <link>https://doi.org/10.1016/j.biombioe.2025.108450</link>
-      <pubDate>Thu, 09 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4415000454</guid>
-      <dc:creator>Nabila Dewi Saidhah, Yuda Prima Hardianto, Abdulmajid A. Mirghni, Ananda Sholeh Rifky Hakim, Syed Shaheen Shah, Ade Siyanti Nurul Hidayah, Abduljamiu O. Amao, Markus Diantoro, Md. Abdul Aziz</dc:creator>
-      <dc:publisher>Biomass and Bioenergy</dc:publisher>
-      <description>Venue: Biomass and Bioenergy&#10;Year: 2025&#10;Citations: 0</description>
     </item>
   </channel>
 </rss>

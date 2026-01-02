@@ -37,7 +37,7 @@ export const topicStats: TopicStats[] = [
   {
     "id": "https://openalex.org/T10491",
     "name": "Enhanced Oil Recovery Techniques",
-    "publications": 935,
+    "publications": 936,
     "citations": 20955
   },
   {
@@ -67,8 +67,8 @@ export const topicStats: TopicStats[] = [
   {
     "id": "https://openalex.org/T11302",
     "name": "CO2 Sequestration and Geologic Interactions",
-    "publications": 385,
-    "citations": 12569
+    "publications": 386,
+    "citations": 12571
   },
   {
     "id": "https://openalex.org/T10017",
@@ -164,7 +164,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10894",
     "name": "Groundwater flow and contamination studies",
     "publications": 137,
-    "citations": 3189
+    "citations": 3191
   },
   {
     "id": "https://openalex.org/T12603",
@@ -269,6 +269,12 @@ export const topicStats: TopicStats[] = [
     "citations": 9630
   },
   {
+    "id": "https://openalex.org/T10967",
+    "name": "Carbon Dioxide Capture Technologies",
+    "publications": 55,
+    "citations": 1937
+  },
+  {
     "id": "https://openalex.org/T11284",
     "name": "Coal Properties and Utilization",
     "publications": 55,
@@ -279,12 +285,6 @@ export const topicStats: TopicStats[] = [
     "name": "Geological Modeling and Analysis",
     "publications": 55,
     "citations": 112
-  },
-  {
-    "id": "https://openalex.org/T10967",
-    "name": "Carbon Dioxide Capture Technologies",
-    "publications": 54,
-    "citations": 1937
   },
   {
     "id": "https://openalex.org/T13596",
@@ -440,7 +440,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T11225",
     "name": "Geothermal Energy Systems and Applications",
     "publications": 33,
-    "citations": 506
+    "citations": 508
   },
   {
     "id": "https://openalex.org/T10321",
@@ -632,7 +632,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T12543",
     "name": "Groundwater and Watershed Analysis",
     "publications": 25,
-    "citations": 234
+    "citations": 235
   },
   {
     "id": "https://openalex.org/T12424",
@@ -1016,7 +1016,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10330",
     "name": "Hydrology and Watershed Management Studies",
     "publications": 14,
-    "citations": 345
+    "citations": 346
   },
   {
     "id": "https://openalex.org/T10354",
@@ -1202,7 +1202,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10930",
     "name": "Flood Risk Assessment and Management",
     "publications": 11,
-    "citations": 208
+    "citations": 209
   },
   {
     "id": "https://openalex.org/T10889",
@@ -8549,7 +8549,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I134085113",
     "name": "King Fahd University of Petroleum and Minerals",
     "publications": 3245,
-    "citations": 56152
+    "citations": 56153
   },
   {
     "id": "https://openalex.org/I71920554",

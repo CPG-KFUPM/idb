@@ -7971,7 +7971,7 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   {
     "authorId": "A5024668081",
     "year": 2025,
-    "citations": 6
+    "citations": 8
   },
   {
     "authorId": "A5024668081",
@@ -7996,6 +7996,11 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   {
     "authorId": "A5024668081",
     "year": 2024,
+    "citations": 0
+  },
+  {
+    "authorId": "A5024668081",
+    "year": 2025,
     "citations": 0
   },
   {

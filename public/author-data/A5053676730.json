@@ -782,15 +782,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.4399999976158142,
-          "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure"
+          "display_name": "Industry, innovation and infrastructure",
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 9,
       "referenced_works": [
@@ -1770,15 +1770,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -2688,15 +2688,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.8500000238418579,
-          "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 15,
       "referenced_works": [
@@ -3802,15 +3802,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.8999999761581421,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 50,
       "referenced_works": [
@@ -4792,15 +4792,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.8100000023841858,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "referenced_works_count": 9,
       "referenced_works": [
@@ -5286,8 +5286,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -6040,8 +6040,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -6663,8 +6663,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -7401,15 +7401,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.5199999809265137,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -8438,8 +8438,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -9221,8 +9221,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -10128,8 +10128,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 13,
       "referenced_works": [
@@ -11098,15 +11098,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.4300000071525574,
-          "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure"
+          "display_name": "Industry, innovation and infrastructure",
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 11,
       "referenced_works": [
@@ -11852,15 +11852,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.8700000047683716,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -12739,8 +12739,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -13182,8 +13182,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -13934,15 +13934,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.8999999761581421,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -14518,15 +14518,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.8999999761581421,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -15411,9 +15411,9 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.61551/gsjfr.53.4.305",
-        "is_oa": true,
+        "is_oa": false,
         "landing_page_url": "http://dx.doi.org/10.61551/gsjfr.53.4.305",
-        "pdf_url": "https://pubs.geoscienceworld.org/cushmanfoundation/jfr/article-pdf/53/4/305/6357306/i1943-264x-53-4-305.pdf",
+        "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S94515338",
           "display_name": "The Journal of Foraminiferal Research",
@@ -15448,9 +15448,9 @@
         "crossref"
       ],
       "open_access": {
-        "is_oa": true,
-        "oa_status": "bronze",
-        "oa_url": "https://pubs.geoscienceworld.org/cushmanfoundation/jfr/article-pdf/53/4/305/6357306/i1943-264x-53-4-305.pdf",
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
         "any_repository_has_fulltext": false
       },
       "authorships": [
@@ -15538,7 +15538,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.24441524,
+        "value": 0.24397784,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15698,9 +15698,9 @@
       "locations": [
         {
           "id": "doi:10.61551/gsjfr.53.4.305",
-          "is_oa": true,
+          "is_oa": false,
           "landing_page_url": "http://dx.doi.org/10.61551/gsjfr.53.4.305",
-          "pdf_url": "https://pubs.geoscienceworld.org/cushmanfoundation/jfr/article-pdf/53/4/305/6357306/i1943-264x-53-4-305.pdf",
+          "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S94515338",
             "display_name": "The Journal of Foraminiferal Research",
@@ -15731,52 +15731,19 @@
           "raw_type": "journal-article"
         }
       ],
-      "best_oa_location": {
-        "id": "doi:10.61551/gsjfr.53.4.305",
-        "is_oa": true,
-        "landing_page_url": "http://dx.doi.org/10.61551/gsjfr.53.4.305",
-        "pdf_url": "https://pubs.geoscienceworld.org/cushmanfoundation/jfr/article-pdf/53/4/305/6357306/i1943-264x-53-4-305.pdf",
-        "source": {
-          "id": "https://openalex.org/S94515338",
-          "display_name": "The Journal of Foraminiferal Research",
-          "issn_l": "0096-1191",
-          "issn": [
-            "0096-1191",
-            "1943-264X"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310316755",
-          "host_organization_name": "Cushman Foundation for Foraminiferal Research",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310316755"
-          ],
-          "host_organization_lineage_names": [
-            "Cushman Foundation for Foraminiferal Research"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Journal of Foraminiferal Research",
-        "raw_type": "journal-article"
-      },
+      "best_oa_location": null,
       "sustainable_development_goals": [
         {
           "score": 0.7300000190734863,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 10,
       "referenced_works": [
@@ -15788,8 +15755,8 @@
         "https://openalex.org/W2464628163",
         "https://openalex.org/W2319056469",
         "https://openalex.org/W2094054644",
-        "https://openalex.org/W2292781563",
-        "https://openalex.org/W612211758"
+        "https://openalex.org/W612211758",
+        "https://openalex.org/W2292781563"
       ],
       "related_works": [
         "https://openalex.org/W2403591496",
@@ -16112,7 +16079,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-12-26T23:08:49.675405",
+      "updated_date": "2026-01-01T23:40:50.289205",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -16129,9 +16096,9 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.2113/gsjfr.53.4.305",
-        "is_oa": false,
+        "is_oa": true,
         "landing_page_url": "http://dx.doi.org/10.2113/gsjfr.53.4.305",
-        "pdf_url": null,
+        "pdf_url": "https://pubs.geoscienceworld.org/cushmanfoundation/jfr/article-pdf/53/4/305/6357306/i1943-264x-53-4-305.pdf",
         "source": {
           "id": "https://openalex.org/S94515338",
           "display_name": "The Journal of Foraminiferal Research",
@@ -16166,9 +16133,9 @@
         "crossref"
       ],
       "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://pubs.geoscienceworld.org/cushmanfoundation/jfr/article-pdf/53/4/305/6357306/i1943-264x-53-4-305.pdf",
         "any_repository_has_fulltext": false
       },
       "authorships": [
@@ -16256,7 +16223,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.24444101,
+        "value": 0.24400361,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16416,9 +16383,9 @@
       "locations": [
         {
           "id": "doi:10.2113/gsjfr.53.4.305",
-          "is_oa": false,
+          "is_oa": true,
           "landing_page_url": "http://dx.doi.org/10.2113/gsjfr.53.4.305",
-          "pdf_url": null,
+          "pdf_url": "https://pubs.geoscienceworld.org/cushmanfoundation/jfr/article-pdf/53/4/305/6357306/i1943-264x-53-4-305.pdf",
           "source": {
             "id": "https://openalex.org/S94515338",
             "display_name": "The Journal of Foraminiferal Research",
@@ -16449,19 +16416,52 @@
           "raw_type": "journal-article"
         }
       ],
-      "best_oa_location": null,
+      "best_oa_location": {
+        "id": "doi:10.2113/gsjfr.53.4.305",
+        "is_oa": true,
+        "landing_page_url": "http://dx.doi.org/10.2113/gsjfr.53.4.305",
+        "pdf_url": "https://pubs.geoscienceworld.org/cushmanfoundation/jfr/article-pdf/53/4/305/6357306/i1943-264x-53-4-305.pdf",
+        "source": {
+          "id": "https://openalex.org/S94515338",
+          "display_name": "The Journal of Foraminiferal Research",
+          "issn_l": "0096-1191",
+          "issn": [
+            "0096-1191",
+            "1943-264X"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310316755",
+          "host_organization_name": "Cushman Foundation for Foraminiferal Research",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310316755"
+          ],
+          "host_organization_lineage_names": [
+            "Cushman Foundation for Foraminiferal Research"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Foraminiferal Research",
+        "raw_type": "journal-article"
+      },
       "sustainable_development_goals": [
         {
           "score": 0.7300000190734863,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "referenced_works_count": 10,
       "referenced_works": [
@@ -16797,7 +16797,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-12-26T23:08:49.675405",
+      "updated_date": "2026-01-01T23:40:50.289205",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -17153,15 +17153,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -18100,15 +18100,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.6399999856948853,
-          "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -19034,15 +19034,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -19466,15 +19466,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.6899999976158142,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -19837,8 +19837,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -20485,15 +20485,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.7300000190734863,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -20730,8 +20730,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "referenced_works_count": 23,
       "referenced_works": [
@@ -21504,8 +21504,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],

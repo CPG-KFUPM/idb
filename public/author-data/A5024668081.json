@@ -1000,8 +1000,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 126,
       "referenced_works": [
@@ -1699,9 +1699,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5600000023841858,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.5600000023841858
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -1713,8 +1713,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 61,
       "referenced_works": [
@@ -2461,8 +2461,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 46,
       "referenced_works": [
@@ -3249,8 +3249,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 147,
       "referenced_works": [
@@ -4573,9 +4573,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.4099999964237213,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4099999964237213
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [
@@ -4602,8 +4602,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 48,
       "referenced_works": [
@@ -6039,8 +6039,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 38,
       "referenced_works": [
@@ -6622,8 +6622,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 49,
       "referenced_works": [
@@ -7198,8 +7198,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 52,
       "referenced_works": [
@@ -7897,16 +7897,16 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.4699999988079071,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.4699999988079071
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 12,
       "referenced_works": [
@@ -9003,8 +9003,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 40,
       "referenced_works": [
@@ -9677,8 +9677,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 57,
       "referenced_works": [
@@ -10922,8 +10922,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 37,
       "referenced_works": [
@@ -11519,8 +11519,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 63,
       "referenced_works": [
@@ -12830,9 +12830,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.6299999952316284,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.6299999952316284
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [
@@ -12852,8 +12852,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 50,
       "referenced_works": [
@@ -13476,8 +13476,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 42,
       "referenced_works": [
@@ -13566,7 +13566,7 @@
         "id": "doi:10.1007/s13202-025-01927-7",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.1007/s13202-025-01927-7",
-        "pdf_url": null,
+        "pdf_url": "https://link.springer.com/content/pdf/10.1007/s13202-025-01927-7.pdf",
         "source": {
           "id": "https://openalex.org/S2764546325",
           "display_name": "Journal of Petroleum Exploration and Production Technology",
@@ -13604,7 +13604,7 @@
       "open_access": {
         "is_oa": true,
         "oa_status": "gold",
-        "oa_url": "https://doi.org/10.1007/s13202-025-01927-7",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s13202-025-01927-7.pdf",
         "any_repository_has_fulltext": false
       },
       "authorships": [
@@ -13652,11 +13652,11 @@
         "currency": "EUR",
         "value_usd": 1930
       },
-      "fwci": 12.24861729,
+      "fwci": 16.33148972,
       "has_fulltext": false,
-      "cited_by_count": 6,
+      "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.97048054,
+        "value": 0.9797577,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -13881,7 +13881,7 @@
           "id": "doi:10.1007/s13202-025-01927-7",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.1007/s13202-025-01927-7",
-          "pdf_url": null,
+          "pdf_url": "https://link.springer.com/content/pdf/10.1007/s13202-025-01927-7.pdf",
           "source": {
             "id": "https://openalex.org/S2764546325",
             "display_name": "Journal of Petroleum Exploration and Production Technology",
@@ -13943,7 +13943,7 @@
         "id": "doi:10.1007/s13202-025-01927-7",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.1007/s13202-025-01927-7",
-        "pdf_url": null,
+        "pdf_url": "https://link.springer.com/content/pdf/10.1007/s13202-025-01927-7.pdf",
         "source": {
           "id": "https://openalex.org/S2764546325",
           "display_name": "Journal of Petroleum Exploration and Production Technology",
@@ -13977,8 +13977,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "referenced_works_count": 26,
       "referenced_works": [
@@ -14005,8 +14005,8 @@
         "https://openalex.org/W2310626591",
         "https://openalex.org/W2011090459",
         "https://openalex.org/W2768004228",
-        "https://openalex.org/W2159352443",
         "https://openalex.org/W3193301297",
+        "https://openalex.org/W2159352443",
         "https://openalex.org/W1497912254"
       ],
       "related_works": [
@@ -14882,10 +14882,10 @@
       "counts_by_year": [
         {
           "year": 2025,
-          "cited_by_count": 6
+          "cited_by_count": 8
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-01-01T23:40:50.289205",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -15337,8 +15337,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 206,
       "referenced_works": [
@@ -16229,8 +16229,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "referenced_works_count": 26,
       "referenced_works": [
@@ -17858,16 +17858,16 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.5899999737739563,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.5899999737739563
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 51,
       "referenced_works": [
@@ -19225,8 +19225,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 71,
       "referenced_works": [
@@ -20640,8 +20640,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 45,
       "referenced_works": [
@@ -21176,16 +21176,16 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8799999952316284,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "referenced_works_count": 18,
       "referenced_works": [
@@ -22136,9 +22136,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5799999833106995,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.5799999833106995
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [
@@ -22158,8 +22158,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 44,
       "referenced_works": [
@@ -22671,8 +22671,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 13,
       "referenced_works": [
@@ -23829,8 +23829,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 51,
       "referenced_works": [
@@ -24194,8 +24194,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 51,
       "referenced_works": [
@@ -25030,8 +25030,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -25552,16 +25552,16 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.5799999833106995,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.5799999833106995
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -26079,9 +26079,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.6700000166893005,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6700000166893005
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [
@@ -26101,8 +26101,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 26,
       "referenced_works": [
@@ -26522,8 +26522,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 48,
       "referenced_works": [
@@ -26931,8 +26931,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 12,
       "referenced_works": [
@@ -27854,8 +27854,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "referenced_works_count": 72,
       "referenced_works": [
@@ -27937,6 +27937,329 @@
       "counts_by_year": [],
       "updated_date": "2025-12-19T19:45:34.690201",
       "created_date": "2025-12-17T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W7117899486",
+      "doi": "https://doi.org/10.1016/j.ccst.2025.100567",
+      "title": "Impact of Uncertainty in Utsira Formation Temperature and Salinity on CO2 Storage: A Field-Scale Reactive Transport Simulation Study",
+      "display_name": "Impact of Uncertainty in Utsira Formation Temperature and Salinity on CO2 Storage: A Field-Scale Reactive Transport Simulation Study",
+      "publication_year": 2025,
+      "publication_date": "2025-12-01",
+      "ids": {
+        "openalex": "https://openalex.org/W7117899486",
+        "doi": "https://doi.org/10.1016/j.ccst.2025.100567"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/j.ccst.2025.100567",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.ccst.2025.100567",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210236580",
+          "display_name": "Carbon Capture Science & Technology",
+          "issn_l": "2772-6568",
+          "issn": [
+            "2772-6568"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Carbon Capture Science &amp; Technology",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref",
+        "doaj"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://doi.org/10.1016/j.ccst.2025.100567",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5024668081",
+            "display_name": "Mohamed Gamal Rezk",
+            "orcid": "https://orcid.org/0000-0001-9335-0883"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Mohamed Gamal Rezk",
+          "raw_affiliation_strings": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5121709168",
+            "display_name": "Ahmed Farid Ibrahim",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Ahmed Farid Ibrahim",
+          "raw_affiliation_strings": null,
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": {
+        "value": 2000,
+        "currency": "USD",
+        "value_usd": 2000
+      },
+      "apc_paid": {
+        "value": 2000,
+        "currency": "USD",
+        "value_usd": 2000
+      },
+      "fwci": 0,
+      "has_fulltext": false,
+      "cited_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.71950321,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "100567",
+        "last_page": "100567"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11302",
+        "display_name": "CO2 Sequestration and Geologic Interactions",
+        "score": 0.9440514445304871,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2305",
+          "display_name": "Environmental Engineering"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/23",
+          "display_name": "Environmental Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11302",
+          "display_name": "CO2 Sequestration and Geologic Interactions",
+          "score": 0.9440514445304871,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2305",
+            "display_name": "Environmental Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10967",
+          "display_name": "Carbon Dioxide Capture Technologies",
+          "score": 0.013184544630348682,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2210",
+            "display_name": "Mechanical Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10491",
+          "display_name": "Enhanced Oil Recovery Techniques",
+          "score": 0.00692756799980998,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2212",
+            "display_name": "Ocean Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [],
+      "concepts": [],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.ccst.2025.100567",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1016/j.ccst.2025.100567",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4210236580",
+            "display_name": "Carbon Capture Science & Technology",
+            "issn_l": "2772-6568",
+            "issn": [
+              "2772-6568"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by-nc-nd",
+          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Carbon Capture Science &amp; Technology",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1016/j.ccst.2025.100567",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.ccst.2025.100567",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210236580",
+          "display_name": "Carbon Capture Science & Technology",
+          "issn_l": "2772-6568",
+          "issn": [
+            "2772-6568"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Carbon Capture Science &amp; Technology",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "referenced_works_count": 46,
+      "referenced_works": [
+        "https://openalex.org/W2003911848",
+        "https://openalex.org/W2520117624",
+        "https://openalex.org/W3036071226",
+        "https://openalex.org/W4401964694",
+        "https://openalex.org/W4292342656",
+        "https://openalex.org/W4411511450",
+        "https://openalex.org/W2472830357",
+        "https://openalex.org/W2089739396",
+        "https://openalex.org/W2217998095",
+        "https://openalex.org/W2051701785",
+        "https://openalex.org/W4402830957",
+        "https://openalex.org/W3211527018",
+        "https://openalex.org/W2143684375",
+        "https://openalex.org/W2954140438",
+        "https://openalex.org/W3093355082",
+        "https://openalex.org/W3003439432",
+        "https://openalex.org/W2620473850",
+        "https://openalex.org/W4402468156",
+        "https://openalex.org/W4385569000",
+        "https://openalex.org/W2003533313",
+        "https://openalex.org/W2288815924",
+        "https://openalex.org/W2896537395",
+        "https://openalex.org/W4383163870",
+        "https://openalex.org/W4385437397",
+        "https://openalex.org/W4407614782",
+        "https://openalex.org/W3005680375",
+        "https://openalex.org/W2519371594",
+        "https://openalex.org/W2984993467",
+        "https://openalex.org/W4404456102",
+        "https://openalex.org/W2158017230",
+        "https://openalex.org/W3185416849",
+        "https://openalex.org/W1965425993",
+        "https://openalex.org/W2081405217",
+        "https://openalex.org/W2127887153",
+        "https://openalex.org/W1557671565",
+        "https://openalex.org/W4323817464",
+        "https://openalex.org/W2028929133",
+        "https://openalex.org/W310247653",
+        "https://openalex.org/W4229521433",
+        "https://openalex.org/W4408790396",
+        "https://openalex.org/W2105526577",
+        "https://openalex.org/W2023144725",
+        "https://openalex.org/W2180650559",
+        "https://openalex.org/W4406815550",
+        "https://openalex.org/W2052953969",
+        "https://openalex.org/W2290997488"
+      ],
+      "related_works": [],
+      "abstract_inverted_index": null,
+      "counts_by_year": [],
+      "updated_date": "2026-01-01T23:44:55.787143",
+      "created_date": "2026-01-01T00:00:00"
     }
   ]
 }

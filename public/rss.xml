@@ -4,7 +4,7 @@
     <title>Integrative Dashboard - Publications</title>
     <link>https://digitalgeosciences.github.io/dashboard3.2/</link>
     <description>Recent publications from the Integrative Geosciences dashboard.</description>
-    <lastBuildDate>Thu, 01 Jan 2026 20:26:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jan 2026 20:25:17 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>Test FraCSPy</title>
@@ -293,6 +293,15 @@
       <dc:creator>Abdulrahman Al‐Fakih; Ardiansyah Koeshidayatullah; Mukerji T.; SanLinn I. Kaka</dc:creator>
       <dc:publisher>Applied Computing and Geosciences</dc:publisher>
       <description>Authors: Abdulrahman Al‐Fakih; Ardiansyah Koeshidayatullah; Mukerji T.; SanLinn I. Kaka | Venue: Applied Computing and Geosciences | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1016/j.acags.2025.100316 | OpenAlex: https://openalex.org/W7117782240</description>
+    </item>
+    <item>
+      <title>Impact of Uncertainty in Utsira Formation Temperature and Salinity on CO2 Storage: A Field-Scale Reactive Transport Simulation Study</title>
+      <link>https://doi.org/10.1016/j.ccst.2025.100567</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W7117899486</guid>
+      <dc:creator>Mohamed Gamal Rezk; Ahmed Farid Ibrahim</dc:creator>
+      <dc:publisher>Carbon Capture Science &amp; Technology</dc:publisher>
+      <description>Authors: Mohamed Gamal Rezk; Ahmed Farid Ibrahim | Venue: Carbon Capture Science &amp; Technology | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1016/j.ccst.2025.100567 | OpenAlex: https://openalex.org/W7117899486</description>
     </item>
     <item>
       <title>Sedimentological and diagenetic controls on burrow fillings in the upper Jurassic Hanifa formation, central Saudi Arabia: Implications for porosity and pore system variations in bioturbated reservoirs</title>
@@ -881,15 +890,6 @@
       <dc:creator>Aneeq Nasir Janjua; Muhammad Ali; Muhammad Shahzad Kamal; Shirish Patil; Hussein Hoteit; Arshad Raza; Mohamed Mahmoud</dc:creator>
       <dc:publisher>Journal of Energy Storage</dc:publisher>
       <description>Authors: Aneeq Nasir Janjua; Muhammad Ali; Muhammad Shahzad Kamal; Shirish Patil; Hussein Hoteit; Arshad Raza; Mohamed Mahmoud | Venue: Journal of Energy Storage | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1016/j.est.2025.118808 | OpenAlex: https://openalex.org/W4415023307</description>
-    </item>
-    <item>
-      <title>Sustainable hierarchical porous carbon from sugarcane bagasse for high-performance zinc-ion hybrid supercapacitors</title>
-      <link>https://doi.org/10.1016/j.biombioe.2025.108450</link>
-      <pubDate>Thu, 09 Oct 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4415000454</guid>
-      <dc:creator>Nabila Dewi Saidhah; Yuda Prima Hardianto; Abdulmajid A. Mirghni; Ananda Sholeh Rifky Hakim; Syed Shaheen Shah; Ade Siyanti Nurul Hidayah; Abduljamiu O. Amao; Markus Diantoro; Md. Abdul Aziz</dc:creator>
-      <dc:publisher>Biomass and Bioenergy</dc:publisher>
-      <description>Authors: Nabila Dewi Saidhah; Yuda Prima Hardianto; Abdulmajid A. Mirghni; Ananda Sholeh Rifky Hakim; Syed Shaheen Shah; Ade Siyanti Nurul Hidayah; Abduljamiu O. Amao; Markus Diantoro; Md. Abdul Aziz | Venue: Biomass and Bioenergy | Year: 2025 | Citations: 0 | DOI: https://doi.org/10.1016/j.biombioe.2025.108450 | OpenAlex: https://openalex.org/W4415000454</description>
     </item>
   </channel>
 </rss>
